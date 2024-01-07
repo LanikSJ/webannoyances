@@ -24,7 +24,7 @@ Above screenshot taken using uBlock Origin Default Filter Lists
 
 Above screenshot taken using uBlock Origin Default Filter Lists + Web Annoyances Ultralist
 
-Head over to the [demonstration page](https://github.com/yourduskquibbles/webannoyances/wiki/Demonstration-of-Web-Annoyances-Ultralist) for additional visual examples of Web Annoyances Ultralist in action.
+Head over to the [demonstration page](https://github.com/LanikSJ/webannoyances/wiki/Demonstration-of-Web-Annoyances-Ultralist) for additional visual examples of Web Annoyances Ultralist in action.
 
 ## Requirements
 
@@ -69,14 +69,12 @@ After clicking 'OK' the filter list should be installed.
 You can validate the list installed properly by navigating to your uBlock Origin Dashboard and clicking on the [Filter lists](https://user-images.githubusercontent.com/22258847/39937403-1da7b8b8-553f-11e8-865a-73a3f2fa4bb8.PNG) tab. Scroll to the bottom of the screen and verify Web Annoyances Ultralist is showing up in your custom section.
 ![installed](https://user-images.githubusercontent.com/22258847/40389548-42ecaf5e-5e02-11e8-8d16-1d7e08c805b6.PNG)
 
-[Step-by-Step install instructions](https://github.com/yourduskquibbles/webannoyances/wiki/Installation-Instructions#install-method-2---step-by-step-installation) are available in the [wiki](https://github.com/yourduskquibbles/webannoyances/wiki).
+[Step-by-Step install instructions](https://github.com/LanikSJ/webannoyances/wiki/Installation-Instructions#install-method-2---step-by-step-installation) are available in the [wiki](https://github.com/LanikSJ/webannoyances/wiki).
 
-## Discord Server
+## EasyList Forum
 
-Join the yourduskquibbles Discord Server @ [https://discord.me/yourduskquibbles](https://discord.me/yourduskquibbles) for faster reporting of issues and chat.
+Join the EasyList Forum @ [https://forums.lanik.us](https://forums.lanik.us) for faster reporting of issues and chat.
 
 ## Mirror Hosts of Web Annoyances Ultralist
 
-`https://cdn.staticaly.com/gh/yourduskquibbles/webannoyances/master/ultralist.txt`
-
-`https://cdn.jsdelivr.net/gh/yourduskquibbles/webannoyances/ultralist.txt`
+TBD

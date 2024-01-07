@@ -1,10 +1,10 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Last Modified: 12:17 2024-01-05
+! Last Modified: 07:19 2024-01-07
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
-! Homepage: https://github.com/yourduskquibbles/webannoyances
-! Discord: https://discord.me/yourduskquibbles
-! Issues: https://github.com/yourduskquibbles/webannoyances/issues
+! Homepage: https://github.com/LanikSJ/webannoyances
+! Discord: https://discord.me/LanikSJ
+! Issues: https://github.com/LanikSJ/webannoyances/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 ! Copyright: © 2016-2024 by yourduskquibbles & LanikSJ
 ! Works Best With: uBlock Origin or AdGuard

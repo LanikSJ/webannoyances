@@ -1,12 +1,12 @@
 ! Title: Web Annoyances Ultralist - AdGuard iOS App Exclusion Filters
-! Last Modified: 12:46 2022-01-11
+! Last Modified: 07:19 2024-01-07
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for AdGuard iOS App Exclusion Filters. This list is used to fix page display issues caused by CSS Style & Companion filters not working properly with Safari using AdGuard iOS App.
-! Homepage: https://github.com/yourduskquibbles/webannoyances
-! Discord: https://discord.me/yourduskquibbles
-! Issues: https://github.com/yourduskquibbles/webannoyances/issues
+! Homepage: https://github.com/LanikSJ/webannoyances
+! Discord: https://discord.me/LanikSJ
+! Issues: https://github.com/LanikSJ/webannoyances/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
-! Copyright: © 2016-2022 by yourduskquibbles
+! Copyright: © 2016-2022 by yourduskquibbles and LanikSJ
 ! Works Best With: uBlock Origin or AdGuard
 
 ! Start Web Annoyances Ultralist - AdGuard iOS App Exclusion Filters

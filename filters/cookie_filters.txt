@@ -1,12 +1,12 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
-! Last Modified: 10:53 2022-09-19
+! Last Modified: 07:19 2024-01-07
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
-! Homepage: https://github.com/yourduskquibbles/webannoyances
-! Discord: https://discord.me/yourduskquibbles
-! Issues: https://github.com/yourduskquibbles/webannoyances/issues
+! Homepage: https://github.com/LanikSJ/webannoyances
+! Discord: https://discord.me/LanikSJ
+! Issues: https://github.com/LanikSJ/webannoyances/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
-! Copyright: © 2016-2022 by yourduskquibbles
+! Copyright: © 2016-2022 by yourduskquibbles and LanikSJ
 ! Works Best With: uBlock Origin or AdGuard
 
 ! Start Web Annoyances Ultralist - Cookie Filters
