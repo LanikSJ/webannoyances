@@ -1,5 +1,7 @@
 {
-	"folders": [
+"title": "Web annoyances",
+"desctiption": "Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.",
+"folders": [
 		{
 			"path": ".."
 		}
