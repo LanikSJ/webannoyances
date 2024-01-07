@@ -1,5 +1,7 @@
 {
-	"folders": [
+"title": "Web Annoyances Ultralist - unsuck the web!",
+"description": "Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.",
+"folders": [
 		{
 			"path": ".."
 		}
