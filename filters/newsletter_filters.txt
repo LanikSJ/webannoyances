@@ -1,9 +1,9 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Last Modified: 07:19 2024-01-07
+! Last Modified: 04:40 2024-01-11
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
-! Discord: https://discord.me/LanikSJ
+! Forum: https://forums.lanik.us
 ! Issues: https://github.com/LanikSJ/webannoyances/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 ! Copyright: © 2016-2022 by yourduskquibbles and LanikSJ
