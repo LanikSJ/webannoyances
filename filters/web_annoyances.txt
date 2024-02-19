@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist Main
 ! Last Modified: 04:40 2024-01-11
 ! Expires: 2 Days (Update Frequency)
-! Description: Block annoying web elements and reclaim lost screen real estate. 
+! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
 ! Forum: https://forums.lanik.us
 ! Issues: https://github.com/LanikSJ/webannoyances/issues
