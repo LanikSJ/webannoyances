@@ -835,6 +835,8 @@ okayplayer.com##.page-meta-links-container
 omgchrome.com##.global-navigation
 openelec.tv###ca_banner
 openstreetmap.org##.welcome
+op.gg##.e7rzrzf0.css-5jq45l
+op.gg##.sns
 oracle.com##.cw51v0.cw51
 origins.com##.sticky-chat
 orlandoweekly.com###FooterboardMobile
