@@ -747,8 +747,6 @@ motorsport.com###footer
 motorsport.com###motorsport_insider_form
 motorsport.com###privacy_accept
 motorsport.com##.eJoinPrimeLogo
-moviehustle.com##.jaw-fixed-clone.jaw-fixed-bar-clone
-moviepilot.com##.supplication.for-small-devices
 mozilla.net###related_topics
 mspoweruser.com##.shunno-is-visible.shunno-top
 mtv.com###balaMainContainer
@@ -1337,12 +1335,6 @@ zdnet.com##.siu-vertical-cont.focus-highlight
 zdnet.com##.taboola-right-rail
 zendev.com###st-1
 zoho.com##.product-header-top
-zstreamz.xyz###ao
-zstreamz.xyz###headerToggle
-zstreamz.xyz##.col-sm-4 > .item > header
-zstreamz.xyz##.col-sm-8 > .item > header:nth-of-type(1)
-zstreamz.xyz##.lorna
-zstreamz.xyz##header:nth-of-type(2)
 zwaveproducts.com###livechat-compact-container
 ||4dsply.com$script,domain=realclearpolitics.com
 ||adage.com/article$inline-script,first-party
@@ -1358,7 +1350,7 @@ zwaveproducts.com###livechat-compact-container
 ||californiatimes.com/meter/$script,domain=latimes.com
 ||californiatimes.com^*/Bootstrap.js$script,domain=latimes.com
 ||chicagobusiness.com/*/interstitial.css$stylesheet,domain=chicagobusiness.com
-||clikueo.com
+||clikueo.com^
 ||cloudflare.com/*/jquery.fancybox$script,stylesheet,domain=hrw.org
 ||cloudfront.net/*/js/bundle.js$script,domain=fastcodesign.com
 ||cnn.com/*/js/cnn-analytics.min.js$script,domain=cnn.com
@@ -1372,8 +1364,8 @@ zwaveproducts.com###livechat-compact-container
 ||genius.com$domain=washingtonpost.com
 ||guns.com/*$inline-script,domain=guns.com
 ||hellobar.com^$third-party,script,important
-||leadpages.co$third-party
-||leadpages.net$script
+||leadpages.co^$third-party
+||leadpages.net^$script
 ||lightboxcdn.com^$domain=dailycaller.com|townhall.com|wnyt.com
 ||maxtraffic.com$script
 ||meshgrid.xyz/*/roomenterad_bg.png$image
@@ -1381,14 +1373,14 @@ zwaveproducts.com###livechat-compact-container
 ||myfinance.com/*/myFinance.js$script,domain=cnn.com
 ||onecount.net$script,domain=foreignpolicy.com
 ||onesignal.com^$third-party
-||optinmonster.com$script
-||optnmnstr.com
+||optinmonster.com^$script,3p
+||optnmnstr.com^
 ||pagely.netdna-cdn.com^$script,domain=guns.com
 ||realclearpolitics.com/*/ad_slots.jsonp$script,first-party
 ||realclearpolitics.com/*/instart.js$script,first-party
 ||sitelabweb.com$domain=nasdaq.com,important
-||sumome.com
-||trellian.com
+||sumome.com^
+||trellian.com^
 ||turner.com/*/AdManager.js$script,domain=cnn.com
 ||turner.com/*/adfuel-1.1.0.js$script,domain=cnn.com
 ||turner.com/*/cnn_money-ais.js$script,domain=cnn.com
