@@ -25,7 +25,6 @@
 ###box-gdpr
 ###cadre_alert_cookies
 ###catapult-cookie-bar
-###cookie
 ###cookie-acceptance
 ###cookie-banner
 ###cookie-bar
@@ -92,7 +91,6 @@
 ###cookienotif
 ###cookiepolicy
 ###cookiepopup
-###cookies
 ###cookies-bar
 ###cookies-policy
 ###cookies-policy-confirm
@@ -139,7 +137,6 @@
 ###uecookies
 ###uhfCookieAlert
 ###v-cookielaw
-##.Cookie
 ##.CookieBar
 ##.CookieMessage
 ##.CookieNotificationTopBar
@@ -267,13 +264,10 @@
 ##.visible.cookie-notice-wrap
 ##.welcome-cookie
 ##.wordpress-gdpr-popup
-/cookieconsent
 /wrapperMessagingWithoutDetection.js$script,domain=the-sun.com|thescottishsun.co.uk|thesun.co.uk|thesun.ie
 1worldonline.com##.js-cookies-popup
 7news.com.au##.ToastNotification.cookie-consent--normal
 8kun.top##div>i>.disclaimer-8kun
-@@/cookieconsent$domain=shopee.pl
-@@||cookieconsentspeed.run^$1p
 @@||erolnik.gov.pl/content/scripts/cookieconsent.min.js$script,1p
 @@||geolocation.onetrust.com/cookieconsentpub/$script
 @@||lightningmaps.org^*/cookieconsent.$script,stylesheet
