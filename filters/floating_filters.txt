@@ -7859,6 +7859,7 @@ statoil.com##.search-btn-wrapper:style(position: relative !important; top: 0 !im
 stats.com##.is-fixed.nav:style(position: absolute !important;)
 status.slack.com###nav_bar_section:style(position: absolute !important;)
 steamcommunity.com##.responsive_header:style(position: absolute !important;)
+steamid.uk##.fixnavbar:style(position: absolute !important;)
 steamplay.*,streamp1ay.*,streamplay.*,streanplay.*##.jw-reset.jw-hide.jw-logo-top-right.jw-logo, [src="/favicon-32x32.png"]
 steamykitchen.com##.slicknav_menu:style(position: absolute !important;)
 steem.io##.cd-auto-hide-header:style(position: absolute !important;)
@@ -7903,7 +7904,6 @@ stratfor.com##.fadeout:style(max-height: unset !important;)
 stratfor.com##.reactiveNav, .ada-chat-button:style(position: absolute !important;)
 streamcatcher.de##.header.navbar-fixed-top.container-fluid:style(position: absolute !important; top: 0 !important;)
 streameast.*###SagDuzen, #Sidebar, .fixed.nav-wrapper, div.container-fluide:nth-of-type(1):style(position: absolute !important;)
-streamingonline.desi###main-navigation:style(position: relative !important; top: 0 !important;)
 streamingsites.com##.sticky-bar.top-bar
 streamja.com##.forSale:style(position: absolute !important;)
 streamja.com##.middle:style(margin-top: 50px !important;)
