@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
-! Last Modified: 04:40 2024-01-11
+! Last Modified: 04:40 2024-04-17
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
