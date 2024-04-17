@@ -3823,10 +3823,9 @@ giftcardgranny.com##.navbar-fixed #nav-main .show-when-fixed-desktop, .navbar-fi
 giftcardzen.com##.header-v6.header-sticky.header-classic-white:style(position: relative !important; top: 0 !important;)
 giftcardzen.com##.wrapper.rmn-alert:style(margin-top: 0 !important;)
 gimp.org###navstrip:style(position: absolute !important;)
-giphy.com##._2DQ6bb_5EegbjC94MyCFMc:style(position: absolute !important; top: 0 !important;)
-giphy.com##._2Rc-VsTD7nShOnDBP0nZ3T:style(height: 50px !important; padding: 0 !important;)
-giphy.com##div[class^="header__Container"] a[itemprop="url"]:style(transform: translateZ(0) !important;)
-giphy.com##div[id^="searchbar"]:style(width: 1040px !important;)
+giphy.com##.cDCMCo:style(position: relative !important; top: 0 !important;)
+giphy.com##.dHntWi:style(position: absolute !important; top: unset !important; transform: none !important; transition: none !important;)
+giphy.com##.ena-DiU:style(width: unset !important; padding-bottom: 0 !important;)
 girlscangrill.com##.fusion-header-sticky-height
 git.news###product-hunt-gitnews, .uv-bottom-right.uv-icon:style(position: absolute !important;)
 git.news##.language-filters__content:style(position: relative !important;)
