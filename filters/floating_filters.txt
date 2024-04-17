@@ -823,7 +823,7 @@ askthebuilder.com###search:style(position: relative !important;)
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###overlay-header, .create-team-tooltip, .js-notice-sidebar-popover
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-sticky-leftnav.left-sidebar--sticky-container:style(position: relative !important; top: 0 !important;)
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-top-bar.l0.t0.ps-fixed.s-topbar, .top-bar:style(position: absolute !important;)
-asmtutor.com##.navbar-fixed-top:style(position: absolute !important;)
+asmtutor.com,backpack.tf,backpacktf.com##.navbar-fixed-top:style(position: absolute !important;)
 asp-usa.com,crankbrothers.com###shopify-section-header:style(position: absolute !important;)
 assemblymag.com,giga.de,mybookie.ag,thepostmillennial.com##.main-header:style(position: relative !important;)
 assetbuilder.com###navigationContainer:style(position: relative !important;)
