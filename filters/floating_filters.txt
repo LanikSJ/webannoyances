@@ -3067,6 +3067,7 @@ epicgames.com##[data-component="PrimaryNavigation"]:style(position: static !impo
 epicureaneva.com###main-header:style(position: absolute !important; box-shadow: 0 1px 0 rgba(0,0,0,.1) !important;)
 epicureaneva.com###top-header
 epicureaneva.com##.et_header_style_centered #main-header .logo_container:style(height: 153px !important;)
+eporner.com###top2:style(position: absolute !important;)
 epremki.com##.shrink.header:style(position: absolute !important;)
 equifax.com##.affix.sticky-nav:style(position: relative !important;)
 erahm.org,krypted.com###sidebar:style(position: absolute !important; top: 0 !important; bottom: unset !important;)
