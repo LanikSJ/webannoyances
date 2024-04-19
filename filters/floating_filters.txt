@@ -1391,6 +1391,7 @@ blogtalkradio.com,stereogum.com##.navbar:style(position: static !important;)
 bloodhorse.com##.site-head:style(position: absolute !important;)
 bloody-disgusting.com###mvp-top-head-wrap:style(position: absolute !important; box-shadow: none !important;)
 bloody-disgusting.com##.mvp-fixed-next:style(margin-top: 0 !important;)
+bloomberg.com##.rightRail_stickyBox__YKd0N:style(position: relative !important; top: 0 !important;)
 bloomberg.com##.styles_nav__opAZV:style(position: relative !important; transition: none !important; top: 0 !important;)
 bloomberglaw.com##[class*="TheArticle_clotheslineWrapper"]:style(position: static !important; opacity: 1 !important; width: 100% !important;)
 bloomberglaw.com##[class*="TheArticle_placeholder"]
