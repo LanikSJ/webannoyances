@@ -4121,6 +4121,7 @@ hellosign.com##.sticky-nav-wrapper
 help.dropbox.com##.help-home.u01-v2-help-header__header:style(position: absolute !important;)
 help.github.com##.article-grid-toc-content:style(position: static !important;)
 help.pandora.com###bot-root
+help.steampowered.com##._19tG9inhMAZq_51s-qI90w:style(position: absolute !important; top: 0 !important;)
 help.twitter.com##.c0-nav:style(position: relative !important; top: 0 !important;)
 helpx.adobe.com###adbmsgCta:style(position: absolute !important;)
 helpx.adobe.com###feedbackPod:style(position: absolute !important; bottom: auto !important;)
