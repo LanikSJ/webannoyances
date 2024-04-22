@@ -226,6 +226,7 @@ ably.io##.c-header__logo:style(transform: translateZ(0) scale(1) !important;)
 ably.io##.o-bar--primary:style(height: 70px !important;)
 aboluowang.com###asidecol:style(position: static !important;)
 about.com###mast-fixed.p-bg.mast-fixed.mast, #mast-fixed, .p-bg.mast-fixed.mast, .post-lock.leaderboard.gpt:style(position: relative !important; top: 0 !important;)
+about.fandom.com,adssettings.google.com,airbnb.design,ambotv.com,azarus.io,blog.bitbucket.org,bizfluent.com,blueorigin.com,brainpickings.org,brightsurf.com,btcwires.com,cedarfair.com,chicagobusiness.com,citizensaccess.com,community.microfocus.com,couponcabin.com,coupons.cnn.com,crainscleveland.com,crainsdetroit.com,crainsnewyork.com,dippindots.com,disneyplus.com,dropboxforum.com,ehow.co.uk,embracepetinsurance.com,exabeam.com,extrahop.com,fangraphs.com,fedex.com,flopstarter.com,foreignpolicy.com,gamedev.net,goodrx.com,hedgehogreview.com,html5canvastutorials.com,i24news.tv,in.mashable.com,instructure.com,ipaddress.com,islamicfinder.org,jimmyjohns.com,kat.am,katcr.to,kickasstorrent.*,kickasstorrents.*,libp2p.io,mcmansionhell.com,meds.se,microchip.com,milorganite.com,modernistcuisine.com,nation.foxnews.com,newlinesmag.com,news18.com,pocketsense.com,pimeyes.com,rhodecode.com,sendspace.com,usw.org,wendys.com##header:style(position: absolute !important;)
 about.fb.com###masthead:style(position: relative !important; background: transparent !important; border: none !important; animation: none !important;)
 about.fb.com##.uk-sticky-placeholder
 about.gitlab.com###main-nav, .navbar:style(position: relative !important;)
@@ -317,7 +318,6 @@ adobe.com###j-compact-header, #j-header-wrap, #title-bar, .userguide-outer-nav-c
 adp.com##.clearfix.top-nav.adp-nav-background:style(position: relative !important; top: 0 !important;)
 ads.twitter.com,developer.twitter.com,dmagazine.com,globalcitizen.org,lotuffleather.com,peoplefinders.com,quantamagazine.org,trendings.net##.nav:style(position: absolute !important;)
 adsack.com###main-nav-container:style(position: relative !important;)
-adssettings.google.com,airbnb.design,ambotv.com,azarus.io,blog.bitbucket.org,bizfluent.com,blueorigin.com,brainpickings.org,brightsurf.com,btcwires.com,cedarfair.com,chicagobusiness.com,citizensaccess.com,community.microfocus.com,couponcabin.com,coupons.cnn.com,crainscleveland.com,crainsdetroit.com,crainsnewyork.com,dippindots.com,disneyplus.com,dropboxforum.com,ehow.co.uk,embracepetinsurance.com,exabeam.com,extrahop.com,fangraphs.com,fedex.com,flopstarter.com,foreignpolicy.com,gamedev.net,goodrx.com,hedgehogreview.com,html5canvastutorials.com,i24news.tv,in.mashable.com,instructure.com,ipaddress.com,islamicfinder.org,jimmyjohns.com,kat.am,katcr.to,kickasstorrent.*,kickasstorrents.*,libp2p.io,mcmansionhell.com,meds.se,microchip.com,milorganite.com,modernistcuisine.com,nation.foxnews.com,newlinesmag.com,news18.com,pocketsense.com,pimeyes.com,rhodecode.com,sendspace.com,solarmoviez.ru,thepiratebay-proxylist.se,usw.org,wendys.com##header:style(position: absolute !important;)
 adssettings.google.com,contributor.google.com###yDmH0d:style(overflow-x: auto !important; overflow-y: scroll !important; padding-right: 0 !important;)
 adssettings.google.com,contributor.google.com##c-wiz:style(overflow: unset !important;)
 advancedcustomfields.com###header:style(opacity: 1 !important; position: absolute !important; background: none !important; color: white !important; box-shadow: none !important;)
@@ -3244,10 +3244,10 @@ familycircle.com##.component.navigation-test.sticky-nav .main-new:style(position
 familycircle.com##.scroll-up .component.navigation-test .logo:style(display: block !important;)
 famous-smoke.com###launcher, #support-pill:style(position: absolute !important;)
 famous-smoke.com###ordersummary:style(position: absolute !important; top: 75px !important;)
-fandom.com###WikiaAdInContentPlaceHolder, .global-navigation-mobile-wrapper.is-f2, .is-sticky.in-area-left.trending-topics, .is-sticky.in-area-right.quick-links:style(position: static !important;)
-fandom.com###globalNavigation, #WikiaBarWrapper, .wds-global-navigation-wrapper:style(position: relative !important;)
-fandom.com##.WikiaSiteWrapper:style(margin-top: 0 !important;)
-fandom.com##.community-background, .wds-global-navigation:style(position: absolute !important;)
+fandom.com##.global-navigation, .global-navigation__bottom:style(position: absolute !important;)
+fandom.com##.is-visible.fandom-sticky-header
+fandom.com##.page-side-tools:style(position: relative !important; top: 0 !important;)
+fandom.com##.sticky-modules-wrapper:style(position: relative !important; top: 0 !important;)
 fandomwire.com###responsive-menu-button:style(position: absolute !important;)
 fandomwire.com##.td-affix .header-search-wrap .td-icon-search, .td-header-wrap .td-affix .sf-menu > li > a:style(line-height: 50px !important;)
 fandomwire.com,grownmenstuff.com##.td-affix .td-logo-sticky
@@ -3839,7 +3839,7 @@ github.com##.vcard-names-container:style(position: static !important; top: unset
 github.io###menu, .fixedHeaderContainer, .menu-btn, .text-white.bg-dark.fixed-top.navbar-dark.navbar-expand-md.navbar:style(position: absolute !important;)
 github.io##.site-header, header:style(position: relative !important;)
 github.io##.sticky.sidebar:style(position: static !important;)
-github.io,ipaddress.com,kerbalspaceprogram.com,law360.com,mapzen.com,mdpi.com,mobilityware.com,outerbanks.com,planeplottermobile.com,pokeassistant.com,recorder.com,robinhood.com,statepress.com,stereogum.com,stream-online-hd.xyz,tdhopper.com,thedatatrust.com,thehackerblog.com,wd.com,wionews.com,wireguard.com##.navbar-fixed-top.navbar-default.navbar:style(position: relative !important; top: 0 !important;)
+github.io,ipaddress.com,kerbalspaceprogram.com,law360.com,mapzen.com,mdpi.com,mobilityware.com,outerbanks.com,planeplottermobile.com,pokeassistant.com,recorder.com,robinhood.com,statepress.com,stereogum.com,tdhopper.com,thedatatrust.com,thehackerblog.com,wd.com,wionews.com,wireguard.com##.navbar-fixed-top.navbar-default.navbar:style(position: relative !important; top: 0 !important;)
 githubstatus.com##.custom-header-container, .header:style(position: relative !important;)
 gitlab.com##.active.js-sticky-banner.sticky-banner, .issue-sticky-header
 gitlab.com##.diff-file .file-title, .diff-file .file-title-flex-parent, .file-title, .flash-container.sticky, .merge-request-tabs-holder, .mr-version-controls:style(position: static !important;)
@@ -4454,7 +4454,7 @@ ilovefreesoftware.com##.sticky.has-logo.cf.navigation:style(position: absolute !
 imageglass.org##.blog-post-new:style(position: absolute !important;)
 imausa.com##.scrolled.scroll_header_top_area.fixed.page_header:style(position: relative !important; top: 0 !important;)
 imbibemagazine.com##.sticky.main-menu-fixed:style(position: relative !important; top: 0 !important;)
-imdb.com##.pinned-top.sticky-widget.aux-content-widget-2:style(position: absolute !important;)
+imdb.com##[data-testid="sidebar-sticky-block"]:style(position: relative !important;)
 imgur.com##.App-cover:style(position: absolute !important; top: 0 !important;)
 imgur.com##.CoverChangeGallery:style(bottom: -29px !important;)
 imgur.com##.CoverPostMeta, .Footer.Footer-slim.Footer-measure, .Footer-measure, .PostTitleHeader, .UploadPost-postTitleSticked
