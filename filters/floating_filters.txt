@@ -3832,6 +3832,8 @@ github.com##.js-user-profile-sticky-fields.js-sticky.py-3.vcard-names-container:
 github.com##.notifications-v2:style(position: static !important; width: unset !important;)
 github.com##.pr-review-tools:style(margin-top: -4px !important;)
 github.com##.previewable-comment-form textarea:not([id="issue_body"]):style(max-height: 315px !important;)
+github.com##.react-blob-sticky-header
+github.com##.react-blob-view-header-sticky:style(position: relative !important;)
 github.com##.user-profile-nav:style(position: relative !important;)
 github.com##.vcard-names-container.is-stuck .vcard-names:style(opacity: 1 !important;)
 github.com##.vcard-names-container.is-stuck:style(pointer-events: none !important;)
