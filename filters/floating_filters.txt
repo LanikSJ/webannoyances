@@ -152,7 +152,7 @@
 99bitcoins.com,athabascaadvocate.com,barrheadleader.com,bonnyvillenouvelle.ca,conatusnews.com,hardwaresfera.com,innisfailprovince.ca,laclabichepost.com,mountainviewgazette.ca,oldsalbertan.ca,rmoutlook.com,rockyviewweekly.com,spjournal.com,stalbertgazette.com,washingtonexec.com,westernwheel.com,westlocknews.com##.sticky-nav.cf.navigation-wrap:style(position: absolute !important;)
 9gag.com###jsid-sticky-button, .badge-toolbar-pre.fixed-wrap-post-bar, .post-afterbar-a.in-post-bot.full-width
 9gag.com###sidebar-content:style(position: relative !important;)
-9gag.com###top-nav:style(position: absolute !important;)
+9gag.com,binghamton.edu###top-nav:style(position: absolute !important;)
 9news.com.au##.eLyHDS.LogoNav__NetworkNavLogosWrapper-sc-19zkpff-1.LogoNav__LogosWrapper-sc-19zkpff-0, .site-header.module, .sticky-mobile-banner
 9news.com.au##.flexbox .layout--sticky .layout__utility__sticky:style(position: static !important;)
 9news.com.au##.header-module__inner:style(position: relative !important; top: 0 !important; transform: none !important;)
@@ -1126,7 +1126,7 @@ beervanablog.com##.Mobile-bar--bottom.Mobile-bar
 behance.net##.Project-floatingAvatar-3qY:style(display: block !important; animation: none !important;)
 behance.net##.Project-userActions-1aq:style(position: absolute !important; top: 0 !important; opacity: 1 !important;)
 behance.net##.rf-primary-nav, .Project-stickyAppreciateContainer-neq:style(position: absolute !important;)
-behavioralscientist.org,colorlib.com,githubsatellite.com,jacobinmag.com,konmari.com,leafshave.com,liquidweb.com,mdsec.co.uk,neteller.com,newframe.com,pentestpartners.com,portlandmercury.com,scienceabc.com,sinceparkland.org,thisamericanlife.org,wnd.com###site-header:style(position: absolute !important;)
+behavioralscientist.org,binghamton.edu,colorlib.com,githubsatellite.com,jacobinmag.com,konmari.com,leafshave.com,liquidweb.com,mdsec.co.uk,neteller.com,newframe.com,pentestpartners.com,portlandmercury.com,scienceabc.com,sinceparkland.org,thisamericanlife.org,wnd.com###site-header:style(position: absolute !important;)
 behindthename.com##.menubar-wrapper:style(position: absolute !important;)
 belfasttelegraph.co.uk##.c-persistent1
 belitsoft.com,cellularinsights.com,checkout51.com,cookinglight.com,denuvo.com,edri.org,everipedia.org,huronconsultinggroup.com,leisurepro.com,livelingua.com,mediaite.com,mypaysimple.com,nordbayern.de,offers.com,openload.watch,propublica.org,putlocker.to,skip.it,stream.org,unubo.com,victoryjournal.com,virginia.gov,watchserieshd.*,wipersoft.com##header:style(position: relative !important; top: 0 !important;)
