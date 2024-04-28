@@ -3695,11 +3695,10 @@ gallup.com###ctl00_HeaderNavigation_Navbar:style(position: relative !important; 
 gallup.com##.navbar-sticky-placeholder
 galoremag.com###deskNav:style(position: absolute !important;)
 game-debate.com###topBar:style(position: absolute !important;)
-gameinfo.io###iv-link:style(position: absolute !important;)
+gamebanana.com###PrimaryNav:style(position: relative !important;)
 gameinformer.com,thejournal.ie##.top-bar:style(position: absolute !important;)
 gamerevolution.com###js-site-navigation:style(position: relative !important; top: 0 !important;)
 gamerevolution.com##.pb-sticked.inner-col-right:style(position: static !important;)
-gamersify.com###bk-single-sidebar, .fixed.main-nav:style(position: absolute !important;)
 gamespace.com###gp-fixed-header-padding
 gamespace.com###gp-main-header:style(position: static !important;)
 gamesradar.com##.jwplayer:style(position: relative !important; height: 339px !important; width: unset !important; left: unset !important;)
