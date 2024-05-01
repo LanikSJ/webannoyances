@@ -7853,7 +7853,10 @@ statoil.com##.search-btn-wrapper:style(position: relative !important; top: 0 !im
 stats.com##.is-fixed.nav:style(position: absolute !important;)
 status.slack.com###nav_bar_section:style(position: absolute !important;)
 steamcollector.com##.app-navbar:style(position: absolute !important;)
+steamcommunity.com##.FixedElementOnScrollWrapper_padding
+steamcommunity.com##.responsive_OnClickDismissMenu:style(position: absolute !important; top: unset !important;)
 steamcommunity.com##.responsive_header:style(position: absolute !important;)
+steamcommunity.com##.workshopItemControlsCtn:style(position: relative !important;)
 steamid.uk##.fixnavbar:style(position: absolute !important;)
 steamplay.*,streamp1ay.*,streamplay.*,streanplay.*##.jw-reset.jw-hide.jw-logo-top-right.jw-logo, [src="/favicon-32x32.png"]
 steamykitchen.com##.slicknav_menu:style(position: absolute !important;)
