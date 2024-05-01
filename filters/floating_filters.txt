@@ -3060,6 +3060,8 @@ epremki.com##.shrink.header:style(position: absolute !important;)
 equifax.com##.affix.sticky-nav:style(position: relative !important;)
 erahm.org,krypted.com###sidebar:style(position: absolute !important; top: 0 !important; bottom: unset !important;)
 ergotron.com###chat
+erothots.co##.c-head:style(position: relative !important;)
+erothots.co##.menu:style(position: relative !important;)
 escapistmagazine.com###mnmd-sticky-header
 esnaexpo.com##.sticky:style(position: relative !important; top: 0 !important;)
 eso.org,spacetelescope.org###content:style(margin-top: 0 !important;)
@@ -7847,6 +7849,7 @@ statoil.com###navigation-fixed_language, #navigation-fixed_search
 statoil.com##.search-btn-wrapper:style(position: relative !important; top: 0 !important;)
 stats.com##.is-fixed.nav:style(position: absolute !important;)
 status.slack.com###nav_bar_section:style(position: absolute !important;)
+steamcollector.com##.app-navbar:style(position: absolute !important;)
 steamcommunity.com##.responsive_header:style(position: absolute !important;)
 steamid.uk##.fixnavbar:style(position: absolute !important;)
 steamplay.*,streamp1ay.*,streamplay.*,streanplay.*##.jw-reset.jw-hide.jw-logo-top-right.jw-logo, [src="/favicon-32x32.png"]
@@ -8990,6 +8993,8 @@ uber.com##.dotcom-header:style(position: relative !important;)
 ubports.com###graph_header_affix
 ubreakifix.com##.cd-auto-hide-header:style(position: absolute !important; transform: translateY(0) !important;)
 ubuntu.com##.u-no-print.js-feedback-button.p-feedback__button.p-button:style(position: absolute !important;)
+ugcleague.com###topNav:style(position: absolute !important; height: 81px !important;)
+ugcleague.com##.navbar-collapse:style(margin-top: 16px !important;)
 ui.com##.comGlobalHeader:style(position: absolute !important;)
 ukdefencejournal.org.uk##.td-affix.td-header-main-menu.td-header-border.td-header-row:style(position: static !important;)
 ul.com##.header-toolbar:style(position: relative !important; top: 0 !important;)
