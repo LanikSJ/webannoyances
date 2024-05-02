@@ -866,7 +866,7 @@ audacy.com##.latest-top-recirc-slider__slider-container.reset-slider-top-nav:sty
 audacy.com##.radiocom-nav:style(position: absolute !important;)
 audible.com###navigation-top-wrapper:style(position: absolute !important;)
 augusta.com##.navbar-fixed-top.navbar-default.navbar, .navbar-header:style(position: relative !important; top: 0 !important;)
-aura.app,bitport.io,boardofwisdom.com,buffalonews.com,dailycaller.com,data.swiftkey.com,deepcapture.com,democracynow.org,discord.me,discounttire.com,eonline.com,honda.com,irehouse.com,irishexaminer.com,marketwatch.com,mic.com,nypost.com,prmdeal.com,saksfifthavenue.com,simpleflying.com,support.google.com,teamblind.com,themarysue.com,whio.com,withgoogle.com##header:style(position: relative !important;)
+aura.app,bitport.io,boardofwisdom.com,buffalonews.com,dailycaller.com,data.swiftkey.com,deepcapture.com,democracynow.org,discord.me,discounttire.com,eonline.com,gladiator.tf,honda.com,irehouse.com,irishexaminer.com,marketwatch.com,mic.com,nypost.com,prmdeal.com,saksfifthavenue.com,simpleflying.com,support.google.com,teamblind.com,themarysue.com,whio.com,withgoogle.com##header:style(position: relative !important;)
 auslogics.com###js-top
 auslogics.com###widget-area:style(margin-top: 0 !important;)
 austinchronicle.com##.logo-nav-slide:style(position: absolute !important;)
