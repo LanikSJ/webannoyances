@@ -7854,7 +7854,7 @@ stats.com##.is-fixed.nav:style(position: absolute !important;)
 status.slack.com###nav_bar_section:style(position: absolute !important;)
 steamcollector.com##.app-navbar:style(position: absolute !important;)
 steamcommunity.com##.FixedElementOnScrollWrapper_padding
-steamcommunity.com##.responsive_OnClickDismissMenu:style(position: absolute !important; top: unset !important;)
+steamcommunity.com##.responsive_OnClickDismissMenu:style(position: relative !important; top: unset !important;)
 steamcommunity.com##.responsive_header:style(position: absolute !important;)
 steamcommunity.com##.workshopItemControlsCtn:style(position: relative !important;)
 steamid.uk##.fixnavbar:style(position: absolute !important;)
