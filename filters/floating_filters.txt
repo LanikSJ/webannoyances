@@ -3818,7 +3818,6 @@ github.com###js-contribution-activity .js-profile-timeline-year-list, #js-contri
 github.com###readme > div.js-position-sticky, .is-stuck.js-position-sticky.js-sticky.pr-toolbar, .js-sticky.js-sticky-offset-scroll.top-0.gh-header-sticky.is-stuck, .pagehead, .position-sticky.mt-4, .rgh-sticky-sidebar.discussion-sidebar:style(position: static !important;)
 github.com###year-list-container .js-profile-timeline-year-list, #year-list-container .profile-timeline-year-list:style(position: static !important; top: 74px !important; width: auto !important;)
 github.com##.diffbar .diffstat:style(display: block !important;)
-github.com##.diffbar:style(height: 20px !important; padding-bottom: 20px !important; padding-top: 20px !important;)
 github.com##.file-header.file-header--expandable.js-file-header.sticky-file-header.js-position-sticky.is-placeholder:style(display: block !important; height: 0 !important;)
 github.com##.gh-header .gh-header-shadow.box-shadow, .gh-header .gh-header-sticky.is-stuck + .gh-header-shadow, .gh-header .sticky-content, .is-placeholder, .is-stuck + .toolbar-shadow, .is-stuck .diffbar .show-if-stuck, .is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky, .js-sticky.js-sticky-offset-scroll, .pr-toolbar-shadow, .toolbar-shadow, .user-profile-sticky-bar
 github.com##.is-stuck.js-sticky.site-subnav-sticky.bg-white.site-subnav, .js-sticky.site-subnav-sticky.bg-white.site-subnav:style(position: relative !important; top: 0 !important; left: unset !important; width: unset !important;)
