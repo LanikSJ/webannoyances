@@ -1340,7 +1340,7 @@ blindmanspuff.com##.logo-only-when-stuck .logo-main-menu:style(opacity: 0 !impor
 blindmanspuff.com##.sidebar-wrap.clearfix.block:style(position: relative !important; transform: none !important;)
 blockchain.com##.Header__GlobalNav-ra9ecu-0:style(position: absolute !important; top: 0 !important; transform: none !important;)
 blockchain.com##.scrolling:style(position: absolute !important;)
-blockchain.info,data.swiftkey.com,grow.com,html-tidy.org,impossiblefoods.com,nitter.13ad.de,nitter.42l.fr,academy.moz.com,nitter.drycat.fr,nitter.lelux.fi,nitter.net,nitter.nixnet.xyz,nitter.pro,nitter.snopyta.org,rgagnon.com,starttls-everywhere.org,teamtreehouse.com,urbanairship.com,userchrome.org,victoriassecret.com##nav:style(position: absolute !important;)
+blockchain.info,data.swiftkey.com,discordservers.com,grow.com,html-tidy.org,impossiblefoods.com,nitter.13ad.de,nitter.42l.fr,academy.moz.com,nitter.drycat.fr,nitter.lelux.fi,nitter.net,nitter.nixnet.xyz,nitter.pro,nitter.snopyta.org,rgagnon.com,starttls-everywhere.org,teamtreehouse.com,urbanairship.com,userchrome.org,victoriassecret.com##nav:style(position: absolute !important;)
 blockchainmind.com,leaderpost.com,thestarphoenix.com,thewalrus.ca##.masthead:style(position: absolute !important;)
 blockshopper.com###main .header .navbar-toggle:style(position: absolute !important;)
 blockshopper.com##.breadcrumb:style(margin-top: 0 !important;)
@@ -2689,7 +2689,8 @@ directvnow.com###navigationPanelId, .nav, flow-progress-bar:style(position: abso
 disabilitysecrets.com##.ngageMobileFloat:style(position: absolute !important;)
 discord.me###searchWrap:style(position: relative !important; top: 0 !important;)
 discord.me###sideMenu:style(position: absolute !important;)
-discordservers.com##._620d-_has-shadow.F8RQC_is-fixed-top._1gaW0_navbar._3AxUE_header:style(position: absolute !important;)
+discord.me##.header-fix
+discordservers.com##.pointer-events-auto
 discover.com###container, .main-container, body:style(padding-top: 0 !important;)
 discover.com###deals-nav > .inner, #headingTwo, #tabs, .main-header, .right-section:style(position: relative !important; top: 0 !important;)
 discover.com###global-nav-wrap #global-nav a.discover-logo
@@ -3001,6 +3002,9 @@ emailtester.de###menuslot:style(position: absolute !important;)
 emerils.com##.menu-toggle-btns:style(position: absolute !important;)
 emfscientist.org###sp-header-wrapper:style(position: relative !important;)
 emfscientist.org###sp-main-body-wrapper:style(margin-top: 0 !important;)
+emojipedia.org##.-top-1.sticky:style(position: relative !important; top: 0 !important;)
+emojipedia.org##.Desktop_navbar-desktop__eTmzm:style(position: absolute !important;)
+emojipedia.org##.Tabs_tabs__pb6CU:style(position: static !important;)
 emphasisms.com##.is_stuck.dd-area:style(position: absolute !important;)
 emporis.com###relatedBuildings:style(position: absolute !important;)
 empoweredcycles.com,sunjw.us###navWrapper:style(position: relative !important;)
