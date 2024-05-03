@@ -5459,6 +5459,7 @@ meadowlakewindfarm.com###edprBackNew, #top-bar-new:style(position: absolute !imp
 meaww.com##.meaww-header__main:style(position: relative !important; top: 0 !important;)
 media.ccc.de##.navbar-fixed-top, .navbar-fixed-bottom:style(position: absolute !important;)
 mediabiasfactcheck.com###mega-menu-wrap-header_nav:style(position: static !important;)
+mediabiasfactcheck.com###mega-menu-wrap-social_nav:style(position: static !important;)
 mediafax.ro###radioContainerBox
 mediafax.ro##.jw-wrapper:style(position: absolute !important; inset: 0 0 0 0 !important; max-height: unset !important; max-width: unset !important; animation: none !important;)
 mediaite.com###featured-posts-wrap, #featured-posts, #header-content, .compact.teads-helper, .teads-helper.full:style(position: relative !important; top: 0 !important;)
