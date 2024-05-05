@@ -6447,6 +6447,7 @@ oreilly.com##.orm-topbar:style(position: absolute !important; top: -19px !import
 orientxxi.info##.bouton_menu > label:style(position: relative !important;)
 orinocotribune.com###masthead.colormag-header-classic #site-navigation:style(position: relative !important; background-color: transparent !important; box-shadow: 0 0 0 rgba(0, 0, 0, 0) inset !important;)
 ory.am##.sticky.menu-sticky-top-nav:style(position: absolute !important; top: 0 !important;)
+os.fan##.header, .logo:style(position: absolute !important;)
 oscar.go.com##.container-fluid:style(position: relative !important;)
 oscarmini.com##.td-header-menu-wrap:style(position: absolute !important; width:100% !important;)
 oscars.org##.l-region--social-drawer.l-region:style(position: absolute !important;)
