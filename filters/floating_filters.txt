@@ -4934,7 +4934,7 @@ knivesandtools.co.uk##.product-offer-card__body
 knivesandtools.co.uk##.product-offer-card__foot:style(transform: translate3d(0,0,0) !important;)
 knowablemagazine.org##.-active.sticky-nav
 knowledge.autodesk.com##.layout-eyebrow, .off-canvas-sticky:style(position: absolute !important;)
-knowyourmeme.com##.floating-fixed.floating-bar:style(position: relative !important; top: 0 !important;)
+knowyourmeme.com##.floating-fixed.floating-bar:style(position: relative !important; top: 0 !important; left: 0 !important;)
 knowyourmeme.com##.left.previous-arrow.sticky.arrow, .right.next-arrow.sticky.arrow:style(position: absolute !important;)
 knowyourmeme.com##.sticky-sidebar:style(position: relative !important;)
 knowyourmobile.com###sticky-meta, #title-group:style(position: relative !important; top: 0 !important;)
