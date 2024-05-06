@@ -4932,6 +4932,9 @@ knewz.com##.site-header.sticky:style(background-color: unset !important;)
 knivesandtools.co.uk###header-brand, .product-offer-card:style(position: static !important;)
 knivesandtools.co.uk##.product-offer-card__body
 knivesandtools.co.uk##.product-offer-card__foot:style(transform: translate3d(0,0,0) !important;)
+knockout.chat###knockout-header:style(position: absolute !important;)
+knockout.chat##.logo-quotes:style(opacity: 1 !important;)
+knockout.chat##.title-container > .title:style(margin-top: calc(8px) !important;)
 knowablemagazine.org##.-active.sticky-nav
 knowledge.autodesk.com##.layout-eyebrow, .off-canvas-sticky:style(position: absolute !important;)
 knowyourmeme.com##.floating-fixed.floating-bar:style(position: relative !important; top: 0 !important;)
