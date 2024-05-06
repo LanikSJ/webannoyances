@@ -3667,9 +3667,8 @@ fubiz.net##.left-content-single:style(position: absolute !important; transform: 
 fubiz.net##.sticky.visible-xs.visible-sm.nav-fubiz.header-nav-mobile:style(position: relative !important; top: 0 !important;)
 fullhn.com##.toolbar:style(position: absolute !important; top: 0 !important; background-color: transparent !important;)
 funnyjunk.com###bottomNav
-funnyjunk.com###floating-bar-left, #floating-bar-right:style(position: absolute !important; left: 0 !important; margin-top: 0 !important;)
-funnyjunk.com##.bnavLinks:style(position: absolute !important;)
-funnyjunk.com##.m-inner:style(position: relative !important; left: 0 !important;)
+funnyjunk.com##.fixedSBar:style(position: absolute !important; top: 0 !important; left: unset !important;)
+funnyjunk.com##.paginationSlider:style(position: absolute !important; top: 0 !important;)
 furiousandbrave.com##.header-drawer
 fusion.net###site-header, NAV:style(position: relative !important; top: 0 !important;)
 futurism.com##.SidebarPane:style(position: absolute !important;)
