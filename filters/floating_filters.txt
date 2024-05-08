@@ -598,7 +598,7 @@ amnesty.org##.header--fixed.header--subnav.header:style(position: relative !impo
 amortizedcost.net###home-button, #menu-button:style(position: absolute !important;)
 ampize.me,blockshopper.com,cinemablend.com,giftcards.com,google.org,gray.tv,hackr.io,iconninja.com,inews.co.uk,kusi.com,magsformiles.com,messenger.com,nbcdfw.com,rare.us,theben.de,wben.com,wellandgood.com,wtop.com##.header:style(position: relative !important;)
 ampproject.org##.fixed.header:style(position: absolute !important;)
-amsnow.com,app.buddy.works,articlebio.com,augur.net,autodesk.com,belmond.com,bigfix.me,bitmoji.com,blog.feedspot.com,burrow.com,bytecoin.org,cardano.org,cell.com,centralrestaurant.com,changelog.com,chronicle.security,creditcards.com,csis.org,cyberscoop.com,dazeddigital.com,disclose.tv,eatthis.com,edmunds.com,federalnewsnetwork.com,federalnewsradio.com,forbes.com,foxitsoftware.com,fritolay.com,goldenglobes.com,golem.network,gonnawatch.com,help.pandora.com,historythings.com,hitmanpro.com,iloveimg.com,in.gov,inquirer.net,isebaro.com,janestreet.com,kxly.com,leadingauthorities.com,lunacycle.com,mackeepersecurity.com,mandatory.com,marriott.com,matchdeck.com,memegenerator.net,mosaicscience.com,nascar.com,newsy.com,nilaykhandelwal.com,nwfilmforum.org,omni.se,paramountmovies.com,podia.com,projectinsight.net,report-uri.com,ritholtzwealth.com,roadsandkingdoms.com,rumble.com,shopplaywin.com,sidewalklabs.com,simple.com,slamonline.com,stasimuseum.de,stopad.io,store.barstoolsports.com,stream2watch.*,texas.gov,texasobserver.org,thatgrapejuice.net,theblast.com,themuse.com,thespruceeats.com,timetoplayfair.com,urbandaddy.com,usareally.com,vue-hn.now.sh,washingtonmonthly.com,weei.com,whitesourcesoftware.com,wired.com,wkyc.com,wordnik.com,x.company,yellowla.com,zeltser.com,zippia.com,zwaveproducts.com##.header:style(position: absolute !important;)
+amsnow.com,app.buddy.works,articlebio.com,augur.net,autodesk.com,belmond.com,bigfix.me,bitmoji.com,blog.feedspot.com,blogs.opera.com,burrow.com,bytecoin.org,cardano.org,cell.com,centralrestaurant.com,changelog.com,chronicle.security,creditcards.com,csis.org,cyberscoop.com,dazeddigital.com,disclose.tv,eatthis.com,edmunds.com,federalnewsnetwork.com,federalnewsradio.com,forbes.com,foxitsoftware.com,fritolay.com,goldenglobes.com,golem.network,help.pandora.com,historythings.com,iloveimg.com,in.gov,inquirer.net,isebaro.com,janestreet.com,kxly.com,leadingauthorities.com,lunacycle.com,mackeepersecurity.com,mandatory.com,marriott.com,matchdeck.com,memegenerator.net,mosaicscience.com,nascar.com,newsy.com,nilaykhandelwal.com,nwfilmforum.org,omni.se,paramountmovies.com,podia.com,projectinsight.net,report-uri.com,ritholtzwealth.com,roadsandkingdoms.com,rumble.com,sidewalklabs.com,simple.com,slamonline.com,stasimuseum.de,stopad.io,store.barstoolsports.com,stream2watch.*,texas.gov,texasobserver.org,thatgrapejuice.net,theblast.com,themuse.com,thespruceeats.com,timetoplayfair.com,urbandaddy.com,usareally.com,vue-hn.now.sh,washingtonmonthly.com,weei.com,whitesourcesoftware.com,wired.com,wkyc.com,wordnik.com,x.company,yellowla.com,zeltser.com,zippia.com,zwaveproducts.com##.header:style(position: absolute !important;)
 amuse.vice.com##.site-header__logo:style(width: 126px !important;)
 amuse.vice.com,garage.vice.com##.site-header__logo path:style(fill: #fff !important;)
 amuse.vice.com,motherboard.vice.com,sports.vice.com,tonic.vice.com,waypoint.vice.com##.site-header .site-header__channel-slider-trigger__button path, .site-header .site-header__channel-slider-trigger__text path, .site-header .site-header__nav-trigger path, .site-header .site-header__social-icon path, .site-header .site-header__link path:style(fill: #777777 !important;)
@@ -1377,7 +1377,6 @@ blogs.ancestry.com##.an-sidebar--fixed:style(position: static !important;)
 blogs.bing.com##.site-header-wrap:style(position: relative !important;)
 blogs.bing.com,branchfree.org##.site:style(margin-top: 0 !important;)
 blogs.nasa.gov##body:after, body:before
-blogs.opera.com###download-iframe--sticky-bar:style(position: relative !important; top: 0 !important;)
 blogs.spectator.co.uk##.site-header--sticky.site-header:style(position: relative !important;)
 blogs.windows.com##.is-active.sticky-header
 blogspot.com,sb2.live,talospace.com,vulnano.com##.animating.sticky.centered-top-container
@@ -5472,9 +5471,9 @@ medpagetoday.com###mpt_header:style(position: static !important; height: 100px !
 medpagetoday.com##.rr-recirc-bottom-box-ad-container:style(position: static !important;)
 medscape.com###fpf-fadeout, #fpf_widget
 medscape.com###pageN_2:style(display: block !important;)
-meetup.com##.sticky--top.border--none.stripe:style(position: relative !important;)
+meetup.com##.sticky:style(position: relative !important; top: 0 !important;)
 melissa.com###sideIcon
-memegenerator.net##.only-above-768.cta-btn:style(position: absolute !important;)
+memegenerator.net##.comp-ui-sticky:style(position: absolute !important; top: 12px !important;)
 mensjournal.com##.main-bg.header:style(position: relative !important; top: 0 !important;)
 mentalfloss.com###header-main-navbar:style(position: absolute !important;)
 mentalfloss.com###myPlayerID, .player-position, .smallWidth.makeVideoticky.videoElement.close_btn, .smallWidth.makeVideoticky.videoElement.overlay, .videoElement.close_btn:style(position: static !important;)
