@@ -371,7 +371,7 @@ familybusinessmagazine.com,frieze.com##.service-links
 familycircle.com##.docked-sharebar, .mdpShareBar
 familyhandyman.com##.footersocialicons, .rightrailseparator.followusblock
 fandom.com###ShareEntryPoint, .is-toggle.card-share__button, .quick-links__social, .wds-is-follow-us.wds-global-footer__section
-fansided.com##.fs-network-flipcard
+fansided.com##.sticky_1ds30c3
 fantrax.com##.nav-soc-but
 fark.com###facebook, #twitter
 fashionista.com##.m-brand-engagement
