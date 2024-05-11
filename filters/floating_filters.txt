@@ -3265,7 +3265,11 @@ fandomwire.com##.td-affix .header-search-wrap .td-icon-search, .td-header-wrap .
 fandomwire.com,grownmenstuff.com##.td-affix .td-logo-sticky
 fanfox.net##.top-bar, .side-code:style(position: absolute !important;)
 fangraphs.com,gfycat.com##.header-container:style(position: absolute !important; top: 0 !important;)
-fansided.com###fs-network-nav:style(position: absolute !important;)
+fansided.com##._149jd1bu:style(position: absolute !important;)
+fansided.com##._7hsab7:style(height: 60px !important;)
+fansided.com##.sticky_1ds30c3:style(position: relative !important; top: 0 !important;)
+fansly.com##.side-bar-wrapper:style(position: absolute !important; top: 32px !important; left: 8px !important;)
+fansly.com##app-nav-bar-top:style(position: absolute !important;)
 fantasyalarm.com##.footer:style(position: relative !important; width: 100% !important;)
 fantasylabs.com##.perm-fixed-nav .nav-container, .perm-fixed-nav nav.fixed:style(position: absolute !important;)
 fantasypros.com###nav-sub, #nav-top:style(position: relative !important; top: 0 !important;)
