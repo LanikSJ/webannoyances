@@ -1113,7 +1113,8 @@ beaumontenterprise.com,chron.com,ctpost.com,darientimes.com,fairfieldcitizenonli
 beaumontenterprise.com,chron.com,ctpost.com,darientimes.com,fairfieldcitizenonline.com,greenwichtime.com,lmtonline.com,michigansthumb.com,middletownpress.com,milfordmirror.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,ncadvertiser.com,newmilfordspectrum.com,newstimes.com,nhregister.com,ourmidland.com,registercitizen.com,seattlepi.com,sfchronicle.com,sfgate.com,sheltonherald.com,stamfordadvocate.com,thehour.com,theintelligencer.com,theridgefieldpress.com,thetelegraph.com,timesunion.com,trumbulltimes.com,westport-news.com,wiltonbulletin.com,yourconroenews.com#@#.ctpl-fullbanner
 becauseofthemwecan.com##.scroll-menu-bnd.sticky-menu.none-mr.large--grid--mod.grid:style(position: absolute !important;)
 bedbathandbeyond.com###topNavHeader:style(position: relative !important; top: 0 !important;)
-bedbugreports.com##.navbar-fixed-top.navbar-wrapper2:style(position: relative !important; top: 0 !important;)
+bedbugreports.com##.logo:style(width: 303px !important;)
+bedbugreports.com##.navbar-fixed-top.navbar-wrapper2:style(position: absolute !important; top: 0 !important;)
 beebom.com,dailywoke.com,ervse.com,globalanimal.org,lamag.com,linux4one.com,mashtips.com,muricatoday.com,mymillennialguide.com,nextofwindows.com,ontariopolicereports.com,servethehome.com,technorms.com,thegrio.com,videoconferencingdaily.com,viralrockets.com,wallstreetsurvivor.com,winbuzzer.com,windowslatest.com,yesimright.com##.td-affix.td-header-menu-wrap:style(position: absolute !important;)
 beerpay.io##.footer.no-padding.col-md-12:style(position: relative !important; bottom: 0 !important;)
 beerpay.io##.ng-scope.navigation:style(position: absolute !important;)
