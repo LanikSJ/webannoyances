@@ -332,11 +332,9 @@ advocate.com##.skyboxeSection:style(margin-top: 132px !important;)
 adweek.com###secondary-head, .fixie, .site-header, .x-navbar-fixed-top.x-navbar:style(position: relative !important; top: 0 !important;)
 adweek.com###sticky-nav, .sticky-container.widget-area
 aei.org###main-filter-sidebar:style(position: absolute !important;)
-aeon.co##.article__actions.stuck:style(position: absolute !important;)
-aeon.co##.header--fixed, .header--fixed--visible, .header-banner, .sticky-wrapper, [data-react-class="Aeon.HeaderBridge"] > span:nth-of-type(1)
-aeon.co##.header--fixed--visible.header--fixed.header, .header--top.header, .site-menu:style(position: absolute !important; top: 0 !important;)
-aeon.co##[class*="styled__HeaderWrapper-"]:style(position: static !important; background-color: rgb(0, 0, 0) !important; color: rgb(255, 255, 255) !important; border-bottom: 1px solid rgba(0, 0, 0, 0) !important;)
-aeon.co##[class*="styled__Pusher-"]
+aeon.co##.eAiZFf
+aeon.co##.hiGgME:style(height: 60px !important;)
+aeon.co##header:style(position: relative !important; height: 130px !important;)
 aerospace-technology.com,airport-technology.com,army-technology.com,chemicals-technology.com,clinicaltrialsarena.com,cosmetics-technology.com,designbuild-network.com,drinks-insight-network.com,foodprocessing-technology.com,homelandsecurity-technology.com,hospitalmanagement.net,hotelmanagement-network.com,medicaldevice-network.com,mining-technology.com,naval-technology.com,offshore-technology.com,packaging-gateway.com,pharmaceutical-technology.com,power-technology.com,railway-technology.com,retail-insight-network.com,roadtraffic-technology.com,ship-technology.com,verdictfoodservice.com,water-technology.net###stick-related:style(position: relative !important; bottom: 0 !important;)
 aeternity.com###topnav, .gitter-open-chat-button:style(position: absolute !important;)
 aetna.com##.fixed.megamenu:style(position: absolute !important;)
