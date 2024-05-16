@@ -438,7 +438,7 @@ pdfslide.net#@#.cookiebanner:not(html):not(body)
 petri.com##.gdpr-cookie-banner
 pinnacle.com##[class*="style_cookieBanner__"]
 planet.com##.pl-cookies-cta-contain
-politico.com###overlayMagazine, .cookie-modal.js-cookie-modal, .is-stuck.pop-up-bar
+politico.com###overlayMagazine, .cookie-modal.js-cookie-modal
 privatevpn.com,sanalkurs.net,siliconrepublic.com,son-video.com,thdbretagne.bzh#@#.cookiebanner
 protocol.com##.gdpr-cookie
 psyarxiv.com##.__cookie-banner__2a81b
