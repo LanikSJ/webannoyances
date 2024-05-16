@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 20:20 2024-05-15
+! Last Modified: 23:58 2024-05-15
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -320,7 +320,7 @@ advanceduninstaller.com##.osahan-navbar:style(position: relative !important; pad
 advancemediany.com,amgreatness.com,beltmag.com,keckmedicine.org,njadvancemedia.com,spigot.com,themediabriefing.com,ublock.org##.fusion-header:style(position: relative !important;)
 adventuresofanurse.com,bythewavs.com,chicagocubsonline.com,thefuntimesguide.com##.nav-primary:style(position: relative !important; top: 0 !important;)
 advertisercommunity.com##.butter-bar, nav:style(position: absolute !important;)
-advertising.amazon.com,fanucamerica.com,googleblog.com,herosports.com,percona.com,redditgifts.com,redfin.com##.header-main:style(position: absolute !important;)
+advertising.amazon.com,fanucamerica.com,googleblog.com,percona.com,redditgifts.com,redfin.com##.header-main:style(position: absolute !important;)
 adviceperiod.com,flashrouters.com,infopackets.com,lacrossemonkey.com,nerdwallet.com,nzxt.com,severalnines.com,simplehuman.com,sportstop.com,thepunterspage.com##div.zopim:style(position: absolute !important;)
 advisorperspectives.com##.header-logo:style(display: block !important;)
 advisorperspectives.com##.navbar-main:style(position: relative !important; transform: none !important;)
@@ -2089,7 +2089,6 @@ codementor.io##header:style(position: absolute !important; box-shadow: none !imp
 codepen.io##.main-sidebar-inside:style(position: absolute !important;)
 codepen.io##.navigation-bottom-wrap:style(position: static !important;)
 codeproject.com###ctl00_Nav:style(position: static !important;)
-codesignal.com##.elementor-sticky--active:style(position: absolute !important;)
 codesport.io##.bs-docs-nav.navbar-fixed-top.navbar-inverse.navbar:style(position: absolute !important;)
 codewars.com###main_header:style(position: absolute !important;)
 codewars.com###popup-notification-container
@@ -3212,22 +3211,13 @@ eyeo.com,rookout.com###phantom:style(position: absolute !important;)
 f-secure.com##.fixed, .teaser-top, header:style(position: relative !important; top: 0 !important;)
 f169bbs.com###topbox:style(position: relative !important;)
 fablesofaesop.com###dc-contact-2:style(position: absolute !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion###browse_lhc_container, #entity_sidebar, #leftCol > div > div, #u_fetchstream_1_3, #js_l, div[id^="u_jsonp"][class^="_2pie"], div[id^="u_0"][class^="_2pie"], #leftCol div[id^="u_jsonp"], #rightCol div[id^="u_jsonp"][style*="position: fixed"], ._kyy, div[id="globalContainer"] div[id^="u_jsonp"][style*="position: fixed;"]:style(position: relative !important; top: 0 !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion###content > div > ._lwx:style(position: absolute !important; padding-bottom: 10px !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion###u_0_u > ._5vx4._5vx2 > .clearfix._5vx7 > .lfloat._ohe > ._4470._43o4:style(background-color: #fff !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._1n-x._8k-._3m9, .fixed_always, ._7gbh:style(position: absolute !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._3azy._638s:style(position: static !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._4k-p:style(margin-top: 0 !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._4oes:style(position: relative !important; border-bottom: 1px solid #ccc !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._5ss8:style(left: auto !important; top: 0 !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._5vx2:style(border: none !important; box-shadow: none !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._ky-:style(margin: 0 !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._kyy div[id^="u_0"]:style(position: relative !important; left: unset !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.fbChatSidebar:style(position: absolute !important; height: 100% !important; border-bottom: 1px solid #ccc !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.fixed_elem, ._2yq ._5sqx._5sqx, div[id^="u_0"][style*="position: fixed;"]:style(position: absolute !important; top: 0 !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.pbm.clearfix:style(padding-top: 53px !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##[id^="u_"][class^="_li"][style*="top: -"]:style(top: 0 !important;)
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##div[aria-label="Facebook"][role="banner"]:style(position: relative !important;)
+facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.x105ttfm:style(transform: none !important;)
+facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.x1bvr7z4:style(opacity: 1 !important;)
+facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.x1u8a7rm
+facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.x5yr21d.x1q0g3np.x1ja2u2z.x9f619
+facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.x7wzq59:style(position: relative !important; top: 0 !important;)
+facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.xixxii4:style(position: absolute !important;)
+facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.xlshs6z, .xnpuxes:style(visibility: visible !important;)
 facetjewelry.com##.navbar:style(position: relative !important; height: 60px !important;)
 factcheck.afp.com##.sticky-top:style(position: static !important;)
 factmag.com##.secondary-font.header:style(position: relative !important; top: 0 !important;)
@@ -4147,7 +4137,9 @@ herdprotect.com##.sectiontop:style(position: absolute !important;)
 herdprotect.com,reasoncoresecurity.com###nav-header:style(display: list-item !important; opacity: 1 !important;)
 hermanmiller.com##.box.box-local-navigation.is-sticky:style(position: absolute !important;)
 hermes.com##.ng-star-inserted.grid-filters:style(position: absolute !important; top: 0 !important;)
-herosports.com##.sticky.scrolling-fixed:style(position: absolute !important; top: 0 !important;)
+herosports.com##.jeg_sticky_nav
+herosports.com##.theiaStickySidebar:style(position: relative !important; top: 0 !important; left: 0 !important;)
+helpshift.com##.elementor-sticky--active:style(position: absolute !important;)
 hetzner.com###header-pre-section:style(display: flex !important;)
 hetzner.com##nav.navbar.navbar-default.navbar-fixed-top.shrink:style(max-height: unset !important;)
 heute-show.de##.shy.push.header:style(position: relative !important; top: 0 !important;)
@@ -9907,7 +9899,7 @@ zoeskitchen.com##.main-nav.navbar-fixed-top.navbar-default.navbar, .navbar-fixed
 zooqle.com##.small.navbar-fixed-bottom.navbar-inverse:style(position: relative !important;)
 zvw.de##.main-nav-wrapper:style(position: absolute !important;)
 zwaveproducts.com##.announcement:style(position: absolute !important;)
-zyngaplayerforums.com###footer:style(position: relative !important; top: 0 !important;)
+||beamimpact.com^$3p
 ||player.daznservices.com/player/v4/popup.chunk.js
 /matomo-connect.js$script,important
 /matomo-script.js$script,important
