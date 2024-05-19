@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Last Modified: 04:40 2024-01-11
+! Last Modified: 06:34 2024-05-19
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -342,7 +342,7 @@ drivereasy.com##.float-bar, .go-to-top
 drugs.com###ddc-toast
 drweil.com###js-newsletter-modal
 dutchreview.com##.app_2k2uB
-dwatchseries.to,informer.com,swatchseries.to,watch-series.la,wireshark.org##.notify
+dwatchseries.to,informer.com,wireshark.org##.notify
 easeus.com##.iconfont.float_totop, .usernotice_pop
 eastidahonews.com##.jDialog.fa-stack
 ebates.com###backgroundPopup, .button-overlay
@@ -776,6 +776,8 @@ popsugar.com###policy-modal-banner, .modal-email-widget
 popularmechanics.com##body.no-scroll:style(overflow: auto !important;)
 popularmechanics.com##journey-modal-newsletter[data-template-id="pop-modal-newsletter"] 
 popularwoodworking.com##.pagnav-wrapper
+pornhub.com##body:style(overflow: auto !important;)
+pornhub.com###ageDisclaimerMainBG, .fadeInMTubes
 post-gazette.com##.pgevoke-backtotop
 potbelly.com##.general-alert-modal, .global-modal, .global-modal-background
 power-technology.com##.gd-report-modal
@@ -912,7 +914,6 @@ subzero-wolf.com##.footer-announcement
 summerinfant.com##.fancybox-container
 supercars.net##.leadform-popup-widget
 surlatable.com##.welcome-popup
-swatchseries.to,watch-series.la###toTop
 symantec.com###myBtn
 tabletmag.com##.DonationPopup, .animated-email-box
 taskandpurpose.com##.charlotte-background, .tp-oim-inline-background
