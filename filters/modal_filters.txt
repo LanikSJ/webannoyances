@@ -342,7 +342,6 @@ drivereasy.com##.float-bar, .go-to-top
 drugs.com###ddc-toast
 drweil.com###js-newsletter-modal
 dutchreview.com##.app_2k2uB
-dwatchseries.to,informer.com,wireshark.org##.notify
 easeus.com##.iconfont.float_totop, .usernotice_pop
 eastidahonews.com##.jDialog.fa-stack
 ebates.com###backgroundPopup, .button-overlay
@@ -531,6 +530,7 @@ infantino.com,ripple.com###newsletterModal
 infomine.com###fade, #popupBlock
 information.dk,kristeligt-dagblad.dk###cookie-information-template-wrapper
 information.dk,kristeligt-dagblad.dk##.noScroll, .noScroll body:style(overflow: auto !important;)
+informer.com,wireshark.org##.notify
 ingwb.com##.dialog
 inman.com##.bx-shroud
 insideevs.com,motor1.com,rideapart.com##.m1-footer-messages
