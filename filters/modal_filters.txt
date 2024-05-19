@@ -774,7 +774,7 @@ politicalstorm.com##.link-overlay
 popculture.com###newsletterModal
 popsugar.com###policy-modal-banner, .modal-email-widget
 popularmechanics.com##body.no-scroll:style(overflow: auto !important;)
-popularmechanics.com##journey-modal-newsletter[data-template-id="pop-modal-newsletter"] 
+popularmechanics.com##journey-modal-newsletter[data-template-id="pop-modal-newsletter"]
 popularwoodworking.com##.pagnav-wrapper
 pornhub.com##body:style(overflow: auto !important;)
 pornhub.com###ageDisclaimerMainBG, .fadeInMTubes
