@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 02:27 2024-05-19
+! Last Modified: 03:02 2024-05-19
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -465,19 +465,13 @@ alexaobrien.com##.follow.header-v1.stickynav-on.main, .header-v1.stickynav-on.ma
 alibaba.com##.list-seachbar-content-wrap:style(position: relative !important;)
 alibaba.com##.m-toolbar-side:style(position: absolute !important;)
 alibaba.com##.sticky-areas
-aliexpress.com###auto-search, .fixed-header.search-header-wrap, .ui-switchable-nav.ui-tab-nav:style(position: relative !important;)
-aliexpress.com###j-detail-gallery-main, #ms-header, #shopping-history, #j-multi-sidebar-outer, #j-one-click-ticket:style(position: absolute !important;)
-aliexpress.com##.category-menu .menu-container:style(overflow-x: hidden !important;)
-aliexpress.com##.channel-menu:style(position: static !important;)
-aliexpress.com##.detail-fixed-tab, .float-button-wrapper, .ms-downloadbar, .placeholder-div, .ui-fixed-panel, div[data-role="for_header_fixed"]
-aliexpress.com##.header-categories:style(left: 184px !important; height: 84px !important;)
-aliexpress.com##.left-affix.next-affix:style(position: relative !important; top: 0 !important;)
-aliexpress.com##.product-fix-wrap:style(position: static !important;)
-aliexpress.com##.related-search-outer:style(margin-top: 0 !important;)
-aliexpress.com##.site-footer:style(margin-top: 30px !important;)
-aliexpress.com##.top-lighthouse:style(display: block !important;)
-aliexpress.com##body:not(iframe):not(#alibaba-log-box):not(#mini-login-body):not([data-spm="home"]):style(overflow-x: auto !important; overflow-y: scroll !important;)
-aliexpress.com,androidcentral.com,bgov.com,blog.zoom.us,bloomberg.com,boston25news.com,bugzilla.mozilla.org,burpee.com,claremont.org,cryptoslate.com,dailywire.com,dazeddigital.com,donaldjtrump.com,ericksonliving.com,fidoalliance.org,fox13memphis.com,fox23.com,fox26houston.com,github.io,hrw.org,imageglass.org,inews.co.uk,lamag.com,mobile.wnd.com,nationalreview.com,nyclu.org,oilandgasinvestor.com,ok.co.uk,reactos.org,ritzpix.com,robertedwardauctions.com,samsung.com,similarsites.com,splcenter.org,stuff.tv,tass.ru,telesurtv.net,terrawest.com,thebrag.com,theweek.com,traumanurses.org,trustedreviews.com,ubs.com,untangle.com,userstyles.org,verily.com,wallstreetoasis.com,woodmagazine.com,wsbtv.com,wsvn.com###header:style(position: relative !important;)
+aliexpress.com###pc-sticky-header
+aliexpress.com##.header-dir-ltr:style(position: relative !important;)
+aliexpress.com##.root-subcart:style(position: absolute !important;)
+aliexpress.com##.src-index-module__stickyTabBar--93lAR:style(top: unset !important;)
+aliexpress.us###_header_followed_
+aliexpress.us##.header-dir-ltr:style(position: relative !important; top: 0 !important;)
+aliexpress.us##._category_fixed_:style(position: relative !important; top: 0 !important;)
 alight.com##.alme--launchPointContainer:style(position: absolute !important;)
 aljazeera.com###Article-Top-Toolbar, #sticky-article-header, .article-main-header-logo-Big, .logo-sticky
 aljazeera.com###article-main-header:style(position: relative !important; display: block !important; opacity: 1 !important;)
@@ -611,10 +605,7 @@ androidauthority.com###tt_hot_products_menu:style(top: 0 !important; transform: 
 androidauthority.com##.fixed.fixed-object.bottom-reached.single-sidebar.content-panel:style(position: relative !important;)
 androidauthority.com,biobiochile.cl,emailinnovations.com,flocombat.com,mywot.com,putlocker.to,redbullracing.com,smithsonianjourneys.org,theappeal.org##header:style(position: absolute !important; top: 0 !important;)
 androidbenchmark.net,cpubenchmark.net,harddrivebenchmark.net,iphonebenchmark.net,memorybenchmark.net,pcbenchmarks.net,videocardbenchmark.net###main_menu, #tabs:style(position: absolute !important;)
-androidcentral.com##.header-sib__inner:style(position: relative !important; top: 0 !important;)
-androidcentral.com##.header-top-inner2, .header-top-inner:style(position: relative !important; top: 0 !important; height: 40px !important;)
-androidcentral.com##.header-top__drawer-toggle i, .header-top__navigation-link i, .header-top__search-button i:style(line-height: 40px !important; font-size: 16px !important;)
-androidcentral.com##.header-top__drawer-toggle, .header-top__navigation-link, .header-top__search-button:style(height: 40px !important; line-height: 40px !important; width: 40px !important;)
+androidcentral.com,bgov.com,blog.zoom.us,bloomberg.com,boston25news.com,bugzilla.mozilla.org,burpee.com,claremont.org,cryptoslate.com,dailywire.com,dazeddigital.com,donaldjtrump.com,ericksonliving.com,fidoalliance.org,fox13memphis.com,fox23.com,fox26houston.com,github.io,hrw.org,imageglass.org,inews.co.uk,lamag.com,mobile.wnd.com,nationalreview.com,nyclu.org,oilandgasinvestor.com,ok.co.uk,reactos.org,ritzpix.com,robertedwardauctions.com,samsung.com,similarsites.com,splcenter.org,stuff.tv,tass.ru,telesurtv.net,terrawest.com,thebrag.com,theweek.com,traumanurses.org,trustedreviews.com,ubs.com,untangle.com,userstyles.org,verily.com,wallstreetoasis.com,woodmagazine.com,wsbtv.com,wsvn.com###header:style(position: relative !important;)
 androidheadlines.com##.header-shiv:style(position: absolute !important;)
 androidheadlines.com,bldgblog.com,creativecommons.org,digicert.com,dropbox.com,dsogaming.com,elaineou.com,forksoverknives.com,glennbeck.com,haxx.se,luckypeach.com,metro.co.uk,namecheap.com,newsday.com,queerty.com,relevantmagazine.com,standard.co.uk,thecipherbrief.com,thisiswhyimbroke.com,turkeyblocks.org,vesselnews.io,wiat.com,wncn.com###masthead:style(position: relative !important; top: 0 !important;)
 androidpolice.com###toc_wrapper:style(position: relative !important;)
