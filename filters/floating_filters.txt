@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 02:41 2024-05-20
+! Last Modified: 19:41 2024-05-20
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -844,7 +844,7 @@ audacy.com##.component--station-nav .station-nav__fixed-container:style(position
 audacy.com##.latest-top-recirc-slider__slider-container.reset-slider-top-nav:style(position: unset !important;)
 audacy.com##.radiocom-nav:style(position: absolute !important;)
 audible.com###navigation-top-wrapper:style(position: absolute !important;)
-aura.app,bitport.io,boardofwisdom.com,buffalonews.com,climateaction.org,dailycaller.com,data.swiftkey.com,deepcapture.com,democracynow.org,discord.me,discounttire.com,eonline.com,examine.com,github.blog,gladiator.tf,gonintendo.com,halfwheel.com,honda.com,independentarabia.com,independentpersian.com,indyturk.com,irehouse.com,irishexaminer.com,marketwatch.com,mic.com,nypost.com,order.wendys.com,prmdeal.com,saksfifthavenue.com,sammobile.com,sfgate.com,simpleflying.com,site24x7.com,support.google.com,teamblind.com,themarysue.com,whio.com,withgoogle.com##header:style(position: relative !important;)
+aura.app,bitport.io,boardofwisdom.com,buffalonews.com,climateaction.org,dailycaller.com,data.swiftkey.com,deepcapture.com,democracynow.org,discord.me,discounttire.com,eonline.com,examine.com,github.blog,gladiator.tf,gonintendo.com,halfwheel.com,hbr.org,honda.com,independentarabia.com,independentpersian.com,indyturk.com,irehouse.com,irishexaminer.com,marketwatch.com,mic.com,nypost.com,nyuhs.org,order.wendys.com,prmdeal.com,saksfifthavenue.com,sammobile.com,sfgate.com,simpleflying.com,site24x7.com,support.google.com,teamblind.com,themarysue.com,whio.com,withgoogle.com##header:style(position: relative !important;)
 auslogics.com##.b-submenu:style(position: relative !important; background: none !important;)
 auslogics.com##.b-submenu__link_black_mode:style(color: #808080 !important;)
 austinchronicle.com##.logo-nav-slide:style(position: absolute !important;)
@@ -2675,6 +2675,7 @@ directindustry.com###float-bar-container, #header-nav:style(position: relative !
 directv.com###dtv_header:style(position: absolute !important;)
 directvnow.com###navigationPanelId, .nav, flow-progress-bar:style(position: absolute !important;)
 disabilitysecrets.com##.ngageMobileFloat:style(position: absolute !important;)
+discord.com##.rich-content-right:style(position: absolute !important; top: 0 !important;)
 discord.me###searchWrap:style(position: relative !important; top: 0 !important;)
 discord.me###sideMenu:style(position: absolute !important;)
 discord.me##.header-fix
@@ -4035,12 +4036,13 @@ hawaii.com##.clear.topNav > .nav:style(position: absolute !important;)
 hazlitt.net###region-navigation, #zone-masthead:style(position: relative !important; top: 0 !important;)
 hbo.com###contentContainerTop:style(position: relative !important; top: 0 !important;)
 hbo.com##.bands\/MainNavigation--stickyBar
-hbr.org##.global-nav, nav:style(top: 86px !important;)
-hbr.org##.sticky-top-header:style(position: absolute !important; top: 0 !important;)
+hbr.org##.Header-module_navbar-hide__V9exV:style(top: unset !important;)
+hbr.org##.Header-module_placeholder__coS4W
 hcaptcha.com###front-header:style(position: absolute !important;)
 hcsc.net##.feedbackIcon:style(position: static !important;)
 hcsmontreal.com###responsive-menu-button, .site-navigation-fixed.navigation-top:style(position: absolute !important;)
 head-fi.org##.is-sticky.p-navSticky--all.p-navSticky:style(position: relative !important;)
+headandshoulders.com##.sortRow:style(position: relative !important;)
 headphonesaddict.com##.navbar-brand .the-logo
 headphonesty.com##.header-navbar-stuck:style(position: absolute !important; transform: translateY(0%) !important; opacity: 1 !important;)
 healio.com##.mobile-view.navbar-fixed-top.navbar-default.navbar:style(position: relative !important; top: 0 !important;)
@@ -4098,6 +4100,7 @@ hermanmiller.com##.box.box-local-navigation.is-sticky:style(position: absolute !
 hermes.com##.ng-star-inserted.grid-filters:style(position: absolute !important; top: 0 !important;)
 herosports.com##.jeg_sticky_nav
 herosports.com##.theiaStickySidebar:style(position: relative !important; top: 0 !important; left: 0 !important;)
+hersheyland.com##.navbar-container:style(position: absolute !important;)
 helpshift.com##.elementor-sticky--active:style(position: absolute !important;)
 hetzner.com###header-pre-section:style(display: flex !important;)
 hetzner.com##nav.navbar.navbar-default.navbar-fixed-top.shrink:style(max-height: unset !important;)
@@ -6473,17 +6476,7 @@ patents.google.com##.header.style-scope.application-timeline:style(position: rel
 patheos.com###mdf_menu:style(position: relative !important; top: 0 !important;)
 patheos.com##.affix.path-affix:style(position: absolute !important; top: 0 !important;)
 patient.labcorp.com##body .global:style(position: absolute !important;)
-patreon.com###renderPageContentWrapper > div:nth-child(2), .bApyJp.sc-bZQynM > div:nth-of-type(2), div[style^="margin-top:"]:style(margin-top: 0 !important;)
-patreon.com##._2JO-modules-Navigation-components-MobileNavbar--navbar, ._3fN-modules-Navigation--navigationContainer, .sticky, .w14-modules-Navigation-components-Navbar--navbarContainer:style(position: relative !important; top: 0 !important;)
-patreon.com##.bAkAKB.s1rwkr9f-0 > div:nth-of-type(2):style(position: relative !important; top: 0 !important; left: 0 !important; right: 0 !important; margin-top: 0 !important;)
-patreon.com##.bApyJp.sc-bZQynM > div:nth-of-type(2), .czXwgJ.s18smbeq-0:style(position: relative !important; margin-top: 0 !important;)
-patreon.com##.bBNpVC, .bbpUrK, .cFTLwl, .czgNCh, .dzoiFU.s1nkdvf8-1, .eLLVdd:style(position: absolute !important;)
-patreon.com##.bdgTzi.s1ukxnbb-0 > div:nth-of-type(2), .bqdNGT.s1nkdvf8-0, dzoiFU.s1nkdvf8-1, .jdmagM.u1gaxw-0 > div:nth-of-type(2):style(position: relative !important;)
-patreon.com##.cGFFHo.sc-gqjmRU > div:nth-of-type(2):style(position: static !important; margin-top: 0 !important;)
-patreon.com##.eaymqM:not(:last-child), .gECWon:not(:last-child):style(margin-right: 3rem !important;)
-patreon.com##.ebITgp, .iXIfQn.d9l0cn-1:style(position: absolute !important; top: 0 !important;)
-patreon.com##.hLZXLo:style(height: 8rem !important; width: 8rem !important;)
-patreon.com##.middle-xs:style(height: 72px !important;)
+patreon.com##.fkkSmj, .iSZcRT:style(position: absolute !important;)
 paul.is-a-geek.org##.site-navigation-fixed.navigation-top:style(position: relative !important;)
 paul.reviews##.postinfo:style(position: absolute !important;)
 pay.google.com##.b3id-standalone-container-onebar.b3-standalone-container-onebar:style(position: absolute !important;)
@@ -7079,6 +7072,7 @@ ripoffreport.com,speroforum.com###header-wrap:style(position: relative !importan
 ripple.com##.navbar.banner:style(position: absolute !important;)
 ripple.is##.sticky-menu.css-sticky.container:style(position: absolute !important;)
 riskiq.com##.fixed-buttons:style(position: absolute !important;)
+riteaid.com##.cx-header-menu:style(position: absolute !important;)
 riverpoolsandspas.com###BackToTopBtn
 roadsandkingdoms.com###titlebar:style(position: relative !important; top: 0 !important;)
 roadtrippers.com###trip-guide-actions:style(position: absolute !important;)
