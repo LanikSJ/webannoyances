@@ -8857,10 +8857,10 @@ twistedsifter.com###sidebar-scroll:style(position: relative !important; display:
 twitch.tv##.home-header-sticky:style(position: static !important;)
 twitchy.com###sticky1, #sticky2, #sticky3, .stick:style(position: static !important;)
 twitlonger.com##.navbar-fixed-top.navbar:style(position: relative !important; top: 0 !important;)
-twitter.com###header, #message-drawer, .js-topbar.topbar, .rn-1lgpqti.rn-zchlnj.rn-1xcajam.rn-12vffkv.rn-gy4na3.rn-1mdbw0j.rn-9aemit.rn-wk8lta.rn-bcqeeo.rn-ifefl9.rn-11wrixw.rn-p1pxzi.rn-61z16t.rn-1mnahxq.rn-1d2f490.rn-eqz5dr.rn-7vfszb.rn-1pxmb3b.rn-6koalj.rn-deolkf.rn-1p0dtai.rn-gxnn5r.rn-ndvcnb.rn-fnigne.rn-13yce4e.rn-mm0ijv.rn-rull8r.rn-14skgim.rn-1efd50x.rn-aqfbo4.rn-1oszu61, .r-1g40b8q.r-ipm5af.r-gtdqiz.r-qklmqi.r-rull8r.r-1igl3o0.r-kemksi.r-aqfbo4.css-1dbjc4n, .r-1g40b8q.r-ipm5af.r-gtdqiz.r-qklmqi.r-rull8r.r-1ila09b.r-yfoy6g.r-aqfbo4.css-1dbjc4n, .css-1dbjc4n.r-1gymjhz, .r-1pi2tsx.css-1dbjc4n > .r-1hycxz.r-ipm5af.r-1xcajam.css-1dbjc4n, .r-1g40b8q.r-ipm5af.r-gtdqiz.r-qklmqi.r-rull8r.r-j7yic.r-14lw9ot.r-aqfbo4.css-1dbjc4n, .r-184en5c.r-ipm5af.r-gtdqiz.r-aqfbo4.css-1dbjc4n, [data-testid="primaryColumn"] .r-gtdqiz:style(position: relative !important;)
 twitter.com##.r-1loqt21.r-136ojw6.css-175oi2r > .r-136ojw6.r-1h3ijdo.css-175oi2r > .css-175oi2r > .r-6026j.r-1e5uvyk.r-1h3ijdo.css-175oi2r > .r-ymttw5.r-13qz1uu.r-1jgb5lz.r-1777fci.r-1h3ijdo.r-18u37iz.r-1awozwy.css-175oi2r > .r-s8bhmr.r-obd0qt.r-15ysp7h.r-1777fci.r-1pz39u2.css-175oi2r
 twitter.com##.u01-meganav, .u01b:style(position: absolute !important;)
-twitter.com,x.com##[data-testid="sidebarColumn"] .r-1xcajam, [data-testid="sidebarColumn"] .r-gtdqiz:style(position: absolute !important; top: 0 !important; bottom: unset !important;)
+twitter.com,x.com##[data-testid="primaryColumn"] .r-gtdqiz:style(position: relative !important;)
+twitter.com,x.com##[data-testid="sidebarColumn"] .r-1xcajam:style(position: absolute !important; top: 0 !important; bottom: unset !important;)
 twitter.com,x.com##.r-ipm5af.r-1xcajam.r-1pi2tsx.r-aqfbo4.css-175oi2r:style(position: relative !important;)
 typingclub.com###nav:style(position: absolute !important; background-color: transparent !important;)
 ua-magazine.com##.move.sticky.menu_container:style(position: relative !important; top: 0 !important;)
