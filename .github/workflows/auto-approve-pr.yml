@@ -1,0 +1,22 @@
+name: auto-approve-prs
+
+on:
+  pull_request_target:
+    types:
+    - opened
+    branches:
+    - main
+
+jobs:
+  auto-approve:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    if: |
+      ${{ github.actor == 'LanikSJ' }}
+      ${{ github.actor == 'Sonic5435325' }}
+      ${{ github.actor == 'github-actions' }}
+    steps:
+    - uses: hmarr/auto-approve-action@v4
+      with:
+        github-token: "${{ secrets.GITHUB_TOKEN }}"
