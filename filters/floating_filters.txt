@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 07:40 2024-05-25
+! Last Modified: 16:40 2024-05-26
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -12,7 +12,7 @@
 ! Start Web Annoyances Ultralist - Floating Annoyances
 01.org,france24.com,rfi.fr##.o-header:style(position: absolute !important;)
 1001tracklists.com##.head:style(position: relative !important;)
-100milefreepress.net,abbynews.com,agassizharrisonobserver.com,albernivalleynews.com,aldergrovestar.com,arrowlakesnews.com,ashcroftcachecreekjournal.com,barrierestarjournal.com,bashawstar.com,boundarycreektimes.com,burnslakelakesdistrictnews.com,caledoniacourier.com,campbellrivermirror.com,castlegarnews.com,castoradvance.com,clearwatertimes.com,cloverdalereporter.com,coastmountainnews.com,comoxvalleyrecord.com,cowichanvalleycitizen.com,cranbrooktownsman.com,crestonvalleyadvance.ca,eaglevalleynews.com,eckvilleecho.com,goldstreamgazette.com,grandforksgazette.ca,haidagwaiiobserver.com,hopestandard.com,houston-today.com,indulgemagazine.ca,interior-news.com,invermerevalleyecho.com,kelownacapnews.com,keremeosreview.com,reddeerexpress.com###sticky-menu-bar-container:style(position: absolute !important;)
+100milefreepress.net,abbynews.com,about.fandom.com,aboutamazon.com,adssettings.google.com,agassizharrisonobserver.com,airbnb.design,albernivalleynews.com,aldergrovestar.com,allamericanrejects.com,ambotv.com,arrowlakesnews.com,ashcroftcachecreekjournal.com,azarus.io,barrierestarjournal.com,bashawstar.com,blog.bitbucket.org,bizfluent.com,blueorigin.com,boundarycreektimes.com,bowenislandundercurrent.com,brainpickings.org,brightsurf.com,btcwires.com,burnslakelakesdistrictnews.com,caledoniacourier.com,campbellrivermirror.com,castlegarnews.com,castoradvance.com,cedarfair.com,chicagobusiness.com,citizensaccess.com,clearwatertimes.com,cloverdalereporter.com,coastmountainnews.com,community.microfocus.com,comoxvalleyrecord.com,couponcabin.com,coupons.cnn.com,cowichanvalleycitizen.com,crainscleveland.com,crainsdetroit.com,crainsnewyork.com,cranbrooktownsman.com,crestonvalleyadvance.ca,deadbydaylight.com,docs.google.com,dove.com,dropboxforum.com,eaglevalleynews.com,eckvilleecho.com,edpuzzle.com,ehow.co.uk,embracepetinsurance.com,exabeam.com,extrahop.com,fangraphs.com,fiveguys.com,flopstarter.com,foreignpolicy.com,freepik.com,freshideen.com,gamedev.net,goldstreamgazette.com,goodrx.com,grandforksgazette.ca,haidagwaiiobserver.com,hedgehogreview.com,hopestandard.com,html5canvastutorials.com,hugedomains.com,i24news.tv,in.mashable.com,inkling.com,instructure.com,interior-news.com,inverse.com,ipaddress.com,jbkempf.com,jimmyjohns.com,kat.am,katcr.to,kelownacapnews.com,keremeosreview.com,kickasstorrent.*,kickasstorrents.*,kimberleybulletin.com,houston-today.com,lacombeexpress.com,ladysmithchronicle.com,lakecountrycalendar.com,lakecowichangazette.com,langleyadvancetimes.com,libp2p.io,liveabout.com,manyvids.com,mapleridgenews.com,mcmansionhell.com,meds.se,microchip.com,milorganite.com,missioncityrecord.com,modernistcuisine.com,mondaymag.com,myadcenter.google.com,nanaimobulletin.com,nation.foxnews.com,nelsonstar.com,newlinesmag.com,news18.com,northdeltareporter.com,northernsentinel.com,northislandgazette.com,oakbaynews.com,ominecaexpress.com,orders.ordercoldstone.com,oreilly.com,peacearchnews.com,pentictonwesternnews.com,pocketsense.com,ponokanews.com,pimeyes.com,pipestoneflyer.ca,pqbnews.com,quesnelobserver.com,reddeeradvocate.com,revelstokereview.com,rhodecode.com,rimbeyreview.com,rit.rakuten.com,rosslandnews.com,saanichnews.com,saobserver.net,sendspace.com,similkameenspotlight.com,sookenewsmirror.com,speedrun.com,stettlerindependent.com,summerlandreview.com,surreynowleader.com,sylvanlakenews.com,taylorswift.com,terracestandard.com,thefreepress.ca,thenorthernview.com,theprogress.com,toysrus.com,trailtimes.ca,usw.org,vancouverislandfreedaily.com,vernonmorningstar.com,vicnews.com,wendys.com,westerlynews.ca,wisetechlabs.com,wltribune.com##header:style(position: absolute !important;)
 100percentfedup.com##.menu-header-menu-container-add:style(position: absolute !important;)
 1011northplatte.com,1011now.com,13abc.com,26nbc.com,abc12.com,blackhillsfox.com,cbs19news.com,cbs7.com,futurism.com,graydc.com,kalb.com,kbtx.com,kcrg.com,kcwy13.com,kgns.tv,kgwn.tv,kkco11news.com,kktv.com,kmot.com,kmvt.com,knoe.com,knopnews2.com,kolotv.com,kotatv.com,kqcd.com,ksfy.com,ksnblocal4.com,kspr.com,ktuu.com,kumv.com,kwch.com,kwqc.com,kwtx.com,kxii.com,ky3.com,legalinsurrection.com,nbc11news.com,nbc15.com,potatopro.com,thenewscenter.tv,tn.gov,uppermichigansource.com,valleynewslive.com,wabi.tv,wagmtv.com,wbay.com,wbko.com,wcax.com,wcjb.com,wctv.tv,wdbj7.com,wdtv.com,weau.com,webcenter11.com,whsv.com,wibw.com,wifr.com,wilx.com,witn.com,wjhg.com,wkyt.com,wndu.com,wowt.com,wrdw.com,wsaw.com,wsaz.com,wswg.tv,wtok.com,wtvy.com,wvlt.tv,wymt.com###nav:style(position: relative !important;)
 10best.com###nav-branding, #secondary:style(position: relative !important;)
@@ -218,7 +218,6 @@ ably.io##.c-header__logo:style(transform: translateZ(0) scale(1) !important;)
 ably.io##.o-bar--primary:style(height: 70px !important;)
 aboluowang.com###asidecol:style(position: static !important;)
 about.com###mast-fixed.p-bg.mast-fixed.mast, #mast-fixed, .p-bg.mast-fixed.mast, .post-lock.leaderboard.gpt:style(position: relative !important; top: 0 !important;)
-about.fandom.com,aboutamazon.com,adssettings.google.com,airbnb.design,allamericanrejects.com,ambotv.com,azarus.io,blog.bitbucket.org,bizfluent.com,blueorigin.com,bowenislandundercurrent.com,brainpickings.org,brightsurf.com,btcwires.com,cedarfair.com,chicagobusiness.com,citizensaccess.com,community.microfocus.com,couponcabin.com,coupons.cnn.com,crainscleveland.com,crainsdetroit.com,crainsnewyork.com,dippindots.com,deadbydaylight.com,docs.google.com,dove.com,dropboxforum.com,edpuzzle.com,ehow.co.uk,embracepetinsurance.com,exabeam.com,extrahop.com,fangraphs.com,fedex.com,fiveguys.com,flopstarter.com,foreignpolicy.com,freepik.com,freshideen.com,gamedev.net,goodrx.com,hedgehogreview.com,html5canvastutorials.com,hugedomains.com,i24news.tv,in.mashable.com,inkling.com,instructure.com,ipaddress.com,islamicfinder.org,jbkempf.com,jimmyjohns.com,kat.am,katcr.to,kickasstorrent.*,kickasstorrents.*,kimberleybulletin.com,lacombeexpress.com,ladysmithchronicle.com,lakecountrycalendar.com,lakecowichangazette.com,langleyadvancetimes.com,libp2p.io,liveabout.com,manyvids.com,mapleridgenews.com,mcmansionhell.com,meds.se,microchip.com,milorganite.com,missioncityrecord.com,modernistcuisine.com,mondaymag.com,myadcenter.google.com,nanaimobulletin.com,nation.foxnews.com,nelsonstar.com,newlinesmag.com,news18.com,northdeltareporter.com,northernsentinel.com,northislandgazette.com,oakbaynews.com,ominecaexpress.com,orders.ordercoldstone.com,oreilly.com,peacearchnews.com,pentictonwesternnews.com,pocketsense.com,ponokanews.com,pimeyes.com,pipestoneflyer.ca,pqbnews.com,quesnelobserver.com,reddeeradvocate.com,revelstokereview.com,rhodecode.com,rimbeyreview.com,rit.rakuten.com,rosslandnews.com,saanichnews.com,saobserver.net,sendspace.com,similkameenspotlight.com,sookenewsmirror.com,speedrun.com,stettlerindependent.com,summerlandreview.com,surreynowleader.com,sylvanlakenews.com,taylorswift.com,terracestandard.com,thefreepress.ca,thenorthernview.com,theprogress.com,toysrus.com,trailtimes.ca,usw.org,vancouverislandfreedaily.com,vernonmorningstar.com,vicnews.com,wendys.com,westerlynews.ca,wisetechlabs.com,wltribune.com##header:style(position: absolute !important;)
 about.gitlab.com###main-nav, .navbar:style(position: relative !important;)
 about.gitlab.com##.top-announcement:style(position: relative !important; top: 0 !important;)
 about.google##.glue-sticky:style(position: relative !important; left: unset !important; top: unset !important;)
@@ -565,7 +564,7 @@ americastestkitchen.com,cookscountry.com##.atkPinnedHeader
 amgreatness.com##.topnav-wrapper:style(position: absolute !important;)
 amgreatness.com##.tout-sdk-instance-player, header.sticky:style(position: static !important;)
 amgreatness.com,deadcoins.com,keckmedicine.org##.fusion-header-sticky-height
-aminoapps.com,aura.app,bitport.io,boardofwisdom.com,buffalonews.com,clever.com,climateaction.org,dailycaller.com,data.swiftkey.com,deepcapture.com,democracynow.org,discord.me,discounttire.com,duluthtrading.com,eonline.com,examine.com,github.blog,gladiator.tf,gonintendo.com,halfwheel.com,hbr.org,honda.com,independentarabia.com,independentpersian.com,indyturk.com,irehouse.com,irishexaminer.com,marketwatch.com,mic.com,nypost.com,nyuhs.org,order.wendys.com,prmdeal.com,saksfifthavenue.com,sammobile.com,sfgate.com,simpleflying.com,site24x7.com,support.google.com,teamblind.com,themarysue.com,topclassactions.com,whio.com,withgoogle.com##header:style(position: relative !important;)
+aminoapps.com,aura.app,bitport.io,boardofwisdom.com,buffalonews.com,clever.com,climateaction.org,dailycaller.com,data.swiftkey.com,deepcapture.com,democracynow.org,dippindots.com,discord.me,discounttire.com,duluthtrading.com,eonline.com,examine.com,fedex.com,github.blog,gladiator.tf,gonintendo.com,halfwheel.com,hbr.org,honda.com,independentarabia.com,independentpersian.com,indyturk.com,irehouse.com,irishexaminer.com,marketwatch.com,mic.com,nypost.com,nyuhs.org,order.wendys.com,prmdeal.com,saksfifthavenue.com,sammobile.com,sfgate.com,simpleflying.com,site24x7.com,support.google.com,teamblind.com,themarysue.com,topclassactions.com,whio.com,withgoogle.com##header:style(position: relative !important;)
 aminoapps.com##.home-fixed-container:style(position: absolute !important; width: unset !important;)
 aminoapps.com##.live-comment
 aminoapps.com##.overflow-scroll-sidebar:style(position: relative !important;)
@@ -574,7 +573,7 @@ amnesty.org##.header--fixed.header--subnav.header:style(position: relative !impo
 amortizedcost.net###home-button, #menu-button:style(position: absolute !important;)
 ampize.me,blockshopper.com,cinemablend.com,giftcards.com,goodsmileus.com,google.org,gray.tv,hackr.io,iconninja.com,inews.co.uk,kusi.com,magsformiles.com,messenger.com,nbcdfw.com,omni.se,powerschool.com,powerschool-docs.com,rare.us,theben.de,wben.com,wellandgood.com,whitelist.tf,wtop.com,yogonet.com##.header:style(position: relative !important;)
 ampproject.org##.fixed.header:style(position: absolute !important;)
-amsnow.com,app.buddy.works,articlebio.com,augur.net,autodesk.com,belmond.com,bigfix.me,bitmoji.com,blog.feedspot.com,blogs.opera.com,burrow.com,bytecoin.org,cardano.org,cell.com,centralrestaurant.com,changelog.com,chronicle.security,creditcards.com,csis.org,cyberscoop.com,dazeddigital.com,disclose.tv,eatthis.com,edmunds.com,federalnewsnetwork.com,federalnewsradio.com,forbes.com,foxitsoftware.com,fritolay.com,goldenglobes.com,golem.network,help.pandora.com,historythings.com,iloveimg.com,in.gov,inquirer.net,isebaro.com,janestreet.com,kxly.com,leadingauthorities.com,lunacycle.com,mackeepersecurity.com,mandatory.com,marriott.com,matchdeck.com,memegenerator.net,mosaicscience.com,nascar.com,newsy.com,nickiminajofficial.com,nilaykhandelwal.com,nwfilmforum.org,paramountmovies.com,podia.com,projectinsight.net,report-uri.com,ritholtzwealth.com,roadsandkingdoms.com,rumble.com,sidewalklabs.com,simple.com,slamonline.com,stasimuseum.de,stopad.io,store.barstoolsports.com,stream2watch.*,texas.gov,texasobserver.org,thatgrapejuice.net,thebalancemoney.com,theblast.com,themuse.com,thespruceeats.com,timetoplayfair.com,urbandaddy.com,usareally.com,vue-hn.now.sh,washingtonmonthly.com,weei.com,whitesourcesoftware.com,wired.com,wkyc.com,wordnik.com,x.company,yellowla.com,zeltser.com,zippia.com,zwaveproducts.com##.header:style(position: absolute !important;)
+amsnow.com,app.buddy.works,articlebio.com,augur.net,autodesk.com,belmond.com,bigfix.me,bitmoji.com,blog.feedspot.com,blogs.opera.com,burrow.com,bytecoin.org,cardano.org,cell.com,centralrestaurant.com,changelog.com,chronicle.security,creditcards.com,csis.org,cyberscoop.com,dazeddigital.com,disclose.tv,eatthis.com,edmunds.com,federalnewsnetwork.com,federalnewsradio.com,forbes.com,foxitsoftware.com,fritolay.com,goldenglobes.com,golem.network,help.pandora.com,historythings.com,iloveimg.com,in.gov,inquirer.net,isebaro.com,islamicfinder.org,janestreet.com,kxly.com,leadingauthorities.com,lunacycle.com,mackeepersecurity.com,mandatory.com,marriott.com,matchdeck.com,memegenerator.net,mosaicscience.com,nascar.com,newsy.com,nickiminajofficial.com,nilaykhandelwal.com,nwfilmforum.org,paramountmovies.com,podia.com,projectinsight.net,report-uri.com,ritholtzwealth.com,roadsandkingdoms.com,rumble.com,sidewalklabs.com,simple.com,slamonline.com,stasimuseum.de,stopad.io,store.barstoolsports.com,stream2watch.*,texas.gov,texasobserver.org,thatgrapejuice.net,thebalancemoney.com,theblast.com,themuse.com,thespruceeats.com,timetoplayfair.com,urbandaddy.com,usareally.com,vue-hn.now.sh,washingtonmonthly.com,weei.com,whitesourcesoftware.com,wired.com,wkyc.com,wordnik.com,x.company,yellowla.com,zeltser.com,zippia.com##.header:style(position: absolute !important;)
 amuse.vice.com##.site-header__logo:style(width: 126px !important;)
 amuse.vice.com,garage.vice.com##.site-header__logo path:style(fill: #fff !important;)
 amuse.vice.com,motherboard.vice.com,sports.vice.com,tonic.vice.com,waypoint.vice.com##.site-header .site-header__channel-slider-trigger__button path, .site-header .site-header__channel-slider-trigger__text path, .site-header .site-header__nav-trigger path, .site-header .site-header__social-icon path, .site-header .site-header__link path:style(fill: #777777 !important;)
@@ -1012,7 +1011,7 @@ barstoolsports.com##div[style^="padding-bottom:"]:style(padding-bottom: 0 !impor
 bartamanpatrika.com##.bp-footer:style(position: relative !important)
 bartamanpatrika.com##.fixed-bottom, .fixed-top:style(position: absolute !important;)
 bartamanpatrika.com##mybot .profile_div
-bartamanpatrika.com,blog.google,brainly.*,cbsnews.com,cnbc.com,creditcards.chase.com,dell.com,federalnewsnetwork.com,fedex.com,giftcardgranny.com,glamour.com,gq.com,journals.sagepub.com,just-auto.com,just-drinks.com,just-food.com,just-style.com,newrepublic.com,parenting.com,pitchfork.com,powerhungry.com,ruralsprout.com,taxact.com,tiktok.com,washingtonpost.com,whoisxmlapi.com,wired.com##html:style(overflow-x: hidden !important;)
+bartamanpatrika.com,blog.google,brainly.*,cbsnews.com,cnbc.com,creditcards.chase.com,dell.com,federalnewsnetwork.com,giftcardgranny.com,glamour.com,gq.com,journals.sagepub.com,just-auto.com,just-drinks.com,just-food.com,just-style.com,newrepublic.com,parenting.com,pitchfork.com,powerhungry.com,ruralsprout.com,taxact.com,tiktok.com,washingtonpost.com,whoisxmlapi.com,wired.com##html:style(overflow-x: hidden !important;)
 baseball-reference.com,basketball-reference.com,fbref.com,hockey-reference.com,pro-football-reference.com,sports-reference.com###inner_nav > ul:style(position: relative !important; box-shadow: none !important;)
 baseball-reference.com,basketball-reference.com,fbref.com,hockey-reference.com,pro-football-reference.com,sports-reference.com###inner_nav.frozen:style(padding-top: 0 !important;)
 baseball.theater##.tab-container, header:style(position: absolute !important;)
@@ -3207,13 +3206,8 @@ federalreserve.gov###nav-primary:style(position: relative !important; top: 0 !im
 federalreserve.gov###t4_nav:style(position: absolute !important; top: 0 !important;)
 federalreserve.gov##.nav-primary.affix + .container:style(margin-top: 0 !important;)
 federalreserve.gov##.navbar-fixed-top.navbar-default.navbar.t1_nav:style(position: absolute !important;)
-fedex.com###fxg-header-container:style(position: unset !important; background-color: transparent !important;)
-fedex.com###nina-fedex.nw_Popin:style(position: absolute !important;)
-fedex.com##.askFedex, .va_icon:style(display: block !important; position: absolute !important;)
-fedex.com##.fxg-global-nav .fxg-link:style(padding: 31px 15px 30px 15px !important;)
-fedex.com##.fxg-header__logo_wrapper:style(height: 75px !important;)
-fedex.com##.fxg-user-options__option .fxg-link:style(padding: 25px 16px 23px !important;)
-fedex.com##.va_icon:style(right: 120px !important;)
+fedex.com##.fxg-main-content:style(margin-top: 0 !important;)
+fedex.com##.fxg-nav:style(max-height: 75px !important;)
 fedscoop.com##.logo--small:style(transform: none !important;)
 fedscoop.com##.page-hero-homepage.page-hero:style(margin-top: 0 !important;)
 fedscoop.com##.wrapper:style(padding-top: 0 !important;)
@@ -4564,9 +4558,8 @@ intoli.com###intoli-navbar, #sidebar-feature, .affix.navbar-affixed-top:style(po
 intoli.com###sidebar-feature:style(top: unset !important;)
 intomore.com##.into-header-wrapper:style(position: relative !important;)
 intuit.com###persistent_header, .Header__container--izfMl-37385, .Header__container___HUFiv, .affix.navbar-inner, .header__wrapper:style(position: absolute !important;)
-inverse.com##.app-header.flex, .sticky.header-container:style(position: relative !important; top: 0 !important;)
-inverse.com##.c-hed--up, .c-hed:style(position: relative !important; transform: none !important;)
-inverse.com##.stky.cons-head:style(position: static !important; transform: translateZ(0) !important; will-change: unset !important;)
+invermerevalleyecho.com,reddeerexpress.com###sticky-menu-bar-container:style(position: absolute !important;)
+inverse.com##.m4L .O3D, .m4L .ahz, header::before:style(opacity: 0 !important;)
 investigate-europe.eu###banner-1, .sticky-header
 investing.com###leftColumn, #leftColumnWide, #rightColumn, #rightColumnWide:style(margin-top: 65px !important;)
 investing.com##.floating.js-floated-header-container.WYSIWYGFloater.instrumentFloater.tradeNowFloat
@@ -4623,8 +4616,6 @@ isara.com##.after-scroll-wrap.navbar-inverse.navbar:style(position: absolute !im
 isara.com##.navbar.after-scroll-wrap .nav-fix:style(height: 92px !important;)
 ishares.com###rightSidebar:style(position: absolute !important;)
 ishares.com##.rsb-desc:style(width: 268px !important;)
-islamicfinder.org###feedbackbtn, .fixed.sticky-nav:style(position: absolute !important;)
-islamicfinder.org##.stick-to-top.fixed-cards.row:style(position: static !important; top: 0 !important;)
 iso.org##.header-acer.header-img:style(margin-top: 0 !important;)
 iso.org##.isologo:style(height: 115px !important; width: 90px !important; background-position: 4px 35px !important;)
 iso.org##.navbar, header.header-img .logo:style(position: absolute !important;)
@@ -6298,14 +6289,16 @@ oddsboom.com##.head:style(position: absolute !important; top: 0 !important;)
 oddsshark.com###op-content-wrapper-spacer
 oddsshark.com##.op-sticky-header #op-full-width-sticky-header-wrapper:style(position: relative !important; box-shadow: none !important; width: unset !important; height: unset !important;)
 oddsshark.com##.op-sticky-header-wrapper:style(padding: 1rem .125rem 1rem 1rem !important;)
+odysee.com##.channel__thumbnail--channel-page-fixed:style(height: var(--channel-thumbnail-width) !important; top: -9.2rem !important; width: var(--channel-thumbnail-width) !important;)
+odysee.com##.content__wrapper--floating
 odysee.com##.main-wrapper__inner:style(margin-top: 0 !important;)
-odysee.com##.navigation, .navigation--micro, .navigation--absolute, .ads-wrapper:style(position: absolute !important;)
-odysee.com##.react-draggable.content__viewer--inline.content__viewer:style(top: 80px !important;)
+odysee.com##.navigation:style(position: absolute !important; height: unset !important;)
+odysee.com##.tab__wrapper--fixed:style(position: relative !important; top: 0 !important;)
+odysee.com##.tab__wrapper--fixed .tabs__list:style(padding-left: 11rem !important;)
 odysee.com##header.header:style(position: relative !important;)
 offerup.com##._w4ksuk9:style(position: relative !important;)
-office.com###feedbackSection, #layout-header:style(position: absolute !important;)
-office.com###layout-navigation:style(position: absolute !important; top: 50px !important;)
-office.com###supFeedbackWrapper, .odcom-supplemental-navigation.c-supplemental-nav:style(position: relative !important;)
+office.com##.shy-header
+office.fedex.com##.jumplinksRow:style(position: relative !important; top: 0 !important;)
 officedepot.com###stickyHeader
 ohow.co###masthead, #progress-bar-bck, #progress-bar, #ubermenu-main-366-primary, .entry-header, .header-menu:style(position: relative !important; top: 0 !important;)
 oilprice.com###singleArticle__sidebar:style(position: relative !important; top: 0 !important;)
@@ -9744,7 +9737,7 @@ zocdoc.com##div[style="padding-bottom: 65px;"]:style(padding-bottom: 0 !importan
 zoeskitchen.com##.main-nav.navbar-fixed-top.navbar-default.navbar, .navbar-fixed-top.utility-header.header:style(position: absolute !important;)
 zooqle.com##.small.navbar-fixed-bottom.navbar-inverse:style(position: relative !important;)
 zvw.de##.main-nav-wrapper:style(position: absolute !important;)
-zwaveproducts.com##.announcement:style(position: absolute !important;)
+zwaveproducts.com##.section-header:style(position: relative !important; transform: none !important;)
 ||ada.support^$3p
 ||beamimpact.com^$3p
 ||player.daznservices.com/player/v4/popup.chunk.js
