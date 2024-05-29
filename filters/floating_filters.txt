@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 03:57 2024-05-29
+! Last Modified: 21:59 2024-05-29
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -54,7 +54,7 @@
 2bigfeet.com##.nav-overflow:style(position: relative !important; top: 0 !important;)
 2daygeek.com###nav-mobile:style(position: absolute !important;)
 2daygeek.com,babyaxis.com,bitshouts.com,cnsnews.com,fraudguides.com,the.dailywebthing.com,worldfreeware.com###nav-topbar:style(position: absolute !important;)
-2guyscigars.com,ambition.com,appleinsider.com,apps.gab.com,cebglobal.com,centurylink.com,countyoffice.org,cryptocoincharts.info,eveningpostindustries.com,feeder.co,freakhosting.com,gobankingrates.com,huffingtonpost.*,huffpost.com,ihavenotv.com,imagesocket.com,kfyrtv.com,moz.com,newsbank.com,niteo.co,postgresql.org,postmake.io,posts.tf,q13fox.com,sagepub.com,technode.com,thebulletin.org,throwawaymail.com,vipbox.im,wlfi.com,wpd.app,wthitv.com,wvva.com##.navbar:style(position: relative !important;)
+2guyscigars.com,ambition.com,appleinsider.com,apps.gab.com,cebglobal.com,centurylink.com,countyoffice.org,cryptocoincharts.info,eveningpostindustries.com,feeder.co,freakhosting.com,gobankingrates.com,huffingtonpost.*,huffpost.com,ihavenotv.com,imagesocket.com,kfyrtv.com,moz.com,newsbank.com,niteo.co,postgresql.org,postmake.io,posts.tf,q13fox.com,sagepub.com,technode.com,thebulletin.org,throwawaymail.com,vipbox.im,wbng.com,wlfi.com,wpd.app,wthitv.com,wvva.com##.navbar:style(position: relative !important;)
 2paragraphs.com,arstechnica.com,climatehawksvote.com,consumeraffairs.com,epicurious.com,filterlists.com,flutter.io,ghostinfluence.com,newstatesman.com,ocregister.com,screenrant.com,thepaleomom.com,thewanderlustkitchen.com##.site-header:style(position: relative !important; top: 0 !important;)
 3dprint.com##.et-fixed-header:style(position: relative !important; top: 0 !important;)
 3dprintingforbeginners.com###floating_menu:style(position: absolute !important;)
@@ -1410,7 +1410,7 @@ boardingarea.com##.navbar-nav:style(float: right !important; padding-left: 0 !im
 boardingarea.com##.navbar:style(position: relative !important; max-height: 106px !important; min-height: 106px !important;)
 boardingarea.com##.pull-right.bar:style(padding: unset !important; list-style-type: unset !important; width: 100% !important;)
 boardingarea.com##.two-columns.bar.pull-right.dropdown:style(display: block !important; width: 100% !important;)
-boardofwisdom.com,influxdata.com,rushlimbaugh.com###page-container:style(margin-top: 0 !important;)
+boardofwisdom.com,endicottpolice.com,influxdata.com,rushlimbaugh.com###page-container:style(margin-top: 0 !important;)
 boards.ie###p2h-header:style(position: relative !important; top: 0 !important;)
 boatingmag.com,cruisingworld.com,cyclevolta.com,cycleworld.com,dirtrider.com,flair.co,flyingmag.com,hrblock.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,popsci.com,range365.com,sailingworld.com,saltwatersportsman.com,saveur.com,schooledintech.com,sportfishingmag.com,tastecooking.com,wakeboardingmag.com,yachtingmagazine.com,yts.*##.nav-bar:style(position: absolute !important;)
 boats.gitlab.io##.intro-header:style(margin-top: 0 !important;)
@@ -1583,7 +1583,7 @@ bustle.com##.bp, .m, .q, .s:style(position: absolute !important;)
 busy.org##.ant-layout-header:style(position: absolute !important;)
 busy.org##.leftContainer > div, .rightContainer > div:style(position: relative !important;)
 buybuybaby.com##.site-header-main:style(padding: 20px 10px 10px !important;)
-buymeacoffee.com##.top-0.fixed:style(position: absolute !important;)
+buymeacoffee.com,cohost.org##.top-0.fixed:style(position: absolute !important;)
 buzzfeed.com##.stickyMainNav__3x18O:style(position: relative !important;)
 buzzfeednews.com##.js-main-nav:style(position: relative !important; border-top: none !important;)
 buzzfeednews.com##.logoWrapperSmall__Qhj_X
@@ -1624,7 +1624,7 @@ californiainnocenceproject.org###et-top-navigation:style(padding: 48px 0 0 0 !im
 californiainnocenceproject.org###menu-item-2351 a:style(color: #fff !important;)
 californiainnocenceproject.org###top-menu li a:style(font-size: 16px !important;)
 californiainnocenceproject.org##.logo_container:style(width: 100% !important; height: 100% !important; opacity: 1 !important;)
-californiainnocenceproject.org,techwiztime.com###main-header, #top-header:style(position: absolute !important;)
+californiainnocenceproject.org,healthepro.com,techwiztime.com###main-header, #top-header:style(position: absolute !important;)
 californiasunday.com##.navigation-bar, .site-nav:style(position: absolute !important;)
 caloriecalc.net##.is-sticky.topbar:style(position: absolute !important;)
 calvertjournal.com,thepioneerwoman.com##.header-navbar:style(position: relative !important;)
@@ -2923,6 +2923,8 @@ emsisoft.com##.header:style(position: relative !important; height: 114px !import
 en.bab.la###fixed2:style(position: relative !important;)
 enablingtechcorp.com##.roll_activated.roll_menu:style(position: absolute !important;)
 endgame.com###block-block-22, #nav:style(position: absolute !important;)
+endicottpolice.com##.et_header_style_centered #top-menu > li > a:style(font-size: 18px !important;)
+endicottpolice.com##.logo_container:style(height: 90px !important;)
 endoftheamericandream.com###sticky-navigation
 endpts.com##.epn_header_menu .epn_logo svg:style(height: 1.375rem !important;)
 endpts.com##.epn_header_menu .epn_profile .epn_user.epn_logged_out ul li a, .epn_header_menu .epn_profile .epn_user.epn_logged_out ul li button:style(line-height: 6.875004rem !important;)
@@ -4000,7 +4002,6 @@ healthcareitnews.com###navbar-header:style(position: absolute !important;)
 healthcaremagic.com###buttonDiv:style(position: relative !important; top: 0 !important;)
 healthcentral.com##.global-header-wrap:style(position: static !important; height: 88px !important; transform: translateY(0) !important;)
 healthdata.org###sticky-controls:style(position: absolute !important;)
-healthepro.com###main-header, #top-header:style(position: absolute !important;)
 healthline.com##.css-1umgrc8:style(position: absolute !important; top: 0 !important;)
 healthline.com##.css-2uabhy:style(bottom: unset !important;)
 healthline.com##.css-47twm5, .css-il1i3a:style(position: static !important;)
@@ -4752,7 +4753,7 @@ kettlepizza.com##.nav-wrapper:style(position: absolute !important;)
 keybase.io##.navbar-default.navbar-fixed-top.navbar, .hidden-sm.hidden-xs.col-lg-2.col-md-1 > div:style(position: absolute !important;)
 keycdn.com###sidebar:style(position: static !important;)
 keyxl.com##.hidden-printz.pull-center.navbar-fixed-top.navbar:style(position: relative !important; top: 0 !important;)
-kfyrtv.com,wvva.com##.swing-in-top-fwd.navbar-brand
+kfyrtv.com,wbng.com,wvva.com##.swing-in-top-fwd.navbar-brand
 kgbanswers.com##.navbar-fixed-top:style(position: relative !important; top: 0 !important;)
 khaleejtimes.com##.logoarea:style(position: relative !important;)
 khanacademy.org##.module_1soyn4l:style(position: absolute !important;)
@@ -9322,9 +9323,6 @@ wickwerks.com###headerwrap:style(position: absolute !important; top: 0 !importan
 wideopencountry.com,wideopeneats.com,wideopenpets.com,wideopenspaces.com##.stickyHead
 wifinowevents.com##.widget-area.sidebar-primary.sidebar
 wiki.libsdl.org###feedback
-wikia.com###globalNavigation, .site-head-fandom-bar, .site-head-wrapper, .site-head:style(position: relative !important; top: 0 !important;)
-wikia.com##.anon.wds-global-navigation-wrapper:style(position: relative !important;)
-wikia.com##.is-f2.global-navigation-mobile-wrapper, .is-sticky.in-area-left.trending-topics, .is-sticky.in-area-right.quick-links, .no-shadow.site-head, .wds-global-navigation:style(position: absolute !important;)
 wikidot.com###navi-bar:style(position: absolute !important;)
 wikihow.com###actions #nav_pro .label:style(position: absolute !important; left: 16px !important; top: 28% !important;)
 wikihow.com###hs_query:style(width: 320px !important; height: auto !important;)
@@ -9426,6 +9424,9 @@ wmagazine.com##.inner:style(position: absolute !important;)
 wmagazine.com##.sub-header-sticky, .sub-header:style(position: relative !important; top: 0 !important;)
 wmflabs.org##.fixed.xt-toc.text-center
 wmtw.com##.alerts-block:style(display: block !important; transform: none !important;)
+wnbf.com##.aside-inside:style(position: absolute !important; top: 0 !important;)
+wnbf.com##.leaderboard-style-default:style(position: relative !important;)
+wnbf.com##.site-menu-drawer:style(transition: none !important; margin-top: 0 !important; z-index: -1 !important;)
 wncn.com###content:style(padding-top: 0 !important;)
 wnd.com###wj-network-header-container .wj-network-header-logo:style(height: 3.6vw !important; min-height: 36px !important; margin: 4px 0 !important;)
 wnd.com###wj-network-header-container:style(position: absolute !important;)
