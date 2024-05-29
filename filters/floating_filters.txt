@@ -9332,7 +9332,7 @@ wikihow.com###hs_submit:style(height: 39px !important; background-size: 25px !im
 wikihow.com###nav_explore, #nav_profile, #nav_random, #nav_quizzes:style(height: 31px !important;)
 wikihow.com###nav_pro_li:style(width: 100px !important; height: 45px !important; margin-top: 13px !important;)
 wikihow.com##.header:style(height: 72px !important;)
-wikihow.com##.header_container:style(height: 72px !important; transform: none !important;)
+wikihow.com##.header_container:style(position: absolute !important; height: 72px !important; transform: none !important;)
 wikihow.com##.header_container.shrunk #actions #nav_pro_li .red_dot:style(display: block !important;)
 wikihow.com##.header_container.shrunk #actions li .nav:style(padding-top: 40px !important;)
 wikihow.com##.nav_icon:style(display: block !important;)
