@@ -4436,7 +4436,7 @@ infoworld.com###oc-head:style(position: relative !important;)
 infoworld.com##.tocWrapper:style(position: absolute !important; top: 5px !important; left: -190px !important;)
 initiativeq.com##.active.sticky.NavBar
 inkling.com##.a11y-toolbar:style(position: absolute !important;)
-inkling.com##.ink-header:style(position: absolute !important;) 
+inkling.com##.ink-header:style(position: absolute !important;)
 inman.com###masthead-fixed:style(position: absolute !important; top: 0 !important;)
 innocenceproject.org##.normal-header:style(position: relative !important; top: 0 !important;)
 innocenceproject.org##.wrap_all:style(padding-top: 0 !important;)
