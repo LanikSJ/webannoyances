@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 20:33 2024-06-02
+! Last Modified: 21:39 2024-06-03
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -909,16 +909,14 @@ azure.microsoft.com##.wa-container:style(padding-top: 0 !important;)
 babbel.com##.masthead
 babble.com##.tm-header
 babe.net##.header-wrapper:style(position: relative !important; top: 0 !important;)
-babycenter.com###guidedPathContainer:style(position: relative !important; top: 0 !important;)
-babycenter.com###stickyHeaderSpaceHolder
-babycenter.com###topnavMenu:style(display: flex !important; height: 100% !important;)
-babycenter.com##.TopSlice:style(margin: 20px 0 !important;)
-babycenter.com##.fixedAddContainer, .momAnswersQuestionFooterWrapper:style(position: relative !important;)
-babycenter.com##.header:style(position: relative !important; padding: 0 20px 0 20px !important;)
-babycenter.com##.headerLogoContainer .bgLogo:style(height: 55px !important; width: 320px !important;)
+babycenter.com##.e1jqtkqd0:style(position: absolute !important; top: -70px !important;)
+babycenter.com##.e1njkf1h0
+babycenter.com##.edwzrlj0:style(margin-top: 70px !important;)
+babycenter.com##header:style(border-bottom: none !important;)
 babygaga.com,hotcars.com,moms.com,screenrant.com,thegamer.com,thequiz.com,therichest.com,thesportster.com,thetalko.com,thethings.com,thetravel.com###js-header:style(position: absolute !important;)
 babygaga.com,hotcars.com,moms.com,screenrant.com,thegamer.com,thequiz.com,therichest.com,thesportster.com,thetalko.com,thethings.com,thetravel.com##.sidebar-sticky:style(position: relative !important; top: 0 !important;)
-babylonbee.com##.sticky-footer-image
+babylonbee.com###bigNavbar:style(position: absolute !important; display: flex !important;)
+babylonbee.com###smallNavbar:style(position: absolute !important;)
 babynames.net##.names-container [style*="user-select: none"]:style(user-select: auto !important;)
 babynames.net,crn.com,scout.com,spigen.com##.nav-bar:style(position: relative !important;)
 babynamesdirect.com###fav:style(position: absolute !important;)
@@ -4425,7 +4423,9 @@ influxdata.com##.contact_sale:style(position: relative !important; bottom: 0 !im
 information.dk##.s-h > .s-h--copy
 information.dk,kristeligt-dagblad.dk###cookie-information-template-wrapper
 information.dk,kristeligt-dagblad.dk##.noScroll, .noScroll body:style(overflow: auto !important;)
-infosys.com###header-2
+infosys.com##.header-menu:style(display: block !important; opacity: 1 !important;)
+infosys.com##.navbar, .navbar-fixed-top, .search-wrap:style(position: absolute !important;)
+infosys.com##.sticky-left-nav
 infoteam.ch##.da-img:style(background-position: center 0px !important;)
 infoteam.ch##.fixeddiv .nav-container > ul > li > a:style(padding: 38px 20px !important;)
 infoteam.ch##.site-header:style(position: relative !important; top: 0 !important; min-height: 88px !important; box-shadow: none !important;)
