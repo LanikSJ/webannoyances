@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 21:39 2024-06-03
+! Last Modified: 16:25 2024-06-04
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -12,7 +12,7 @@
 ! Start Web Annoyances Ultralist - Floating Annoyances
 01.org,france24.com,rfi.fr##.o-header:style(position: absolute !important;)
 1001tracklists.com##.head:style(position: relative !important;)
-100milefreepress.net,abbynews.com,about.fandom.com,aboutamazon.com,adssettings.google.com,agassizharrisonobserver.com,airbnb.design,albernivalleynews.com,aldergrovestar.com,allamericanrejects.com,ambotv.com,arrowlakesnews.com,ashcroftcachecreekjournal.com,azarus.io,barrierestarjournal.com,bashawstar.com,blog.bitbucket.org,bizfluent.com,blueorigin.com,boundarycreektimes.com,bowenislandundercurrent.com,brainpickings.org,brightsurf.com,btcwires.com,burnslakelakesdistrictnews.com,caledoniacourier.com,campbellrivermirror.com,castlegarnews.com,castoradvance.com,cedarfair.com,chicagobusiness.com,citizensaccess.com,clearwatertimes.com,cloverdalereporter.com,coastmountainnews.com,community.microfocus.com,comoxvalleyrecord.com,couponcabin.com,coupons.cnn.com,cowichanvalleycitizen.com,crainscleveland.com,crainsdetroit.com,crainsnewyork.com,cranbrooktownsman.com,crestonvalleyadvance.ca,deadbydaylight.com,docs.google.com,dove.com,dropboxforum.com,eaglevalleynews.com,eckvilleecho.com,edpuzzle.com,ehow.co.uk,embracepetinsurance.com,exabeam.com,extrahop.com,fangraphs.com,fiveguys.com,flopstarter.com,foreignpolicy.com,freepik.com,freshideen.com,gamedev.net,goldstreamgazette.com,goodrx.com,grandforksgazette.ca,haidagwaiiobserver.com,hedgehogreview.com,hopestandard.com,html5canvastutorials.com,hugedomains.com,i24news.tv,in.mashable.com,instructure.com,interior-news.com,inverse.com,ipaddress.com,jbkempf.com,jimmyjohns.com,kat.am,katcr.to,kelownacapnews.com,keremeosreview.com,kickasstorrent.*,kickasstorrents.*,kimberleybulletin.com,houston-today.com,lacombeexpress.com,ladysmithchronicle.com,lakecountrycalendar.com,lakecowichangazette.com,langleyadvancetimes.com,libp2p.io,liveabout.com,manyvids.com,mapleridgenews.com,mcmansionhell.com,meds.se,microchip.com,milorganite.com,missioncityrecord.com,modernistcuisine.com,mondaymag.com,movi.pk,myadcenter.google.com,nanaimobulletin.com,nation.foxnews.com,nelsonstar.com,newlinesmag.com,news18.com,northdeltareporter.com,northernsentinel.com,northislandgazette.com,notebooklm.google,oakbaynews.com,ominecaexpress.com,orders.ordercoldstone.com,oreilly.com,peacearchnews.com,pentictonwesternnews.com,pocketsense.com,ponokanews.com,pimeyes.com,pipestoneflyer.ca,pqbnews.com,quesnelobserver.com,reddeeradvocate.com,revelstokereview.com,rhodecode.com,rimbeyreview.com,rit.rakuten.com,rosslandnews.com,saanichnews.com,saobserver.net,sendspace.com,similkameenspotlight.com,sookenewsmirror.com,speedrun.com,stettlerindependent.com,stives.com,summerlandreview.com,surreynowleader.com,sylvanlakenews.com,taylorswift.com,terracestandard.com,thefreepress.ca,thenorthernview.com,theprogress.com,toysrus.com,trailtimes.ca,usw.org,vancouverislandfreedaily.com,vernonmorningstar.com,vicnews.com,wendys.com,westerlynews.ca,wisetechlabs.com,wltribune.com##header:style(position: absolute !important;)
+100milefreepress.net,abbynews.com,about.fandom.com,aboutamazon.com,adssettings.google.com,agassizharrisonobserver.com,airbnb.design,albernivalleynews.com,aldergrovestar.com,allamericanrejects.com,ambotv.com,arrowlakesnews.com,ashcroftcachecreekjournal.com,azarus.io,barrierestarjournal.com,bashawstar.com,blog.bitbucket.org,bizfluent.com,blueorigin.com,boundarycreektimes.com,bowenislandundercurrent.com,brainpickings.org,brightsurf.com,btcwires.com,burnslakelakesdistrictnews.com,caledoniacourier.com,campbellrivermirror.com,castlegarnews.com,castoradvance.com,cedarfair.com,chicagobusiness.com,citizensaccess.com,clearwatertimes.com,cloverdalereporter.com,coastmountainnews.com,community.microfocus.com,comoxvalleyrecord.com,couponcabin.com,coupons.cnn.com,cowichanvalleycitizen.com,crainscleveland.com,crainsdetroit.com,crainsnewyork.com,cranbrooktownsman.com,crestonvalleyadvance.ca,deadbydaylight.com,docs.google.com,dove.com,dropboxforum.com,eaglevalleynews.com,eckvilleecho.com,edpuzzle.com,ehow.co.uk,embracepetinsurance.com,exabeam.com,extrahop.com,fangraphs.com,fiveguys.com,flopstarter.com,foreignpolicy.com,freepik.com,freshideen.com,gamedev.net,goldstreamgazette.com,goodrx.com,grandforksgazette.ca,haidagwaiiobserver.com,hedgehogreview.com,hopestandard.com,html5canvastutorials.com,hugedomains.com,i24news.tv,in.mashable.com,instructure.com,interior-news.com,inverse.com,ipaddress.com,jbkempf.com,jimmyjohns.com,kat.am,katcr.to,kelownacapnews.com,keremeosreview.com,kickasstorrent.*,kickasstorrents.*,kimberleybulletin.com,houston-today.com,lacombeexpress.com,ladysmithchronicle.com,lakecountrycalendar.com,lakecowichangazette.com,langleyadvancetimes.com,libp2p.io,liveabout.com,manyvids.com,mapleridgenews.com,mcmansionhell.com,meds.se,microchip.com,milorganite.com,missioncityrecord.com,modernistcuisine.com,mondaymag.com,movi.pk,myadcenter.google.com,nanaimobulletin.com,nation.foxnews.com,nelsonstar.com,newlinesmag.com,news18.com,northdeltareporter.com,northernsentinel.com,northislandgazette.com,notebooklm.google,oakbaynews.com,ominecaexpress.com,orders.ordercoldstone.com,oreilly.com,peacearchnews.com,pentictonwesternnews.com,pocketsense.com,ponokanews.com,pimeyes.com,pipestoneflyer.ca,pqbnews.com,quesnelobserver.com,reddeeradvocate.com,revelstokereview.com,rhodecode.com,rimbeyreview.com,rit.rakuten.com,rosslandnews.com,saanichnews.com,saobserver.net,sendspace.com,similkameenspotlight.com,sookenewsmirror.com,speedrun.com,stettlerindependent.com,stives.com,summerlandreview.com,surreynowleader.com,sylvanlakenews.com,taylorswift.com,terracestandard.com,thefreepress.ca,thenorthernview.com,theprogress.com,toysrus.com,trailtimes.ca,tysonfoods.com,usw.org,vancouverislandfreedaily.com,vernonmorningstar.com,vicnews.com,wendys.com,westerlynews.ca,wisetechlabs.com,wltribune.com##header:style(position: absolute !important;)
 100percentfedup.com##.menu-header-menu-container-add:style(position: absolute !important;)
 1011northplatte.com,1011now.com,13abc.com,26nbc.com,abc12.com,blackhillsfox.com,cbs19news.com,cbs7.com,futurism.com,graydc.com,kalb.com,kbtx.com,kcrg.com,kcwy13.com,kgns.tv,kgwn.tv,kkco11news.com,kktv.com,kmot.com,kmvt.com,knoe.com,knopnews2.com,kolotv.com,kotatv.com,kqcd.com,ksfy.com,ksnblocal4.com,kspr.com,ktuu.com,kumv.com,kwch.com,kwqc.com,kwtx.com,kxii.com,ky3.com,legalinsurrection.com,nbc11news.com,nbc15.com,potatopro.com,thebellabeanshop.com,thenewscenter.tv,tn.gov,uppermichigansource.com,valleynewslive.com,wabi.tv,wagmtv.com,wbay.com,wbko.com,wcax.com,wcjb.com,wctv.tv,wdbj7.com,wdtv.com,weau.com,webcenter11.com,whsv.com,wibw.com,wifr.com,wilx.com,witn.com,wjhg.com,wkyt.com,wndu.com,wowt.com,wrdw.com,wsaw.com,wsaz.com,wswg.tv,wtok.com,wtvy.com,wvlt.tv,wymt.com###nav:style(position: relative !important;)
 10best.com###nav-branding, #secondary:style(position: relative !important;)
@@ -1941,6 +1941,7 @@ clinicaltrials.gov##.action-bar:style(position: relative !important;)
 clinicaltrials.gov##.filters-panel-footer, .home-search-panel-footer:style(position: relative !important;)
 clinicaltrials.gov##.menu-content:style(position: relative !important;)
 clinicaltrials.gov##ctg-focus-your-search-panel:style(position: relative !important; top: 0 !important;)
+clips4sale.com##.sticky-store-header:style(position: relative !important;)
 cliqz.com##.logo-container:style(padding: 27px 36px 27px 0 !important;)
 cliqz.com,mightyearth.org,puretrance.com##.menu-container:style(position: absolute !important;)
 cloud.google.com##.devsite-nav.devsite-page-nav:style(position: relative !important; top: 0 !important; left: auto !important;)
@@ -7642,23 +7643,11 @@ state.gov##.report__back-to-top__button
 statebicycle.com##.header:style(position: relative !important; box-shadow: none !important;)
 statebicycle.com##.topbar:style(padding-top: 0 !important;)
 statebox.org###main-nav, .gitter-open-chat-button:style(position: absolute !important;)
-statefarm.com###oneX-header:style(position: static !important; transform: translateY(0) !important; animation: none !important;)
-statefarm.com##.-oneX-header-scroll-spacer
-statenews.com##.article header.container nav.navbar .container:style(width: auto !important;)
-stateoftheart.ai##.el-main:style(overflow: unset !important;)
-statereviewer.com##.sf-menu > li > a, .header-search-wrap .td-icon-search:style(line-height: 90px !important;)
-statereviewer.com##.td-header-menu-wrap.td-affix, .td-header-style-3 .td-affix .td-header-main-menu, .td-header-style-4 .td-affix .td-header-main-menu, .td-header-style-8 .td-header-menu-wrap.td-affix:style(background-color: #000000 !important;)
-statereviewer.com##.td-main-menu-logo
-statesman.com##.header-wrapper, .products-nav-fixed.products-nav:style(position: relative !important;)
-statesman.com##.hidden-md-down.sub-header-nav:style(position: absolute !important;)
-statista.com##.sticky--slider.sticky.padding-vertical-s-0.bg-white.border-top-gray20-1.border-bottom-gray20-1.overflow-hidden.stickyStatSlider.section:style(position: absolute !important;)
-statnews.com##.header-collapsed.header-shown.main-header:style(position: relative !important; top: 0 !important;)
-statnews.com##.recirculation-bar, .recirculation-label.recirculation-trending, .recirculation-bar-content.recirculation-trending:style(visibility: visible !important; opacity: 1 !important;)
-statnews.com##.recirculation-bar-content.recirculation-trending > .teaser-wrap > .teaser > .teaser-image > img[data-src], .recirculation-trending .teaser-image img[data-loaded]:style(display: block !important; opacity: 1 !important;)
-statnews.com##.recirculation-bar:style(position: static !important;)
-statnews.com##.top.share-sticky.share:style(position: absolute !important; top: auto !important; left: -78px !important;)
-statoil.com###navigation-fixed_language, #navigation-fixed_search
-statoil.com##.search-btn-wrapper:style(position: relative !important; top: 0 !important;)
+statista.com##.aside:style(position: relative !important; top: 0 !important;)
+statista.com##.homeStickyHeader
+statista.com##.scrollNavigation:style(position: relative !important;)
+statnews.com##.recirculation-bar
+statnews.com##.top.share-sticky.share:style(position: absolute !important; top: auto !important;)
 stats.com##.is-fixed.nav:style(position: absolute !important;)
 stats.wonderland.tf##.top-0.fixed:style(position: relative !important;)
 stats.wonderland.tf##.top-20.sticky:style(position: relative !important; top: 0 !important;)
@@ -7670,6 +7659,7 @@ steamcommunity.com##.responsive_header:style(position: absolute !important;)
 steamcommunity.com##.workshopItemControlsCtn:style(position: relative !important;)
 steamid.uk##.fixnavbar:style(position: absolute !important;)
 steamplay.*,streamp1ay.*,streamplay.*,streanplay.*##.jw-reset.jw-hide.jw-logo-top-right.jw-logo, [src="/favicon-32x32.png"]
+steamstat.us##.regions-title:style(position: relative !important;)
 steamykitchen.com##.slicknav_menu:style(position: absolute !important;)
 steemit.com##.headroom:style(position: relative !important; transform: none !important;)
 steepandcheap.com##.css-1qlhptd:style(position: relative !important; top: 0 !important; max-height: none !important;)
@@ -8559,6 +8549,14 @@ todayonline.com##.is_stuck.menu-bar.today-menu-bar, .menu-brand-line:style(posit
 todayonline.com##.menu-logo-sub:style(visibility: visible !important; opacity: 1 !important;)
 toddstarnes.com##.Header--top.Header:style(position: relative !important; top: 0 !important;)
 tofugu.com##.bg-faded.navbar-light.navbar-fixed-top.navbar, .search.nav-item:style(position: relative !important; top: 0 !important;)
+tollhousehotel.com##.menu-sticky-wrapper:style(position: relative !important;)
+tollhousehotel.com##.uk-logo > :last-child
+tollhousehotel.com##.uk-logo:style(top: -30px !important; max-width: 250px !important;)
+tollhousehotel.com##.uk-logo-inverse:style(display: block !important;)
+tollhousehotel.com##.uk-navbar-nav > li > a:style(color: #ffffff !important;)
+tollhousehotel.com##.uk-navbar-sticky:style(background-color: unset !important; box-shadow: none !important;)
+tollhousehotel.com##.uk-position-fixed:style(position: absolute !important;)
+tollhousehotel.com##.uk-sticky-placeholder
 tomsguide.com,tomshardware.com##.left-rail-area, .left-rail-nav:style(position: absolute !important;)
 tomsguide.com,tomshardware.com##.left-rail-area:style(left: -14.5% !important;)
 tomsguide.com,tomshardware.com##.left-rail-nav:style(transform: none !important; -webkit-transform: none !important; top: 0 !important;)
@@ -8934,6 +8932,9 @@ verizonwireless.com###headerEnd
 verizonwireless.com###vzw-gn.sticky .container-gnav.has-promo-ribbon:style(margin-top: 0 !important;)
 verizonwireless.com##.clear-float.container-gnav, .promo-ribbon, .top0.positionFixed:style(position: relative !important;)
 verticalmag.com###mhm-popout-navigation, .site-navigation.navbar:style(position: absolute !important;)
+verybestbaking.com##.fix-position-menu
+verybestbaking.com##.gdn-new-navigation:style(position: relative !important; transform: none !important; transition: none !important; top: 0 !important;)
+verybestbaking.com##.top-navigation:style(position: relative !important; transform: none !important; transition: none !important;)
 verywell.com,verywellfamily.com,verywellfit.com,verywellhealth.com,verywellmind.com###journey-nav_2-0:style(position: absolute !important;)
 verywell.com,verywellfamily.com,verywellfit.com,verywellhealth.com,verywellmind.com##.active.tmp-placeholder, .header-title
 verywell.com,verywellfamily.com,verywellfit.com,verywellhealth.com,verywellmind.com##.header .menu-button svg.icon-hamburger:style(width: 30px !important; height: 25px !important; margin-right: .625rem !important;)
@@ -9623,13 +9624,8 @@ zety.com##.header:style(position: absolute !important; transition: none !importa
 zety.com##.reading-indicator
 zftpserver.com##.scrollheader.opacity-header:style(position: absolute !important;)
 zilliqa.com##.birdseye-header:style(position: absolute !important; background-color: transparent !important; color: #fff !important; border: none !important;)
-zillow.com###hdp-action-bar-container, #hdp-home-menu:style(position: relative !important;)
-zillow.com##.home-details-sticky-bal:style(position: absolute !important; top: 0 !important;)
-zillow.com##.sticky-bal-wrapper, .zsg-nav-sub-wrapper:style(position: relative !important; top: 0 !important;)
 zimbio.com###htHeader:style(position: absolute !important;)
 zimperium.com###nav-main:style(position: absolute !important;)
-zinus.com##.product-navigation:style(position: static !important; top: auto !important; margin-top: 0 !important; transform: translateX(0px) !important; width: 100% !important; border-bottom: 1px solid #e3e3e1 !important; )
-zinus.com##.site-header__logo img:style(left: 60px !important; transform: translateX(0%) !important;)
 zmescience.com###site-banner:style(position: absolute !important;)
 zmescience.com##.jeg_stickybar:style(position: absolute !important; transform: translate3d(0px, 0px, 0px) !important;)
 zocdoc.com##.hMvuXX.htzklx-2:style(position: static !important;)
@@ -9641,6 +9637,7 @@ zvw.de##.main-nav-wrapper:style(position: absolute !important;)
 capandgowndirect.com,graduationcapandgown.com,zwaveproducts.com##.section-header:style(position: relative !important; transform: none !important;)
 ||ada.support^$3p
 ||beamimpact.com^$3p
+||chat.conncen.c1.statefarm^
 ||player.daznservices.com/player/v4/popup.chunk.js
 /matomo-connect.js$script,important
 /matomo-script.js$script,important
