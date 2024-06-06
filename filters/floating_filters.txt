@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 19:37 2024-06-06
+! Last Modified: 21:00 2024-06-06
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -350,7 +350,7 @@ agriculture.com##.site-header .pane-menu-block-1:style(width: 100% !important; p
 agriculture.com##.site-header .pane-page-site-name:style(margin: 0 !important;)
 agriculture.com##.site-header:style(height: 200.85px !important;)
 agriculture.com##.top-bar:style(display: block !important; width: 72% !important;)
-agriculture.com,azarus.io,discourse.mozilla.org,fastmail.com,forces.net,nba.com,truththeory.com,watchserieshd.*###main:style(padding-top: 0 !important;)
+agriculture.com,discourse.mozilla.org,fastmail.com,forces.net,nba.com,truththeory.com,watchserieshd.*###main:style(padding-top: 0 !important;)
 ahctv.com,animalplanet.com,destinationamerica.com,discovery.com,discoverylife.com,investigationdiscovery.com,sciencechannel.com,tlc.com,watch.cookingchanneltv.com,watch.diynetwork.com,watch.foodnetwork.com,watch.hgtv.com,watch.motortrend.com,watch.travelchannel.com##.headerLogo__logo.headerLogo__scrolled:style(transform: none !important;)
 ahctv.com,animalplanet.com,destinationamerica.com,discovery.com,discoverylife.com,investigationdiscovery.com,sciencechannel.com,tlc.com,watch.cookingchanneltv.com,watch.diynetwork.com,watch.foodnetwork.com,watch.hgtv.com,watch.motortrend.com,watch.travelchannel.com##.headerMain__main:style(position: absolute !important; background: transparent !important; background-position: unset !important; height: 135px !important;)
 ahctv.com,animalplanet.com,destinationamerica.com,discovery.com,discoverylife.com,investigationdiscovery.com,sciencechannel.com,tlc.com,watch.cookingchanneltv.com,watch.diynetwork.com,watch.foodnetwork.com,watch.hgtv.com,watch.motortrend.com,watch.travelchannel.com##.headerMain__topWrapper:style(height: 95px !important;)
@@ -905,6 +905,7 @@ azarus.io##.h_aza_discordButton
 azarus.io##.h_aza_viewerPage:style(height: unset !important;)
 azarus.io##.hv_aza_landing.v_header:style(position: relative !important;)
 azarus.io##.v_sectionSticky:style(position: relative !important;)
+azarus.io##main:style(padding-top: 0 !important;)
 azfamily.com##.wn-sticky:style(position: relative !important; top: 0 !important;)
 azquotes.com,safenotes.org###menu:style(position: absolute !important;)
 azure.microsoft.com###azure-header:style(position: relative !important;)
@@ -2124,6 +2125,8 @@ community.jivesoftware.com###j-cust-head:style(visibility: visible !important; t
 community.microfocus.com,dell.com##.lia-component-common-widget-scroll-to
 community.spotify.com##.stuck.navbar-bottom:style(position: absolute !important;)
 community.t-mobile.com###insidedTmoUNAV:style(position: static !important;)
+community.verizon.com##.lia-quilt-row-hero-banner
+community.verizon.com##.lia-quilt-row-main-header:style(position: relative !important;)
 compact-dynamics.de###kopf:style(position: absolute !important;)
 comparitech.com##body.category .section.main-content.sidebar-active .widget.toc_widget.sticky_toc, body.single .section.main-content.sidebar-active .widget.toc_widget.sticky_toc, body.page .section.main-content.sidebar-active .widget.toc_widget.sticky_toc, body.comparitech-pst-page .section.main-content.sidebar-active .widget.toc_widget.sticky_toc:style(position: static !important;)
 complex.com###cmplx-navigation, #elContainer, .background-image, .header-bar__container:style(position: relative !important; top: 0 !important;)
@@ -8887,10 +8890,9 @@ venmo.com##.organisms-navbar-container:style(position: relative !important; tran
 venturebeat.com##.MainBlock__sidebar:style(position: absolute !important; top: 0 !important;)
 vera.org###Header:style(position: absolute !important;)
 verdict.co.uk##.site-footer:style(position: relative !important;)
-verizon.com##.bg-white.w_header:style(position: absolute !important;)
-verizon.com##.is-sticky.js-nav--condensed.nav--condensed.nav, .masthead:style(position: relative !important; top: 0 !important;)
 verizon.com##.gnav20-sticky-content:style(position: static !important;)
 verizon.com##.gnav20-sticky-header
+verizon.com##.md\:sticky:style(position: relative !important;)
 verizondigitalmedia.com##.header-style-1.header-sticky-ready .menu-hover-style-1 .main-navigation-ul > li > a, .header-style-3.header-sticky-ready .menu-hover-style-1 .main-navigation-ul > li > a, .header-style-1.header-sticky-ready .menu-hover-style-5 .main-navigation-ul > li, .header-style-1.header-sticky-ready .menu-hover-style-2 .main-navigation-ul > li > a, .header-style-3.header-sticky-ready .menu-hover-style-2 .main-navigation-ul > li > a, .header-style-1.header-style-1.header-sticky-ready .menu-hover-style-4 .main-navigation-ul > li > a, .header-style-3.header-sticky-ready .menu-hover-style-4 .main-navigation-ul > li > a, .header-style-1.header-sticky-ready .menu-hover-style-3 .main-navigation-ul > li, .header-style-1.header-sticky-ready .mk-header-inner #mk-header-search, .header-style-3.header-sticky-ready .mk-header-holder #mk-header-search, .header-sticky-ready.header-style-3 .mk-header-start-tour, .header-sticky-ready.header-style-1 .mk-header-start-tour, .header-sticky-ready.header-style-1 .mk-header-inner, .header-sticky-ready.header-style-3 .mk-header-inner, .header-sticky-ready.header-style-3 .header-logo, .header-sticky-ready.header-style-1 .header-logo, .header-sticky-ready.header-style-1 .mk-search-trigger, .header-sticky-ready.header-style-1 .mk-search-trigger i, .header-sticky-ready.header-style-1 .shopping-cart-header, .header-sticky-ready.header-style-1 .shopping-cart-header i, .header-sticky-ready.header-style-3 .shopping-cart-header, .header-sticky-ready.header-style-1 #mk-header-social.header-section a, .header-sticky-ready.header-style-3 #mk-header-social.header-section a:style(height: 100px !important; line-height: 100px !important;)
 verizonmedia.com##.site-header .sticky-content:style(position: absolute !important; height: 8rem !important;)
 version2.dk##.header--sticky:style(position: relative !important; top: 0 !important;)
