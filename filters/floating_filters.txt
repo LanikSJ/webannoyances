@@ -4518,7 +4518,7 @@ internet-bikes.com##.shadow.sticky_box:style(position: relative !important; top:
 internetassociation.org###mainNav:style(position: relative !important; top: 0 !important;)
 internethealthreport.org##.global-header:style(position: absolute !important; transform: none !important;)
 internethealthreport.org##.justify-content-start.col-lg-1.flex-column.d-lg-flex.d-none.post-actions--right.post-actions > .sticky-item:style(position: absolute !important;)
-internetsociety.org##.main-header:style(position: absolute !important; top: 0 !important; background-color: none !important; border-bottom: )
+internetsociety.org##.main-header:style(position: absolute !important; top: 0 !important; background-color: none !important; border-bottom: none !important;)
 interviewmagazine.com##.is-sticky:style(position: absolute !important;)
 intezer.com###lsqtopbar_container, #main-menu:style(position: relative !important; top: 0 !important;)
 intjvision.com###mini-mobile-scroll:style(position: relative !important; top: 0 !important;)
