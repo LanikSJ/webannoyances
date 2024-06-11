@@ -76,7 +76,7 @@
 49ers.com,atlantafalcons.com,azcardinals.com,baltimoreravens.com,bengals.com,buccaneers.com,buffalobills.com,chargers.com,chicagobears.com,chiefs.com,clevelandbrowns.com,colts.com,dallascowboys.com,denverbroncos.com,detroitlions.com,giants.com,houstontexans.com,jaguars.com,miamidolphins.com,neworleanssaints.com,newyorkjets.com,packers.com,panthers.com,patriots.com,philadelphiaeagles.com,raiders.com,redskins.com,seahawks.com,steelers.com,therams.com,titansonline.com,vikings.com##.d3-o-nav--secondary:style(position: absolute !important;)
 49ers.com,atlantafalcons.com,azcardinals.com,baltimoreravens.com,bengals.com,buccaneers.com,buffalobills.com,chargers.com,chicagobears.com,chiefs.com,clevelandbrowns.com,colts.com,dallascowboys.com,denverbroncos.com,detroitlions.com,giants.com,houstontexans.com,jaguars.com,miamidolphins.com,neworleanssaints.com,newyorkjets.com,packers.com,panthers.com,patriots.com,philadelphiaeagles.com,raiders.com,redskins.com,seahawks.com,steelers.com,therams.com,titansonline.com,vikings.com##.nfl-has-sticky-nav .d3-l-wrap:style(padding-top: 0 !important;)
 4kdownload.com,codastory.com,hn.algolia.com,koons.com,origins.com,projects.fivethirtyeight.com,ucsc.edu,volkskrant.nl##.page-header:style(position: absolute !important;)
-4kmedia.org,abc17news.com,abqjournal.com,adobe.com,aei.org,afp.com,andrewcotton.co.uk,augustasportswear.com,bbqguys.com,bentkowski.info,bitcoinist.com,bitstamp.net,bittubers.com,blog.startech.com,brobible.com,bundeswahlleiter.de,ca.gov,cardinalcommerce.com,chasebonus.com,cigarcountry.com,clerk.house.gov,coingeek.com,commonapp.org,cracked.com,crackwatch.com,cruisecritic.com,datacenterdynamics.com,dictionary.com,domainbigdata.com,douyu.com,dramaqueen.pl,earthtouchnews.com,easy.ac,eatsmarter.com,edgewortheconomics.com,elevenwarriors.com,emailtester.de,emptywheel.net,extension.psu.edu,fixya.com,forum.team-mediaportal.com,fox10phoenix.com,fox13news.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox46charlotte.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,free-qr-code.net,freedomnode.com,gcits.com,getadblock.com,gizmochina.com,gnome.org,grahamdigital.com,grapee.jp,gsmarena.com,gurufocus.com,haverland.co.uk,hotdeals.com,howardstern.com,icon-park.com,icv2.com,ifu.com,ilovepdf.com,imagetwist.com,interestingengineering.com,investmentnews.com,iridiumbrowser.de,jeopardy.com,kesq.com,keyt.com,kiln.digital,kion546.com,kisskissbankbank.com,krdo.com,ktvu.com,ktvz.com,kvia.com,kyma.com,laboratoryequipment.com,lairdtech.com,linkody.com,localcrimenews.com,localnews8.com,longreads.com,looper.com,m.brecks.com,m.cdw.com,m.grainger.com,massprivatei.blogspot.com,mcafee.com,mcclatchy.com,mediafire.com,mentegram.com,mlwbd.*,monitor.firefox.com,movietickets.com,muffingroup.com,my9nj.com,nafnafgrill.com,narrative.ly,narratively.com,nbc-sports.massrel.io,neoneko.net,nesn.com,netvibes.com,nexcess.net,olamediagroup.com,oath.com,octobanana.com,openalias.org,openloadmovies.net,osmocom.org,overclock.net,overyondr.com,penconsultants.com,pennzoil.com,pionline.com,podcasts.joerogan.net,pud.com,puppylinux.com,railwayage.com,rainforesttrust.org,rand.org,rankedboost.com,reachadspecs.com,recaro.com,redbooth.com,redditinc.com,repairpal.com,riftcat.com,rossdawson.com,saic.com,savearescue.org,severalnines.com,shapescale.com,shepherdcolor.com,slashgear.com,sleeper.app,smartasset.com,stackblitz.com,straight.com,subzero-wolf.com,sucuri.net,tangeroutlet.com,techpost.io,ted.com,thisweekinstartups.com,threema.ch,tivo.com,tizianaterenzi.com,today.com,topclassactions.com,unionmarketdc.com,vault111.com,velonews.com,vivaldi.net,washingtonexaminer.com,wemedia.com,whistlermagazine.com,windowstechies.com,wogx.com,wowbiz.ro,yellowhammernews.com,zara.com,zerohedge.com###header:style(position: absolute !important;)
+4kmedia.org,abc17news.com,abqjournal.com,adobe.com,aei.org,afp.com,andrewcotton.co.uk,augustasportswear.com,bbqguys.com,bentkowski.info,bitcoinist.com,bitstamp.net,bittubers.com,blog.startech.com,brobible.com,bundeswahlleiter.de,ca.gov,cardinalcommerce.com,chasebonus.com,cigarcountry.com,clerk.house.gov,coingeek.com,commonapp.org,cracked.com,crackwatch.com,cruisecritic.com,datacenterdynamics.com,dictionary.com,domainbigdata.com,douyu.com,dramaqueen.pl,earthtouchnews.com,easy.ac,eatsmarter.com,edgewortheconomics.com,elevenwarriors.com,emailtester.de,emptywheel.net,extension.psu.edu,fixya.com,forum.team-mediaportal.com,fox10phoenix.com,fox13news.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox46charlotte.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,free-qr-code.net,freedomnode.com,gcits.com,getadblock.com,gizmochina.com,gnome.org,grahamdigital.com,grapee.jp,gsmarena.com,gurufocus.com,haverland.co.uk,hotdeals.com,howardstern.com,icon-park.com,icv2.com,ifu.com,ilovepdf.com,imagetwist.com,interestingengineering.com,investmentnews.com,iridiumbrowser.de,jeopardy.com,kesq.com,keyt.com,kiln.digital,kion546.com,kisskissbankbank.com,krdo.com,ktvu.com,ktvz.com,kvia.com,kyma.com,laboratoryequipment.com,lairdtech.com,linkody.com,localcrimenews.com,localnews8.com,longreads.com,looper.com,m.brecks.com,m.cdw.com,m.grainger.com,massprivatei.blogspot.com,mcafee.com,mcclatchy.com,mediafire.com,mentegram.com,mlwbd.*,monitor.firefox.com,movietickets.com,muffingroup.com,my9nj.com,nafnafgrill.com,narrative.ly,narratively.com,nbc-sports.massrel.io,neoneko.net,nesn.com,netvibes.com,nexcess.net,olamediagroup.com,oath.com,octobanana.com,openalias.org,openloadmovies.net,osmocom.org,overclock.net,overyondr.com,penconsultants.com,pennzoil.com,pionline.com,podcasts.joerogan.net,pud.com,puppylinux.com,railwayage.com,rainforesttrust.org,rand.org,rankedboost.com,reachadspecs.com,recaro.com,redbooth.com,redditinc.com,repairpal.com,riftcat.com,rossdawson.com,saic.com,savearescue.org,severalnines.com,shapescale.com,shepherdcolor.com,slashgear.com,sleeper.app,smartasset.com,stackblitz.com,straight.com,subzero-wolf.com,sucuri.net,tangeroutlet.com,techpost.io,ted.com,themebeta.com,thisweekinstartups.com,threema.ch,tivo.com,tizianaterenzi.com,today.com,topclassactions.com,unionmarketdc.com,vault111.com,velonews.com,vivaldi.net,washingtonexaminer.com,wemedia.com,whistlermagazine.com,windowstechies.com,winnoise.com,wogx.com,wowbiz.ro,yellowhammernews.com,zara.com,zerohedge.com###header:style(position: absolute !important;)
 4sysops.com##.kleo-main-header:style(position: absolute !important; border-bottom: none !important;)
 4sysops.com##.kleo-quick-contact-wrapper:style(position: absolute !important; right: 50px !important;)
 4sysops.com##.navbar-header:style(line-height: 120px !important; height: 120px !important;)
@@ -6371,9 +6371,12 @@ pcworld.com##.rr-gallery-heading
 pcworld.com##.thm-gallery:style(position: relative !important; top: 0 !important; width: 620px !important;)
 pcworld.com##article .thm-gallery.rr-gallery-vid .items.right-rail:style(position: static !important;)
 pdfsam.org##.navbar-fixed > .white:style(position: absolute !important;)
+peakpx.com##.headerbar_top:style(position: relative !important;)
+peakpx.com##.newh1:style(top: -1px !important;)
+peakpx.com##main:style(margin-top: -1px !important;)
 pedelec-ebike-forum.de##.topmenu:style(position: absolute !important; top: 0 !important;)
+pedelec-elektro-fahrrad.de##.altcontainer-replacer
 pedelec-elektro-fahrrad.de##.is_stuck.mm-fixed-top.stickyloaded.altcontainer:style(position: relative !important; top: 0 !important;)
-pedelec-elektro-fahrrad.de##.topbar-right
 pedelecs.co.uk##.sticky_wrapper:style(position: absolute !important;)
 pedestrian.tv##.navbar-fixed-top.navbar-default.black.navbar:style(position: absolute !important; top: 0 !important;)
 peerlyst.com##.fixed-footer, .site-header-post-actions.nav-item-custom.nav-item, .site-header-post-title.truncate.nav-item-text.nav-item
@@ -6392,14 +6395,6 @@ personal.lookout.com##.text-page:style(overflow: unset !important;)
 personal.lookout.com##body:style(position: unset !important; overflow-y: scroll !important;)
 personalfinanceforbeginners.com##.container-wrap:style(padding-top: 0 !important;)
 personalfinanceforbeginners.com,transferwise.com###top:style(position: relative !important;)
-perspectaweather.com###content:style(opacity: 1 !important;)
-perspectaweather.com###folderNav:style(margin-top: 0 !important;)
-perspectaweather.com###header h1:style(font-size: 18px !important; transform: none !important;)
-perspectaweather.com###header:style(position: absolute !important; top: 0 !important; padding: 40px 0 0 !important; border-top-width: 0 !important; width: 100% !important;)
-perspectaweather.com##.info-title-email-wrapper:style(margin-bottom: 0 !important;)
-perspectaweather.com##.logo:style(max-height: 80px !important;)
-perspectaweather.com##.main-image-wrapper:style(display: block !important; position: relative !important; top: 0 !important; opacity: 1 !important; transform: none !important; height: auto !important;)
-perspectaweather.com##.nav-wrapper:style(margin: 0 !important; max-height: 8em !important;)
 peta.org##.js-smaller.logo
 peta.org##.sticky-banner, .top-bar:style(position: relative !important; top: 0 !important;)
 petapixel.com##.fixed.header-main:style(position: relative !important; top: 0 !important;)
@@ -8184,6 +8179,7 @@ themarysue.com##.logomark:style(width: 59px !important; height: 80px !important;
 themarysue.com##.o-header-nav-bar:style(max-height: 45px !important;)
 themasters.gg##.Header-Active.Header-Translucent.left-0.right-0.top-0.Header:style(position: absolute !important; top: 0 !important;)
 themaven.net###comments, .posts-column > .col-header, .posts.story-columns > .col-header:style(position: relative !important;)
+themebeta.com###menu:style(position: absolute !important; overflow-x: unset !important; overflow-y: unset !important;)
 themeisle.com###notice-popup
 themeisle.com##.sticky-sidebar:style(position: static !important;)
 themeisle.com##header[role="banner"]:style(position: absolute !important; transition: none !important; display: block !important;)
@@ -9229,7 +9225,6 @@ windowsreport.com###main-menu, .site-header:style(position: absolute !important;
 windowsreport.com##.fixed.sticky.contain-to-grid:style(position: relative !important; top: 0 !important;)
 winnerslacrosse.org###parallax-nav
 winnerslacrosse.org##.yui3-widget:style(position: absolute !important;)
-winnoise.com###header:style(position: absolute !important;)
 winnoise.com###sidebar_menu:style(position: absolute !important;)
 wired.co.uk##.c-nav__wrapper, .n-main__nav-logo:style(position: absolute !important;)
 wired.co.uk##.is-stuck.n-main__sticker-child:style(position: relative !important; top: 0 !important;)
