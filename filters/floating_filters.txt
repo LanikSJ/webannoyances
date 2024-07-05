@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 18:20 2024-07-02
+! Last Modified: 15:54 2024-07-05
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -584,6 +584,7 @@ angularjs.org###navbar-main, #navbar-notice:style(position: absolute !important;
 anime-planet.com###siteHeader:style(position: absolute !important;)
 anker.com##.headerFix:style(position: absolute !important;)
 anker.com,fastcocreate.com,fastcompany.com##.sticky-inner-wrapper
+annsilvers.com##.header_bot:style(position: relative !important;)
 anothermanmag.com##.sticky-main-navigation-container
 anovaculinary.com###content-subnav:style(position: relative !important;)
 anovaculinary.com###topic-progress-wrapper
@@ -6734,13 +6735,17 @@ rottentomatoes.com###movies_sidebar:style(position: absolute !important;)
 router-switch.com##.header-top:style(position: absolute !important;)
 rover.com##.header-right, .side-menu:style(display: inline-block !important;)
 rover.com##.site-header:style(position: absolute !important; background-color: #00bd70 !important;)
-royalcaribbean.com##.sticky.rccl-nav-main:style(position: absolute !important;)
+royalcaribbean.com###filters-wrapper:style(position: relative !important; top: 0 !important; box-shadow: none !important;)
+royalcaribbean.com##.Filters__FilterText-sc-3849b58-2
+royalcaribbean.com##.SearchPage__PageConstrain-sc-2d56f16b-5:style(max-width: 1440px !important;)
+royalhack.net##.aXenTopBar:style(position: relative !important;)
 rp-online.de##.sticky.waypoint-check-top:style(position: absolute !important;)
 rpcs3.net##.menu-con-bar:style(position: absolute !important;)
 rsaconference.com###sticky-logo
-rsf.org###navbar:style(position: absolute !important; top: 0 !important;)
+rsf.org##.wrapper-left:style(position: relative !important; top: 0 !important;)
 rt.com##.header:style(position: relative !important; top: 0 !important; margin-top: 0 !important;)
-rt.com##.header_js_padding-bottom:style(padding-bottom: unset !important;)
+rt.com##.header__nav:style(padding: 0 !important;)
+rt.com##.Section-isStickyTop:style(position: relative !important; top: 0 !important;)
 rticcoolers.com##.navbar-default.navbar:style(position: relative !important; top: 0 !important;)
 rumble.com##.content-header, .news_notification:style(position: absolute !important;)
 runitonce.com###body_container:style(padding-top: 0 !important;)
@@ -7383,6 +7388,7 @@ stats.wonderland.tf##.top-0.fixed:style(position: relative !important;)
 stats.wonderland.tf##.top-20.sticky:style(position: relative !important; top: 0 !important;)
 status.slack.com###nav_bar_section:style(position: absolute !important;)
 steamcollector.com##.app-navbar:style(position: absolute !important;)
+steamcommunity.com###footer.compact:style(position: absolute !important;)
 steamcommunity.com##.FixedElementOnScrollWrapper_padding
 steamcommunity.com##.responsive_OnClickDismissMenu.panel:style(position: relative !important; top: 0 !important;)
 steamcommunity.com##.responsive_header:style(position: absolute !important;)
