@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
-! Last Modified: 19:51 2024-05-16
+! Last Modified: 00:46 2024-07-12
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -414,6 +414,7 @@ msn.com###MSN_NTP_For_Chrome_2020_1, #MSN_NTP_For_Chrome_2020_2, #cookieprivacy
 musically.com,slitherio.org###scnb-cookie-bar
 mygoodplanet.com##.thb-cookie-bar
 myspace.com###termsOfService, .eucookie
+namesilo.com##.fixed-footer
 nascar.com##.preloaded_lightbox
 nationalreview.com##.bcpNotificationBar
 nature.com##.c-site-messages, .container-type-cookies-
