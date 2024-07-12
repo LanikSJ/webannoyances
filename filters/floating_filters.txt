@@ -4169,7 +4169,7 @@ ihsmarkit.com##.sticky:style(position: absolute !important; top: 0 !important; r
 ijr.com###masthead, .opt360-header.py1.z10000.right-0.left-0.top-0.fixed.border-box.header-height, .z1.relative > .header-height:style(position: relative !important; top: 0 !important;)
 ijr.com###progress-bar
 ijr.com##.opt360-header:style(position: absolute !important;)
-ijr.com,mariokartboss.com,outkick.com##.g1-sticky-widget:style(position: static !important;)
+ijr.com,outkick.com##.g1-sticky-widget:style(position: static !important;)
 ijr.com,outkick.com,product-reviews.net,themindcircle.com,vegannews.co##.g1-teaser
 ikea.com###btn-back-to-top
 ikea.com##.plp-clearfix::after
