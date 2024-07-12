@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 00:45 2024-07-12
+! Last Modified: 01:21 2024-07-12
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -918,12 +918,14 @@ babynamesdirect.com###fav:style(position: absolute !important;)
 backblaze.com##.nav2_content:style(position: absolute !important;)
 backcountry.com##.header-wrap:style(position: relative !important; top: 0 !important;)
 backlinkseo.com###_header-93-354:style(position: relative !important;)
+backpack.tf,backpacktf.com##body:style(background-attachment: unset !important;)
 backstage.com###backstage-header:style(position: absolute !important;)
 backstageol.com###nav-wrapper:style(position: relative !important;)
 badgerandblade.com,disboards.com,sammyboy.com##.p-navSticky:style(position: static !important; box-shadow: none !important;)
 badpackets.net##.navigation-top:style(position: absolute !important;)
 bagleywatchco.com##.site-header--fixed.site-header--homepage.site-header--transparent.site-header:style(position: relative !important; top: 0 !important;)
-baidu.com###head, .s_down, .s_form:style(position: relative !important; top: 0 !important;)
+baidu.com###head:style(position: absolute !important;)
+baidu.com###searchTag:style(position: relative !important; top: 0 !important; padding-top: 14px !important; padding-bottom: 4px !important; box-shadow: none !important; margin-top: 0 !important;)
 baincapital.com###__header:style(position: relative !important; top: 0 !important;)
 bakercityherald.com##.pos_left.navbar-brand
 bakingsteel.com###mainNavigation, #showOnScrollWrapper:style(position: relative !important; top: 0 !important;)
@@ -4688,7 +4690,6 @@ kqed.org##.components-NextHeader-__NextHeader__subnav:style(transform: none !imp
 kqed.org##.logo-kqed:style(height: 48px !important;)
 kqed.org##header:style(position: relative !important; height: 174px !important;)
 kraftrecipes.com###topHeader:style(position: relative !important; top: 0 !important;)
-kraken.com###head:style(position: absolute !important;)
 kremlin.ru##.topline__menu.topline:style(position: absolute !important;)
 kristeligt-dagblad.dk##.site-header:style(padding-top: 0 !important;)
 kristeligt-dagblad.dk##.site-header__separator--fixed, .site-header__separator.progress-border
@@ -5775,6 +5776,7 @@ nfl.com##.page-header-transition-manager-container > div:nth-of-type(2):style(po
 nfl.com##.rmq-5a4b0a67.rmq-c5694ca2.rsv-d4b4b949:style(position: relative !important;)
 nfl.com##.rmq-6e08d6a4, .rmq-d8bfbbf5 > div:nth-of-type(3) > div:nth-of-type(1):style(position: relative !important; top: 0 !important;)
 nflbite.com##.td-header-row:style(position: relative !important; transform: translate3d(0px, 0px, 0px) !important; width: 100% !important;)
+nft.kraken.com##[data-testid="top-navigation"]:style(position: absolute !important;)
 ngccoin.com###coinEncycNav:style(position: absolute !important; top: 460px !important;)
 nginx.com###nx_masthead:style(position: absolute !important;)
 nginx.com##.single-product-17-navbar:style(position: relative !important; top: 0 !important;)
@@ -7445,6 +7447,8 @@ support.google.com###gb, .gb_1d, .gb_Hd, .gb_Nd:style(box-shadow: none !importan
 support.google.com##.fixed-sidebar-container:not([style*="left:"]):style(position: absolute !important; top: 0 !important;)
 support.google.com##.gb_Ad, .gb_jd, .gb_sd, header div[style="height: 64px;"]
 support.google.com##.nav-back-to-top:style(position: absolute !important;)
+support.kraken.com##.ease-out:style(transition: none !important;)
+support.kraken.com##.top-0.sticky:style(position: relative !important;)
 support.microsoft.com###obf-ToastContainer
 support.microsoft.com###supFeedbackWrapper, .sidebar-banner .sidebar-banner-innerWrapper:style(position: static !important;)
 support.mozilla.org##.document-vote--sidebar-wrap:style(position: static !important;)
@@ -8137,7 +8141,7 @@ tinybeans.com##.search-container:style(height: 90px !important; background-color
 tinyendian.com##.collapsed.TopBar:style(position: absolute !important;)
 tipalti.com##.site-header:style(position: absolute !important; animation: none !important;)
 tipranks.com##.shadowheader:style(position: relative !important;)
-tipue.com###head:style(position: absolute !important;)
+tipue.com##.section-6:style(background-attachment: unset !important;)
 tivo.com###block-views-home-page-top-banner-block:style(position: absolute !important;)
 tlnt.com##.sticky:style(position: static !important;)
 tmall.com###J_ASTotalContainer, .show.as-shelter:style(position: relative !important; top: 0 !important;)
