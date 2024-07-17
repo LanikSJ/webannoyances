@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Last Modified: 04:40 2024-01-11
+! Last Modified: 21:23 2024-07-17
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -220,6 +220,7 @@ electronichouse.com##.subscribe-form-wrapper, .subscribe-teaser
 elie.net##.visible.newsletter
 employeefiduciary.com###subscriberPopInner
 engadget.com###engadget-article-footer, #engadget-context-nav
+enjoytravel.com###newsletter-subscribe, .popover
 epi.org###epi-email-signup-backdrop
 epicurious.com##.no-border.fullwidth.newsletter
 espn.*##.espnDaily.sub-module, .espnDaily--inline
