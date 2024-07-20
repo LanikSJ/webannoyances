@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Last Modified: 00:47 2024-07-12
+! Last Modified: 23:44 2024-07-20
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -601,6 +601,7 @@ literaryreview.co.uk##.popup-placer
 lithub.com##.optin-monster-saas-overlay
 lithub.com,securityaffairs.co###post_more_wrapper
 littlepassports.com,radixdlt.com,utah.com,wilton.com##.popup-dialog, .popup-overlay
+livejasmin.com##.over-18
 livestrong.com##.newsletter_signup_overlay
 lowes.com##.emailsignupmechanism
 m.imgur.com##.FloatingOIA
