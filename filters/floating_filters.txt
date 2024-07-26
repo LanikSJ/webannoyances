@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 23:00 2024-07-26
+! Last Modified: 23:22 2024-07-26
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -3006,7 +3006,8 @@ fantasylabs.com##.perm-fixed-nav .nav-container, .perm-fixed-nav nav.fixed:style
 fantasypros.com###nav-sub, #nav-top:style(position: relative !important; top: 0 !important;)
 fantasypros.com##.body-wrap:style(top: 0 !important;)
 fantasysports.yahoo.com###editTeamSaveBar:style(position: relative !important;)
-fapello.com,girlsupnorth.com,masterfap.net##.sidebar:style(position: absolute !important;)
+fapello.com##.sidebar:style(position: absolute !important; height: unset !important; overflow: unset !important; --tw-shadow: none !important;)
+fapello.com##.sidebar .sidebar_inner:style(height: unset !important;)
 fas.org###wrapper_nav:style(position: relative !important; transform: none !important;)
 fascinatingmaps.com,santafenewmexican.com###main-navigation:style(position: relative !important;)
 fashionmagazine.com##.is-fixed.js--header-nav.header-nav:style(position: absolute !important;)
@@ -3538,6 +3539,7 @@ giftcardzen.com##.wrapper.rmn-alert:style(margin-top: 0 !important;)
 giphy.com##.cDCMCo:style(position: relative !important; top: 0 !important;)
 giphy.com##.dHntWi:style(position: absolute !important; top: unset !important; transform: none !important; transition: none !important;)
 giphy.com##.ena-DiU:style(width: unset !important; padding-bottom: 0 !important;)
+girlsupnorth.com,masterfap.net##.sidebar:style(position: absolute !important;)
 girlsupnorth.com##.fixed-bottom:style(position: relative !important;)
 girlsupnorth.com##.scroll-to-top
 git.news##.producthunt
