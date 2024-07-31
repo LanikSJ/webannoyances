@@ -1304,8 +1304,7 @@ blog.google##.uni-header:style(position: absolute !important; transform: transla
 blog.intercom.com##.run-less__nav:style(position: absolute !important;)
 blog.leavemealone.app,nullsweep.com,retool.com##.floating-active.floating-header
 blog.linkody.com,digitaljournal.com,topclassactions.com##.a2a_kit:style(position: absolute !important;)
-blog.linkody.com###custom_html-12:style(position: relative !important; top: 0 !important;)
-blog.linkody.com###ldbc_widget-3:style(position: relative !important; top: 0 !important;)
+blog.linkody.com###custom_html-12, #ldbc_widget-3:style(position: static !important; top: auto !important;)
 blog.linkody.com##.widget-area > aside:nth-child(4), .widget-area > aside:nth-child(6)
 blog.lyft.com##.page-header, .tier-one:style(position: absolute !important;)
 blog.malwarebytes.com###fixed-left-nav:style(position: absolute !important;)
