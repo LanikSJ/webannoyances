@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 01:22 2024-08-02
+! Last Modified: 04:35 2024-08-02
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -102,7 +102,7 @@
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.story, main:style(margin-top: 0 !important;)
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.weather-desktop:style(display: inline-block !important; text-align: center !important; vertical-align: top !important;)
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.weather-text-container:style(display: block !important; line-height: 1 !important; margin: 0 !important; vertical-align: top !important;)
-6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com,abovethelaw.com,accenture.com,adexchanger.com,adweek.com,afr.com,aol.co.uk,aol.com,architectural-review.com,arkema-americas.com,aviationpros.com,bathandbodyworks.com,bgov.com,bitport.io,blog.cloudflare.com,blog.thoughtlabs.com,blogtalkradio.com,boston.com,britannica.com,burpee.com,businessinsider.com.au,businessinsider.de,buzzfeed.com,calvertjournal.com,capbluecross.com,carfax.com,cebglobal.com,channelnewsasia.com,cheatsheet.com,chipotle.com,cityam.com,city-data.com,click2houston.com,clickondetroit.com,clickorlando.com,cnn.com,collectorsweekly.com,community.arm.com,corporationwiki.com,couponchief.com,cpbj.com,cryptoslate.com,css-tricks.com,dailycaller.com,dezeen.com,deltadentalins.com,dmnews.com,dreamstime.com,dribbble.com,duckduckgo.com,emsisoft.com,excellusbcbs.com,expressvpn.com,fair.org,fastcodesign.com,fastcompany.com,filehippo.com,firstwefeast.com,flirc.tv,footwearnews.com,foxbusiness.com,foxnews.com,geek.com,ggwash.org,giga.de,glassesdirect.co.uk,gmfinancial.com,golfadvisor.com,hannaandersson.com,huffpost.com,ifre.com,ign.com,independentpersian.com,indyturk.com,kaspersky.com,kfor.com,ksat.com,lairdtech.com,lawnewz.com,livelingua.com,local10.com,logolounge.com,macobserver.com,marketwatch.com,mckinsey.com,mediaite.com,military.com,mtb-news.de,myflorida.com,mymodernmet.com,nationalreview.com,nature.com,neteller.com,news4jax.com,newsbreakinglive.com,nowthatspeachy.com,petco.com,podia.com,potterybarn.com,pprune.org,privacycompany.eu,protechtraining.com,q13fox.com,razer.com,rare.us,reviewed.com,robertedwardauctions.com,rollingstone.com,runningshoesguru.com,screenrant.com,seattletimes.com,seekingalpha.com,spectrum.com,splcenter.org,standard.co.uk,stereogum.com,tampabay.com,techcrunch.com,techopedia.com,texasmonthly.com,theblaze.com,thecipherbrief.com,thelines.com,thenationalpulse.com,therealnews.com,thestar.com.my,timesofisrael.com,trendingpolitics.com,uber.com,undark.org,uproxx.com,usenix.org,usmagazine.com,variety.com,vinepair.com,virginia.gov,washingtoncitypaper.com,washingtontimes.com,weismarkets.com,whatsapp.com,whyy.org,wktv.com,wlfi.com,wmtw.com,wordpress.com,wordpress.org,wsls.com,wthitv.com,wwe.com,xda-developers.com##body:style(padding-top: 0 !important;)
+6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com,abovethelaw.com,accenture.com,adexchanger.com,adweek.com,afr.com,aol.co.uk,aol.com,architectural-review.com,arkema-americas.com,aviationpros.com,bathandbodyworks.com,bgov.com,bitport.io,blog.cloudflare.com,blog.thoughtlabs.com,blogtalkradio.com,boston.com,britannica.com,burpee.com,businessinsider.com.au,businessinsider.de,buzzfeed.com,calvertjournal.com,capbluecross.com,carfax.com,cebglobal.com,channelnewsasia.com,cheatsheet.com,chipotle.com,cityam.com,city-data.com,click2houston.com,clickondetroit.com,clickorlando.com,cnn.com,collectorsweekly.com,community.arm.com,corporationwiki.com,couponchief.com,cpbj.com,cryptoslate.com,css-tricks.com,dailycaller.com,dezeen.com,deltadentalins.com,dmnews.com,dreamstime.com,dribbble.com,duckduckgo.com,emsisoft.com,excellusbcbs.com,expressvpn.com,fair.org,fastcodesign.com,fastcompany.com,filehippo.com,firstwefeast.com,flirc.tv,footwearnews.com,foxbusiness.com,foxnews.com,geek.com,ggwash.org,giga.de,glassesdirect.co.uk,gmfinancial.com,golfadvisor.com,hannaandersson.com,huffpost.com,ifre.com,ign.com,independentpersian.com,indyturk.com,kaspersky.com,kfor.com,ksat.com,lairdtech.com,lawnewz.com,livelingua.com,local10.com,logolounge.com,macobserver.com,marketwatch.com,mckinsey.com,mediaite.com,military.com,mtb-news.de,myflorida.com,mymodernmet.com,nationalreview.com,nature.com,neteller.com,news4jax.com,newsbreakinglive.com,nowthatspeachy.com,petco.com,podia.com,potterybarn.com,pprune.org,privacycompany.eu,protechtraining.com,q13fox.com,razer.com,rare.us,reviewed.com,robertedwardauctions.com,rollingstone.com,runningshoesguru.com,screenrant.com,seattletimes.com,seekingalpha.com,spectrum.com,splcenter.org,spoonuniversity.com,standard.co.uk,stereogum.com,tampabay.com,techcrunch.com,techopedia.com,texasmonthly.com,theblaze.com,thecipherbrief.com,thelines.com,thenationalpulse.com,therealnews.com,thestar.com.my,timesofisrael.com,trendingpolitics.com,uber.com,undark.org,uproxx.com,usenix.org,usmagazine.com,variety.com,vinepair.com,virginia.gov,washingtoncitypaper.com,washingtontimes.com,weismarkets.com,whatsapp.com,whyy.org,wktv.com,wlfi.com,wmtw.com,wordpress.com,wordpress.org,wsls.com,wthitv.com,wwe.com,xda-developers.com##body:style(padding-top: 0 !important;)
 7-eleven.com,bgov.com,blog.zoom.us,bloomberg.com,boston25news.com,bugzilla.mozilla.org,burpee.com,claremont.org,cryptoslate.com,dailywire.com,dazeddigital.com,donaldjtrump.com,fidoalliance.org,fox13memphis.com,fox23.com,fox26houston.com,gianlucadimarzio.com,github.io,hrw.org,imageglass.org,inews.co.uk,lamag.com,mobile.wnd.com,nationalreview.com,nyclu.org,oilandgasinvestor.com,ok.co.uk,pixel.google,reactos.org,ritzpix.com,robertedwardauctions.com,samsung.com,similarsites.com,splcenter.org,stuff.tv,tattoodo.com,telesurtv.net,terrawest.com,thebrag.com,theweek.com,traumanurses.org,trustedreviews.com,ubs.com,untangle.com,userstyles.org,verily.com,wallstreetoasis.com,woodmagazine.com,wsbtv.com,wsvn.com###header:style(position: relative !important;)
 7-eleven.com##.FeedBackButton_feedback-button-wrapper__6m_eq:style(position: absolute !important;)
 7-eleven.com##.notification-banner
@@ -251,7 +251,7 @@ access.redhat.com###action-nav:style(position: absolute !important;)
 accmag.com###head-main-wrap, #sticky-header:style(position: relative !important; top: 0 !important;)
 account.blizzard.com##.desktop.side-navigation:style(position: static !important;)
 account.microsoft.com##.activity-item.datem .refine-menu-container, [dir="ltr"] .timeline-endless-list .activity-item.date, [dir="ltr"] .timeline-endless-list .button-container, [dir="ltr"] timeline .refine-menu-container:style(position: static !important;)
-accountingtoday.com,americanbanker.com,benefitnews.com,bondbuyer.com,ctinsider.com,cujournal.com,dig-in.com,employeebenefitadviser.com,financial-planning.com,happymag.tv,healthdatamanagement.com,information-management.com,nationalmortgagenews.com,paymentssource.com,taxprotoday.com,themiddlemarket.com,backblaze.com,boardingarea.com,boredomtherapy.com,cbc.ca,dailyfx.com,dangerousminds.net,diynetwork.com,extrahop.com,fitbit.com,fixya.com,foodnetwork.com,fox10phoenix.com,fox13news.com,fox29.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox9.com,foxla.com,ktvu.com,wogx.com,fritz.ai,gamingonlinux.com,greatamericancountry.com,hackr.io,hgtv.com,honesttopaws.com,houstonchronicle.com,icanvas.com,inews.co.uk,investopedia.com,lawandcrime.com,lull.com,mediaite.com,nationalreview.com,nbcolympics.com,nypost.com,octolinker-demo.now.sh,pagesix.com,pga.com,radaronline.com,realclearbooks.com,realcleardefense.com,realcleareducation.com,realclearenergy.org,realclearfuture.com,realclearhealth.com,realclearhistory.com,realclearinvestigations.com,realclearmarkets.com,realclearpolitics.com,realclearpublicaffairs.com,realclearreligion.org,realclearscience.com,realclearsports.com,realclearworld.com,spiegel.de,spoonuniversity.com,squarespace.com,thejc.com,thewirecutter.com,travelchannel.com,version2.dk##body:style(margin-top: 0 !important;)
+accountingtoday.com,americanbanker.com,benefitnews.com,bondbuyer.com,ctinsider.com,cujournal.com,dig-in.com,employeebenefitadviser.com,financial-planning.com,happymag.tv,healthdatamanagement.com,information-management.com,nationalmortgagenews.com,paymentssource.com,taxprotoday.com,themiddlemarket.com,backblaze.com,boardingarea.com,boredomtherapy.com,cbc.ca,dailyfx.com,dangerousminds.net,diynetwork.com,extrahop.com,fitbit.com,fixya.com,foodnetwork.com,fox10phoenix.com,fox13news.com,fox29.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox9.com,foxla.com,ktvu.com,wogx.com,fritz.ai,gamingonlinux.com,greatamericancountry.com,hackr.io,hgtv.com,honesttopaws.com,houstonchronicle.com,icanvas.com,inews.co.uk,investopedia.com,lawandcrime.com,lull.com,mediaite.com,nationalreview.com,nbcolympics.com,nypost.com,octolinker-demo.now.sh,pagesix.com,pga.com,radaronline.com,realclearbooks.com,realcleardefense.com,realcleareducation.com,realclearenergy.org,realclearfuture.com,realclearhealth.com,realclearhistory.com,realclearinvestigations.com,realclearmarkets.com,realclearpolitics.com,realclearpublicaffairs.com,realclearreligion.org,realclearscience.com,realclearsports.com,realclearworld.com,spiegel.de,squarespace.com,thejc.com,thewirecutter.com,travelchannel.com,version2.dk##body:style(margin-top: 0 !important;)
 accountingtoday.com,americanbanker.com,benefitnews.com,bondbuyer.com,cujournal.com,dig-in.com,employeebenefitadviser.com,financial-planning.com,healthdatamanagement.com,information-management.com,nationalmortgagenews.com,paymentssource.com,taxprotoday.com,themiddlemarket.com##.embargo-content::after
 accountingtoday.com,americanbanker.com,benefitnews.com,bondbuyer.com,cujournal.com,dig-in.com,employeebenefitadviser.com,financial-planning.com,healthdatamanagement.com,information-management.com,nationalmortgagenews.com,paymentssource.com,taxprotoday.com,themiddlemarket.com##.embargo-content:style(max-height: unset !important;)
 accountingtoday.com,americanbanker.com,benefitnews.com,bondbuyer.com,cujournal.com,dig-in.com,employeebenefitadviser.com,financial-planning.com,healthdatamanagement.com,information-management.com,nationalmortgagenews.com,paymentssource.com,taxprotoday.com,themiddlemarket.com##.sm-site-header-item.bsp-onDomInsert-inserted-43.site-header-wrapper:style(position: relative !important;)
@@ -2044,6 +2044,8 @@ collider.com###secondary > .sidebar-sticky:style(position: relative !important; 
 collinsdictionary.com##.navigation:nth-of-type(7), .sticky:style(position: relative !important; top: 0 !important;)
 colonialghosts.com##.hf-site-header:style(position: relative !important;)
 colorlib.com,eslint.org,gkn.com,haydenjames.io,mamamia.com.au,mwrinfosecurity.com,nextcity.org,turkiye.gov.tr###top:style(position: absolute !important;)
+colors.dopely.top##.navbar:style(position: absolute !important; box-shadow: none !important;)
+colors.dopely.top##.navbar__container:style(height: 94px !important;)
 columbiabasinherald.com##.inner-wrapper-sticky:style(position: absolute !important;)
 comicbook.com##body > header:style(position: absolute !important;)
 comingsoon.net##.bsSticky:style(position: relative !important;)
@@ -2611,6 +2613,7 @@ domaintools.com##.second-navbar:style(top: 28px !important;)
 dominionenergy.com##.progress-container
 domino.com##.header-anchorable:style(position: absolute !important;)
 doodle.com##.fixed.fixed-header:style(position: relative !important; top: 0 !important;)
+dopely.top##.mainNavbar:style(position: relative !important;)
 dota2.com###Fixed:style(position: absolute !important;)
 dotdash.com###scroll_header:style(position: absolute !important; background-color: transparent !important; padding: 20px 0 18px 0 !important;)
 dotesports.com##.header-area:style(position: absolute !important;)
@@ -2618,16 +2621,11 @@ dotesports.com##.styles__fixedHeader--EXJKT:style(position: absolute !important;
 dottoro.com##.headers:style(position: absolute !important;)
 dove.com##.pdp-sticky-bottom-container
 dowjones.com##.dropdown-submenu-opened.page-header:style(position: relative !important; top: 0 !important;)
-downdetector.com##.fixed-top.header:style(position: absolute !important;)
 downdetector.com##.main-navbar:style(position: static !important;)
 downloads.khinsider.com###audiowrap:style(position: relative !important; top: 0 !important;)
 dpage.io##.promo:style(position: absolute !important;)
 drafthouse.com##.fixed.contain-to-grid, .top-bar:style(position: relative !important; top: 0 !important;)
-draftkings.com##.global-nav-container:style(position: relative !important;)
-draftkings.com##.playspan-footer:style(position: relative !important; bottom: 0 !important; z-index: unset !important;)
-draftkings.com##.sportsbook-wrapper__footer.has-subfooter:style(margin-bottom: 0 !important;)
-draftkings.com##.sportsbook__betslip:style(position: relative !important; top: 0 !important; right: 0 !important;)
-draftkings.com##[class="spacer-media"]
+draftkings.com##.css-1svd5ae:style(position: absolute !important;)
 draftss.com##.navbar-default .navbar-brand:style(padding: 5px 0 0 0 !important;)
 draftss.com##.navbar:style(position: absolute !important; height: 70px !important; padding-top: 15px !important; box-shadow: none !important;)
 dreadcentral.com###mvp-main-nav-bot, #mvp-main-nav-top:style(position: relative !important;)
@@ -7251,31 +7249,23 @@ spiked-online.com###navWrapper .mainMenu ul.menu:style(margin: 0 -5px !important
 spiked-online.com###navWrapper .mainMenu#mainMenuLeft li.podcasts, #navWrapper .mainMenu#mainMenuLeft li.longReads:style(width: 50% !important;)
 spiked-online.com###navWrapper .mainMenu#mainMenuRight:style(position: absolute !important; display: block !important; left: 50% !important; right: 0 !important; margin: 0 0 0 144px !important; padding: 0 !important;)
 spiked-online.com###stickyFooter:style(position: static !important;)
-spin.com###banner:style(position: relative !important; top: 0 !important;)
-spin.com##.navbar-fixed-top.navbar-default.navbar:style(position: relative !important; top: -60px !important; margin-bottom: 0 !important;)
-splcenter.org###header.stuck #logo:style(background: none !important;)
-splcenter.org###logo:style(height: 7.6875em !important; width: 15.3125em !important;)
-splcenter.org###main-navigation:style(padding-top: 2.25em !important;)
-splcenter.org###secondary-nav:style(display: block !important; opacity: 1 !important;)
-splcenter.org##.flipInY:style(animation: none !important;)
+spin.com##.cursor-pointer.fixed
+spin.com##.spin-header-banner:style(position: relative !important;)
+splcenter.org###logo:style(height: 9.125em !important; width: 9.125em !important; background-size: unset !important;)
+splcenter.org###main-navigation:style(padding-top: 4em !important;)
+splcenter.org###secondary-nav:style(display: unset !important;)
+splcenter.org##.donate-on-scroll
 spokeo.com##.application_header:style(position: absolute !important;)
 spongepowered.org###topbar:style(position: absolute !important;)
-spoonuniversity.com###page > .nav-up:style(position: absolute !important;)
-spoonuniversity.com##.off-canvas-content header.nav-hide
+spoonuniversity.com###page > .nav-up, #page > header:style(position: relative !important; top: 0 !important; padding: .5em !important;)
+spoonuniversity.com##.social.fixed:style(position: absolute !important;)
 sporkful.com##.fixed_section.sticky-nav.group.section:style(position: relative !important; top: 0 !important;)
-sport-english.com##.en.header-section.header:style(position: relative !important;)
-sport.es##.es.header-section.header:style(position: relative !important; top: 0 !important;)
+sport.es##.ft-ad--sticky, .header-sportMiddle, .header-top, .top-position-sticky:style(position: relative !important; top: 0 !important;)
 sportdiver.com##.main-header > .inner-wrapper, .main-header:style(position: relative !important; top: 0 !important;)
 sportingcharts.com###site-container > header:style(position: relative !important; top: 0 !important;)
-sportingnews.com###widget-header, header:style(position: static !important;)
-sportingnews.com##.mid-level-nav:style(height: 46px !important;)
-sportingnews.com##.nav-scroll-area:style(transform: none !important;)
-sportingnews.com##.navbar-fixed-top.site-header:style(position: absolute !important; top: 0 !important; height: 121px !important;)
-sportingnews.com##.site-header .mid-level-nav .navbar-nav > li > a:style(padding: 15px !important;)
-sportingnews.com##.site-header.reduced .mid-level-nav .navbar-header
-sportingnews.com##.stickit:style(position: absolute !important; top: 0 !important;)
-sportingnews.com##.top-level-nav:style(height: 75px !important; display: block !important;)
-sportingnews.com##iframe:style(position: static !important; min-width: 100% !important; max-width: 100% !important; height: 356px !important;)
+sportingnews.com##.region-header:style(margin-bottom: 0 !important;)
+sportingnews.com##.tsn-primary-menu:style(position: relative !important;)
+sportingnewsholdings.com##.back-top-desktop
 sportlerfrage.net##.Masthead.is-affixed, .Masthead.is-slidingUp, .is-affixed.Masthead:style(position: absolute !important; top: 0 !important; animation: none !important;)
 sportlerfrage.net##.StickyContent--sticky.StickyContent
 sports.vice.com##.site-header__logo:style(width: 163px !important;)
@@ -7292,6 +7282,8 @@ sports.yahoo.com##.hasScrolled .hasScrolled_Bxsh\(headerShadow\), .hasScrolledHe
 sports24.*###player:style(top: 10px !important;)
 sportsbook.fanduel.com##.betslip-page:style(position: static !important;)
 sportsbook.fanduel.com##.main-column.flex > .header:style(position: absolute !important;)
+sportsbook.draftkings.com##.sportsbook-question-mark__wrapper:style(position: absolute !important;)
+sportsbook.draftkings.com##.sportsbook-welcome-modal__wrapper
 sportsbookreview.com###picks-header:style(position: static !important;)
 sportsinsights.com##.header-appear.qodef-sticky-header
 sportsline.com##[class*="Header__MainNavBarContainer-sc-"]:style(position: absolute !important; top: 30px !important;)
