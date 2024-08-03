@@ -3608,6 +3608,8 @@ github.io##.site-header, header:style(position: relative !important;)
 github.io##.sticky.sidebar:style(position: static !important;)
 github.io,ipaddress.com,kerbalspaceprogram.com,law360.com,mapzen.com,mobilityware.com,outerbanks.com,planeplottermobile.com,pokeassistant.com,recorder.com,robinhood.com,statepress.com,stereogum.com,tdhopper.com,thedatatrust.com,thehackerblog.com,wd.com,wionews.com,wireguard.com##.navbar-fixed-top.navbar-default.navbar:style(position: relative !important; top: 0 !important;)
 githubstatus.com##.custom-header-container, .header:style(position: relative !important;)
+gitlab.com##.issuable-sidebar.is-merge-request .issuable-context-form, .project-page-sidebar:style(position: relative !important; top: 0 !important;)
+gitlab.com##.merge-request-sticky-header
 gitlab.com##.super-sidebar, .top-bar-fixed:style(position: absolute !important; top: 0 !important;)
 gizchina.com##.vw-content-sidebar [id$="_clone"]:style(display: none !important; height: 0 !important;)
 gizchina.com##.vw-sticky-menu.vw-header__main-menu:style(position: static !important; transform: translateY(0) !important;)
