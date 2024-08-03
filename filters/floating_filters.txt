@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 22:55 2024-08-03
+! Last Modified: 23:37 2024-08-03
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -2268,6 +2268,8 @@ curbed.com##.article-nav-top.article-nav-dynamic:style(transform: translateY(20p
 curbed.com##.article-nav.deep-scroll .article-nav-deepscroll
 curbed.com##.page-sticky-header:style(position: relative !important; top: 0 !important; border-bottom: 1px solid #fff !important;)
 curbed.com##.sticky-list .pinboard > *:style(position: static !important;)
+curiouscat.live,tacobell.com##body:style(overflow: auto !important;)
+curiouscat.live##div.r-13awgt0:nth-child(2) > div:nth-child(1) > div:nth-child(1), .r-1xcajam:style(position: unset !important;)
 currencio.co##.softo-bar:style(position: absolute !important;)
 current.org##.show.nav_overflow_label.sticky_nav_display.sticky-nav-holder:style(position: relative !important; top: 0 !important;)
 currenttime.tv##.hdr--simple.hdr:style(position: absolute !important;)
@@ -3909,6 +3911,7 @@ hermanmiller.com##.box.box-local-navigation.is-sticky:style(position: absolute !
 hermes.com##.ng-star-inserted.grid-filters:style(position: absolute !important; top: 0 !important;)
 herosports.com##.jeg_sticky_nav
 hersheyland.com##.navbar-container:style(position: absolute !important;)
+hesc.ny.gov##.site-header:style(position: absolute !important; transform: none !important;)
 helpshift.com,numenta.com##.elementor-sticky--active:style(position: absolute !important;)
 hexiwear.com##.sticky-nav.navbar-static-top.navbar-default.navbar:style(position: relative !important;)
 hide.me##.js-header.o-header, .js-livechatMain.livechat:style(position: absolute !important;)
@@ -7561,7 +7564,6 @@ tabletmag.com##.wide-only.curtain > .logo:style(position: absolute !important; o
 tabletmag.com##aside.left-col .logo, aside.left-col nav, .navbar:style(position: relative !important; top: 0 important; padding-top: 0 !important;)
 tacobell.com##.styles_aside__39HIc:style(position: absolute !important;)
 tacobell.com##.styles_entire-screen__1X5X8:style(height: unset !important;)
-tacobell.com##body:style(overflow: auto !important;)
 tagheuer.com###main-header:style(position: absolute !important; opacity: 1 !important; transform: translate3d(0,0,0) !important;)
 tagheuer.com###sticky-nav.sticky div.cart-details:style(color: #000 !important;)
 tagheuer.com###sticky-nav.unsticky .cart-details:style(display: flex !important;)
