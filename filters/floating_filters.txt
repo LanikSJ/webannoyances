@@ -1605,6 +1605,12 @@ campusreform.org##.allTheHeaders:style(position: absolute !important; top: 0 !im
 campusreform.org##.navbar.main_header:style(position: relative !important; top: 0 !important;)
 campusreform.org##nav, .wbtz-floating-widget-container:style(position: absolute !important;)
 camwebapp.com###navbar-spy:style(position: relative !important;)
+camzter.tv###feedCta
+camzter.tv###toPageTop
+camzter.tv###tvcam:style(position: relative !important; top: unset !important; right: unset !important; height: 450px !important; width: 660px !important; z-index: unset !important; overflow: unset !important;)
+camzter.tv##.beICaR
+camzter.tv##.chatObj:style(position: relative !important; top: unset !important; right: unset !important; z-index: unset !important; height: unset !important; width: unset !important; overflow: unset !important;)
+camzter.tv##.flclose
 canadagoose.com###rightnav:style(transform: none !important; visibility: visible !important; opacity: 1 !important;)
 canadagoose.com###sticky:style(position: absolute !important; transform: none !important;)
 canadagoose.com##.header .rightnav.not-visible .authorized-msg, .header .rightnav.not-visible .search, .header .rightnav.not-visible .shopbag-title, .header .rightnav.not-visible .unauthorized-msg:style(display: inline-block !important;)
@@ -2345,6 +2351,18 @@ dchealth.dc.gov##.stickyhideout_active
 dcist.com##body > div:nth-child(11), body > div:nth-child(12):style(position: relative !important;)
 dcunited.com##[data-bucket-name="sub-navigation"]:style(position: relative !important; top: 0 !important;)
 dcunited.com##.mls-c-regular-article--r-column:style(position: relative !important; top: 0 !important;)
+ddlc.plus##.char-tab-holder, .features-screen, .m-character-sticky:style(position: absolute !important;)
+ddlc.plus##.features-screen-holder, .m-character-holder:style(height: 100vh !important;)
+ddlc.plus##.header-big-logo-holder:style(transform: none !important;)
+ddlc.plus##.header-char-girl-holder.monika, .header-char-girl-holder.yuri:style(transform: translate3d(0%, 36vh, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg) !important;)
+ddlc.plus##.header-char-girl-holder.natsuki, .header-char-girl-holder.sayori:style(transform: translate3d(0%, 8vh, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg) !important;)
+ddlc.plus##.header-stores-bar
+ddlc.plus##.header-top-girls:style(position: absolute !important; height: 250vh !important;)
+ddlc.plus##.header-trailer-holder:style(transform: translate3d(0px, 0vh, 0px) scale3d(1.4, 1.4, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg) !important;)
+ddlc.plus##.menu-icon-holder, .nav-wrap:style(position: absolute !important;)
+ddlc.plus##.side-menu-bg
+ddlc.plus##.side-menu-holder:style(position: absolute !important;)
+ddlc.plus##.trailer-play-button:style(transform: none !important;)
 deadbydaylight.com###dbd-logoPart2
 deadbydaylight.com##.logo-wrapper:style(animation-name: logoHide !important;)
 deadbydaylight.com##.nav-utils:style(height: unset !important;)
@@ -2998,6 +3016,7 @@ familycircle.com##.component.navigation-test.sticky-nav .main-new:style(position
 familycircle.com##.scroll-up .component.navigation-test .logo:style(display: block !important;)
 famous-smoke.com###launcher, #support-pill:style(position: absolute !important;)
 famous-smoke.com###ordersummary:style(position: absolute !important; top: 75px !important;)
+fandom.com###WikiaBar, .notifications-placeholder
 fandom.com##.global-navigation, .global-navigation__bottom:style(position: absolute !important;)
 fandom.com##.is-visible.fandom-sticky-header
 fandom.com##.page-side-tools:style(position: relative !important; top: 0 !important;)
@@ -4468,6 +4487,10 @@ ixquick.com,ixquick.eu##.stick-header:style(position: absolute !important; top: 
 ixsystems.com###main-header:style(position: absolute !important; box-shadow: none !important;)
 jaccard.com##.sticky.enabled-sticky-menu.header_bot:style(position: absolute !important;)
 jacobinmag.com##.ar-mn__header:style(position: static !important;)
+jadedldn.com##.floated-header-wrapper:style(position: absolute !important;)
+jadedldn.com##.Product__Info:style(position: relative !important; top: 0 !important;)
+jadedldn.com##.Product__InfoWrapper:style(position: absolute !important;)
+jadedldn.com##.sticky-container
 jakubmarian.com,oregonscientific.com,theblackvault.com###menu:style(position: relative !important;)
 jamanetwork.com##.content-panel, .resources-panel:style(overflow: unset !important;)
 jamanetwork.com##.full-text-tab:style(border-right: 1px solid #ddd !important;)
