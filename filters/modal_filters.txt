@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Last Modified: 01:23 2024-08-02
+! Last Modified: 06:44 2024-08-09
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -204,6 +204,8 @@ callername.com,chubstr.com,thermoworks.com###modal
 camelcamelcamel.com###cmp-ui-iframe, .qc-cmp-ui-container
 campbells.com###_ghostery-message-row
 campusreform.org##.side_modal
+camzter.tv##.modal
+camzter.tv##body:style(overflow: auto !important;)
 canadiancattlemen.ca,country-guide.ca,manitobacooperator.ca,producer.com##.gfm_background
 canvasstorm.com###satcb_bar, .wheelio_holder
 cardboardconnection.com,raspberrypistarterkits.com##.fancybox-overlay, .fancybox-wrap
@@ -385,6 +387,7 @@ facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion###u_
 faithwire.com##.catfish
 familybusinessmagazine.com,linux.com###modalBackdrop, #modalContent
 famous-smoke.com##.emailmodal
+fandom.com##.AgeGateDialog-module_modal__huX7o
 fanfox.net##.side-top
 fantasypros.com###cboxLoadedContent, #cboxOverlay, #cboxWrapper
 fantasysports.yahoo.com###static-yahoocup-promo-overlay, .yui3-overlay-focused:not([id="ysf-editor-overlay"])
@@ -394,6 +397,8 @@ fastestvpn.com##body:style(overflow: auto !important; padding-right: 0 !importan
 fatwallet.com###password-less-signup-dialog
 fedscoop.com###welcomeadMask
 fee.org###email-capture-modal, #chatra__iframe, .convertflow-cta
+feetfinder.com##.modal, .modal-backdrop
+feetfinder.com##body:style(overflow: auto !important;)
 fermatslibrary.com###emailCollectionModal
 fhm.com###ctl00_Body_slideboxDiv
 fidelity.com##.info-flyout-wrapper
@@ -603,9 +608,12 @@ literaryreview.co.uk##.popup-placer
 lithub.com##.optin-monster-saas-overlay
 lithub.com,securityaffairs.co###post_more_wrapper
 littlepassports.com,radixdlt.com,utah.com,wilton.com##.popup-dialog, .popup-overlay
+livecamclips.com##.modal, .modal-backdrop
+livecamclips.com##body:style(overflow: auto !important;)
 livejasmin.com##.over-18
 livestrong.com##.newsletter_signup_overlay
 lowes.com##.emailsignupmechanism
+loyalfans.com##.cdk-overlay-container
 m.imgur.com##.FloatingOIA
 m.zappos.com###downloadAppPop
 m4arts.org##.s_WgMETPAModalSkin
