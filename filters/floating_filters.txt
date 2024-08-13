@@ -1,5 +1,5 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Last Modified: 07:51 2024-08-13
+! Last Modified: 08:12 2024-08-13
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -588,6 +588,7 @@ androidauthority.com##._--_-___Il:style(position: relative !important; top: 0 !i
 androidbenchmark.net,cpubenchmark.net,harddrivebenchmark.net,iphonebenchmark.net,memorybenchmark.net,pcbenchmarks.net,videocardbenchmark.net###main_menu, #tabs:style(position: absolute !important;)
 androidheadlines.com##.header-shiv:style(position: absolute !important;)
 androidheadlines.com,bldgblog.com,creativecommons.org,digicert.com,dropbox.com,dsogaming.com,elaineou.com,forksoverknives.com,glennbeck.com,haxx.se,luckypeach.com,metro.co.uk,namecheap.com,newsday.com,queerty.com,relevantmagazine.com,standard.co.uk,thecipherbrief.com,thisiswhyimbroke.com,turkeyblocks.org,vesselnews.io,wiat.com,wncn.com###masthead:style(position: relative !important; top: 0 !important;)
+androidpolice.com,babygaga.com,gamerant.com,hotcars.com,moms.com,screenrant.com,thegamer.com,thequiz.com,therichest.com,thesportster.com,thetalko.com,thethings.com,thetravel.com##.sidebar-sticky:style(position: relative !important; top: 0 !important;)
 androidpolice.com,collider.com,gamerant.com,makeuseof.com###js-header:style(position: relative !important;)
 androidsage.com,cookiesfordays.com##.kadence-scroll-to-top
 androidrepublic.org##.is-sticky.uix_stickyBar.p-navSticky--primary.p-navSticky, .uix_headerContainer .p-navSticky.is-sticky > *:style(position: relative !important; top: 0 !important; box-shadow: none !important;)
@@ -913,7 +914,6 @@ babycenter.com##.e1njkf1h0
 babycenter.com##.edwzrlj0:style(margin-top: 70px !important;)
 babycenter.com##header:style(border-bottom: none !important;)
 babygaga.com,hotcars.com,moms.com,screenrant.com,thegamer.com,thequiz.com,therichest.com,thesportster.com,thetalko.com,thethings.com,thetravel.com###js-header:style(position: absolute !important;)
-babygaga.com,hotcars.com,moms.com,screenrant.com,thegamer.com,thequiz.com,therichest.com,thesportster.com,thetalko.com,thethings.com,thetravel.com##.sidebar-sticky:style(position: relative !important; top: 0 !important;)
 babylonbee.com###bigNavbar:style(position: absolute !important; display: flex !important;)
 babylonbee.com###smallNavbar:style(position: absolute !important;)
 babynames.net##.names-container [style*="user-select: none"]:style(user-select: auto !important;)
@@ -3452,7 +3452,6 @@ gamejolt.com##.gj-scroll-affix-placeholder:style(height: 0px !important;)
 gamejolt.com##.gj-scroll-affixed:style(top: 0 !important;)
 gamejolt.com##.page-header .scroll-affix-container:style(z-index: unset !important;)
 gamejolt.com##.scroll-affix-container:style(position: relative !important; border-bottom-width: 0px !important;)
-gamerant.com##.sidebar-sticky:style(position: relative !important; top: 0 !important;)
 gamerevolution.com###js-site-navigation:style(position: relative !important; top: 0 !important;)
 gamerevolution.com##.pb-sticked.inner-col-right:style(position: static !important;)
 gamespace.com###gp-fixed-header-padding
