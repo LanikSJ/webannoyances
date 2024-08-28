@@ -48,7 +48,6 @@ ahtribune.com##.header-search.col-sm-2.col-xs-12
 albawaba.com##.top-menu
 algemeiner.com###algHeader2
 algolia.com##.closed
-alliancefootballfocus.com##.sidebar-wrapper
 allure.com##.expanded.riser
 almasdarnews.com##.rocketchat-widget
 altpress.com###pulpix
@@ -60,7 +59,6 @@ androidauthority.com##.aa_app_widget
 androidcentral.com##.recent-posts
 androidrepublic.org##.p-staffBar
 answers.com###contextual-header
-ant-techs.is##.fxd-header
 ara.cat##.cp-contentnav
 archdaily.com###article-navigation
 archdaily.com##.save-image
@@ -159,7 +157,6 @@ bridebox.com###widget_sp_image-15
 brightsurf.com,english.kyodonews.jp,grammar-monster.com##footer
 brit.co##.collapsed.ng-isolate-scope
 bumble.com##.Mobile-bar--bottom.Mobile-bar
-bundestagswahl17.de##.pea_cook_bottomcenter.pea_cook_wrapper
 business-standard.com###vertic-menu
 businessoffashion.com##.color-brand-white.background-gray-darkest.small-font.text-center.navbar-notification.navbar.navbar-default
 businessoffashion.com##.hidden-print.offset-bottom.offset-top.sans-serif.article-body-bottom.row
@@ -192,7 +189,6 @@ cc.com###balaMainContainer
 cc.com###header_content
 ccn.com##.container.content-info
 cebglobal.com##.qp-engage
-centerfornewsanddesign.com##.w-toplink
 centralrestaurant.com###phplive_automatic_chat_invite_wrapper
 channelnewsasia.com##.c-header--default:before
 channelnewsasia.com##.is-hidden-smartphone
@@ -239,8 +235,6 @@ cleveland19.com##.story-feed
 climateactionprogramme.com##.icon-text.phone-icon
 clippituser.tv##.download-android.download-link-container
 clippituser.tv##.download-text
-clipwatching.com###container > div > div:nth-of-type(2)
-clipwatching.com##.video_ad2_fadein
 cloudconvert.com###converterTableWrapper
 cnrs.fr###header-fixe
 cnsnews.com##.kimbiaDiv.cns.cns1.two_col.columnsPerPage1
@@ -281,7 +275,6 @@ creditkarma.com##.width--100.text-align--center.footer-platforms
 crimewatchdaily.com###navbar-sticky
 criminaldefenselawyer.com###nGageLH
 criminaldefenselawyer.com##.liveChatFloatingButton
-crimsonright.net##.authoricons
 crunchify.com##.arrowNav
 crunchify.com##.crunchify-jtop
 cryptocoinsnews.com##.headroom--pinned.headroom--not-top.headroom.mini-bar
@@ -298,7 +291,6 @@ current.org##.imoneza-wrapper-wallet.imoneza-wrapper
 current.org##.widget_text.default.odd.widget-1.widget
 cyberscoop.com##.side-block:nth-of-type(1)
 cyberscoop.com##nav
-cyragehackingnews.com##.hidden-sm.hidden-xs.stick-menu-logo
 d-cal.com##.visible.threshold-reached.countloaded.flare
 dailycamera.com##.info-box-body
 dailyherald.com##._magnetRecConrecom_270-3
@@ -410,7 +402,6 @@ fidelity.com##.right-icons-bar
 fineartamerica.com###linknextsidearrow
 fineartamerica.com###linkprevioussidearrow
 finecooking.com##.scrolled.siteheader--scrolled
-finnewsreview.com##.textwidget
 firstpost.com###myScrollspy
 firstround.com##.-fixed._ReaderControls__
 firstwefeast.com###fangate_blackout
@@ -500,8 +491,6 @@ hackaday.com###hackadayfollowus-2
 hackaday.io##.guest-message-signup-static.guest-message-signup.page-basic-info-static-dark.page-basic-info-static
 hackerarsenal.com##.panel_opened.wlo_gpuac.wlo_pulltab_holder
 hackerarsenal.com##.wheelio_holder
-hammocktown.com##.us_buttons_5.us_mobile_bar
-hammocktown.com##iframe
 harvarddesignmagazine.org###navigation-wrapper
 hazlitt.net###region-masthead
 healthtap.com###install_banner
@@ -554,7 +543,7 @@ japaneseknifeimports.com###spacer
 jetbrains.com##.js-banner-body-wrapper.banner__body
 joerogan.com###showOnScrollWrapper
 joinhoney.com##.rmq-ee92ab5d
-jokehd.com,lshjoker.com,sports24.*,therecord.com##ads
+sports24.*,therecord.com##ads
 joystiq.com###GH_strip
 jstor.org##.dark.sidebar
 judicialwatch.org###twfbwindows
@@ -566,7 +555,6 @@ kadavy.net##nav
 kaufda.de##.drawer.shelf-layout-header.layout-head-drawer
 kcet.org##.active.kl-header-sticky.pane-kl-sticky-header.pane-panels-mini.panel-pane
 kdnuggets.com##.kd_bottom
-kernelmag.com###login-box
 khanacademy.org##.container_jaz5sb
 khn.org##.brand-scrolling
 khn.org##.inline.related
@@ -984,7 +972,6 @@ runningshoesguru.com##.pea_cook_bottomright.pea_cook_wrapper
 rushlimbaugh.com##.ubermenu-item-notext.ubermenu-item-layout-image_left.ubermenu-item-layout-default.ubermenu-target-with-icon.ubermenu-target-with-image.ubermenu-target
 saintlad.com##.visible.mini-disabled.menu-wrap
 salesforce.com##.dockedContainer
-saludmovil.com##.sidebar
 sbs.com.au##.global-nav__context-title
 sbsun.com###jBar
 scitation.org##.sticky-content.related-articles
@@ -1027,7 +1014,6 @@ smh.com.au##header > div:has([data-pb-type^="RecommendedStorySet"])
 smithsonianstore.com###_GUARANTEE_SealSpan
 smittenkitchen.com###mobile-adhesive
 smobserved.com##.widen_vertical_padding.menu
-snapguide.com##.cover-nav
 snapzu.com##.welcome
 snbforums.com##.Notices.FloatingContainer
 sneakernews.com##.responsive-nav-btn
@@ -1122,12 +1108,9 @@ theculturetrip.com##.download-banner\.styled__DownloadBanner-s1nx233m-0
 theculturetrip.com##.hWAzTI
 thedailymeal.com##.context-header-node .header-wrapper-outer .header-wrapper-inner .header-wrapper.container .header-center div.title
 thedailymeal.com##.hidden-xs.last
-thedeepmag.ca##.mc4wp-form-23.mc4wp-form
-thedeepmag.ca##.pos-4.tpm-counter
 thefirearmblog.com##.pushcrew-chrome-style-notification-safari.pushcrew-chrome-style-notification
 thefiscaltimes.com###message
 thefly.com###fixed_footer
-theforeignchallenge.com##.menu-container.sticky-menu
 thehackernews.com###firebox
 theheartysoul.com##.text-center.dfp_stucky_footer
 thehindubusinessline.com##.bl-budget-2019.col-md-12
@@ -1161,7 +1144,6 @@ thequint.com##.thequint-sticky-logo.header-section__logo
 theralphretort.com##.swal2-in.swal2-fade.swal2-container
 thesmokinggun.com##.toolkit
 thespruceeats.com##.header .search-form--recipe-nav
-thestylecon.com###upprev_box
 thevintagenews.com###fader
 theweek.co.uk###__ic-notice-container
 thewhiskeywash.com##.fff.fln
@@ -1243,7 +1225,6 @@ usda.gov##body > div:nth-of-type(5)
 userscripts-mirror.org###_bftn_wrapper
 uservoice.com###banner-container
 usgamer.net###trending-bar
-usjournal.net##.mkdf-sticky-header
 uxplanet.org##.paragraphControls-itemText
 v3.co.uk##.nav-colour02
 valuewalk.com###desktop_text-26
@@ -1253,7 +1234,6 @@ viewster.com###help-us
 villagevoice.com##.city-color-border.city-color-back.tab
 villagevoice.com##.sde-shadow
 viralnova.com###article-finished
-virginiawinefest.com###slidingbar-area
 virusbulletin.com##.NDPHPBlock
 visual.ly###eyebrow
 visual.ly##.section
@@ -1279,7 +1259,6 @@ whatahowler.com##.is-other.markup--p-quote.markup--quote
 whattomine.com##.centered-image-short
 whitesourcesoftware.com###default-next-button-wrapper
 whoishostingthis.com##.clickable
-wildnotice.com###st-2
 wired.co.uk##.a-gallery__aside--touch.a-gallery__aside
 wirelessweek.com###footer-expand
 wlox.com##.story-feed
@@ -1341,7 +1320,6 @@ zwaveproducts.com###livechat-compact-container
 ||alluc.ee/ximg/buttondl.png$image
 ||amazonaws.com/*/264.js$script,domain=realclearpolitics.com
 ||amazonaws.com/outline-ads-prod$image
-||anv.bz/*/anvload.html$subdocument
 ||apis.google.com/_/widget/render/page$subdocument
 ||app.adjust.com^$first-party
 ||bounceexchange.com/*/i.js$script,important
@@ -1350,7 +1328,6 @@ zwaveproducts.com###livechat-compact-container
 ||californiatimes.com/meter/$script,domain=latimes.com
 ||californiatimes.com^*/Bootstrap.js$script,domain=latimes.com
 ||chicagobusiness.com/*/interstitial.css$stylesheet,domain=chicagobusiness.com
-||clikueo.com^
 ||cloudflare.com/*/jquery.fancybox$script,stylesheet,domain=hrw.org
 ||cloudfront.net/*/js/bundle.js$script,domain=fastcodesign.com
 ||cnn.com/*/js/cnn-analytics.min.js$script,domain=cnn.com
@@ -1358,8 +1335,6 @@ zwaveproducts.com###livechat-compact-container
 ||dontpayfull.com/*/banner_stores.png$image
 ||dynamicyield.com$script,domain=nasdaq.com
 ||fastly.net$script,domain=nasdaq.com
-||files.ctnetfiles.com/pub$subdocument
-||functionalclam.com^$third-party
 ||gannett-cdn.com/*/peanutbutterjellytime.min.js$script,important
 ||genius.com$domain=washingtonpost.com
 ||guns.com/*$inline-script,domain=guns.com
@@ -1368,14 +1343,12 @@ zwaveproducts.com###livechat-compact-container
 ||leadpages.net^$script
 ||lightboxcdn.com^$domain=dailycaller.com|townhall.com|wnyt.com
 ||maxtraffic.com$script
-||meshgrid.xyz/*/roomenterad_bg.png$image
 ||mint.com/*Logout_Loan_Center.png$image
 ||myfinance.com/*/myFinance.js$script,domain=cnn.com
 ||onecount.net$script,domain=foreignpolicy.com
 ||onesignal.com^$third-party
 ||optinmonster.com^$script,3p
 ||optnmnstr.com^
-||pagely.netdna-cdn.com^$script,domain=guns.com
 ||realclearpolitics.com/*/ad_slots.jsonp$script,first-party
 ||realclearpolitics.com/*/instart.js$script,first-party
 ||sitelabweb.com$domain=nasdaq.com,important
@@ -1385,7 +1358,6 @@ zwaveproducts.com###livechat-compact-container
 ||turner.com/*/adfuel-1.1.0.js$script,domain=cnn.com
 ||turner.com/*/cnn_money-ais.js$script,domain=cnn.com
 ||turner.com/*/cnnmoney_tech.js$script,domain=cnn.com
-||urbandaddy.network/bar/light/$subdocument
 ||washingtonpost.com/*/drawbridge.js$script,first-party
 ||washingtonpost.com/*/wpPwapi1-min.js$script,first-party
 ||washtimes.com/js/base_global$script,domain=washingtontimes.com

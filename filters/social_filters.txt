@@ -19,10 +19,10 @@
 1843magazine.com##.menu__social-media-icons
 3m.com##.rU-50-SocialShare
 4029tv.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,wpbf.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.facebook.share-content--utils-action, .twitter.share-content--utils-action
-500ish.com,artplusmarketing.com,atrium.co,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.angularindepth.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,blog.waffle.io,bluerockpublicradio.com,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,headmelted.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,unpatent.co,usejournal.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##a[href*="/share/facebook"], a[href*="/share/twitter"], a[href*="/share/linkedIn"]
-500ish.com,artplusmarketing.com,atrium.co,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.angularindepth.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,blog.waffle.io,bluerockpublicradio.com,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,headmelted.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,unpatent.co,usejournal.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##a[href*="/share/facebook"], a[href*="/share/twitter?"]:upward(1)
-500ish.com,artplusmarketing.com,atrium.co,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.angularindepth.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,blog.waffle.io,bluerockpublicradio.com,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,headmelted.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,unpatent.co,usejournal.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##body > #root > div > article > div:not([class*=""]) > section > div.n.p > div > div.eu > div > div:nth-of-type(2) > div > div[class="gz r au"] > button > svg > path[fill-rule="evenodd"][clip-rule="evenodd"][d^="M10.76"]:upward(3)
-500ish.com,artplusmarketing.com,atrium.co,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.angularindepth.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,blog.waffle.io,bluerockpublicradio.com,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,headmelted.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,unpatent.co,usejournal.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##body > #root > div > article > div:not([class*=""]) > section > div.n.p > div > div.eu > div > div:nth-of-type(2) > div > div[class="gz r au"] > button > svg:upward(2)
+500ish.com,artplusmarketing.com,atrium.co,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.angularindepth.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,blog.waffle.io,bluerockpublicradio.com,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,unpatent.co,usejournal.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##a[href*="/share/facebook"], a[href*="/share/twitter"], a[href*="/share/linkedIn"]
+500ish.com,artplusmarketing.com,atrium.co,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.angularindepth.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,blog.waffle.io,bluerockpublicradio.com,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,unpatent.co,usejournal.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##a[href*="/share/facebook"], a[href*="/share/twitter?"]:upward()
+500ish.com,artplusmarketing.com,atrium.co,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.angularindepth.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,blog.waffle.io,bluerockpublicradio.com,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,unpatent.co,usejournal.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##body > #root > div > article > div:not([class*=""]) > section > div.n.p > div > div.eu > div > div:nth-of-type(2) > div > div[class="gz r au"] > button > svg > path[fill-rule="evenodd"][clip-rule="evenodd"][d^="M10.76"]:upward()
+500ish.com,artplusmarketing.com,atrium.co,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.angularindepth.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,blog.waffle.io,bluerockpublicradio.com,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,unpatent.co,usejournal.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##body > #root > div > article > div:not([class*=""]) > section > div.n.p > div > div.eu > div > div:nth-of-type(2) > div > div[class="gz r au"] > button > svg:upward()
 500px.com##.ul-sharing
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.share-sticky-outer.left-outer.social-icons
 7news.com.au##[class*="StyledSharing-StyledSharing"]
@@ -140,7 +140,7 @@ bcrnews.com,crestonnews.com,daily-chronicle.com,heraldlife.com,kcchronicle.com,k
 beautifulpixels.com##.widget_social
 belfasttelegraph.co.uk##.c-socials1 [aria-label="Facebook"], .c-socials1 [aria-label="Twitter"]
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com###story-cta-widget
-bestsolaris.com,ustvgo.tv##.heateor_sss_sharing_container
+bestsolaris.com##.heateor_sss_sharing_container
 bet.com##.section.followandnewsletter.parbase, .sticky-share
 bgr.com##.button-facebook, .button-twitter
 bgr.in###issocial1
@@ -166,7 +166,7 @@ blog.zoom.us##.facebook.share, .twitter.share
 bloggingjoy.com###ss-floating-bar
 blogs.ancestry.com##.an-share-buttons
 blogspot.ca##.followgooglewrapper
-bloody-disgusting.com,complex.com,firstwefeast.com,geekytyrant.com,totalprosports.com###ctoolbar
+bloody-disgusting.com,complex.com,firstwefeast.com,totalprosports.com###ctoolbar
 bloomberg.com###header-sharing, #hub_social_buttons, .Social__Wrapper, .bb-nav-social__link, .bb-nav-social__more-icon, .blvs-share-button, .highlights-v6-story__social, .share-article-button, .sticky-social-buttons
 bloomberglinea.com##.ts-share-bar-custom
 bloombergquint.com##.article__details__share, .bq-footer__social, .js-article-details-share-sticky, .js-subscription-combo-box, .share-module__container__AuuXv, .share-module__list__19rxp, .share-toggle-module__share-button__2DRMl, .social_buttons-module__container___3CXN7, .storyshare__icons, div[class^="two-stories-with-ad-slot-m__ad_container"], [class*="share-floating-expanded-"], [class^="share-toggle-module__share-button-top"]
@@ -176,7 +176,6 @@ bongino.com##button.react-share__ShareButton
 booking.com##.hp-social_proof
 bookriot.com##.social-wrap-outer
 bookscanner.de##.cc-FloatingButtonBarContainer, .cc-sharebuttons-element, .j-facebook
-boredomtherapy.com###fbicon, #gpicon
 boredpanda.com##.fixed-bottom-facebook-widget
 boston.com##.content-toaster--mobile-app, a.content-social-inline__button:nth-of-type(1), a.content-social-inline__button:nth-of-type(2)
 bostonglobe.com##.bg-share-menu-toggle, .js-smart-bar, .meter-social-connect, .primary-tools, .sticky-tools--visible.sticky-tools
@@ -485,7 +484,6 @@ haaretz.com##.footer__tools, .mh__social, .pn__share, .subscrOptWide, .verticleT
 hackster.io##.project_count_banner__container__1m4vf
 halfwaypost.com###wpcom_social_media_icons_widget-3, .widget_facebook_likebox.widget
 halfwheel.com##.gdlr-core-social-share-pinterest
-hammocktown.com##.ts-fab-googleplus-link, .ts-fab-twitter-link, .us_skin_default.us_tac.us_share_buttons.us_wrapper
 happyhealthymama.com###convertkit_form-2, .sw-pinit-button, .swp_social_panel
 harpers.org##.socialmedia
 harvard.edu##.list-social
@@ -559,7 +557,6 @@ kayfabenews.com###facebooklike
 kcet.org##.kl-share
 kctv5.com###csSocial
 kentuckysportsradio.com##.social4i
-kernelmag.com##.kernel-social.clearfix
 khaleejtimes.com##.vuukle-powerbar-processed.vuukle-powerbar-vertical
 kickstarter.com##.section_footer-social-links
 kiplinger.com##.kip-follow
@@ -785,7 +782,7 @@ presstv.com##.item-sharings
 princewilliamliving.com###sbe-follow
 producthunt.com##.share_a630b
 profootballrumors.com##.prettysocial
-progressivefrontier.com,quartersnacks.com##.menu-social-menu-container
+quartersnacks.com##.menu-social-menu-container
 projectveritas.com##.widget_touchsize_facebook
 propublica.org##.email-nav, .facebook, .module-follow.pp-module, .twitter
 prospect.org###buttons, .twitter_topbar
@@ -897,7 +894,6 @@ sensorstechforum.com##.apss-social-share-sidebar
 sevensport.club##.single_social_icon
 shadersmods.com###text-2, #text-5, .youtube
 shape.com###block-meredith-blocks-connect-with-us--2
-shareblue.com###atstbx
 shimano.com###utility-bar
 showbiz411.com##.textwidget
 si.com##.article-utilities-body, .icon, .facebook, .twitter
@@ -912,7 +908,6 @@ slate.com##.slate-share
 slickdeals.net###buyNowShareContainer
 sltrib.com##.fixed-footer.mobile-links, .side-panel, .subscribe-box
 smithsonianbooks.com##.books-social-media-icons
-snapguide.com##.sg-card, .sg-share
 snopes.com###header-mobile-socialShares, #left-floating-shares, .footer-social-buttons, .image-frame-socialShares, .widget_social
 sochi2014.com##.b-sociality-menu
 sociable.co##.single-post-share-header
@@ -933,7 +928,6 @@ spieltimes.com##.jeg_share_float_container
 spiked-online.com###stickySharing
 spokesman.com##.mb4.btn-group-justified.btn-group.list-unstyled.sans-serif
 sportlerfrage.net##gf-share-link
-sportscastles.com##.g1-current-background.entry-meta-stats.entry-meta
 spreadsheetpro.net###social4iv
 springboard.com##.button--withSvgIcon.button--withIcon.u-baseColor--buttonLight.is-touchIconBlackPulse.button--chromeless.button--light.button
 sputniknews.com###share, .b-header__nav-social
@@ -992,7 +986,6 @@ tesla.com###sticky-footer
 teslarati.com##.nav-soc-but
 tether.to##.blog-share-container
 texasmonthly.com##.tm-social-share-bar
-the-daily-llama.com##.sfsi_Sicons
 the-pool.com##.join-us, .pimcore_area_join-us
 the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.footer-follow, .fyre
 the-tls.co.uk###subscribe-block, .signup-form-iframe
@@ -1035,7 +1028,6 @@ thehackernews.com##.cf.float-share, .cf.google, .icon-youtube.icon-font, [href="
 thehill.com###expand-menu-social-share, .blogs-social-wrp, .item-shares, .jw-settings-sharing, .social-share-facebook, .social-share-googleplus-follow, .social-share-linkedin, .social-share-twitter-follow
 thehindu.com##.aricle-share
 theindependent.com##.garrett-social-links
-theindy.us###ninja_forms_widget-3
 theinquirer.net###large_share_wrapper
 theintercept.com##.Post-social-link-block:not(.Post-social-link-block--comments)
 thejacknews.com##.eltd-blog-single-share
@@ -1054,7 +1046,6 @@ themoscowtimes.com###likes
 themuse.com##.open.fixed-social-nav, .scroll
 thenation.com##.first_siderail_item.columns.large-4.listing__siderail, .inline-cta-module, .meerkat__content
 thenationalpulse.com###social, .pk-share-buttons-wrap, .pk-social-links-template-default.pk-social-links-wrap.pk-author-social-links, .widget_facebook.widget
-thenationalsentinel.com###fcbkbttn_left, .pntrst-button-wrap
 thenerdy.com###sharing-column
 thenextweb.com##.article-meta-wrapper, .footer-links-social, .js-tnwSticky-content.c-post-split-sticky, .nav-follow, .post-actions
 thenib.com##.SharePanel-socialList
@@ -1086,7 +1077,6 @@ theverge.com##.follow-the-verge
 theweek.com###HPSocialBox, #left-buttons, #left-footer-subscribe, #nfBioTwitter, #promofooter, #subscribe-btn-mob, #subscribe-links-desktop, .nfSocial, .speedreads-share-section, .sticky-social-inside
 thewhiskeywash.com##.ss, .tt-share
 thewirecutter.com##[data-scp^="social"]
-thewolfhall.com##.widget_socialcountplus
 thewrap.com###at4-share, #mobile-sticky-bottom, .wbtz-embed-main-sticky, .wbtz-share-btn
 thirtybees.com##.fusion-social-networks
 thoughtcatalog.com###tc-social-nav, .tc-sharing-controls
@@ -1126,7 +1116,6 @@ truththeory.com##.site-social-share, .social
 tsarizm.com##.penci-social-buttons
 tsdm.live,tsdm39.net###ts_sidebar_base, .share_self
 tssbulletproof.com##.x-entry-share
-ttheplaylist.net###text-9
 tunein.com##.footer__socialSection___1wFul
 tv3.ie##.top_news_social
 tvbuzer.com##.fbc-login-button, .glc-login-button, .twc-login-button
@@ -1148,7 +1137,6 @@ usacarry.com##.us_skin_default.us_tal.us_share_buttons.us_wrapper
 usatoday.com##[href^="https://www.facebook.com/dialog/share?"]
 usatodayhss.com##.meta
 usenix.org##.field-label-hidden.field-type-link-field.field-name-field-links-social-media.field
-usjournal.net##.mkdf-blog-share, .mkdf-icon-has-hover.mkdf-social-icon-widget-holder
 usmagazine.com##.module-social-sharing
 usnews.com###toggle-social-byline, .header-banner-section-social, [class*="SocialSharing__Container-sc-"]
 usni.org##.usninews_sharethis
@@ -1170,7 +1158,6 @@ viewfind.com###fixed_social
 villagevoice.com##.c-Footer__links__social, .c-largeScreen__social__wrapper, .u-socialWrapper
 vindy.com###social_header
 vinepair.com##.below-social-block-news, .first-social-block, .meta-facebook-inline-like-cta, .pin-me-button, .pin-me-hover, .second-social-block
-virginiawinefest.com##.fusion-social-networks-wrapper
 visualcapitalist.com##.dgd_stb_box, .swp_social_panel
 vocativ.com##.voc-sticky-social-strip
 vogue.com##.most-shared, .social-sharer--share-links, .text-tweet.text-tweet__template
@@ -1235,7 +1222,6 @@ yourmechanic.com##.qna-share-wrapper__social
 youtube.com##.share-panel-services, .ytp-button.ytp-share-button
 yp.sg##.bsa-facebook.bsa-item
 zerohedge.com##.a2a_button_facebook, .a2a_button_reddit, .a2a_button_twitter, button[class*="SocialSharingButtons_shareIcon"][aria-label="facebook"], button[class*="SocialSharingButtons_shareIcon"][aria-label="twitter"]
-zimbio.com##.pinterest-image-holder .pinterest-hover, .pinterest-pin-it
 zycrypto.com##.widget_bloomwidget, .widget_facebook_likebox
 zyngaplayerforums.com##.Reactions
 ||apis.google.com/*/sharebutton$subdocument
