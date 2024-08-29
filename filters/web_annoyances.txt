@@ -1,5 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Last Modified: 04:40 2024-04-17
+! Checksum: vFknLhaR8Qne5jxBuOoR1Q
+! Last Modified: 2024-08-29 04:55 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -49,7 +50,6 @@ albawaba.com##.top-menu
 algemeiner.com###algHeader2
 algolia.com##.closed
 allure.com##.expanded.riser
-almasdarnews.com##.rocketchat-widget
 altpress.com###pulpix
 altpress.com##.hidden-mobile.widget-image.widget
 anandtech.com##.fl-lt
@@ -332,10 +332,10 @@ dotdash.com###up_arrow
 dotesports.com##.styles__topAd--1aBvZ
 douyu.com###lifter
 drafthouse.com##.ssk-count.ssk-group
-drivetribe.com##.CDTi0._1-sfe
 drivetribe.com##._210LR.cB9oA._1YCPS
 drivetribe.com##._3O6Ig
 drivetribe.com##._3Z0E3
+drivetribe.com##.CDTi0._1-sfe
 droid-life.com##.site__priNav:before
 droidguiding.com###nav-topbar
 duellplumbingandheating.com###mobile-above-header
@@ -384,7 +384,6 @@ f-secure.com###article-sidebar
 fablesofaesop.com###prvcypop_372
 failory.com###magnify-widget-container
 fairygodboss.com##.fixedBottom
-familycircle.com,parents.com,bhg.com##.topContainer
 fanucamerica.com###myBtn
 fark.com##.new_to_fark_p
 fark.com##.top_right_container
@@ -441,9 +440,9 @@ gianlucadimarzio.com##.condivisioni-articolo
 gimp.org##.headerlink
 glassdoor.co.uk,glassdoor.com###EmpSolutionsTab
 glassdoor.co.uk,glassdoor.com###SmartBannerContainer
+glassdoor.com###jobsAwareness
 glassdoor.com###UserAlertBar
 glassdoor.com###WideCol
-glassdoor.com###jobsAwareness
 glassdoor.com##.appPromoBanner
 glassdoor.com##.employerName
 glassdoor.com##.nav-container
@@ -543,7 +542,6 @@ japaneseknifeimports.com###spacer
 jetbrains.com##.js-banner-body-wrapper.banner__body
 joerogan.com###showOnScrollWrapper
 joinhoney.com##.rmq-ee92ab5d
-sports24.*,therecord.com##ads
 joystiq.com###GH_strip
 jstor.org##.dark.sidebar
 judicialwatch.org###twfbwindows
@@ -590,9 +588,9 @@ laweekly.com##.active.city-color-border.next.sideSlide
 laweekly.com##.city-color-border.city-color-back.tab
 laweekly.com##.cs-box
 laweekly.com##.other
+lawnewz.com###featured-posts-wrap
 lawnewz.com###LawNewz_Mobile_MedRec_1
 lawnewz.com###LawNewz_Mobile_MedRec_2
-lawnewz.com###featured-posts-wrap
 lawnewz.com###lnn-promo
 lawnewz.com###post-nav
 leadingauthorities.com##.header-wrp:after
@@ -790,8 +788,8 @@ nine.com.au###sticky
 nintendolife.com##.article-recommendations
 nomnompaleo.com###gmm-menu-bar
 nootrobox.com##.article__sidebar__container
-nordstrom.com##.Z2lyN7e.Z1E0VGc
 nordstrom.com##.iA20W._1YWTkD.medium_jDd9A.brandon_Z18sClN.dark_Z19mnhH
+nordstrom.com##.Z2lyN7e.Z1E0VGc
 nos.nl##.footer__column--visible-on-tablet.footer__column
 nova-magazine.net###top-link
 nova-magazine.net##.armonioso-textwidget-no-paddings.armonioso-textwidget-wrapper
@@ -819,10 +817,10 @@ oilandgasinvestor.com###header-wrapper > div:nth-of-type(2)
 ok.co.uk###cmp-container-id
 okayplayer.com##.page-meta-links-container
 omgchrome.com##.global-navigation
-openelec.tv###ca_banner
-openstreetmap.org##.welcome
 op.gg##.e7rzrzf0.css-5jq45l
 op.gg##.sns
+openelec.tv###ca_banner
+openstreetmap.org##.welcome
 oracle.com##.cw51v0.cw51
 origins.com##.sticky-chat
 orlandoweekly.com###FooterboardMobile
@@ -835,6 +833,7 @@ pageflows.com###driftChatTrigger
 palmbeachpost.com##.hidden-md-down.footer-wrapper
 parabolicarc.com##.no-break
 parents.com##.siteFooter__right
+parents.com,bhg.com##.topContainer
 pedestrian.tv###mainaside
 pennzoil.com##.truste.cloudservice
 performgroup.com##.exitpopupbtn
@@ -899,14 +898,14 @@ quizlet.com##.SetPageStickyBanner
 quora.com###__w2_hfgfBSr_banner
 quora.com###__w2_tj37wQd_banner
 quora.com###__w2_wmjOzuJ_banner
-quora.com##.ZapdosWallWrapper
 quora.com##.continue_reading_wrapper
 quora.com##.core_promo
 quora.com##.feed_expand.outer_content
 quora.com##.text_links
-quora.com##:xpath(.//*[@class="SignupFooter"])
+quora.com##.ZapdosWallWrapper
 quora.com##:xpath(.//*[@class="fixed_footer_gradient"])
 quora.com##:xpath(.//*[@class="open_in_app_link"])
+quora.com##:xpath(.//*[@class="SignupFooter"])
 qz.com###bling-1
 qz.com###bling-2
 qz.com###chyron
@@ -1048,6 +1047,7 @@ sport.es##.install-banner
 sports24.*###ao
 sports24.*##.sp24
 sports24.*##h3
+sports24.*,therecord.com##ads
 sports4u.pro,wizistreams.xyz###floatLayer1
 sportsnet.ca##.rdm-daac-notice-template
 sportsonearth.com##.next-prev-superbar.bam-superbar
@@ -1093,7 +1093,6 @@ theadvocate.com##.arrow
 theadvocate.com##.card-container
 theappendix.net##.communicate
 theartnewspaper.com##.article-options-comp
-theatlanticcities.com###message
 thebitcoinnews.com###upprev_box
 thebitcoinnews.com###wpfront-notification-bar
 thebulletin.org##.affix-content
@@ -1354,8 +1353,8 @@ zwaveproducts.com###livechat-compact-container
 ||sitelabweb.com$domain=nasdaq.com,important
 ||sumome.com^
 ||trellian.com^
-||turner.com/*/AdManager.js$script,domain=cnn.com
 ||turner.com/*/adfuel-1.1.0.js$script,domain=cnn.com
+||turner.com/*/AdManager.js$script,domain=cnn.com
 ||turner.com/*/cnn_money-ais.js$script,domain=cnn.com
 ||turner.com/*/cnnmoney_tech.js$script,domain=cnn.com
 ||washingtonpost.com/*/drawbridge.js$script,first-party

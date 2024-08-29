@@ -1,5 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Last Modified: 06:44 2024-08-09
+! Checksum: sHS8BSUC016Eahh20LOkSA
+! Last Modified: 2024-08-29 04:55 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -131,7 +132,7 @@ baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,courant.com
 baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,courant.com,dailypress.com,mcall.com,nydailynews.com,orlandosentinel.com,pilotonline.com,sun-sentinel.com##html[data-dss-meterup], [data-dss-meterup] body:style(overflow: auto !important;)
 bankrate.com##.glyphicon-arrow-up.glyphicon
 barbecuebible.com###newsletter_pop, #newsletter_pop_bg
-baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,mitchellmessenger.com,rivertonroll.com,rocklandregister.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com###exit-overlay, #exit-overlay-inline, #mb-bar, #optinform-container, #SecondaryPush, .mcwidget-overlay
+baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,mitchellmessenger.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com###exit-overlay, #exit-overlay-inline, #mb-bar, #optinform-container, #SecondaryPush, .mcwidget-overlay
 batcmd.com###cmsg
 bathandbodyworks.com,bt.com,canadagoose.com,crucial.com,greencarreports.com,mattressfirm.com,motorauthority.com,paypal-community.com,rag-bone.com##.ui-dialog, .ui-widget-overlay
 beautifulpixels.com###ml-webforms-popup-536841
@@ -185,7 +186,6 @@ botsentinel.com##.rplm-alert, .rplm-overlay
 boulevardmagazine.org##.sqs-popup-overlay
 bourbonblog.com###signupModal
 bps.org.uk##.mc-banner, .mc-modal, .mc-modal-bg
-parsers.me##.hestia-scroll-to-top
 breitbart.com###bbsp_site_overlay, #fancybox-container-1, #HaDW, #isc_front_takeover_div, #isc_front_takeover_overlay, #isc_trump_takeover_div, #isc_trump_takeover_overlay
 brightwalldarkroom.com##.tpm-counter
 brit.co##.modal-dialog
@@ -745,6 +745,7 @@ pagesix.com###background-wrapper:style(overflow-x: hidden !important; overflow-y
 pagesix.com###pagesix-app-flyout__wrapper, #web-alerts-modal, .nyp-sitewide-notice, .nyp-zephr-flyout
 paper.li##.modal-legacy-wrapper
 papersource.com###cboxContent, #cboxLoadedContent, #cboxOverlay, #cboxWrapper, #colorbox
+parsers.me##.hestia-scroll-to-top
 pass.us##.flyout
 pastebin.com###float-box-frame, #paypal-overlay
 pasted.co###captcha_box, #captcha_overlay
@@ -780,8 +781,8 @@ popsugar.com###policy-modal-banner, .modal-email-widget
 popularmechanics.com##body.no-scroll:style(overflow: auto !important;)
 popularmechanics.com##journey-modal-newsletter[data-template-id="pop-modal-newsletter"]
 popularwoodworking.com##.pagnav-wrapper
-pornhub.com##body:style(overflow: auto !important;)
 pornhub.com###ageDisclaimerMainBG, .fadeInMTubes
+pornhub.com##body:style(overflow: auto !important;)
 post-gazette.com##.pgevoke-backtotop
 potbelly.com##.general-alert-modal, .global-modal, .global-modal-background
 power-technology.com##.gd-report-modal
@@ -891,7 +892,6 @@ softpedia.com###bottombubble, #spsbtns
 sonsoflibertymedia.com##.scrollTo_top
 sophos.com##.newsletter-panel
 sothebys.com###NotificationOverlay
-thenationalpulse.com##.afc_popup
 soundcloud.com##.announcements, .upsellBanner
 space.com###ec-popup-modal, #exit-intent-modal_1, .exitIntent.exit-intent-slice.slice-container
 spectator.co.uk##.aria-offscreen:style(overflow-x: hidden !important; overflow-y: scroll !important;)
@@ -974,6 +974,7 @@ thelibertydigest.com###arevicofancy-overlay
 themarshallproject.org##.toast-notifications-container
 themarysue.com###post-nav, .c-article-nav-arrows
 themoscowtimes.com##.contribute-bar
+thenationalpulse.com##.afc_popup
 thenevadaindependent.com##.kYqsUP
 thenewrevere.com##.popupflyin-clicks-area
 theplayerstribune.com###sailthru-overlay-container
@@ -982,7 +983,6 @@ thepostmillennial.com##body.el-popup-parent--hidden:style(overflow: auto !import
 therecord.com##.fa-angle-up
 theregister.co.uk###RegCCO
 thescore.com##.privacy-popup-wrapper, .slide-in, .slide-in__container, .slide-in__content, .slide-in__toggle
-thestocktalker.com##.customPopUp, .customPopUpContent
 theverge.com###privacy-consent, #privacy-consent.m-privacy-consent, .m-privacy-consent
 thewalrus.ca##.spu-box
 theweek.com###us29-test
@@ -1104,13 +1104,13 @@ yodalearning.com##body:style(margin-top: 0 !important;)
 yodalearning.com##w-div:has([role^="dialog"])
 youtube.com###upsell-dialog-text > a[href*="sign"]:upward(body > * > *)
 youtube.com##.opened:not(.ytcp-bulk-actions):remove()
+youtube.com##tp-yt-iron-overlay-backdrop
+youtube.com##ytd-offline-promo-renderer
 youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer, ytd-popup-container > tp-yt-paper-dialog > yt-mealbar-promo-renderer:has-text(/Claim Offer|Join now|Not Now|YouTube TV|live TV|Live TV|movies|sports|Try it free|unlimited DVR|watch NFL/)
 youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer:has([href*="tv.youtube.com"])
 youtube.com##ytd-popup-container paper-dialog:has-text(/Changes to YouTube’s Terms of Service|Check out your new Library|Get access to exclusive perks|Get YouTube without the ads|How is your experience|How is YouTube today|Join now|Our Terms of Service have been updated|Rate your ads|Try it free|Try the YouTube Kids app|What is your biggest complaint|Which problems are you experiencing|You're signed out of YouTube|YouTube TV/)
 youtube.com##ytd-popup-container yt-bubble-hint-renderer:has-text(/Get access to exclusive perks/)
 youtube.com##ytd-popup-container yt-tooltip-renderer:has-text(/Choose what to play next|Join this channel and unlock/)
-youtube.com##ytd-offline-promo-renderer
-youtube.com##tp-yt-iron-overlay-backdrop
 yts.*##.modal:not(.modal-download)
 zacks.com###toolbar, .disclosure-fixed-slab
 zdf.de##.m-opened.m-open.dialog-backdrop

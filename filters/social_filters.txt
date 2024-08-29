@@ -1,5 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Last Modified: 04:40 2024-01-11
+! Checksum: 7/f/6e1wj8u92pZc29m35g
+! Last Modified: 2024-08-29 04:55 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -120,8 +121,8 @@ avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezeb
 avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##a[data-ga*="Share bar"][href*="facebook.com/sharer.php?"]:upward(2)
 aviationpros.com##.item > div.element:nth-of-type(4)
 avsforum.com###vbseo-likes, .icon-of-facebook.dispatcher-fbconnect-login.ilink, .item-social.item
-axios.com##.ShareLink__icon--2ToYo, .SocialIcons__button--_Re2H, .is-active.stream-social-cta, .react-share__ShareButton[aria-label="facebook"], .react-share__ShareButton[aria-label="linkedin"], .react-share__ShareButton[aria-label="twitter"], .sidebar__follow, .widget__sharebar
 axios.com##.amp-social-share-email, .amp-social-share-facebook, .amp-social-share-linkedin, .amp-social-share-twitter:upward(1)
+axios.com##.ShareLink__icon--2ToYo, .SocialIcons__button--_Re2H, .is-active.stream-social-cta, .react-share__ShareButton[aria-label="facebook"], .react-share__ShareButton[aria-label="linkedin"], .react-share__ShareButton[aria-label="twitter"], .sidebar__follow, .widget__sharebar
 axios.com##.space-x-4 > :not([hidden]) ~ :not([hidden]):style(margin-left: 0 !important;)
 azcentral.com##.clearfix.lf-social-bookmarks, .inline-share-tools, .longform-inline-share-module
 babycenter.com##.bottomShare, .topShareBar, .topSliceShare
@@ -133,7 +134,7 @@ bakersfield.com##.fb.btn-link.btn-md.btn, .li.btn-link.btn-md.btn, .tw.btn-link.
 bangkokpost.com##.icon-line, article > div.box-share--h.box-share > ul > li > .track, article > div.box-share--h.box-share > ul > li:not(li:nth-of-type(4))
 barrons.com##.article_tools
 barstoolsports.com##.bs-sharingLinks, .bs-socialCard
-baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,mitchellmessenger.com,rivertonroll.com,rocklandregister.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com##.mobile-hide
+baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,mitchellmessenger.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com##.mobile-hide
 bb4sp.com,freedomoutpost.com,sonsoflibertymedia.com##.essb_links
 bbc.co.uk,bbc.com###follow-us, #shareIcon, .amp-o-share-tools, .follow-us, .gelicon--share, .share--article, .share-icon, .share-tools, .share-tools__container, .share-tools__toggle, .share__title, .ws-c-social-slice__icons
 bcrnews.com,crestonnews.com,daily-chronicle.com,heraldlife.com,kcchronicle.com,kendallcountynow.com,lakecountyjournal.com,midweeknews.com,morrisherald-news.com,mysuburbanlife.com,mywebtimes.com,newtondailynews.com,nwherald.com,oglecountynews.com,osceolaiowa.com,profootballweekly.com,putnamcountyrecord.com,saukvalley.com,shawmedia.com,theherald-news.com,tonicanews.com,valleylifepress.com###sharewrapper
@@ -367,7 +368,6 @@ f-secure.com##.follow-div
 factordaily.com##.social-media-head-icons
 fairygodboss.com##.component-Elements-ArticleShareIconSection
 familybusinessmagazine.com,frieze.com##.service-links
-familycircle.com##.docked-sharebar, .mdpShareBar
 familyhandyman.com##.footersocialicons, .rightrailseparator.followusblock
 fandom.com###ShareEntryPoint, .is-toggle.card-share__button, .quick-links__social, .wds-is-follow-us.wds-global-footer__section
 fansided.com##.sticky_1ds30c3
@@ -782,7 +782,6 @@ presstv.com##.item-sharings
 princewilliamliving.com###sbe-follow
 producthunt.com##.share_a630b
 profootballrumors.com##.prettysocial
-quartersnacks.com##.menu-social-menu-container
 projectveritas.com##.widget_touchsize_facebook
 propublica.org##.email-nav, .facebook, .module-follow.pp-module, .twitter
 prospect.org###buttons, .twitter_topbar
@@ -801,6 +800,7 @@ putorius.net##.jssocials-shares
 pyimagesearch.com###fsb-social-bar
 qualityassurancemag.com##.supersocialshare-container
 quantamagazine.org##.mega__social, .theme__anchors--solid.flex-justify-center.flex.hide.post__sidebar
+quartersnacks.com##.menu-social-menu-container
 quillette.com###custom_html-2, #facebook-likebox-6, #text-3, .widget_cb_p6_sidebar_site_widget.widget
 quora.com##.FacebookNetworkShare, .FacebookShareActionItem, .TwitterNetworkShare, .TwitterShareActionItem, .better_sticky_action_bar, .share_question
 qz.com##.About__social__3VbeZ, .ArticleFooter__share-tools__3bibY, .ArticleShareIcons__container__2yYw8, .SocialSignup__quartzy__kp075, ._18a41.context-default.container, ._2b1b5, ._5f5af, .a5bfd
