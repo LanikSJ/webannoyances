@@ -1,5 +1,6 @@
 ! Title: Web Annoyances Ultralist
-! Last Modified: 04:40 2024-01-11
+! Checksum: d/81sOSTnVSqg2no8p5ojQ
+! Last Modified: 2024-08-29 07:39 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate. Web Annoyances Ultralist includes the following sublists - Ad Placeholders, Cookie Filters, Floating Filters (CSS Style Modifying & Companion Filters), Generic Filters, Modal Filters, Newsletter Filters, & Social Filters. 
 ! Homepage: https://github.com/LanikSJ/webannoyances
