@@ -1,5 +1,6 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
-! Last Modified: 02:57 2024-08-15
+! Checksum: h2yDPKB6iWRqtzb4i6WobQ
+! Last Modified: 2024-08-29 07:31 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -10,18 +11,12 @@
 ! Works Best With: uBlock Origin or AdGuard
 
 ! Start Web Annoyances Ultralist - Cookie Filters
-###Banner_cookie_1
-###CookieNotification
-###CybotCookiebotDialog
-###CybotCookiebotDialogBodyUnderlay
-###GDPRAlertBanner
-###GDPRConsentBar
-###GDPRCookie
 ###__tealiumGDPRecModal
 ###acceptCookies
 ###adviceCookies
 ###alert_cookies
 ###amp-cookie-notice
+###Banner_cookie_1
 ###box-gdpr
 ###cadre_alert_cookies
 ###catapult-cookie-bar
@@ -55,23 +50,6 @@
 ###cookie-view
 ###cookie-warning
 ###cookie-warning-gdpr
-###cookieAlert
-###cookieBanner:not(html):not(body)
-###cookieChoiceBar
-###cookieChoiceInfo
-###cookieCompliance
-###cookieConsent
-###cookieCont
-###cookieContainer
-###cookieFrame
-###cookieInfo
-###cookieInfoMsgWrapper
-###cookieMessage
-###cookieMessageOuter
-###cookieNote
-###cookieNotice
-###cookiePolicy
-###cookieView
 ###cookie_alert
 ###cookie_banner
 ###cookie_bar
@@ -81,14 +59,31 @@
 ###cookie_info
 ###cookie_notice
 ###cookie_popup
+###cookieAlert
+###cookieBanner:not(html):not(body)
 ###cookiebanner:not(html):not(body)
 ###cookiebar
+###cookieChoiceBar
+###cookieChoiceInfo
+###cookieCompliance
+###cookieConsent
 ###cookieconsent
+###cookieCont
+###cookieContainer
+###cookieFrame
+###cookieInfo
 ###cookieinfo
+###cookieInfoMsgWrapper
 ###cookielaw
+###cookieMessage
 ###cookiemessage
+###cookieMessageOuter
+###cookieNote
+###cookieNotice
 ###cookienotice
 ###cookienotif
+###CookieNotification
+###cookiePolicy
 ###cookiepolicy
 ###cookiepopup
 ###cookies-bar
@@ -97,16 +92,19 @@
 ###cookies-policy-wrapper
 ###cookies-politics
 ###cookies-tip
-###cookiesAlert
-###cookiesInfo
 ###cookies_message
 ###cookies_popup_container
+###cookiesAlert
 ###cookiescript_injected
 ###cookiesdirective
+###cookiesInfo
 ###cookieswrapper
 ###cookietMsg
+###cookieView
 ###cookiewarn
 ###cookiewarning
+###CybotCookiebotDialog
+###CybotCookiebotDialogBodyUnderlay
 ###domCookieWarning
 ###eu-cookie
 ###eu-cookie-bar
@@ -121,6 +119,9 @@
 ###gdpr-cookie-message
 ###gdpr-dashboard
 ###gdpr18
+###GDPRAlertBanner
+###GDPRConsentBar
+###GDPRCookie
 ###gdprPopup
 ###gel-cookie-banner
 ###headerCookiesAdvice
@@ -136,11 +137,6 @@
 ###uecookies
 ###uhfCookieAlert
 ###v-cookielaw
-##.CookieBar
-##.CookieMessage
-##.CookieNotificationTopBar
-##.CookieWarning
-##.CookiesBanner
 ##.accepted-cookies
 ##.altamira-gdpr-cookie-consent
 ##.banner--cookies-policy
@@ -189,25 +185,27 @@
 ##.cookie-popup
 ##.cookie-prompt
 ##.cookie-warning
-##.cookieBar
-##.cookieBox
-##.cookieConsent
-##.cookieConsent-popOut
-##.cookieInfo:not(body)
-##.cookieMessage
-##.cookieMessageDiv
-##.cookiePolicy
-##.cookieSettings
 ##.cookie_banner
 ##.cookie_message
 ##.cookie_notice
 ##.cookiealert
 ##.cookiebanner:not(html):not(body)
+##.CookieBar
+##.cookieBar
 ##.cookiebar
+##.cookieBox
+##.cookieConsent
 ##.cookieconsent
+##.cookieConsent-popOut
 ##.cookieconsent-wrap
 ##.cookiedOuter
 ##.cookieinfo
+##.cookieInfo:not(body)
+##.CookieMessage
+##.cookieMessage
+##.cookieMessageDiv
+##.CookieNotificationTopBar
+##.cookiePolicy
 ##.cookiepolicy
 ##.cookies-alert-box-wrapper
 ##.cookies-banner
@@ -217,7 +215,10 @@
 ##.cookies__banner
 ##.cookies__wrapper
 ##.cookies_bar
+##.CookiesBanner
+##.cookieSettings
 ##.cookieterms
+##.CookieWarning
 ##.css-live-widget_cookiePolicyWidget
 ##.emgdpr-cookies
 ##.eu-cookie-notice

@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: 7/f/6e1wj8u92pZc29m35g
-! Last Modified: 2024-08-29 04:55 UTC
+! Checksum: gMJcYfD5rqztNGhbBfl9Xw
+! Last Modified: 2024-08-29 07:36 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
