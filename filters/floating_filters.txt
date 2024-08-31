@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: OMISofwwUUfwUI7tFdYBNQ
-! Last Modified: 2024-08-30 02:20 UTC
+! Last Modified: 2024-08-31 01:13 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -2533,10 +2533,10 @@ directindustry.com##.gNcRGI:style(width: 246px !important; height: 54px !importa
 directindustry.com##.jCQiJQ:style(margin-top: -4px !important;)
 directindustry.com##.rRqtw:style(margin-top: 5px !important;)
 directv.com###navBar:style(position: relative !important;)
-disboards.com##.p-nav-list .p-navEl-link.p-navEl-link--splitMenu:style(padding-right: 1.875px !important;)
-disboards.com,sammyboy.com###top > div:nth-child(3):not(.p-sectionLinks)
-disboards.com,sammyboy.com##.p-nav-list .p-navEl.is-selected .p-navEl-link:style(padding-right: 15px !important;)
-disboards.com,sammyboy.com##.p-navEl.is-selected .p-navEl-splitTrigger
+disboards.com,khinsider.com##.p-nav-list .p-navEl-link.p-navEl-link--splitMenu:style(padding-right: 1.875px !important;)
+disboards.com,khinsider.com,sammyboy.com###top > div:nth-child(3):not(.p-sectionLinks)
+disboards.com,khinsider.com,sammyboy.com##.p-nav-list .p-navEl.is-selected .p-navEl-link:style(padding-right: 15px !important;)
+disboards.com,khinsider.com,sammyboy.com##.p-navEl.is-selected .p-navEl-splitTrigger
 discord.com##.rich-content-right:style(position: absolute !important; top: 0 !important;)
 discord.me###searchWrap:style(position: relative !important; top: 0 !important;)
 discord.me###sideMenu:style(position: absolute !important;)
@@ -2857,7 +2857,7 @@ eraser.heidi.ie##.is-selected > .p-navEl-splitTrigger
 eraser.heidi.ie##.mk-header-holder:style(position: absolute !important;)
 eraser.heidi.ie##.p-navEl-link--splitMenu:style(padding-right: 1.875px !important;)
 eraser.heidi.ie##.p-navEl.is-selected .p-navEl-link:style(padding-right: 15px !important;)
-eraser.heidi.ie##.p-navSticky:style(position: relative !important; box-shadow: none !important;)
+eraser.heidi.ie,khinsider.com##.p-navSticky:style(position: relative !important; box-shadow: none !important;)
 ergotron.com###chat
 ericksonseniorliving.com###header:style(padding: 2rem 0 !important;)
 ericksonseniorliving.com##.navbar .navbar-nav:style(margin-top: 1.5rem !important;)
@@ -3421,9 +3421,6 @@ freshchalk.com##.sticky-top:style(position: relative !important; top: 0 !importa
 frieze.com##.site-header--fixed.site-header:style(position: absolute !important;)
 frontendmentor.io##.sticky:style(position: static !important;)
 frontiergroup.org##.top3-wrap
-frontiersin.org##.Ibar__button, .Ibar__dropdown__trigger, .Ibar__icon, .Ibar__link, .Ibar__logo__text:style(color: unset !important;)
-frontiersin.org##.Ibar__button:style(border: 1px solid !important;)
-frontiersin.org##.Ibar__main:style(position: absolute !important; background: none !important; border: none !important;)
 frontpagemag.com##._access.material-icons._access-icon:style(position: absolute !important;)
 frostwire.com###headerMain:style(position: absolute !important;)
 fs.blog###mast:style(position: absolute !important;)
@@ -4646,6 +4643,11 @@ kickstarter.com##.NS_projects__project_nav, .skrollable-after.skrollable.js-proj
 kickstarter.com##.pt11:style(padding-top: 0 !important;)
 kickstarter.com##.skrollable.project-nav__buttons:style(bottom: 0 !important;)
 kidrock.com##.top-bar:style(position: relative !important; top: 0 !important;)
+kids.frontiersin.org##.fabs-container:style(position: absolute !important;)
+kids.frontiersin.org##.header:style(height: 4.5rem !important;)
+kids.frontiersin.org##.header-branding:style(padding-top: 10px !important; padding-bottom: 0 !important;)
+kids.frontiersin.org##.header-container:style(position: relative !important; margin-top: 3.188rem !important; height: 4.33333rem !important;)
+kids.frontiersin.org##.waypoint:style(margin-top: 3.188rem !important;)
 kidshealth.org###kh-header:style(position: absolute !important;)
 kinopoisk.ru##.header-fresh-partial-component__inner:style(position: absolute !important;)
 kinsta.com###nav:style(position: static !important;)
@@ -5247,6 +5249,7 @@ michelinman.com##.dgad-siderail-container__nav:style(position: absolute !importa
 michigan.com###affx, .news-bar.container-fluid:style(position: absolute !important; top: 0 !important;)
 microcenter.com##.mm-t007-sticky-bar
 microsoft.com###contactSalesStickyBar, #shared-stickybanner-reimagineevent2024, .fixed-sticky
+microsoft365.com,office.com##.shy-header
 microsoftedge.microsoft.com###headerArea:style(position: static !important;)
 microsoftedge.microsoft.com###persistent-header
 microsoftedge.microsoft.com##.BannerRedesigned:style(position: absolute !important;)
@@ -5982,7 +5985,6 @@ odysee.com##.tab__wrapper--fixed .tabs__list:style(padding-left: 11rem !importan
 odysee.com##.tab__wrapper--fixed:style(position: relative !important; top: 0 !important;)
 odysee.com##header.header:style(position: relative !important;)
 offerup.com##._w4ksuk9:style(position: relative !important;)
-office.com##.shy-header
 office.fedex.com##.jumplinksRow:style(position: relative !important; top: 0 !important;)
 officedepot.com###stickyHeader
 ohow.co###masthead, #progress-bar-bck, #progress-bar, #ubermenu-main-366-primary, .entry-header, .header-menu:style(position: relative !important; top: 0 !important;)
@@ -6554,6 +6556,8 @@ quora.com##.q-fixed:style(position: absolute !important;)
 quora.com##.q-sticky:style(position: relative !important; top: 0 !important;)
 quora.com##.qu-zIndex--action_bar:style(position: relative !important;)
 quotes.wsj.com##.mega-nav:style(position: relative !important; top: 0 !important; height: 185px !important;)
+quran.com##.Navbar_container__vShO1:style(position: absolute !important; transform: none !important;)
+quran.com##.OnboardingChecklist_checklist__taSTB
 qz.com###header#header, #header:style(position: absolute !important;)
 qz.com###header-bar:style(position: absolute !important; background-color: transparent !important; border-bottom: 1px solid #e2e2e2 !important;)
 qz.com###nav-main, .header-container, .header-hidden.dark-theme, .logo:style(position: relative !important; top: 0 !important;)
@@ -6644,7 +6648,7 @@ redbullmusicacademy.com##.main-nav:style(position: relative !important;)
 redbullracing.com##.header-panel__panel:style(position: absolute !important; top: 0 !important;)
 redbullracing.com##.tenant-header:style(transform: none !important; background: none !important;)
 reddit.com###left-sidebar-container:style(position: absolute !important;)
-reddit.com###right-sidebar-container:style(position: relative !important; top: 0 !important; overflow-x: none !important; overflox-y: none !important;)
+reddit.com###right-sidebar-container:style(position: relative !important; top: 0 !important; overflow-x: unset !important; overflow-y unset !important;)
 reddit.com##.z-\[4\].fixed:style(position: absolute !important;)
 reddit.com##reddit-sidebar-nav:style(overflow-y: unset !important; overflow-x: unset !important;)
 redditery.com###menu, #more:style(position: absolute !important;)
@@ -8692,6 +8696,8 @@ virustotal.com###omnibarWrapper:style(position: relative !important;)
 virustotalcloud.appspot.com##.vt-app-0 #toolbar.vt-app:style(position: absolute !important;)
 visa.com##.blue.destination-header.header, .header:style(position: relative !important; top: 0 !important;)
 visible.com##[class*="HeaderWrapper-sc"], header[class*="HeaderStyled-sc-"]:style(position: static !important;)
+visiblebody.com###hs_cos_wrapper_module_146231238092746396 > div:last-child:style(position: relative !important; top: 0 !important;)
+visiblebody.com##.site-header__main:style(position: relative !important;)
 visir.is##.mobile-stick-top.header-mobile:style(position: absolute !important; top: 0 !important;)
 visualcapitalist.com###mvp-main-nav-top:style(position: relative !important; padding: 15px 0 !important; height: 70px !important; box-shadow: none !important; transform: none !important;)
 visualcapitalist.com###site-navigation, .nav--main__wrapper:style(position: relative !important;)
@@ -8919,16 +8925,19 @@ wifinowevents.com##.widget-area.sidebar-primary.sidebar
 wiki.libsdl.org###feedback
 wikidot.com###navi-bar:style(position: absolute !important;)
 wikihow.com###actions #nav_pro .label:style(position: absolute !important; left: 16px !important; top: 28% !important;)
-wikihow.com###hs_query:style(width: 320px !important; height: auto !important;)
 wikihow.com###hs_submit:style(height: 39px !important; background-size: 25px !important; margin-right: 40px !important; margin-top: 1px !important;)
 wikihow.com###nav_explore, #nav_profile, #nav_random, #nav_quizzes:style(height: 31px !important;)
 wikihow.com###nav_pro_li:style(width: 100px !important; height: 45px !important; margin-top: 13px !important;)
+wikihow.com##.altblock:style(height: 60px !important; width: 60px !important; margin: 0 !important; border-radius: 4px 0 0 0 !important;)
 wikihow.com##.header:style(height: 72px !important;)
 wikihow.com##.header_container.shrunk #actions #nav_pro_li .red_dot:style(display: block !important;)
 wikihow.com##.header_container.shrunk #actions li .nav:style(padding-top: 40px !important;)
 wikihow.com##.header_container:style(position: absolute !important; height: 72px !important; transform: none !important;)
+wikihow.com##.headline_container:style(position: relative !important; top: 0 !important;)
 wikihow.com##.nav_icon:style(display: block !important;)
 wikihow.com##.shrunk #header_logo:style(background-position: left 20px !important;)
+wikihow.com##body:has(#defaultHomepage, #quiz_state) #hs_query:style(width: 320px !important; height: auto !important;)
+wikihow.com##body:has(.mw-parser-output) #hs_query:style(width: 293px !important; height: auto !important;)
 wikimediafoundation.org##.top-nav:style(position: absolute !important; box-shadow: none !important;)
 wikimonks.com###sticky:style(position: relative !important;)
 wikipedia.org###mwe-pt-list-control-nav:style(position: static !important;)
@@ -9090,6 +9099,12 @@ wwd.com###site-wrap:style(padding-top: 0 !important;)
 wwe.com###mini-panel-header_navigation:style(position: relative !important; top: 0 !important;)
 wwe.com##.wwe-header--explorer.wwe-highlights-videos--wrapper:style(position: relative !important; top: 0 !important; transform: none !important;)
 wweek.com##.slimline.fixed.border-top-desktop.border-top-mobile.line-up.sharebar-top-mobile.sharebar-wrapper.sharebar-top-desktop:style(position: relative !important; top: 0 !important;)
+www.frontiersin.org##.Default--home-page .Ibar__main:style(position: absolute !important; transform: none !important;)
+www.frontiersin.org##.Home .Ibar__main:style(position: absolute !important; background: none !important; border: none !important;)
+www.frontiersin.org##.Ibar__button, .Ibar__dropdown__trigger, .Ibar__icon, .Ibar__link, .Ibar__logo__text:style(color: unset !important;)
+www.frontiersin.org##.Ibar__button:style(border: 1px solid !important;)
+www.frontiersin.org##.Ibar__journal:style(position: absolute !important; transform: none !important;)
+www.frontiersin.org##.Ibar__journal--mix
 www.google.*##.n47m8b:style(position: absolute !important; top: 0 !important; max-height: unset !important;)
 www.google.com###js-header-right:style(transform: translateX(210px) !important;)
 www.google.com##.h-c-header__bar:style(position: absolute !important; transform: none !important;)
