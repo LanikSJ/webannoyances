@@ -3641,7 +3641,7 @@ global.rakuten.com##.j-header-toggle > li p a:style(padding-bottom: 28px !import
 global.rakuten.com##.j-header-toggle:style(padding: 30px 0 0 !important; text-align: unset !important;)
 global.rakuten.com##.j-hovertarget:style(margin-left: 0 !important; margin-right: 50px !important;)
 global.rakuten.com##.logo > a > img:style(transform: none !important;)
-global.rakuten.com##.rf-header-inner:style(-webkit-transition: none !important; height: 130px !important;)
+global.rakuten.com##.rf-header-inner:style(position: absolute !important; -webkit-transition: none !important; height: 130px !important;)
 global.rakuten.com##.rf-header-lang:style(display: unset !important;)
 global.rakuten.com##.rf-header-nav-inner:style(top: 130px !important;)
 global.rakuten.com##.rf-header-top:style(width: unset !important; float: unset !important;)
