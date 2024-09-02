@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: 6IAFUy3CmU9IMJ1Ot6Qo1g
-! Last Modified: 2024-08-29 07:36 UTC
+! Checksum: aGd3OAbNKAPS6tPOKlW35g
+! Last Modified: 2024-09-02 08:23 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -207,7 +207,6 @@ ciencedirect.com##.tocbutton
 cigar.com###static-footer-sprintsale
 cigarjournal.com###sidebar-header
 cigarsinternational.com###static-footer-ship
-cinesift.com##.sb-toggle-left
 circa.com##.AboutPage-hamburglarButton
 circa.com##.ArticlePage-hamburglarButton
 circa.com##.Atom-actionButton
