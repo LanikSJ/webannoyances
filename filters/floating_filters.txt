@@ -5013,6 +5013,7 @@ louslagrotto.com##.site-footer-desktop-primary[data-footer-sticky]:style(positio
 love2dev.com##.main-header.body-row:style(position: absolute !important;)
 lovethispic.com###header:style(margin-bottom: 0 !important;)
 lovethispic.com##.nav-container:style(position: relative !important;)
+lovethispic.com##.next-fixed, .prev-fixed:style(position: absolute !important;)
 lowes.com##.atc-wrapper
 lowes.com##.hNwxFT, .xl-7.hKPntT:style(position: relative !important; top: 0 !important;)
 lowes.com##.hRwcVY:style(position: relative !important;)
