@@ -926,9 +926,8 @@ azure.microsoft.com##.wa-container:style(padding-top: 0 !important;)
 babbel.com##.masthead
 babble.com##.tm-header
 babe.net##.header-wrapper:style(position: relative !important; top: 0 !important;)
-babycenter.com##.efth47v0
-babycenter.com##.mui-style-1hw6kot:style(margin-top: 70px !important;)
-babycenter.com##[data-tracking-location="header"]:nth-of-type(2):style(position: absolute !important; top: -70px !important;)
+babycenter.com##.mui-style-12tf3ly
+babycenter.com##[data-tracking-location="header"]:nth-of-type(2):style(position: absolute !important; top: -70px !important; border-bottom: none !important;)
 thequiz.com###js-header:style(position: absolute !important;)
 babylonbee.com###bigNavbar:style(position: absolute !important; display: flex !important;)
 babylonbee.com###smallNavbar:style(position: absolute !important;)
