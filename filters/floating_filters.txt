@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: Z4/6Zpgz2Imk/yspJtjlpQ
-! Last Modified: 2024-09-11 23:20 UTC
+! Last Modified: 2024-09-12 05:13 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -1654,6 +1654,8 @@ cardpaymentoptions.com##.widget#respond .panel-heading, .widget.panel .panel-hea
 cardpaymentoptions.com,vacationtracker.io###drift-widget:style(position: absolute !important;)
 care.com##.navbar-center:style(transform: none !important;)
 careerattraction.com##.sticky_animate.sticky.page_header.scrolled_not_transparent.transparent.stick.scroll_header_top_area:style(position: absolute !important;)
+caredge.com,endicottpolice.com,healthepro.com###main-header, #top-header:style(position: absolute !important;)
+caredge.com##.area-outer-wrap:style(position: absolute !important;)
 careerexplorer.com##.GlobalNav:style(background-color: unset !important;)
 careerexplorer.com##.home #globalnav-container:style(position: absolute !important;)
 careerexplorer.com##.Listings__FilterSection:style(position: relative !important;)
@@ -2110,7 +2112,7 @@ community.broadcom.com###NAV:style(position: relative !important;)
 community.broadcom.com##.stickyNav-filler
 community.jivesoftware.com###j-compact-header:style(position: absolute !important;)
 community.jivesoftware.com###j-cust-head:style(visibility: visible !important; transform: none !important;)
-community.microfocus.com,dell.com##.lia-component-common-widget-scroll-to
+community.microfocus.com##.lia-component-common-widget-scroll-to
 community.spotify.com##.stuck.navbar-bottom:style(position: absolute !important;)
 community.t-mobile.com###insidedTmoUNAV:style(position: static !important;)
 community.verizon.com##.lia-quilt-row-hero-banner
@@ -2454,9 +2456,8 @@ delish.com,harpersbazaar.com,housebeautiful.com,roadandtrack.com##.sticky.nav:st
 delishably.com###header_wrap:style(position: relative !important; top: 0 !important;)
 delishably.com###maven_sidebar:style(position: absolute !important;)
 delishably.com###mod_new11:style(position: static !important;)
-dell.com###accessories-category-tiles, #affix-scroll-nav:style(position: static !important;)
-dell.com###contact-drawer, #lia-body.lia-body .lia-quilt.lia-top-quilt:not(.lia-quilt-category-page-landing) .ask-question-banner-wrapper, #lia-body.lia-body .lia-quilt.lia-top-quilt:not(.lia-quilt-category-page-landing) .ask-question-widget-button, .hidden-xs.d-flex.d-none.contact-slider:style(position: absolute !important;)
-dell.com###middle-content:style(padding-top: 0 !important;)
+dell.com###btn-virtual-assistant, .uc-floating-button
+dell.com##.btnbacktotop
 deloitte.com##.stuck.article-progress-bg:style(position: relative !important; top: 0 !important;)
 deloitte.com##.stuck.article-sections:style(position: relative !important;)
 deloitte.com,insidesources.com###navigationBar:style(position: absolute !important;)
@@ -2839,7 +2840,6 @@ enablingtechcorp.com##.roll_activated.roll_menu:style(position: absolute !import
 endgame.com###block-block-22, #nav:style(position: absolute !important;)
 endicottpolice.com##.et_header_style_centered #top-menu > li > a:style(font-size: 18px !important;)
 endicottpolice.com##.logo_container:style(height: 90px !important;)
-endicottpolice.com,healthepro.com###main-header, #top-header:style(position: absolute !important;)
 endoftheamericandream.com###sticky-navigation
 endpts.com##.epn_header_menu .epn_logo svg:style(height: 1.375rem !important;)
 endpts.com##.epn_header_menu .epn_profile .epn_user.epn_logged_out ul li a, .epn_header_menu .epn_profile .epn_user.epn_logged_out ul li button:style(line-height: 6.875004rem !important;)
@@ -5552,6 +5552,7 @@ muslimpress.com###base-header:style(position: relative !important; top: 0 !impor
 mvmt.com##.header-menu-wrapper:style(position: relative !important;)
 mvmt.com##.plp-filter-bar:style(position: relative !important; top: 0 !important;)
 mvmt.com##.sticky-bar
+my.caredge.com##.top-sticky-banner_bannerContainer__7fXXC
 my.pltw.org##.mui-fixed:style(position: absolute !important;)
 my.xfinity.com##.cms-logo:style(display: block !important;)
 my.xfinity.com##.search-container .search-area .has-cms-logo.logo:style(background: none !important;)
@@ -7519,7 +7520,14 @@ store.google.com##.sticky-stacky:style(position: relative !important; top: 0 !im
 store.google.com##.title-text:style(font-size: 24px !important; line-height: 24px !important;)
 store.hermanmiller.com##.pdp-image-container.sticky:style(position: absolute !important; bottom: unset !important;)
 store.hermanmiller.com##.sticky-cart.add-to-cart-container:style(position: relative !important;)
+store.steampowered.com##._15YLDKm80opUF5Tivo7UK-:style(position: absolute !important;)
+store.steampowered.com##._1iqjH40fN4Diar-d-rLbR5:style(display: flex !important; font-size: 35px !important; line-height: 41px !important; white-space: normal !important; flex-direction: column !important; justify-content: center !important; word-break: break-word !important;)
+store.steampowered.com##._2zTu0OPJoqo1BXb1J9pDJ2:style(position: absolute !important; height: 150px !important; width: 100% !important;)
+store.steampowered.com##._3j2deAP85R6gftsIWiHe7n:style(position: relative !important; box-shadow: none !important;)
+store.steampowered.com##._3tf3bdmBO0Ji0rv8PH-ZXz:style(display: block !important;)
 store.steampowered.com##._3uAuM7D5wUQg-5M21NGJc5:style(overflow-x: unset !important; overflow-y: unset !important;)
+store.steampowered.com##._3yqpPRFLwr6ETVDgLGT37s:style(transform: translateY(250px) !important;)
+store.steampowered.com##.qexk-JocS7jjDM31IcGZn:style(grid-template-columns: 290px 1fr !important; grid-template-rows: 100px 36px !important;)
 store.vuetifyjs.com###core-app-bar:style(position: absolute !important;)
 stories.mightyearth.org##.Layer--one.ParentWidth.CardCanvas.Theme-Layer-CardCanvas.PositionSticky:style(position: relative !important; top: 0 !important;)
 stories.mightyearth.org##.Theme-HeaderContainer.Levels--header.PositionSticky.FullSize--fullWidth.Core--rootElement:style(position: relative !important;)
@@ -7630,6 +7638,7 @@ syfy.com##.navbar__live-trigger-inner, .navbar__news-trigger-inner, .navbar__wat
 syfy.com##.navbar__primary-item-link-inner, .navbar__primary-item-link-text, .navbar__search-trigger-inner:style(transform: translateY(29px) !important;)
 syfy.com##.syfy-wire-latest-article + div:style(margin-top: 40px !important;)
 syfy.com##.syfy-wire-latest-article:style(position: relative !important; top: 40px !important; transform: none !important;)
+symbolspy.com##.fresh:style(position: unset !important; width: 100% !important;)
 symfony.com###sln, .sln-bar:style(position: absolute !important;)
 symfony.com##.affix.header__bottom:style(position: absolute !important; box-shadow: none !important;)
 symless.com##.global-header, .navbar-default.navbar:style(position: absolute !important;)
@@ -8505,6 +8514,8 @@ turbosquid.com###action_bar:style(position: static !important;)
 turkeypurge.com###main-header, #top-header:style(position: relative !important; top: 0 !important;)
 turntouch.com###notification-bar, .sticky-header:style(position: absolute !important; transform: none !important;)
 turnuav.com###mainNavigation:style(position: relative !important;)
+turo.com##.seo-pages-1bo79dh-NavbarHeader:style(position: absolute !important;)
+turo.com##.seo-pages-1h9aax
 tutanota.com###headerNav:style(position: absolute !important; background-color: transparent !important;)
 tutanota.com##.navbar-fixed-top.navbar-bottom.navbar:style(position: relative !important; top: 0 !important;)
 tutorials.jenkov.com###bottomNavBar2Parent
