@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: jzwoORyhN9TBknqc1fyvRQ
-! Last Modified: 2024-09-15 17:55 UTC
+! Checksum: 6m1HkNgDwF4+I6bHLxEmQw
+! Last Modified: 2024-09-23 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -2367,7 +2367,6 @@ dangerousminds.net###socialbar:style(position: absolute !important;)
 dappersports.com##.stick-it.cf.main:style(position: relative !important; top: 0 !important;)
 darkreading.com,datacenterknowledge.com##.Navigation > div:style(padding-top: 0 !important;)
 darkreading.com,datacenterknowledge.com##.Provider:style(padding-top: 0 !important;)
-darkwebguide.net,duduf.com,htpcguides.com,linuxincluded.com,nintendosoup.com,ourfakehistory.com,theantimedia.com###site-navigation:style(position: absolute !important;)
 darlingmagazine.org##.navbar-visible.navbar-stuck.social-disabled.navbar-center.navbar-primary:style(position: absolute !important;)
 darlingmagazine.org,socialitelife.com,thenationalpulse.com,yp.sg##.posts-pagination
 datalounge.com###footer:style(position: relative !important; bottom: 0 !important;)
@@ -2710,6 +2709,7 @@ dualshockers.com##.nav-main:style(position: absolute !important;)
 duckduckgo.com###header_wrapper:not(.header-wrap--with-hero), .js-header-wrap.header-wrap:not(.header-wrap--with-hero):style(position: relative !important; top: 0 !important;)
 duckduckgo.com##.is-stuck.has-dropdowns.js-zcm-sticky.metabar--fixed.metabar:style(position: absolute !important; top: 0 !important;)
 duckduckgo.com##.js-serp-bottom-right.serp__bottom-right:style(position: absolute !important; bottom: unset !important;)
+duduf.com,htpcguides.com,linuxincluded.com,nintendosoup.com,ourfakehistory.com,theantimedia.com###site-navigation:style(position: absolute !important;)
 duffelblog.com###mvp-main-body-wrap, #mvp-main-nav-bot, .mvp-fixed-next:style(margin-top: 0 !important;)
 duffelblog.com###mvp-main-nav-bot, #mvp-main-nav-top, #mvp-main-nav-bot-cont, .mvp-fixed1:style(position: relative !important; top: 0 !important; transform: none !important;)
 duffelblog.com###mvp-main-nav-top:style(padding: 15px 0 !important;)

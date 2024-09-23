@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: gMJcYfD5rqztNGhbBfl9Xw
-! Last Modified: 2024-08-29 07:36 UTC
+! Checksum: UOkzhh04DSHHdwLqXOEEng
+! Last Modified: 2024-09-23 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -311,7 +311,6 @@ digiconomist.net###Social-Sidebar
 digitalocean.com##.Share-list
 digitaltrends.com##.m-stardust-share
 discover.com##.global-social-footer
-dishragmag.com##.yui3-widget
 disney.com##.tm-social-facebook, .tm-social-instagram, .tm-social-pinterest, .tm-social-twitter, .tm-social-youtube
 disrn.com##.g1-socials-item-facebook, .g1-socials-item-twitter
 distiller.com##.action-bar.spirit-show-action-bar
