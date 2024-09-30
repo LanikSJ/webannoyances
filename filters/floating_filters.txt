@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: 6m1HkNgDwF4+I6bHLxEmQw
-! Last Modified: 2024-09-23 08:20 UTC
+! Checksum: I8uPl7VBiuAwrylngl7AQg
+! Last Modified: 2024-09-30 08:27 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -20,7 +20,7 @@
 10best.usatoday.com##.hamburger-uninit:style(position: absolute !important;)
 10best.usatoday.com##.off-canvas-wrap:style(max-width: unset !important;)
 10best.usatoday.com##.vert-social-sharing-bar:style(position: absolute !important; top: -27px !important;)
-10best.usatoday.com,aminoapps.com,aura.app,bitport.io,boardofwisdom.com,buffalonews.com,clever.com,climateaction.org,coldstonecreamery.com,dailycaller.com,data.swiftkey.com,dcunited.com,deepcapture.com,democracynow.org,dippindots.com,discord.me,discounttire.com,duluthtrading.com,ehow.com,eonline.com,euroleaguebasketball.net,examine.com,fedex.com,github.blog,gladiator.tf,goddesscams.online,gonintendo.com,halfwheel.com,hbr.org,homesciencetools.com,honda.com,independentarabia.com,independentpersian.com,indyturk.com,inquirer.com,irehouse.com,itemfix.com,mediacentre.euroleague.net,mic.com,nypost.com,nyuhs.org,order.wendys.com,personal.chase.com,prmdeal.com,saksfifthavenue.com,sammobile.com,sfchronicle.com,sfgate.com,simpleflying.com,site24x7.com,support.google.com,teamblind.com,themarysue.com,topclassactions.com,trident.edu,vacationtracker.io,vera.org,wallpapers.com,welchs.com,whio.com##header:style(position: relative !important;)
+10best.usatoday.com,aminoapps.com,aura.app,bitport.io,boardofwisdom.com,buffalonews.com,clever.com,climateaction.org,coldstonecreamery.com,dailycaller.com,data.swiftkey.com,dcunited.com,deepcapture.com,democracynow.org,dippindots.com,discord.me,discounttire.com,duluthtrading.com,ehow.com,eonline.com,euroleaguebasketball.net,examine.com,fedex.com,github.blog,gladiator.tf,goddesscams.online,gonintendo.com,halfwheel.com,hbr.org,homesciencetools.com,honda.com,independentarabia.com,independentpersian.com,indyturk.com,inquirer.com,itemfix.com,mediacentre.euroleague.net,mic.com,nypost.com,nyuhs.org,order.wendys.com,personal.chase.com,prmdeal.com,saksfifthavenue.com,sammobile.com,sfchronicle.com,sfgate.com,simpleflying.com,site24x7.com,support.google.com,teamblind.com,themarysue.com,topclassactions.com,trident.edu,vacationtracker.io,vera.org,wallpapers.com,welchs.com,whio.com##header:style(position: relative !important;)
 10tv.com##.article__close:style(position: relative !important; top: 38px !important;)
 10tv.com##.grid__sticky-content:style(position: absolute !important; top: 0 !important;)
 10tv.com##.header__featured:style(top: 62px !important;)
@@ -1300,7 +1300,7 @@ blindmanspuff.com##.logo-only-when-stuck .logo-main-menu:style(opacity: 0 !impor
 blindmanspuff.com##.sidebar-wrap.clearfix.block:style(position: relative !important; transform: none !important;)
 blockchain.com##.Header__GlobalNav-ra9ecu-0:style(position: absolute !important; top: 0 !important; transform: none !important;)
 blockchain.com##.scrolling:style(position: absolute !important;)
-blockchain.info,data.swiftkey.com,deviantartads.com,grow.com,hims.com,html-tidy.org,impossiblefoods.com,nitter.13ad.de,nitter.42l.fr,academy.moz.com,nitter.lelux.fi,nitter.net,nitter.nixnet.xyz,nitter.snopyta.org,rgagnon.com,starttls-everywhere.org,teamtreehouse.com,urbanairship.com,userchrome.org,victoriassecret.com,watch.cookingchanneltv.com##nav:style(position: absolute !important;)
+blockchain.info,data.swiftkey.com,deviantartads.com,grow.com,hims.com,html-tidy.org,impossiblefoods.com,nitter.42l.fr,academy.moz.com,nitter.lelux.fi,nitter.net,nitter.nixnet.xyz,nitter.snopyta.org,rgagnon.com,starttls-everywhere.org,teamtreehouse.com,urbanairship.com,userchrome.org,victoriassecret.com,watch.cookingchanneltv.com##nav:style(position: absolute !important;)
 blockchainmind.com,leaderpost.com,thestarphoenix.com,thewalrus.ca##.masthead:style(position: absolute !important;)
 blockshopper.com###main .header .navbar-toggle:style(position: absolute !important;)
 blockshopper.com##.breadcrumb:style(margin-top: 0 !important;)
@@ -5914,7 +5914,7 @@ nintendo.com##.ewhzAo
 nintendolife.com##.headerbar:style(position: relative !important;)
 nites.tv##.hd:style(position: absolute !important; top: 0 !important;)
 nites.tv##.home .hd:style(background: linear-gradient(to bottom, var(--body) 0%, rgba(0,0,0,0) 100%) !important;)
-nitter.13ad.de,nitter.42l.fr,nitter.lelux.fi,nitter.net,nitter.nixnet.xyz,nitter.snopyta.org##.profile-tab:style(position: static !important;)
+nitter.42l.fr,nitter.lelux.fi,nitter.net,nitter.nixnet.xyz,nitter.snopyta.org##.profile-tab:style(position: static !important;)
 nknews.org##.scroll-fix.header.header-main:style(position: relative !important; top: 0 !important;)
 nme.com##.post-byline-inner:style(position: relative !important; top: 0 !important;)
 nme.com##.td-header-active.td-header-desktop-sticky-wrap
