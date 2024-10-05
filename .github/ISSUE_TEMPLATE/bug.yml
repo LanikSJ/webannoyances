@@ -53,8 +53,7 @@ body:
     attributes:
       label: "Screenshots"
       description: Please provide screenshots to help explain your problem.
-      value: |
-        ![DESCRIPTION](LINK.png)
+      placeholder: No large screenshots please. Just the area in question and highlight the issue if possible.
     validations:
       required: true
   - type: textarea

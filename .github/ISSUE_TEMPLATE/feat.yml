@@ -41,8 +41,7 @@ body:
     attributes:
       label: "Site URL"
       description: Please enter the URL of the website you're having an issue with.
-      value: |
-        ![SITE_NAME](https://some.fance.web.link)
+      placeholder: Please put ``` around the site name to avoid sending refers and attracting unneeded attention.
       render: bash
     validations:
       required: true
@@ -51,8 +50,7 @@ body:
     attributes:
       label: "Screenshots"
       description: Please provide screenshots to help explain your problem.
-      value: |
-        ![DESCRIPTION](LINK.png)
+      placeholder: No large screenshots please. Just the area in question and highlight the issue if possible.
       render: bash
     validations:
       required: true
