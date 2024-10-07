@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Generic Filters
-! Checksum: XFvPePIyO3SPQHV9f1fPSQ
-! Last Modified: 2024-08-29 07:34 UTC
+! Checksum: UOgWSiDOQxw9/SdcLv6ahw
+! Last Modified: 2024-10-07 08:25 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for generic cosmetic filters - Cosmetically remove common annoyances found on multiple domains typically provided in the social, modal and newsletter Web Annoyances Ultralist sublists. Also includes cookie & gdpr warning elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -1878,7 +1878,6 @@
 @@||foodtank.com^$generichide
 @@||forbes.com^$generichide
 @@||foxbusiness.com^$generichide
-@@||loxodo-analytics.ext.nile.works/api/save$xmlhttprequest,domain=washingtonpost.com
 @@||mbank.pl^$generichide
 @@||ozy.com^$generichide
 @@||s1.wp.com/*/vip-analytics.js^$script,domain=rare.us
@@ -1902,7 +1901,7 @@ businessinsider.com,ruqqus.com,williamhill.com#@#.arrow-up:not(html):not(body)
 californiasunday.com#@#.share-bar
 cbsnews.com#@#.sharebar
 cch.org.tw#@##sb-container
-cfx.re,discourse.pi-hole.net,flatlooker.com,hub.filterlists.com,onehack.us,pgportal.gov.in#@#.btn-social
+cfx.re,discourse.pi-hole.net,flatlooker.com,onehack.us,pgportal.gov.in#@#.btn-social
 closermag.fr,mbank.cz,obi.ru#@#.smartbanner:not(html):not(body)
 cnet.com#@#.share-button
 codelearn.io#@#.sharing

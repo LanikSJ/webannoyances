@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: I56Tx4JQox85oSCqzMia7w
-! Last Modified: 2024-09-23 08:20 UTC
+! Checksum: xGowDeHc3cLhb77t0ZQcpg
+! Last Modified: 2024-10-07 08:25 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -90,7 +90,6 @@ bettycrocker.com##.floatingBox
 bgr.in##.widget_footer
 bhg.com,parents.com##.siteHeader__channelsList
 bible.com###react-app-Footer
-bigstory.ap.org###message
 bikeradar.com##.feedback
 billboard.com###block-billboard-blocks-article-artist
 billboard.com##.search-toggle.open-search
@@ -113,7 +112,6 @@ blogspot.com###HTML5
 bloodhoundssc.com##.ccwrap
 bloomsmag.com##.bsac-caption
 bnef.com##.disclaimer
-bnqt.com##.meta
 boardingarea.com###boardingarea-tab
 bodum.com###launcher
 bonappetit.com##.bar-style-copy
@@ -1313,7 +1311,6 @@ zoho.com##.product-header-top
 zwaveproducts.com###livechat-compact-container
 ||4dsply.com$script,domain=realclearpolitics.com
 ||adage.com/article$inline-script,first-party
-||alluc.ee/ximg/buttondl.png$image
 ||amazonaws.com/*/264.js$script,domain=realclearpolitics.com
 ||amazonaws.com/outline-ads-prod$image
 ||apis.google.com/_/widget/render/page$subdocument
@@ -1321,11 +1318,8 @@ zwaveproducts.com###livechat-compact-container
 ||bounceexchange.com/*/i.js$script,important
 ||brightcove.com/*/upgrade_flash_player2.gif$image
 ||businessoffashion.com/assets-access-layer/js/site-app$script,domain=businessoffashion.com
-||californiatimes.com/meter/$script,domain=latimes.com
-||californiatimes.com^*/Bootstrap.js$script,domain=latimes.com
 ||chicagobusiness.com/*/interstitial.css$stylesheet,domain=chicagobusiness.com
 ||cloudflare.com/*/jquery.fancybox$script,stylesheet,domain=hrw.org
-||cloudfront.net/*/js/bundle.js$script,domain=fastcodesign.com
 ||cnn.com/*/js/cnn-analytics.min.js$script,domain=cnn.com
 ||deep.bi^$xmlhttprequest,domain=hrw.org
 ||dontpayfull.com/*/banner_stores.png$image

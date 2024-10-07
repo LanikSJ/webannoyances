@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Ad Placeholder Filters
-! Checksum: jKNITQWrNayFvPgt2miSVA
-! Last Modified: 2024-09-09 08:21 UTC
+! Checksum: IUm7gZvs7J00A3u8+DH87Q
+! Last Modified: 2024-10-07 08:25 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for empty advertising placeholders.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -76,7 +76,7 @@ arlnow.com###article-top-728x90-ad-wrapper, .dfp-ad, .river-600x300-ads
 arstechnica.com###ad_crown_top
 artofmanliness.com###gpt-ad-top
 askubuntu.com,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com###dfp-mlb, #dfp-tlb, #herobox, .js-dismissable-hero, ._open.app-banner
-atchisonglobenow.com,auburnpub.com,azdailysun.com,bakercityherald.com,baycitytribune.com,beatricedailysun.com,billingsgazette.com,bismarcktribune.com,bozemandailychronicle.com,chippewa.com,columbustelegram.com,cumberlink.com,dailyjournalonline.com,dailylocal.com,dailysentinel.com,dailystarjournal.com,delrionewsherald.com,democratherald.com,djournal.com,elkodaily.com,fremonttribune.com,gazette.com,gazettetimes.com,gazettextra.com,gladstonedispatch.com,globegazette.com,greenacressells.com,hanfordsentinel.com,helenair.com,herald-review.com,herald-zeitung.com,hiawathaworldonline.com,hoosiertimes.com,independentri.com,insidenova.com,jg-tc.com,journalstar.com,journaltimes.com,lacrossetribune.com,lancasteronline.com,lompocrecord.com,loudountimes.com,lufkindailynews.com,madison.com,magicvalley.com,missoulian.com,mtstandard.com,muscatinejournal.com,mycouriertribune.com,napavalleyregister.com,newspressnow.com,nola.com,nwitimes.com,pantagraph.com,postandcourier.com,postbulletin.com,poststar.com,qconline.com,qctimes.com,rapidcityjournal.com,ravallirepublic.com,republic-online.com,santamariatimes.com,saratogian.com,seguingazette.com,siouxcityjournal.com,stltoday.com,tdn.com,theparisnews.com,thesouthern.com,thetandd.com,theworldlink.com,trib.com,tucson.com,wcfcourier.com,wdrb.com,winchesterstar.com,winonadailynews.com,wiscnews.com,wvgazettemail.com,wvnews.com##.subscriber-ad, .ad-col.container-breakout
+atchisonglobenow.com,auburnpub.com,azdailysun.com,bakercityherald.com,baycitytribune.com,beatricedailysun.com,billingsgazette.com,bismarcktribune.com,bozemandailychronicle.com,chippewa.com,columbustelegram.com,cumberlink.com,dailyjournalonline.com,dailylocal.com,dailysentinel.com,dailystarjournal.com,democratherald.com,djournal.com,elkodaily.com,fremonttribune.com,gazette.com,gazettetimes.com,gazettextra.com,gladstonedispatch.com,globegazette.com,greenacressells.com,hanfordsentinel.com,helenair.com,herald-review.com,herald-zeitung.com,hiawathaworldonline.com,hoosiertimes.com,independentri.com,insidenova.com,jg-tc.com,journalstar.com,journaltimes.com,lacrossetribune.com,lancasteronline.com,lompocrecord.com,loudountimes.com,lufkindailynews.com,madison.com,magicvalley.com,missoulian.com,mtstandard.com,muscatinejournal.com,mycouriertribune.com,napavalleyregister.com,newspressnow.com,nola.com,nwitimes.com,pantagraph.com,postandcourier.com,postbulletin.com,poststar.com,qconline.com,qctimes.com,rapidcityjournal.com,ravallirepublic.com,republic-online.com,santamariatimes.com,saratogian.com,seguingazette.com,siouxcityjournal.com,stltoday.com,tdn.com,theparisnews.com,thesouthern.com,thetandd.com,theworldlink.com,trib.com,tucson.com,wcfcourier.com,wdrb.com,winchesterstar.com,winonadailynews.com,wiscnews.com,wvgazettemail.com,wvnews.com##.subscriber-ad, .ad-col.container-breakout
 autoevolution.com##div[class^="ad"]
 autolist.com##header .ad:upward(1)
 avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.ad-non-sticky, .contained-ad-container, .js_movable_ad_slot, .pe_newlayout .mezzanine
@@ -104,7 +104,7 @@ bellingcat.com##.footer__mailing
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com###ConnatixVideoAd
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.zone.grid.combo .ad-widget:upward(2)
 berksmontnews.com,bostonherald.com,chicoer.com,dailybreeze.com,dailybulletin.com,dailydemocrat.com,dailyfreeman.com,dailylocal.com,dailynews.com,dailytribune.com,delcotimes.com,denverpost.com,eastbaytimes.com,excelsiorcalifornia.com,macombdaily.com,marinij.com,mercurynews.com,montereyherald.com,morningjournal.com,news-herald.com,ocregister.com,oneidadispatch.com,orovillemr.com,paradisepost.com,pasadenastarnews.com,pe.com,phoenixvillenews.com,pottsmerc.com,presstelegram.com,record-bee.com,redbluffdailynews.com,redlandsdailyfacts.com,santacruzsentinel.com,saratogian.com,sbsun.com,sgvtribune.com,siliconvalley.com,themorningsun.com,theoaklandpress.com,thereporter.com,thereporteronline.com,times-standard.com,timesherald.com,timesheraldonline.com,trentonian.com,troyrecord.com,twincities.com,ukiahdailyjournal.com,whittierdailynews.com###mobile-adhesion, .dfp-ad
-bfst.to,bfstrms.xyz,buffstream.to,buffstreamz.com###fcnbox, #nwmlay
+bfst.to,bfstrms.xyz,buffstream.to###fcnbox, #nwmlay
 bicycleretailer.com###brain-leader-slot
 bigbrotherjunkies.com##div.code-block:has-text(/Advertisement/)
 bigleaguepolitics.com###dsk-box-ad-c, .klicked-privacy-banner, .tpd-box-ad-a, .tpd-box-ad-b, .tpd-box-ad-c, .z-lockerdome-inline
@@ -562,7 +562,7 @@ sofrep.com##.sofrep-content-ad
 southernliving.com##.ad-title
 southlive.in##.sample-ad, .side-bar-ad
 space.com##.partner-banner
-spectator.co.uk,spectator.us##.middle-promo, .subs-tease, .widget_advert
+spectator.co.uk##.middle-promo, .subs-tease, .widget_advert
 spin.com##.ad-container, .ad-holder, .footer-ad-holder, .sidebar-bg
 splitsider.com,thebillfold.com,thehairpin.com##.leaderboard__wrapper
 sports.yahoo.com###defaultLREC2-9-wrapper
