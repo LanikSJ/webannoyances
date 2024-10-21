@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: xGowDeHc3cLhb77t0ZQcpg
-! Last Modified: 2024-10-07 08:25 UTC
+! Checksum: 1hbnHbW1tlrpCoB4SgSrdg
+! Last Modified: 2024-10-21 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -110,7 +110,6 @@ blogs.office.com##.f-wrap-items.c-group
 blogspot.ca,blogspot.com###sidebar-top
 blogspot.com###HTML5
 bloodhoundssc.com##.ccwrap
-bloomsmag.com##.bsac-caption
 bnef.com##.disclaimer
 boardingarea.com###boardingarea-tab
 bodum.com###launcher

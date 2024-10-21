@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: AIkGKpbnFrK6GgRsCZ/06g
-! Last Modified: 2024-10-07 08:25 UTC
+! Checksum: KZNCuuUXoRauRCEvhRQXvQ
+! Last Modified: 2024-10-21 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -37,7 +37,7 @@
 99bitcoins.com,affordanything.com,bloggeek.me,findthebestcarprice.com,heatherlikesfood.com,trumpexcel.com,unchainedpodcast.com##html.tve-o-hidden.tve-hide-overflow.tve-l-open:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
 9news.com.au##.feedback
 abcnews.go.com##.terms-alert-fixed
-abcstores.com,activejunky.com,betterhelp.com,bourbonblog.com,callername.com,carefirst.com,cigarbid.com,coronacigar.com,dccouncil.us,dividend.com,everydaydishes.com,fee.org,fermatslibrary.com,gardenweb.com,govtrack.us,hooktube.com,infantino.com,interestingengineering.com,law360.com,lowes.com,michaels.com,mississippi.gov,movieshype.com,otakustream.tv,paper.li,patch.com,pbs.org,photobucket.com,reviewmeta.com,ripple.com,sapling.com,techwalla.com,washingtontimes.com##.modal-backdrop
+abcstores.com,activejunky.com,betterhelp.com,bourbonblog.com,callername.com,carefirst.com,cigarbid.com,coronacigar.com,dccouncil.us,dividend.com,everydaydishes.com,fee.org,fermatslibrary.com,gardenweb.com,govtrack.us,hooktube.com,infantino.com,interestingengineering.com,law360.com,lowes.com,michaels.com,mississippi.gov,otakustream.tv,paper.li,patch.com,pbs.org,photobucket.com,reviewmeta.com,ripple.com,sapling.com,techwalla.com,washingtontimes.com##.modal-backdrop
 ablebits.com###common-floatbanner-big
 aboutamazon.com##.vex, .vex-overlay
 aboutamazon.com,abovethelaw.com,activejunky.com,alternet.org,atlasobscura.com,autoblog.com,avclub.com,babycenter.com,bankingdive.com,becauseofthemwecan.com,bestbuy.com,bfst.to,biopharmadive.com,birdguides.com,bostonglobe.com,breakingdefense.com,buffstream.to,camelcamelcamel.com,carefirst.com,cfodive.com,chubstr.com,ciodive.com,citizensforethics.org,cnet.com,constructiondive.com,coronacigar.com,couponcabin.com,cryptodisrupt.com,dariusforoux.com,daveramsey.com,denverpost.com,deskbright.com,digg.com,dispatch.com,educationdive.com,ehow.com,ello.co,familybusinessmagazine.com,fatherly.com,fermatslibrary.com,fiverr.com,flair.co,fooddive.com,foreignpolicy.com,freedomnode.com,gazettextra.com,getweeklyupdate.com,golfchannel.com,goodreads.com,goodrx.com,greatnonprofits.org,grocerydive.com,healthcaredive.com,hrdive.com,ifixit.com,indiegogo.com,infantino.com,interestingengineering.com,jacobinmag.com,kiwico.com,lareviewofbooks.org,littlepassports.com,livemint.com,marketingdive.com,medtechdive.com,mercurynews.com,mobilemarketer.com,myajc.com,narcity.com,nikkei.com,patch.com,restaurantdive.com,retaildive.com,retailmenot.com,reviewjournal.com,reviewmeta.com,sephora.com,shelikesfood.com,slickdeals.net,smartcitiesdive.com,smarteranalyst.com,socialmediatoday.com,sophos.com,splinternews.com,statnews.com,summerinfant.com,supercars.net,supplychaindive.com,thebaffler.com,thebroadcastbridge.com,theconversation.com,theladders.com,theplayerstribune.com,timeout.com,tips.net,trycosmo.com,tucson.com,underarmour.com,usnews.com,utah.com,utilitydive.com,venturebeat.com,victoriassecret.com,vpnpro.com,wagwalking.com,wastedive.com,wisegeek.com,zippia.com##body:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
@@ -132,7 +132,7 @@ baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,courant.com
 baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,courant.com,dailypress.com,mcall.com,nydailynews.com,orlandosentinel.com,pilotonline.com,sun-sentinel.com##html[data-dss-meterup], [data-dss-meterup] body:style(overflow: auto !important;)
 bankrate.com##.glyphicon-arrow-up.glyphicon
 barbecuebible.com###newsletter_pop, #newsletter_pop_bg
-baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,mitchellmessenger.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com###exit-overlay, #exit-overlay-inline, #mb-bar, #optinform-container, #SecondaryPush, .mcwidget-overlay
+baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com###exit-overlay, #exit-overlay-inline, #mb-bar, #optinform-container, #SecondaryPush, .mcwidget-overlay
 batcmd.com###cmsg
 bathandbodyworks.com,bt.com,canadagoose.com,crucial.com,greencarreports.com,mattressfirm.com,motorauthority.com,paypal-community.com,rag-bone.com##.ui-dialog, .ui-widget-overlay
 beautifulpixels.com###ml-webforms-popup-536841
@@ -654,7 +654,6 @@ motor-talk.de###vdco-insidessurvey-overlay, .mt-cc-bnnr
 motorauthority.com###postNav
 motorious.com##.popup-enter.popup-container
 motorsport.com##.ms-footer-fixbox, .ms-footer_top
-movieshype.com###modal-offer
 mozilla.org###fxaccount-sticky-cta, #site-welcome, #sticky-cta, .donate-modal-wrapper, .page-top
 mprnews.org###paginators
 mrexcel.com###pledge-overlay

@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: /vpDjRAVO+WYPyvfDdhHdA
-! Last Modified: 2024-10-14 08:20 UTC
+! Checksum: 57JP7Y6Z79NF1ixyb99Adw
+! Last Modified: 2024-10-21 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -153,7 +153,7 @@
 97x.com,arcadesushi.com,comicsalliance.com,diffuser.fm,guyspeed.com,loudwire.com,noisecreep.com,popcrush.com,screencrush.com,tasteofcountry.com,theboombox.com,theboot.com,thefw.com,ultimateclassicrock.com,wbckfm.com,xxlmag.com##.react-parallax-background-children:style(transform: none !important;)
 97x.com,arcadesushi.com,comicsalliance.com,diffuser.fm,guyspeed.com,loudwire.com,noisecreep.com,popcrush.com,screencrush.com,tasteofcountry.com,theboombox.com,theboot.com,thefw.com,ultimateclassicrock.com,wbckfm.com,xxlmag.com##.site-menu-drawer:style(margin-top: 0 !important;)
 99bitcoins.com,aiptcomics.com,appuals.com,avsforum.com,blackmainstreet.net,bloody-disgusting.com,bnonews.com,ccn.com,complyadvantage.com,creativedestructionmedia.com,cybernews.com,defence-blog.com,digitaltransactions.net,directexpose.com,discoverpods.com,djhjmedia.com,dnyuz.com,duffelblog.com,escapistmagazine.com,freedomoutpost.com,gematsu.com,gizmochina.com,govconwire.com,greenrushdaily.com,groovypost.com,hardwaresfera.com,hedgeaccordingly.com,herosports.com,hightimes.com,instabug.com,latinamericareports.com,marriedbiography.com,nationalfile.com,networthpost.org,ostechnix.com,overclock.net,phandroid.com,psypost.org,reneweconomy.com.au,saraacarter.com,shanghaiist.com,socialanxietysupport.com,socialcops.com,stackify.com,steelersdepot.com,teslarati.com,thecoderworld.com,thefreethoughtproject.com,thegoldenstar.net,thepostmillennial.com,thewalrus.ca,top10homeremedies.com,topstocksnews.com,tsarizm.com,visualcapitalist.com,washingtonexec.com,whatsonweibo.com,wktv.com,wthitv.com##.theiaStickySidebar:style(position: static !important; top: 0 !important; left: 0 !important;)
-99bitcoins.com,athabascaadvocate.com,barrheadleader.com,bonnyvillenouvelle.ca,hardwaresfera.com,laclabichepost.com,rmoutlook.com,rockyviewweekly.com,spjournal.com,stalbertgazette.com,washingtonexec.com,westernwheel.com,westlocknews.com##.sticky-nav.cf.navigation-wrap:style(position: absolute !important;)
+99bitcoins.com,athabascaadvocate.com,barrheadleader.com,bonnyvillenouvelle.ca,hardwaresfera.com,laclabichepost.com,rmoutlook.com,spjournal.com,stalbertgazette.com,washingtonexec.com,westernwheel.com,westlocknews.com##.sticky-nav.cf.navigation-wrap:style(position: absolute !important;)
 9gag.com###container > .drawer:style(position: absolute !important;)
 9gag.com###top-nav:style(position: relative !important;)
 9news.com.au##.eLyHDS.LogoNav__NetworkNavLogosWrapper-sc-19zkpff-1.LogoNav__LogosWrapper-sc-19zkpff-0, .site-header.module, .sticky-mobile-banner
@@ -295,7 +295,7 @@ acura.com##.hero-media:style(top: 0 !important;)
 acura.com##.js-back-to-top-button
 adamfayed.com,bbqonmain.com,perens.com##.site-navigation-fixed.navigation-top:style(position: absolute !important;)
 adblockplus.org###navbar:style(position: absolute !important; top: 0 !important;)
-adblockradio.com,blog.esea.net,blog.revolut.com,floydhub.com,fly.io,ghost.org,letstalkalgorithms.com,mg.lol,rpiai.com,secjuice.com,smartcar.com,spreadprivacy.com,time2hack.com##.floating-header
+adblockradio.com,blog.esea.net,blog.revolut.com,floydhub.com,fly.io,ghost.org,mg.lol,rpiai.com,secjuice.com,smartcar.com,spreadprivacy.com,time2hack.com##.floating-header
 additudemag.com##.header-primary:style(position: absolute !important;)
 adespresso.com,gossipcop.com,pbs.org,westbranch.blogs.bucknell.edu##.site-header:style(position: static !important;)
 adexchanger.com##.wrap-breadcrumb:style(position: relative !important; top: 0 !important;)
@@ -1370,7 +1370,6 @@ bloombergquint.com##.header-module__hero-image-caption__3aujh:style(display: blo
 bloombergquint.com##.header-sticky-wrapper, .sticky-outer-wrapper > .sticky-inner-wrapper, [class*="header-m__menu-bar"]:style(position: relative !important;)
 bloombergquint.com##.story.bq-nav:style(position: relative !important; top: 0 !important;)
 bloombergquint.com##.tv-miniplayer:style(position: absolute !important; top: 7px !important;)
-bloomsmag.com###menu-main, .pinned.smart.bs-pinning-block.clearfix.rh-container:style(position: absolute !important;)
 blowoutcards.com,oklahoman.com,rt.com,theathletic.com###header-nav:style(position: relative !important;)
 blu.com##.sticky-bar:style(position: relative !important;)
 blueapron.com,ebates.com,footballoutsiders.com,groupninemedia.com,thebenefitsguide.com###header-main:style(position: absolute !important;)
@@ -4327,7 +4326,6 @@ inews.co.uk##.inews__header, .inews__post__category-banner:style(position: absol
 inews.co.uk##.video-js.vjs-pip-active:style(position: static !important;)
 infantino.com##.fixedbar.stuck-nav:style(position: absolute !important;)
 inference-review.com##.ct-scroll-percentage-container
-infiniteprivacy.com##.navbar-wrap:style(position: absolute !important;)
 influxdata.com##.contact_sale:style(position: relative !important; bottom: 0 !important;)
 information.dk##.s-h > .s-h--copy
 information.dk,kristeligt-dagblad.dk###cookie-information-template-wrapper

@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: 91J+ro5URRjcDubaw3Lz3w
-! Last Modified: 2024-10-07 08:25 UTC
+! Checksum: fIk93aMf85v1I2PrwztqbA
+! Last Modified: 2024-10-21 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -134,7 +134,7 @@ bakersfield.com##.fb.btn-link.btn-md.btn, .li.btn-link.btn-md.btn, .tw.btn-link.
 bangkokpost.com##.icon-line, article > div.box-share--h.box-share > ul > li > .track, article > div.box-share--h.box-share > ul > li:not(li:nth-of-type(4))
 barrons.com##.article_tools
 barstoolsports.com##.bs-sharingLinks, .bs-socialCard
-baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,mitchellmessenger.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com##.mobile-hide
+baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com##.mobile-hide
 bb4sp.com,freedomoutpost.com,sonsoflibertymedia.com##.essb_links
 bbc.co.uk,bbc.com###follow-us, #shareIcon, .amp-o-share-tools, .follow-us, .gelicon--share, .share--article, .share-icon, .share-tools, .share-tools__container, .share-tools__toggle, .share__title, .ws-c-social-slice__icons
 bcrnews.com,crestonnews.com,daily-chronicle.com,heraldlife.com,kcchronicle.com,kendallcountynow.com,lakecountyjournal.com,midweeknews.com,morrisherald-news.com,mysuburbanlife.com,mywebtimes.com,newtondailynews.com,nwherald.com,oglecountynews.com,osceolaiowa.com,profootballweekly.com,putnamcountyrecord.com,saukvalley.com,shawmedia.com,theherald-news.com,tonicanews.com,valleylifepress.com###sharewrapper

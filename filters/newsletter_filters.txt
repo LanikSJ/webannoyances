@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Checksum: Fs/8QFxuW4XKyLaiV7cFLg
-! Last Modified: 2024-10-07 08:25 UTC
+! Checksum: fJbP7jrH2pNH+t/UnFljcw
+! Last Modified: 2024-10-21 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -83,7 +83,7 @@ bankingdive.com,biopharmadive.com,cfodive.com,ciodive.com,constructiondive.com,e
 bankrate.com##.cxp-email-capture-banners
 barstoolsports.com##.newsletterSignup
 baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,mitchellmessenger.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com###BelowPostRegistrationEmail, [href^="/daily-email-updates-basic/"]:upward()
-baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,mitchellmessenger.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com##.entry > div[style^="float:left;"], .sidebar-email, form[action*="marketbeat.com/newsletter"]
+baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com##.entry > div[style^="float:left;"], .sidebar-email, form[action*="marketbeat.com/newsletter"]
 bb4sp.com###mailchimpsf_widget-2
 bbc.co.uk,bbc.com##.news-app-promo, .ws-c-news-daily
 bearingarms.com##.newsletter-sign-up
@@ -106,7 +106,6 @@ blog.zoom.us###subscribe-ask
 blogs.discovermagazine.com##body > div:nth-of-type(3)
 bloomberg.com##.inline-newsletter, .inline-newsletter-top, .newsletter-module
 bloombergquint.com##.bloombergquint-newoptinbox-background, .sticky-subscription-active, .subscribe-newsletter--large, .subscription-combo-box-module__subscriptionCombo__30SP7, .subscription-combo-box-module__subscriptionCombo__3l12r, .subscription__combo__mobile-wrapper
-bloomsmag.com###bs-newsletter-mailchimp-2
 boardingarea.com,cockroachlabs.com,cyberscoop.com,gulfnews.com,harpers.org,hindustantimes.com,insightcrime.org,livescience.com,mydomaine.com,notquitenigella.com,spoonuniversity.com,thecollegefix.com,trust.org,vagabomb.com##.subscribe
 bonappetit.com##.subscribe-box
 boredpanda.com##.new-variation-3.newsletter-variation
