@@ -35,27 +35,45 @@ jobs:
 
       - name: Install Dependencies
         run: pnpm install
+      
+      - name: Get Changed Files
+        id: changed-files
+        uses: tj-actions/changed-files@v45
+        with:
+            since_last_remote_commit: true 
 
+      - name: List All Changed Files
+        env:
+          ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+        run: |
+          for file in ${ALL_CHANGED_FILES}; do
+            echo "$file was changed"
+          done
+      
       - name: Create New Branch
         id: create-branch
+        if: steps.changed-files.outputs.all_changed_files == 'true'
         run: |
           branch_name="feature/node-deps-update"
           git checkout -b $branch_name
           echo "branch_name=$branch_name" >> $GITHUB_OUTPUT
 
       - name: Stage Changes
+        if: steps.changed-files.outputs.all_changed_files == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
 
       - name: Commit and Push
+        if: steps.changed-files.outputs.all_changed_files == 'true'
         run: |
           git commit -m "Automated Node Dependency Update"
           git push --set-upstream origin ${{ steps.create-branch.outputs.branch_name }}
 
       - name: Create Pull Request
         uses: actions/github-script@v7
+        if: steps.changed-files.outputs.all_changed_files == 'true'
         with:
           script: |
             const { data: pullRequest } = await github.rest.pulls.create({
