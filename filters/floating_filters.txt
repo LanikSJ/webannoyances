@@ -6357,7 +6357,7 @@ pinterest.com###HeaderContent, .active.noButtonStyles > div, body div[style^="po
 pinterest.com##.bottom.Module.BlueAppBanner
 pinterest.com##.fixed.fixedHeader:style(position: relative !important; top: 0 !important;)
 pinterest.com##.UserProfilePage:style(margin-top: 65px !important;)
-pinterest.com##body:style(position: unset !important;)
+pinterest.com,youtube.com##body:style(position: unset !important;)
 pissdaily.com##.nav-post-title
 pissdaily.com##.nav:style(transform: none !important; opacity: 1 !important; visibility: unset !important;)
 pissdaily.com##.site-nav-main:style(position: absolute !important;)
@@ -9322,7 +9322,6 @@ youtube.com###header.ytd-c4-tabbed-header-renderer, #header.ytd-tabbed-page-head
 youtube.com###masthead-container:style(position: absolute !important; transition: none !important; transform: none !important;)
 youtube.com###masthead-positioner-height-offset, .iv-branding.annotation-type-custom.annotation, .ytp-promotooltip-wrapper
 youtube.com##.ytd-feed-filter-chip-bar-renderer#chips-wrapper:style(position: relative !important; top: 0 !important;)
-youtube.com##body:style(position: absolute !important;)
 youtube.com##ytd-mini-guide-renderer.ytd-app, app-drawer[opened=""][persistent=""]:style(position: absolute !important;)
 youtube.com##ytd-playlist-header-renderer:style(position: absolute !important; left: 0 !important;)
 youtube.com##ytd-settings-sidebar-renderer:style(position: absolute !important;)
