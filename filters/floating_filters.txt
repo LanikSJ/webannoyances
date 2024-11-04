@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: f0oN5jF7FnkFvzIpyvEwTw
-! Last Modified: 2024-11-02 08:43 UTC
+! Checksum: go0WhpPBqBB8qx0G5VQcjw
+! Last Modified: 2024-11-04 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -944,7 +944,6 @@ backlinkseo.com###_header-93-354:style(position: relative !important;)
 backstage.com###backstage-header:style(position: absolute !important;)
 backstageol.com###nav-wrapper:style(position: relative !important;)
 badgerandblade.com,disboards.com,sammyboy.com##.p-navSticky:style(position: static !important; box-shadow: none !important;)
-badpackets.net##.navigation-top:style(position: absolute !important;)
 bagleywatchco.com##.site-header--fixed.site-header--homepage.site-header--transparent.site-header:style(position: relative !important; top: 0 !important;)
 baidu.com###head:style(position: absolute !important;)
 baidu.com###searchTag:style(position: relative !important; top: 0 !important; padding-top: 14px !important; padding-bottom: 4px !important; box-shadow: none !important; margin-top: 0 !important;)
@@ -1516,9 +1515,9 @@ browserleaks.com,codemirror.net,facebook.design,fivethirtyeight.com,fogodechao.c
 browserstack.com###header-habitat:style(position: relative !important;)
 browserstack.com##.promo-notification
 bsky.app##.css-175oi2r.r-pgf20v, .r-196lrry.css-175oi2r:style(position: absolute !important;)
-bsky.app##.r-gtdqiz:style(position: relative !important;)
 bsky.app##.r-1d5kdc7 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2):style(position: relative !important; transform: none !important; opacity: 1 !important;)
 bsky.app##.r-1i6wzkk.css-175oi2r
+bsky.app##.r-gtdqiz:style(position: relative !important;)
 bsocialplus.com###SITE_HEADER:style(position: absolute !important;)
 btcd.io##.bcd-head-price, .btc-head:style(position: absolute !important;)
 btcwires.com###media_image-12:style(position: static !important;)
@@ -2940,8 +2939,8 @@ ericksonseniorliving.com##.navbar .navbar-nav:style(margin-top: 1.5rem !importan
 ericksonseniorliving.com##.navbar-buttons:style(padding-left: 15px !important; padding-right: 15px !important;)
 ericksonseniorliving.com##.navbar-collapse:style(flex-direction: column !important;)
 ericksonseniorliving.com##.navbar.fixed .branding svg:style(max-width: 100% !important;)
-ericksonseniorliving.com##.navbar.fixed .dropdown-menu.show:style(top: 3rem !important; padding: 1rem 0 !important; margin: .125rem 0 0 !important; border: 1px solid rgba(0,0,0,.15) !important; border-radius: .25rem !important;)
 ericksonseniorliving.com##.navbar.fixed .dropdown-menu.show > a:style(font-size: 1.25rem !important;)
+ericksonseniorliving.com##.navbar.fixed .dropdown-menu.show:style(top: 3rem !important; padding: 1rem 0 !important; margin: .125rem 0 0 !important; border: 1px solid rgba(0,0,0,.15) !important; border-radius: .25rem !important;)
 ericksonseniorliving.com##.navbar.fixed .navbar-buttons .btn:style(font-size: 1.4rem !important; height: unset !important;)
 ericksonseniorliving.com##.navbar.fixed .navbar-buttons svg:style(margin-right: .75rem !important; transform: none !important;)
 ericksonseniorliving.com##.navbar.fixed .navbar-nav .nav-item > a:style(font-size: 1.4rem !important;)
@@ -4032,7 +4031,6 @@ hmgstrategy.com##.navbar-sticky.navbar-general:style(position: absolute !importa
 hn.algolia.com##header.ng-scope:style(position: absolute !important; width: 100% !important; left: 0 !important;)
 hn.premii.com##.pagebd-container:style(overflow: unset !important;)
 hn.premii.com##.pages-container:style(overflow-x: hidden !important; overflow-y: scroll !important;)
-hnprofile.com##.navbar:style(position: absolute !important; padding: 20px 0 17px !important; box-shadow: none !important;)
 hoaxorfact.com##.product__column-sticky:style(position: relative !important; top: 0 !important;)
 hoaxorfact.com##.section-header:style(position: relative !important;)
 hodinkee.com###navigation > div:nth-child(2)
@@ -5222,10 +5220,10 @@ marketrealist.com##.sc-dlMBXb.hAfEGY, .sc-FRqcf.dXpstt:style(position: static !i
 marriage.com###back_to_top
 marriage.com##.nav_logo_css:style(visibility: hidden !important; transform: translateX(25px) !important; transition: all !important;)
 marriage.com##.navbar_scroll .dropdown_menu:style(margin-top: 6px !important; margin-left: 0 !important;)
+marriage.com##.navbar_scroll .form-control-feedback.search-icon, .navbar_scroll .js-bound:style(top: 0 !important;)
 marriage.com##.navbar_scroll .logo:style(display: block !important;)
 marriage.com##.navbar_scroll .nav2:style(height: 64px !important;)
 marriage.com##.navbar_scroll:style(height: 110px !important; padding: 2px 0 !important;)
-marriage.com##.navbar_scroll .form-control-feedback.search-icon, .navbar_scroll .js-bound:style(top: 0 !important;)
 marriage.com##.social-icons:style(position: relative !important; top: 245px !important;)
 marriott.com###hws-reservation-module, .t-sticky-nav.l-content-container.t-in-page-navigation.l-in-page-navigation:style(position: relative !important;)
 marronebioinnovations.com##.fusion-sticky-shadow.fusion-header:style(position: relative !important; top: 0 !important;)
@@ -6482,8 +6480,6 @@ poll.qu.edu##.sticky-bar[data-sticky-scroll-listener-selector]:not([data-sticky-
 poll.qu.edu##[id*="poll-release-nav-sticky-bar-"]:style(visibility: visible !important;)
 pollfish.com##.menu-container:style(position: absolute !important;)
 polygon.com##.pinned.m-site-nav:style(position: relative !important; top: 0 !important;)
-pornpics.click,xpics.me##.footer:style(position: relative !important; translate: none !important;)
-pornpics.click,xpics.me##.settings-button:style(position: absolute !important;)
 poorlittleitgirl.com##.sticky-div > .sticky:style(position: relative !important; top: 0 !important;)
 popculture.com###click-close
 popculture.com###player-position:style(position: absolute !important; top: 0 !important; right: unset !important; bottom: unset !important; left: 0 !important; margin: 0 !important; border: none !important; width: 100% !important; height: 100% !important;)
@@ -6503,6 +6499,8 @@ popville.com###search-navigation:style(position: absolute !important; top: 0 !im
 porkbeinspired.com###nav-menu:style(position: relative !important;)
 porkbeinspired.com##.navbar-static-top.navbar-default.yamm.navbar:style(position: absolute !important;)
 pornhubapparel.com##.m-header__wrapper:style(position: absolute !important; transition: none !important; transform: none !important;)
+pornpics.click,xpics.me##.footer:style(position: relative !important; translate: none !important;)
+pornpics.click,xpics.me##.settings-button:style(position: absolute !important;)
 portlandbolt.com##.noprint.header-fixed.site-header:style(position: absolute !important; top: 0 !important;)
 poshmark.com##.header--fixed:style(position: absolute !important;)
 post-gazette.com###querylycontainer, #top-header, .pgevoke-header, .subscribe-btn:style(position: relative !important; top: 0 !important;)
