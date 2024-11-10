@@ -112,7 +112,7 @@
 760kfmb.com,kfmbfm.com,thecwsandiego.com###WNMenuCol1:style(position: absolute !important;)
 7news.com.au##.css-1r6ovb5:style(position: static !important;)
 80.lv##._3a2-E, .tf-v1-sidetab:style(position: absolute !important;)
-80000hours.org##.wrap-sidebar-toc:style(position: absolute !important; top: 0 !important;)
+80000hours.org##.wrap-sidebar-toc:style(position: absolute !important; top: 0 !important; padding-top: 0 !important;)
 80000hours.org,careers.7-eleven.com,hangaroundtheweb.com,howardstern.com,tinybeans.com,unicornriot.ninja###header:style(position: absolute !important; transform: none !important;)
 800notes.com###skin_aside_content:style(position: relative !important;)
 800notes.com###skin_main_content:style(position: relative !important; padding-top: 0 !important;)
