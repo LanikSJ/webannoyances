@@ -5294,7 +5294,7 @@ medicaldaily.com##.fixed.page-header, .stickyhead:style(position: relative !impo
 medicalnewstoday.com##.css-47twm5:style(position: static !important;)
 medicinenet.com###apPgNum, #headline, .stickyrightrail:style(position: relative !important;)
 medievalists.net,namesilo.com,rover.com,unrv.com##.sticky-header
-medium.com##[style="transform: translateY(0px);"], [style="transform: translateY(-57px);"]:style(position: relative !important; transform: none !important;)
+medium.com##[style*="transform:"]:style(position: relative !important; transform: none !important;)
 medium.com##div[style="top: 57px;"]:style(position: absolute !important; top: 0 !important;)
 medpagetoday.com###mpt_header:style(position: static !important; height: 100px !important;)
 medpagetoday.com##.rr-recirc-bottom-box-ad-container:style(position: static !important;)
@@ -9372,7 +9372,7 @@ yellowpages.com###yp-header:style(position: relative !important; top: 0 !importa
 yelp.com###search-form, .cta-modal-partly-compressed.cta-search-modal.cta-menubar-pitch-modal.minimal-header.js-searchbar-modal.searchbar-modal.flex-container:style(position: relative !important; top: 0 !important;)
 yelp.com##.action-link-list:style(opacity: 1 !important;)
 yelp.com##[class*="stickySidebar__"]:style(position: static !important;)
-yenisafak.com##.effect.bottom-nav:style(position: absolute !important;)
+yenisafak.com##.ys-header-sticky:style(position: relative !important;)
 yesmovies.*###xsidebar, header:style(position: absolute !important;)
 yna.co.kr##.fixed-navigation01, .progress-bar01
 yna.co.kr##.scroller02:style(position: relative !important; top: 0 !important; left: 0 !important;)
@@ -9385,7 +9385,6 @@ yogonet.com##.placeholder_menu
 yonhapnews.co.kr###header:style(position: relative !important; height: 173px !important;)
 yonhapnews.co.kr##.fixed-bnr:style(position: absolute !important;)
 yonhapnews.co.kr##.header-fixed:style(height: 173px !important;)
-yotatech.com###magicbar, #nav1, .ib-header-top:style(position: relative !important; top: 0 !important;)
 youcaring.com##.header-bar:style(position: relative !important; top: 0 !important;)
 youcaring.com##.hidden-print.header:style(position: absolute !important; top: 0 !important;)
 youm7.com##.headerNewNew.marigin0.row:style(position: absolute !important;)
@@ -9398,10 +9397,10 @@ youtube.com###contentContainer.tp-yt-app-drawer[swipe-open].tp-yt-app-drawer::af
 youtube.com###header.ytd-c4-tabbed-header-renderer, #header.ytd-tabbed-page-header:style(position: absolute !important; left: 0 !important; transform: translate3d(0px, -56px, 0px) !important;)
 youtube.com###masthead-container:style(position: absolute !important; transition: none !important; transform: none !important;)
 youtube.com###masthead-positioner-height-offset, .iv-branding.annotation-type-custom.annotation, .ytp-promotooltip-wrapper
+youtube.com##.page-header-sidebar:style(position: absolute !important; left: 0 !important;)
 youtube.com##.ytd-feed-filter-chip-bar-renderer#chips-wrapper:style(position: relative !important; top: 0 !important;)
 youtube.com##tp-yt-app-drawer:style(top: 0 !important; bottom: 0 !important;)
 youtube.com##ytd-mini-guide-renderer.ytd-app, app-drawer[opened=""][persistent=""]:style(position: absolute !important;)
-youtube.com##ytd-playlist-header-renderer:style(position: absolute !important; left: 0 !important;)
 youtube.com##ytd-settings-sidebar-renderer:style(position: absolute !important;)
 youtube.com##ytd-two-column-browse-results-renderer[page-subtype="history"] #secondary.ytd-two-column-browse-results-renderer:style(position: absolute !important;)
 yp.sg##.navbar-visible.navbar-stuck.social-disabled.navbar-center.navbar-primary, .sidebar:style(position: absolute !important;)
