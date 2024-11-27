@@ -2876,8 +2876,7 @@ elie.net##.fixed.reading.read.navbar-container:style(position: absolute !importa
 elie.net##.fixed.sticky-menu, .fixed.top.gradbar
 elifesciences.org##.view-selector--fixed.view-selector--has-figures.view-selector:style(position: static !important; padding-top: 0 !important;)
 elitedaily.com##.stickyHeader.headerInView, .stickyNavWrapper
-elle.com##.content-nav-active.sticky.nav, .sticky.nav:style(position: relative !important; top: 0 !important;)
-elle.com,esquire.*,harpersbazaar.com,investors.com,marieclaire.com,popularmechanics.com,roadandtrack.com,runnersworld.com,shondaland.com,si.com,townandcountrymag.com##.nav-placeholder
+elle.com##[data-tracking-id="topNav"]:style(position: relative !important; top: 0 !important;)
 elpais.com##._pr.x:style(position: absolute !important; transition: none !important;)
 elpolloloco.com##.top-bar, .clp-ribbon:style(position: absolute !important;)
 elvisthemusic.com##.homehero-menu
@@ -2993,6 +2992,7 @@ espnfc.com###navbar:style(position: absolute !important; top: 0 !important;)
 espnmediazone.com###nav-wrapper:style(position: relative !important; max-width: 1000px !important;)
 espnmediazone.com###sticky-logo
 espnmediazone.com,starwars.com###body-wrapper:style(margin-top: 0 !important;)
+esquire.*,harpersbazaar.com,investors.com,marieclaire.com,popularmechanics.com,roadandtrack.com,runnersworld.com,shondaland.com,si.com,townandcountrymag.com##.nav-placeholder
 esquire.*##.content-nav-active.sticky.nav, .nav, .sticky.nav:style(position: relative !important; top: 0 !important;)
 esquire.*##.link-txt.link.nav--secondary--link
 esri.com##.story-header:style(position: relative !important; top: 0 !important;)
