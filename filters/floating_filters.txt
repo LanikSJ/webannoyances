@@ -3117,7 +3117,6 @@ facebook.com##.x1u8a7rm
 facebook.com##.x7wzq59:style(position: relative !important; top: 0 !important;)
 facebook.com##.xixxii4:style(position: absolute !important;)
 facebook.com##.xlshs6z, .xnpuxes:style(visibility: visible !important;)
-facebook.com##.xq1qtft.x1n2onr6:style(overflow-x: unset !important; overflow-y: unset !important;)
 facetjewelry.com##.navbar:style(position: relative !important; height: 60px !important;)
 factcheck.afp.com##.sticky-top:style(position: static !important;)
 factmag.com##.secondary-font.header:style(position: relative !important; top: 0 !important;)
