@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: knQdaaUZp29pbtG33kSwqQ
-! Last Modified: 2024-12-02 08:22 UTC
+! Checksum: q5sRSWv1QOVgSAHSpO7EBA
+! Last Modified: 2024-12-16 08:22 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -111,8 +111,6 @@ asus.com##html.fixed, html.fixed body:style(overflow: auto !important;)
 atavist.com##.notification-overlay
 atavist.com##.paywall-notification-visible:style(overflow-x: hidden !important; overflow-y: scroll !important;)
 atchisonglobenow.com,auburnpub.com,azdailysun.com,bakercityherald.com,baycitytribune.com,beatricedailysun.com,billingsgazette.com,bismarcktribune.com,bozemandailychronicle.com,chippewa.com,columbustelegram.com,cumberlink.com,dailyjournalonline.com,dailylocal.com,dailysentinel.com,dailystarjournal.com,democratherald.com,djournal.com,elkodaily.com,fremonttribune.com,gazette.com,gazettetimes.com,gazettextra.com,gladstonedispatch.com,globegazette.com,greenacressells.com,hanfordsentinel.com,helenair.com,herald-review.com,herald-zeitung.com,hiawathaworldonline.com,hoosiertimes.com,independentri.com,insidenova.com,jg-tc.com,journalstar.com,journaltimes.com,lacrossetribune.com,lancasteronline.com,lompocrecord.com,loudountimes.com,lufkindailynews.com,madison.com,magicvalley.com,missoulian.com,mtstandard.com,muscatinejournal.com,mycouriertribune.com,napavalleyregister.com,newspressnow.com,nola.com,nwitimes.com,pantagraph.com,postandcourier.com,postbulletin.com,poststar.com,qconline.com,qctimes.com,rapidcityjournal.com,ravallirepublic.com,republic-online.com,santamariatimes.com,saratogian.com,seguingazette.com,siouxcityjournal.com,stltoday.com,tdn.com,theparisnews.com,thesouthern.com,thetandd.com,theworldlink.com,trib.com,tucson.com,wcfcourier.com,wdrb.com,winchesterstar.com,winonadailynews.com,wiscnews.com,wvgazettemail.com,wvnews.com###promo-designer-modal-custom-pop, .popover, .stuck.notification-button
-atimes.com##.modal-window
-atimes.com,ifixit.com,mic.com,narrative.ly,pedestrian.tv,timesofisrael.com##.modal-overlay
 atlasobscura.com###email-roadblock-topographic-modal, #facebook-topographic-modal, #gastro-email-roadblock-modal, .ad-background, .ad-background-intra-body
 atr.org###closeFlyOut, #fancybox-overlay, #pop_up, .fancybox-opened
 attn.com##.roadblock
@@ -509,6 +507,7 @@ hwdrivers.com##.privacy_notification
 ibm.com##.ibm-chevron-up-link.ibm-nospacing
 ibtimes.*###colorbox, .grwf2_backdrop, .grwf2-wrapper, .scroll-top
 ifixit.com##.modalBox:not(:has(.modalContentBox #login))
+ifixit.com,mic.com,narrative.ly,pedestrian.tv,timesofisrael.com##.modal-overlay
 ifixsmartphone.com,puretrance.com##.scroll-top
 ifunny.co##.l-scroll-up
 ign.com###policyNotice, #_evidon-barrier-wrapper, .privacy-content
