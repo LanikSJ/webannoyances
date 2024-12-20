@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: ske0x/mxybydXikMTnQ/KQ
-! Last Modified: 2024-12-20 00:49 UTC
+! Last Modified: 2024-12-20 02:42 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -537,6 +537,8 @@ alt-codes.net##.shadow:style(position: absolute !important;)
 altaonline.com###df-sticky-nav
 altarandthrone.com,artstation.com,azcapitoltimes.com,bmj.com,dailyreporter.com,djcoregon.com,electronicsweekly.com,finance-commerce.com,govconwire.com,journalrecord.com,libn.com,masslawyersweekly.com,milawyersweekly.com,minnlawyer.com,molawyersmedia.com,nclawyersweekly.com,newscientist.com,sclawyersweekly.com,thedailyrecord.com,theleafonline.com,valawyersweekly.com###main-nav:style(position: relative !important; top: 0 !important;)
 alternative-science.com,gadgetfeed.com,gameaddik.com,geekandgadgetworld.com,horrorsocietystore.com,ijr.com,pizzabottle.com,improveverywhere.com,luxurypools.com,shoewawa.com,themindcircle.com,theshiftnews.com,tipjunkie.com,trendingpolitics.com,vegannews.co,wroops.com##.g1-sticky-top-wrapper:style(position: relative !important;)
+alternativeto.net##.AppFilterBarWrapper_filterWrapper__lqHmu.AppFilterBarWrapper_isSticky__pn8No:style(position: relative !important; top: 0 !important; padding: 0 100px !important; border-radius: 12px !important; box-shadow: none !important;)
+alternativeto.net##.HeaderLinks_outerHeader__p7kV5:style(position: relative !important;)
 altervista.org##.btrans.trans, .gtrans.trans:style(position: absolute !important;)
 altpress.com,barneys.com,golfgenius.com,occupydemocrats.com,yorkdispatch.com##.fixed.header:style(position: relative !important; top: 0 !important;)
 amazingribs.com###top-nav:style(position: relative !important; top: 0 !important;)
@@ -1707,7 +1709,9 @@ cartalk.com,community.spiceworks.com,discuss.privacyguides.net,discuss.techlore.
 carters.com,instantpoteats.com,maxconsole.com,namepros.com,onemileatatime.com,oshkosh.com,qsrmagazine.com,skiphop.com,stregismaldives.com,thesleuthjournal.com,tradingschools.org,windowsbbs.com,wise.com###navigation:style(position: relative !important;)
 cartier.com##.sticky.js-nav-logo-wrapper.menu-closed.c-header__nav-logo-wrapper:style(position: absolute !important;)
 casepreparation.com###SITE_HEADER:style(position: relative !important; top: 0 !important;)
-catholicnewsagency.com###header_wrapper:style(position: absolute !important;)
+catholicnewsagency.com##.all:style(padding-top: 0 !important;)
+catholicnewsagency.com##.menubar:style(position: relative !important; padding: 22.4px 40px !important; box-shadow: none !important; border-bottom: none !important;)
+catholicnewsagency.com##header .menubar.fixed .logo:style(height: 60px !important;)
 cato.org###block-views-research-areas-block-1:style(position: absolute !important;)
 cavedivers.com.au##.header-body:style(position: absolute !important;)
 cbc.ca###section-link-title:style(opacity: 1 !important; display: inline-block !important; transform: none !important;)
@@ -1719,7 +1723,7 @@ cbc.ca##.landingNav, .selectedNav:style(display: block !important;)
 cbc.ca##.sticky.clearfix.cbc-longform-header, .sticky.recognitionnav:style(position: relative !important;)
 cbc.ca##.subNavList.responsiveNav > li.subNavListItem.navItem:nth-of-type(9):style(visibility: visible !important; position: relative !important;)
 cbc.ca##.subNavListItem.hidden:style(visibility: hidden !important;)
-cbinsights.com,norway.no,simplethread.com##body > header:style(position: absolute !important;)
+cbinsights.com##.header-sticky:style(position: relative !important;)
 cbn.com###global:style(position: absolute !important;)
 cbr.com###page_nav, .main-header:style(position: absolute !important;)
 cbs.com###globalHeaderContainer, #globalShowHeader, .navMenuFixed.__layoutHeader.navbar:style(position: absolute !important;)
@@ -3335,6 +3339,9 @@ flirt4free.ca##.flirt4free-header:style(position: relative !important;)
 flitetest.com###header:style(position: absolute !important; padding: 15px 0 0 0 !important;)
 flitetest.com##.logo:style(width: 310px !important; bottom: -40px !important; margin-left: -107px !important; left: 50% !important; right: 0 !important;)
 flocombat.com##.site-navigation-header-container:style(position: relative !important;)
+fluentu.com##.fluen-new-sticky-header-bar
+fluentu.com##.toc-section:style(position: relative !important; top: 0 !important;)
+fluentu.com,norway.no##body > header:style(position: absolute !important;)
 flungmagazine.com###next-block__wrap
 flungmagazine.com##.main-navigation:style(position: relative !important;)
 flydulles.com###whole_header_top:style(position: relative !important; top: 0 !important;)
@@ -4055,6 +4062,7 @@ hillwebcreations.com##.l-header:style(position: absolute !important; top: 0 !imp
 hillwebcreations.com##.l-subheader:style(transform: none !important;)
 hims.com##.ghyZvm:style(position: relative !important; top: 0 !important;)
 hims.com##.global-navigation-headerstyle__GlobalNavigationBackground-sc-12jnj2h-1:style(box-shadow: none !important;)
+hinative.com##.l_sidebar_container > div:nth-of-type(2):style(position: relative !important; top: 0 !important;)
 hindawi.com###journal__navigation, #leftSectionMenu, #sectionButton, header:style(position: absolute !important; transform: translateY(0) !important;)
 hindawi.com###rightSectionMenu > div[style*="position"]:style(position: static !important; top: 180px !important;)
 hindawi.com###rightSectionMenu:style(transform: translateY(0) !important;)
