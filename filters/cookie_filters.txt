@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
-! Checksum: h2yDPKB6iWRqtzb4i6WobQ
-! Last Modified: 2024-08-29 07:31 UTC
+! Checksum: AAxDsyZWG9iF3qIl5RRuJw
+! Last Modified: 2024-12-23 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -322,7 +322,6 @@ comparitech.com##.ct-cookie-consent-pop
 complex.com##.video-bar-on-scroll--showing-cookie-notice
 complex.com##.video-embed-floated--showing-cookie-notice.vidible-embed:style(position: static !important;)
 cookieandkate.com###wbounce-modal
-couponsoar.com##.policy_footer
 cybernews.com,spieltimes.com##.jnews-cookie-law-policy
 dailyfx.com###dfx-cookies-notification, #feedbackify, .dfx-cookiesNotification, .dfx_scrollup
 dailymotion.com##.CookiePopup__popup____KSqw
