@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
 ! Checksum: Kp7H7Iag6v1BSlQu1u4Nag
-! Last Modified: 2024-12-02 08:22 UTC
+! Last Modified: 2024-12-23 08:32 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -304,6 +304,7 @@ hacks.mozilla.org###newsletterForm
 hackwarenews.com###sc-email-widget-container
 hakaimagazine.com##.newssignup.main
 hamhigh.co.uk###subscriptionIframe
+happymag.tv##.subscibe-secion
 hbo.com###newsletterPopup
 healthcareitnews.com##.field-name-subscription-form
 healthline.com##.css-11k39sg
