@@ -7395,10 +7395,6 @@ softpedia.com,venturebeat.com###ac-player-wrapper:style(position: static !import
 softwarekeep.com###menu-desktop:style(position: relative !important;)
 softwarekeep.com##.header--top-links:style(display: block !important;)
 softwarekeep.com##.help-center-left-banner:style(position: static !important;)
-solecollector.com##.complex-navbar--sub .navbar__section--alternate
-solecollector.com##.headerContainer:style(position: absolute !important;)
-solecollector.com##.navbar__section--global.navbar__section:style(transform: none !important;)
-solecollector.com##.rail:style(position: absolute !important; top: 0 !important;)
 solarisjapan.com###launcher
 solarisjapan.com##.filter__filters:style(max-height: unset !important;)
 solarisjapan.com##.header__content:style(position: absolute !important; top: auto !important; animation: none !important;)
@@ -9366,7 +9362,6 @@ wrike.com##.feature-scroll__container:style(position: relative !important; top: 
 wrike.com##.header__desktop:style(background-color: var(--website-theme-background-color) !important;)
 wrike.com##.header__desktop--animated:style(transition: none !important;)
 wrike.com##.header__shadow
-wrike.com##.layout__header:style(position: relative !important;)
 wsj.com##.css-14phtk6-CollapsedHeaderStyled, .css-1xw3e15-UtilityNavContainer
 wsj.com##.css-182dxxg-MainHeader:style(position: static !important;)
 wsj.com##.css-1mb36w1-DummyWrapper
