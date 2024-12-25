@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: Vz4hG+A04OhqcHi8rysEQw
-! Last Modified: 2024-12-24 02:00 UTC
+! Last Modified: 2024-12-25 02:21 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -221,7 +221,7 @@ abcnews.go.com##body:not(.breaking-on) #global-viewport #pane-main:style(padding
 abcnews.go.com##body:not(.breaking-on):not(.scroll-locked)[data-section="homepage"] #abcn-videoplayer:style(top: 94.567px !important;)
 abcnews4.com##.sd-header-brand:style(position: relative !important; top: 0 !important;)
 abcradio.com###header:style(position: relative !important; padding: 5px 0 0 0 !important;)
-abcstores.com,actionnewsjax.com,alaskaair.com,algolia.com,androidmag.de,aopa.org,apnews.com,ara.cat,arkema-americas.com,asia.nikkei.com,atomicdelights.com,auburntigers.com,barstoolsports.com,celebritynetworth.com,chimicles.com,code42.com,conservativereview.com,consumerist.com,dartagnan.com,digitaljournal.com,dribbble.com,drivetribe.com,dropboxforum.com,duke.edu,economictimes.com,fiercebiotech.com,fiercetelecom.com,fiercevideo.com,financemagnates.com,fnbodirect.com,fortune.com,forums.androidcentral.com,foursquare.com,giadc.io,glew.io,greentechmedia.com,hardrockhotelatlanticcity.com,hawaiinewsnow.com,health24.com,howshost.com,howtheyplay.com,ieee.org,imgur.com,inhabitat.com,insertcoinclothing.com,instyle.com,intezer.com,iwaspoisoned.com,josbank.com,kdnuggets.com,lecreuset.com,lifesitenews.com,linkedin.com,lull.com,mediaequalizer.com,menshealth.com,mensjournal.com,mentalfloss.com,mic.com,mlb.com,nbc12.com,netlify.com,nltimes.nl,nme.com,nti.org,oxfordamerican.org,pando.com,pastebin.com,paypal.com,privateerit.com,prospect.org,protonmail.com,ramblinwreck.com,raptorcs.com,raspberrypi.org,rei.com,ronpaullibertyreport.com,runnersworld.com,sandiegoreader.com,sciencebulletin.org,seedlipdrinks.com,sensorstechforum.com,soundcloud.com,staticding.org,steuern.de,stratolaunch.com,suntimes.com,surrestaurant.com,tailopez.com,theblaze.com,thebump.com,thechive.com,thecipherbrief.com,thesoldiersfamily.com,thetruthaboutguns.com,tristatehomepage.com,trustnodes.com,tvguide.com,ucsusa.org,und.com,uponit.com,usafacts.org,usatoday.com,usmagazine.com,variety.com,vindy.com,virgin.com,vogue.fr,wafb.com,wbrc.com,wbtv.com,wcyb.com,wect.com,weddingbee.com,wftv.com,wirelessweek.com,wpxi.com,wsoctv.com,xda-developers.com###header:style(position: relative !important; top: 0 !important;)
+abcstores.com,actionnewsjax.com,alaskaair.com,algolia.com,androidmag.de,aopa.org,apnews.com,arkema-americas.com,asia.nikkei.com,atomicdelights.com,auburntigers.com,barstoolsports.com,celebritynetworth.com,chimicles.com,code42.com,conservativereview.com,consumerist.com,dartagnan.com,digitaljournal.com,dribbble.com,drivetribe.com,dropboxforum.com,duke.edu,economictimes.com,fiercebiotech.com,fiercetelecom.com,fiercevideo.com,financemagnates.com,fnbodirect.com,fortune.com,forums.androidcentral.com,foursquare.com,giadc.io,glew.io,greentechmedia.com,hardrockhotelatlanticcity.com,hawaiinewsnow.com,health24.com,howshost.com,howtheyplay.com,ieee.org,imgur.com,inhabitat.com,insertcoinclothing.com,instyle.com,intezer.com,iwaspoisoned.com,josbank.com,kdnuggets.com,lecreuset.com,lifesitenews.com,linkedin.com,lull.com,mediaequalizer.com,menshealth.com,mensjournal.com,mentalfloss.com,mic.com,mlb.com,nbc12.com,netlify.com,nltimes.nl,nme.com,nti.org,oxfordamerican.org,pando.com,pastebin.com,paypal.com,privateerit.com,prospect.org,protonmail.com,ramblinwreck.com,raptorcs.com,raspberrypi.org,rei.com,ronpaullibertyreport.com,runnersworld.com,sandiegoreader.com,sciencebulletin.org,seedlipdrinks.com,sensorstechforum.com,soundcloud.com,staticding.org,steuern.de,stratolaunch.com,suntimes.com,surrestaurant.com,tailopez.com,theblaze.com,thebump.com,thechive.com,thecipherbrief.com,thesoldiersfamily.com,thetruthaboutguns.com,tristatehomepage.com,trustnodes.com,tvguide.com,ucsusa.org,und.com,uponit.com,usafacts.org,usatoday.com,usmagazine.com,variety.com,vindy.com,virgin.com,vogue.fr,wafb.com,wbrc.com,wbtv.com,wcyb.com,wect.com,weddingbee.com,wftv.com,wirelessweek.com,wpxi.com,wsoctv.com,xda-developers.com###header:style(position: relative !important; top: 0 !important;)
 abcvideo.cc##.container > .panel.col-l, .container > .wrapper.header.panel:style(position: absolute !important;)
 abdoriani.com,ably.io,bitcoingold.org,borrowlenses.com,cugmhp.org,dailydot.com,dojacat.com,influxdata.com,instructables.com,investsnips.com,koditips.com,nyiso.com,oregoncraftbeer.org,spaceintelreport.com,straighttalkonevidence.org,techcoil.com,the-tls.co.uk,unitag.io,utah.gov###main-header:style(position: absolute !important;)
 ablebits.com###id-b20FloatMenuSidebar:style(position: relative !important;)
@@ -670,12 +670,12 @@ apptegy.com##.logo a svg:style(height: 32px !important;)
 appveyor.com##.fixed:style(position: absolute !important;)
 ar15.com##.cd-is-visible.cd-bottom, .cd-is-visible.cd-top
 ar15.com##.show-for-large.user-bar:style(position: relative !important; top: 0 !important; display: block !important; opacity: 1 !important; z-index: unset !important;)
-ara.cat###dev-nav-bar, .ara-header-sticky-blk-a, .ara-header-sticky-blk-b:style(position: relative !important; top: 0 !important;)
+ara.cat##.ara-header:style(position: relative !important; top: 0 !important;)
 arabnews.com###sticky-block:style(position: static !important;)
 arabnews.com###sticky-header, .share-this-popover, .sticky-spacer
 arbejderen.dk##.scroll-menu.header-container.container-fluid
 arbys.com###floating-banner
-arbys.com,javatpoint.com,liveviolet.net,paramore-music.com,sonicdrivein.com##.sticky-top:style(position: relative !important;)
+arbys.com,javatpoint.com,liveviolet.net,motionelements.com,paramore-music.com,sonicdrivein.com##.sticky-top:style(position: relative !important;)
 arcadepunks.com,blogs.twincities.com,ericzhang.me,octo.com,syncplify.me,thedailywtf.com,viewster.com###navigation:style(position: absolute !important;)
 arcamax.com##.secondary-nav:style(margin-top: 0 !important;)
 arcamax.com##.site-header.container-fluid:style(position: absolute !important;)
@@ -2152,10 +2152,8 @@ community.verizon.com##.lia-quilt-row-hero-banner
 community.verizon.com##.lia-quilt-row-main-header:style(position: relative !important;)
 compact-dynamics.de###kopf:style(position: absolute !important;)
 comparitech.com##body.category .section.main-content.sidebar-active .widget.toc_widget.sticky_toc, body.single .section.main-content.sidebar-active .widget.toc_widget.sticky_toc, body.page .section.main-content.sidebar-active .widget.toc_widget.sticky_toc, body.comparitech-pst-page .section.main-content.sidebar-active .widget.toc_widget.sticky_toc:style(position: static !important;)
-complex.com###cmplx-navigation, #elContainer, .background-image, .header-bar__container:style(position: relative !important; top: 0 !important;)
-complex.com##.base:style(padding-top: 0 !important;)
-complex.com##.sticky-aside-panel:style(position: absolute !important;)
-complex.com##.video-bar-on-scroll, .video-bar-on-scroll--desktop
+complex.com##.bNiJwv:style(position: absolute !important;)
+complex.com##.top-1\/3.sticky:style(position: relative !important; top: 79px !important;)
 compoundchem.com###side-header:style(position: absolute !important;)
 computer.org##.cb-menu-fw.cb-font-header.clearfix.cb-site-padding.cb-nav-bar-wrap:style(position: relative !important; top: 0 !important;)
 computerworld.com,infoworld.com###sticky-head:style(position: relative !important; top: 0 !important;)
@@ -3115,10 +3113,17 @@ facebook.com##.xixxii4:style(position: absolute !important;)
 facebook.com##.xlshs6z, .xnpuxes:style(visibility: visible !important;)
 facetjewelry.com##.navbar:style(position: relative !important; height: 60px !important;)
 factcheck.afp.com##.sticky-top:style(position: static !important;)
-factmag.com##.secondary-font.header:style(position: relative !important; top: 0 !important;)
+factmag.com##.factmag.bold.sticky .header .search-toggle:style(padding-top: 41px !important;)
+factmag.com##.factmag.bold.sticky ul.main-menu li a:style(padding: 5px 0 0 !important;)
+factmag.com##.factmag.sticky .header ul.social-header li:style(margin-top: 15px !important;)
+factmag.com##.factmag.sticky a.timeline-mobile-btn:style(height: 75px !important; padding-top: 37px !important;)
+factmag.com##.headbut:style(top: 36px !important;)
+factmag.com##.header:style(position: relative !important; height: 110px !important; box-shadow: none !important;)
 factordaily.com###contentasda:style(position: absolute !important;)
 factordaily.com##.other-stories-side:style(display: block !important; opacity: 1 !important;)
-faena.com##.header, .primary-header:style(position: absolute !important;)
+faena.com##.header.sticky .navigation:style(padding: 36px 0 !important;)
+faena.com##.menu-bar:style(position: absolute !important; top: 42px !important; background: transparent !important; width: 100% !important; max-width: unset !important;)
+faena.com##.utility-bar:style(position: absolute !important; top: 0 !important; width: 100vw !important; max-width: 100% !important;)
 fahrrad-xxl.de##.is_stuck.mm-fixed-top.stickyloaded.regular-nav.top-nav:style(position: relative !important; top: 0 !important;)
 fair.org##.wp-dark-mode-floating-switch:style(position: absolute !important;)
 fairfaxcounty.gov##.jumbotron-header:style(position: relative !important;)
@@ -3128,12 +3133,10 @@ fairprice.com.sg##body.fix #headerWrapper header:style(display: block !important
 fairprice.com.sg##body.fix .logo_section:style(height: 114px !important; padding-top: 40px !important;)
 fakespot.com##.product-show .analysis-section .analysis-details h5, .product-show .reviews-summary h5, .product-show .similar-products h5, .product-show-section2 .analysis-section .analysis-details h5, .product-show-section2 .reviews-summary .section-header-wrapper, .product-show-section2 .reviews-summary h5, .product-show-section2 .sticky-feature, header:style(position: static !important;)
 falconhospital.com##.breadcrumb-wrapper, .header:style(position: absolute !important;)
-famous-smoke.com###launcher, #support-pill:style(position: absolute !important;)
-famous-smoke.com###ordersummary:style(position: absolute !important; top: 75px !important;)
 fanbox.cc##.cplgnZ:style(position: absolute !important;)
 fandom.com###WikiaBar, .notifications-placeholder
 fandom.com##.fandom-community-header__background:style(position: relative !important;)
-fandom.com##.global-navigation, .global-navigation__bottom:style(position: absolute !important;)
+fandom.com##.global-explore-navigation, .global-navigation, .global-navigation__bottom, .global-top-navigation:style(position: absolute !important;)
 fandom.com##.is-visible.fandom-sticky-header
 fandom.com##.page-side-tools:style(position: relative !important; top: 0 !important;)
 fandom.com##.sticky-modules-wrapper:style(position: relative !important; top: 0 !important;)
@@ -3670,7 +3673,8 @@ getpocket.com###explore-nav-container, .portal-header, .sticky.article_meta:styl
 getpocket.com###related_topics
 getpocket.com##.persistent-actions-container, div.sticky-container:style(position: absolute !important;)
 getpocket.com##.topic-page:style(padding-top: 0 !important;)
-getquip.com###launcher, .quip-nav:style(position: absolute !important;)
+getquip.com,wrike.com##.layout__header:style(position: relative !important;)
+getquip.com##.product-details__info-section-inner:style(position: relative !important; top: 0 !important;)
 getrevue.co##.navigation-desktop.navigation:style(position: absolute !important;)
 getsitecontrol.com,goodhousekeeping.com##.sticky.nav
 gettr.com###positionSticky:style(position: static !important;)
@@ -5542,7 +5546,6 @@ mothering.com###socialNav:style(position: relative !important;)
 motherjones.com###mj_menu_select.open:style(max-height: 600px !important;)
 motherjones.com###navbar, #ticker
 mothership.sg###menu-new-main-menu, .search-bar, .top-nav:style(position: absolute !important;)
-motionelements.com###launcher, #main-header, #top-header:style(position: absolute !important;)
 motor-talk.de###StickyHeader:style(position: absolute !important;)
 motorauthority.com###masterhead-inner, .nav-container:style(position: absolute !important;)
 motorauthority.com##.article-wrap .right-col aside.stay:style(position: absolute !important; top: -85px !important;)
@@ -7396,11 +7399,14 @@ solecollector.com##.complex-navbar--sub .navbar__section--alternate
 solecollector.com##.headerContainer:style(position: absolute !important;)
 solecollector.com##.navbar__section--global.navbar__section:style(transform: none !important;)
 solecollector.com##.rail:style(position: absolute !important; top: 0 !important;)
-solgaard.co###launcher
-solgaard.co##.header__wrapper.fixed:style(position: absolute !important;)
-solgaard.co##.in.fixed.header--product
-solgaard.co##.info-bar:style(animation: none !important;)
-solgaard.co##.site-header--hidden, .info-bar--hidden:style(display: block !important; animation: none !important;)
+solarisjapan.com###launcher
+solarisjapan.com##.filter__filters:style(max-height: unset !important;)
+solarisjapan.com##.header__content:style(position: absolute !important; top: auto !important; animation: none !important;)
+solarisjapan.com##.product__information:style(position: relative !important;)
+solarisjapan.com##.search-results__filter:style(position: relative !important; top: 0 !important; max-height: unset !important;)
+solarisjapan.com##.sticky-navbar__cart
+solgaard.co##.header__wrapper:style(position: relative !important;)
+solgaard.co##.site-header:style(display: block !important; animation: none !important;)
 solteq.com##.header-wrapper:style(position: absolute !important; top: 0 !important; visibility: visible !important; opacity: 1 !important; animation: none !important;)
 solutionreach.com##.site-header--light.site-header:style(position: absolute !important;)
 solveigmm.com##.christmass-main, .christmass-main-pages:style(margin-top: 73px !important;)
@@ -7619,8 +7625,8 @@ starbucks.com##.menuPadding___TZ12b
 starbucks.com##.sb-global-subnav-containerLight:style(position: relative !important;)
 stardsl.net##.fusion-sticky-header-wrapper:style(position: relative !important; top: 0 !important;)
 startech.com##.shadow.nav-scroll-in
-startpage.com##.inner-pages.settings_cont, .stick-header.navbar-default.navbar:style(position: relative !important; top: 0 !important;)
-startpage.com##.layout__header:style(position: relative !important;)
+startpage.com##.css-gukvr5.feedback-widget > .feedback-button-container:style(position: relative !important;)
+startpage.com##.css-p8upca:style(position: absolute !important;)
 startribune.com##.is-fixed.js-nav-shortcuts-inner.nav-shortcuts-inner, .l-navigation-shortnav-container, .recirc, .sb-slide.navbar-fixed-top.navbar-default.navbar.site-header:style(position: relative !important;)
 startribune.com##.l-home-right:style(position: static !important; margin-top: auto !important;)
 startribune.com##.page-article:style(padding-top: 0 !important;)
@@ -9356,6 +9362,8 @@ wral.com##.sticky-container:style(position: relative !important; top: 0 !importa
 wral.com##header:style(position: relative !important; top: 0 !important;)
 wralsportsfan.com##.nav-main:style(position: relative !important;)
 wralsportsfan.com##.nav-secondary:style(position: relative !important; top: 0 !important;)
+wrike.com##.feature-scroll__container:style(position: relative !important; top: 0 !important;)
+wrike.com##.header__desktop:style(background-color: var(--website-theme-background-color) !important;)
 wrike.com##.header__desktop--animated:style(transition: none !important;)
 wrike.com##.header__shadow
 wrike.com##.layout__header:style(position: relative !important;)
