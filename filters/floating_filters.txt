@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: Vz4hG+A04OhqcHi8rysEQw
-! Last Modified: 2024-12-25 02:21 UTC
+! Last Modified: 2024-12-26 02:29 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -11,7 +11,6 @@
 ! Works Best With: uBlock Origin or AdGuard
 
 ! Start Web Annoyances Ultralist - Floating Annoyances
- absolute !important;)
 /matomo-connect.js$script,important
 /matomo-script.js$script,important
 1001fonts.com##.stickynav-offset:style(position: relative !important; top: 0 !important;)
@@ -23,7 +22,7 @@
 10best.usatoday.com##.hamburger-uninit:style(position: absolute !important;)
 10best.usatoday.com##.off-canvas-wrap:style(max-width: unset !important;)
 10best.usatoday.com##.vert-social-sharing-bar:style(position: absolute !important; top: -27px !important;)
-10best.usatoday.com,aminoapps.com,aura.app,bitport.io,boardofwisdom.com,buffalonews.com,clever.com,climateaction.org,coldstonecreamery.com,dailycaller.com,data.swiftkey.com,dcunited.com,deepcapture.com,democracynow.org,dippindots.com,discord.me,discounttire.com,duluthtrading.com,ehow.com,eonline.com,euroleaguebasketball.net,examine.com,fedex.com,github.blog,gladiator.tf,goddesscams.online,gonintendo.com,halfwheel.com,hbr.org,homesciencetools.com,honda.com,independentarabia.com,independentpersian.com,indyturk.com,inquirer.com,itemfix.com,mediacentre.euroleague.net,mic.com,nypost.com,nyuhs.org,order.wendys.com,personal.chase.com,prmdeal.com,saksfifthavenue.com,sammobile.com,sfchronicle.com,sfgate.com,simpleflying.com,site24x7.com,support.google.com,teamblind.com,themarysue.com,topclassactions.com,trident.edu,vacationtracker.io,vera.org,wallpapers.com,welchs.com,whio.com##header:style(position: relative !important;)
+10best.usatoday.com,aminoapps.com,aura.app,bitport.io,boardofwisdom.com,buffalonews.com,clever.com,climateaction.org,coldstonecreamery.com,dailycaller.com,data.swiftkey.com,dcunited.com,deepcapture.com,democracynow.org,dippindots.com,discord.me,discounttire.com,duluthtrading.com,ehow.com,eonline.com,euroleaguebasketball.net,examine.com,fedex.com,github.blog,gladiator.tf,goddesscams.online,gonintendo.com,halfwheel.com,hbr.org,homesciencetools.com,honda.com,independentarabia.com,independentpersian.com,indyturk.com,inquirer.com,itemfix.com,mediacentre.euroleague.net,mic.com,nyuhs.org,order.wendys.com,personal.chase.com,prmdeal.com,saksfifthavenue.com,sammobile.com,sfchronicle.com,sfgate.com,simpleflying.com,site24x7.com,support.google.com,teamblind.com,themarysue.com,topclassactions.com,trident.edu,vacationtracker.io,vera.org,wallpapers.com,welchs.com,whio.com##header:style(position: relative !important;)
 10tv.com##.article__close:style(position: relative !important; top: 38px !important;)
 10tv.com##.grid__sticky-content:style(position: absolute !important; top: 0 !important;)
 10tv.com##.header__featured:style(top: 62px !important;)
@@ -458,7 +457,7 @@ alaskaair.com###wrap > div.container > div.row:style(height: 0 !important;)
 alaskaair.com##.hentry:style(margin-top: 0 !important;)
 alaskaair.com##.masthead:style(position: relative !important; top: 0 !important; margin-top: -100px !important; margin-bottom: 0 !important; background-position-x: center !important; background-position-y: 0 !important;)
 alaskaair.com##.mobile-logo
-alaskahighwaynews.ca,assiniboiatimes.ca,axios.com,blog.logrocket.com,bowenislandundercurrent.com,burnabynow.com,canoracourier.com,carlyleobserver.com,coastreporter.net,dawsoncreekmirror.ca,delorainetimes.ca,delta-optimist.com,dog.com,empireadvance.ca,estevanmercury.ca,humboldtjournal.ca,jostens.com,kamsacktimes.com,kiplingcitizen.ca,kob.com,lillooetnews.net,myschoolmenus.com,newsoptimist.ca,newwestrecord.ca,nsnews.com,pipelinenews.ca,pipelinenewsnorth.ca,preecevilleprogress.com,princegeorgecitizen.com,privacytools.io,prpeak.com,restonrecorder.ca,richmond-news.com,sourisplaindealer.ca,squamishchief.com,thebrag.com,theoutlook.ca,thereminder.ca,thompsoncitizen.net,timescolonist.com,tisdalerecorder.ca,tricitynews.com,vancourier.com,wdio.com,weyburnreview.com,weyburnthisweek.com,wnyt.com,yorktonthisweek.com##.fixed-top:style(position: absolute !important;)
+alaskahighwaynews.ca,assiniboiatimes.ca,axios.com,blog.logrocket.com,bowenislandundercurrent.com,burnabynow.com,canoracourier.com,carlyleobserver.com,coastreporter.net,dawsoncreekmirror.ca,delorainetimes.ca,delta-optimist.com,dog.com,empireadvance.ca,estevanmercury.ca,humboldtjournal.ca,jostens.com,kamsacktimes.com,kiplingcitizen.ca,kob.com,lillooetnews.net,myschoolmenus.com,newsoptimist.ca,newwestrecord.ca,nsnews.com,pipelinenews.ca,pipelinenewsnorth.ca,preecevilleprogress.com,princegeorgecitizen.com,privacytools.io,prpeak.com,restonrecorder.ca,richmond-news.com,sixthsense.rakuten.com,sourisplaindealer.ca,squamishchief.com,thebrag.com,theoutlook.ca,thereminder.ca,thompsoncitizen.net,timescolonist.com,tisdalerecorder.ca,tricitynews.com,vancourier.com,wdio.com,weyburnreview.com,weyburnthisweek.com,wnyt.com,yorktonthisweek.com##.fixed-top:style(position: absolute !important;)
 alaskapublic.org,america.gov,art-sheep.com,celebtoast.com,checkpoint.com,dansdeals.com,eng.uber.com,globalanimal.org,intellihub.com,lamag.com,mashtips.com,mmanews.com,minecraft-resourcepacks.com,nextofwindows.com,orangebeanindiana.com,oscarmini.com,pcmdnews.com,plagiarismtoday.com,radioink.com,seeitmarket.com,servethehome.com,techbizweb.com,technorms.com,thegolder.com,themefoxx.com,thevisitorpanama.info,uspostnews.com,winbuzzer.com,zycrypto.com##.td-ss-main-sidebar:style(position: static !important;)
 alephnews.ro###secondary, .content-area:style(position: relative !important; left: 0 !important;)
 alephnews.ro###tertiary:style(position: relative !important; right: 0 !important;)
@@ -3707,6 +3706,7 @@ github.com###readme > div.js-position-sticky, .is-stuck.js-position-sticky.js-st
 github.com###year-list-container .js-profile-timeline-year-list, #year-list-container .profile-timeline-year-list:style(position: static !important; top: 74px !important; width: auto !important;)
 github.com##.BackToTop
 github.com##.bQRaNO:style(position: relative !important;)
+github.com##.bZNSVu:style(position: relative !important; max-height: unset !important;)
 github.com##.cm-panels-bottom:style(position: relative !important;)
 github.com##.dashboard-sidebar:style(position: relative !important;)
 github.com##.Diff-module__diffHeaderWrapper--rsdD4:style(position: relative !important; top: 0 !important;)
@@ -3720,7 +3720,7 @@ github.com##.iRQGXA:style(position: relative !important;)
 github.com##.is-stuck.js-sticky.site-subnav-sticky.bg-white.site-subnav, .js-sticky.site-subnav-sticky.bg-white.site-subnav:style(position: relative !important; top: 0 !important; left: unset !important; width: unset !important;)
 github.com##.is-stuck.js-toggler-target.js-user-profile-follow-button.js-sticky.top-0.btn-block.btn, .js-sticky-offset-scroll.js-sticky.pr-toolbar, .js-user-profile-follow-button, .sticky-file-header:style(position: static !important; width: 100% !important;)
 github.com##.is-stuck.top-0.js-sticky.user-profile-nav.UnderlineNav:style(width: unset !important;)
-github.com##.js-notification-shelf-offset-top.box-shadow.gh-header-shadow:style(position: static !important; height: 0 !important;)
+github.com##.js-notification-shelf-offset-top:style(position: relative !important; top: 0 !important;)
 github.com##.js-sticky-offset-scroll.pr-toolbar:style(position: relative !important;)
 github.com##.js-sticky.dashboard-sidebar:style(position: static !important; top: 0 !important; left: 0 !important; width: unset !important; height: 100% !important;)
 github.com##.js-user-profile-sticky-fields.js-sticky.py-3.vcard-names-container:style(margin-top: 0 !important; pointer-events: none !important; width: auto !important;)
@@ -5366,6 +5366,7 @@ metro.co.uk##.fixed-element-widget-top.is-visible:style(position: relative !impo
 metro.us###pageHeader, .clearfix.header:style(position: relative !important; top: 0 !important;)
 mewe.com##.c-profile-main:style(position: relative !important; top: 0 !important;)
 mewe.com##.c-sidebar-left, .c-sidebar-right:style(position: relative !important; top: 0 !important;)
+mewe.com##.contact-header_wrapper:style(position: relative !important; top: 0 !important;)
 mewe.com##.main-header-dropdown, .main-header-user-dropdown:style(position: absolute !important;)
 mewe.com##.mewe-app-header:style(position: absolute !important;)
 mewe.com##.smart-search_menu:style(position: absolute !important;)
@@ -5844,6 +5845,7 @@ netgear.com##.product_summary_content > h3, .product_summary_content > p:style(m
 netgear.com##.top-bar:style(position: absolute !important; top: 0 !important;)
 netscout.com##.header--sticky.header:style(position: absolute !important;)
 netscout.com##.scrolling-tabs--sticky.scrolling-tabs__wrapper.ns-container--full:style(position: relative !important; top: 0 !important;)
+netu.ac##.wide-nav:style(position: relative !important;)
 networklessons.com###sdrn_bar, #wpfront-notification-bar:style(position: relative !important; top: 0 !important;)
 networkworld.com###banner section.main .masthead .logo:style(background-size: 265px 55px !important; height: 55px !important; width: 270px !important; top: 1px !important; margin-top: -6px !important; margin-right: 0 !important; margin-left: 5px !important;)
 networkworld.com###banner section.main .masthead:style(top: 0 !important;)
@@ -6088,14 +6090,14 @@ nydailynews.com##.s2nPlayerFrame:style(position: absolute !important; height: 10
 nylon.com##.nav:style(position: relative !important; top: 0 !important;)
 nymag.com##.fixed.simple-header-wrapper:style(position: relative !important; max-width: 1180px !important; width: 100vw !important; border-bottom: none !important;)
 nymag.com##.package-navigation:style(position: relative !important; top: 0 !important; transform: none !important; margin: 0 !important; border-top: none !important;)
-nypost.com###background-wrapper, #content-wrapper, body:style(padding-top: 0 !important;)
-nypost.com###page-header:style(position: relative !important; top: 0 !important; transform: none !important;)
-nypost.com##.brightcove-video__player .video-js:style(position: absolute !important; bottom: 0 !important; left: 0 !important; right: 0 !important; top: 0 !important; width: 100% !important; height: 100% !important;)
-nypost.com##.s2nFloatBox:style(position: static !important; width: 100% !important; height: 100% !important; margin: 0 !important; inset: 0px !important;)
-nypost.com##.s2nFloatParams:style(width: 100% !important; margin: 0 !important;)
-nypost.com##body > .content:style(margin-top: 0 !important;)
-nypost.com,pagesix.com##.nyp-brightcove-wrapper .nyp-brightcove-player .video-js:style(position: absolute !important; inset: 0 0 0 0 !important; width: 100% !important; height: 100% !important;)
-nypost.com,pagesix.com##.vjs-pip-close-button.vjs-button.vjs-control.vjs-close-button
+nypost.com###masthead:style(position: relative !important; transform: none !important;)
+nypost.com##.headroom--not-top .site-header__bar, .site-header-cta:style(display: block !important;)
+nypost.com##.jw-float-bar
+nypost.com##.jw-wrapper:style(position: absolute !important; top: 0 !important; bottom: 0 !important; left: 0 !important; right: 0 !important; display: block !important; max-height: 100% !important; max-width: 100% !important; transform: none !important;)
+nypost.com##.recirc, .site-header__wrapper:style(transform: none !important;)
+nypost.com##.site-header__logo > a, .site-header__logo svg:style(height: 3.4375rem !important;)
+nypost.com##.widget-wrapper--sticky-lg > div:style(position: relative !important; top: 0 !important;)
+nypost.com##body:style(--site-header--height--core: 6.625rem !important; --site-header--height--container: 5.375rem !important; --sports-plus--promo--height: 5rem !important;)
 nytimes.com###dock-container
 nytimes.com##.css-1lnfix7:style(position: relative !important;)
 nytimes.com##.css-1y7qxpi
@@ -6964,7 +6966,10 @@ rookout.com###custom_html-2:style(position: static !important; top: 0 !important
 rookout.com###drift-widget:style(position: relative !important;)
 rotoballer.com##.mobile-nav:style(position: absolute !important;)
 rotomshop.de##.rwd-liquid.rwd-clearfix.quick-access-fly-container:style(position: absolute !important;)
-rottentomatoes.com###movies_sidebar:style(position: absolute !important;)
+rottentomatoes.com###hero-wrap:style(position: relative !important;)
+rottentomatoes.com##[data-adobe-id="discovery-sidebar"]:style(position: relative !important; top: 0 !important;)
+rottentomatoes.com##.modules-nav:style(position: relative !important; top: 0 !important;)
+rottentomatoes.com##media-hero:style(--scrollY: 0 !important; --scrollYPx: 0px !important;)
 router-switch.com##.header-top:style(position: absolute !important;)
 rover.com##.header-right, .side-menu:style(display: inline-block !important;)
 rover.com##.site-header:style(position: absolute !important; background-color: #00bd70 !important;)
@@ -7290,6 +7295,7 @@ sitepoint.com###navigation-bar:style(position: absolute !important;)
 sitepoint.com##[role="smartbar"]
 sites.google.com##.VLoccc:style(position: absolute !important;)
 sites.research.google##relate-mobile-nav:style(position: relative !important; box-shadow: none !important;)
+sixthsense.rakuten.com##.ssw-navbar-news-banner
 sixthtone.com##.navbar-primary::before:style(background-color: transparent !important; border-bottom: 1px solid transparent !important;)
 sixthtone.com##.slogan-noodletimes:style(opacity: 1 !important;)
 sixthtone.com##.sticky-scroll .logo-noodletimes.black
@@ -7780,6 +7786,7 @@ surlatable.com###mini-cart, .fixed .header-search button:style(top: 0 !important
 surlatable.com###navigation:style(margin-top: unset !important; width: 77% !important; clear: both !important;)
 surlatable.com##.fixed .menu-category.level-1 > li.top-level-cat:style(float: left !important;)
 surlatable.com##.fixed .menu-utility-user:style(padding-top: 20px !important;)
+surlatable.com##.fixed .primary-logo:style(width: 250px !important; max-width: 250px !important; padding: 27px 0 30px 0 !important; margin: 0 !important;)
 surlatable.com##.fixed .SearchIcon1x:style(margin: 0 !important;)
 surlatable.com##.header-main.fixed .global-nav:style(position: relative !important; top: 0 !important; max-width: 1680px !important;)
 surlatable.com##.header-main.fixed .header-banner:style(position: relative !important;)
@@ -7798,15 +7805,8 @@ swiftkey.com##.slide.masthead, .slide.search-box:style(position: absolute !impor
 swissinfo.ch###fixedMenu, ._fixed:style(position: relative !important;)
 swissinfo.ch##.sticky-container:style(height: 65.9333px !important;)
 swissinfo.ch##.top-bar:style(padding-top: .5em !important; padding-bottom: .5em !important;)
-syfy.com##.article-strip__sticky-latest--active .article-strip__outer-wrapper--sticky .article-strip__outer-wrapper:style(margin-bottom: 40px !important;)
-syfy.com##.header--sticky-nav .layout__navigation:style(position: absolute !important; transform: none !important;)
-syfy.com##.navbar--syfywire .navbar__logo-link:style(transform: translateY(24px) !important;)
-syfy.com##.navbar:style(position: absolute !important; height: 70px !important; transform: none !important;)
-syfy.com##.navbar__inner, .navbar--syfywire .navbar__logo-link-icon:style(transform: none !important;)
-syfy.com##.navbar__live-trigger-inner, .navbar__news-trigger-inner, .navbar__watch-trigger-inner:style(transform:translateY(27px) !important;)
-syfy.com##.navbar__primary-item-link-inner, .navbar__primary-item-link-text, .navbar__search-trigger-inner:style(transform: translateY(29px) !important;)
-syfy.com##.syfy-wire-latest-article + div:style(margin-top: 40px !important;)
-syfy.com##.syfy-wire-latest-article:style(position: relative !important; top: 40px !important; transform: none !important;)
+syfy.com##.header__wrapper:style(padding-bottom: 0 !important;)
+syfy.com##.sticky-nav__container:style(position: relative !important; top: 0 !important; transition: none !important;)
 symbolspy.com##.fresh:style(position: unset !important; width: 100% !important;)
 symfony.com###sln, .sln-bar:style(position: absolute !important;)
 symfony.com##.affix.header__bottom:style(position: absolute !important; box-shadow: none !important;)
