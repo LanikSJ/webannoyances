@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: q5sRSWv1QOVgSAHSpO7EBA
-! Last Modified: 2024-12-23 08:33 UTC
+! Checksum: Q4GqWqjOyoHD6Y4ExcgaGA
+! Last Modified: 2025-01-06 08:24 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -395,7 +395,6 @@ feetfinder.com##body:style(overflow: auto !important;)
 fermatslibrary.com###emailCollectionModal
 fhm.com###ctl00_Body_slideboxDiv
 fidelity.com##.info-flyout-wrapper
-filecritic.com###wpfront-notification-bar
 filmlifestyle.com##.optin-monster-saas-overlay, .sh-back-to-top
 fiverr.com###js-popup-user, .b-modal
 fivethirtyeight.com###footer-notice
