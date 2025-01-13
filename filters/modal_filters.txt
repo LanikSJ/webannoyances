@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: Q4GqWqjOyoHD6Y4ExcgaGA
-! Last Modified: 2025-01-06 08:24 UTC
+! Checksum: YevDvtMcfinHHkfGrpeAtA
+! Last Modified: 2025-01-13 08:21 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -130,7 +130,7 @@ baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,courant.com
 baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,courant.com,dailypress.com,mcall.com,nydailynews.com,orlandosentinel.com,pilotonline.com,sun-sentinel.com##html[data-dss-meterup], [data-dss-meterup] body:style(overflow: auto !important;)
 bankrate.com##.glyphicon-arrow-up.glyphicon
 barbecuebible.com###newsletter_pop, #newsletter_pop_bg
-baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com###exit-overlay, #exit-overlay-inline, #mb-bar, #optinform-container, #SecondaryPush, .mcwidget-overlay
+baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com###exit-overlay, #exit-overlay-inline, #mb-bar, #optinform-container, #SecondaryPush, .mcwidget-overlay
 batcmd.com###cmsg
 bathandbodyworks.com,bt.com,canadagoose.com,crucial.com,greencarreports.com,mattressfirm.com,motorauthority.com,paypal-community.com,rag-bone.com##.ui-dialog, .ui-widget-overlay
 beautifulpixels.com###ml-webforms-popup-536841

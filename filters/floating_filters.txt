@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: YEPj63MCH2PfH1A/IX1e3A
-! Last Modified: 2025-01-06 08:24 UTC
+! Checksum: CstT6UHVdEBKoATkxnpBbQ
+! Last Modified: 2025-01-13 08:21 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -4186,7 +4186,7 @@ huffingtonpost.*,itechtics.com,newrepublic.com###sticky-nav
 huffingtonpost.co.uk##.top-nav-sticky
 huffpost.com##.subnav-container:style(position: relative !important;)
 hugedomains.com##.ss-block-inner:style(position: absolute !important; top: 35px !important; transform: none !important; right: -2px !important;)
-hulkstream.com,hulkstreams.com,jackstream.com##.header, .sidebar, .top-menu:style(position: absolute !important;)
+hulkstream.com,jackstream.com##.header, .sidebar, .top-menu:style(position: absolute !important;)
 hulu.com###banner:style(position: absolute !important; top: 0 !important;)
 humanevents.com###mvp-main-body-wrap, #mvp-site-main:style(margin-top: 0 !important;)
 humanevents.com###t-scrollnav-holder:style(position: static !important; transform: translateY(0px) !important;)
@@ -7245,7 +7245,6 @@ si.com##.style_87vl00:style(position: relative !important;)
 siam.org##.section--top__media-outer:style(position: relative !important; top: 0 !important;)
 siderite.blogspot.com###mastheadnbt:style(position: relative !important; height: 72px !important; padding: 25px 0 !important;)
 siderite.blogspot.com##.clippy:style(position: absolute !important;)
-siftery.com##siftery-header > .align-items-center.d-flex:style(position: absolute !important;)
 signsofnassau.com##.nav-fixed.nav-responsive.nav-wrapper:style(position: relative !important; top: 0 !important;)
 signup.dropout.tv##.bottom-0.h-auto.w-full.fixed
 sikids.com##.sticky.site:style(position: absolute !important;)
