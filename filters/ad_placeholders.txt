@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Ad Placeholder Filters
-! Checksum: mSP/qSpoH9lmBzC7GE5M2w
-! Last Modified: 2024-10-21 08:20 UTC
+! Checksum: EhxkdZMzysVam3Kq5/qu6Q
+! Last Modified: 2025-01-27 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for empty advertising placeholders.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -343,7 +343,6 @@ journals.sagepub.com##.topLeaderboardContainer
 jpost.com##.margin-container-right .hide-for-premium .OUTBRAIN:upward(2)
 jpost.com##.OUTBRAIN, .fake-container-for-outbrain-sticky.one-row, .line-left-side-before-and-after-container, .one-row.line-one-row-before-and-after-container
 justthenews.com###block-sitewideleaderboard, #div-adh-div-gpt-ad-adhesion
-jwstream.site,leadingred.us###ad-close-sp
 kbb.com###toolbarAdLabel
 kiplinger.com##.kip-advertisement
 knowyourmeme.com###mobile-sticky-ad
@@ -359,6 +358,7 @@ lawandcrime.com###lnn-promo
 laweekly.com##.convert-media-ad
 lawtally.com##.ad-mid-sidebar
 lawyersgunsmoneyblog.com###admania_top
+leadingred.us###ad-close-sp
 legalinsurrection.com##.sidebarBlock [id^="div-gpt-ad"]:upward(2)
 legalinsurrection.com##[id^="div-gpt-ad"]
 lemonade.com###gtm_button_top_check_prices

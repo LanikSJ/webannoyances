@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: 2k+F8iYihPAXHhvKi9sNXA
-! Last Modified: 2024-12-23 08:21 UTC
+! Checksum: H9VwtDZ2LZ82Oezw33/bSw
+! Last Modified: 2025-01-27 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -538,9 +538,6 @@ joystiq.com###GH_strip
 jstor.org##.dark.sidebar
 judicialwatch.org###twfbwindows
 jwplatform.com##.jw-logo.jw-logo-top-left
-jwstream.site,leadingred.us##.clappr-watermark
-jwstream.site,leadingred.us##.full
-jwstream.site,leadingred.us##.ga-content
 kadavy.net##nav
 kaufda.de##.drawer.shelf-layout-header.layout-head-drawer
 kcet.org##.active.kl-header-sticky.pane-kl-sticky-header.pane-panels-mini.panel-pane
@@ -586,6 +583,9 @@ lawnewz.com###LawNewz_Mobile_MedRec_2
 lawnewz.com###lnn-promo
 lawnewz.com###post-nav
 leadingauthorities.com##.header-wrp:after
+leadingred.us##.clappr-watermark
+leadingred.us##.full
+leadingred.us##.ga-content
 leadingred.us##.simplebar-track
 lefigaro.fr##.fig-micronav__wrapper
 lefigaro.fr##.figh-collapse--with-abo.collapsed_content
@@ -1040,7 +1040,7 @@ sports24.*###ao
 sports24.*##.sp24
 sports24.*##h3
 sports24.*,therecord.com##ads
-sports4u.pro,wizistreams.xyz###floatLayer1
+sports4u.pro###floatLayer1
 sportsnet.ca##.rdm-daac-notice-template
 sportsonearth.com##.next-prev-superbar.bam-superbar
 sportsvideo.org##.edson3.functions

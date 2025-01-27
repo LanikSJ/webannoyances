@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: lT7GBpeygs/cLdED0xXyJw
-! Last Modified: 2025-01-13 08:21 UTC
+! Checksum: lfahBYda3zhJaVOFQHcudg
+! Last Modified: 2025-01-27 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -645,7 +645,6 @@ momtastic.com##.pins-follow-button
 money.cnn.com###js-sharebar-floater, followus, social
 moneycontrol.com##.share_arti_srevamp-scroll
 moneycrashers.com##.left-sharing
-moneymaven.io##div ul:has(li[class^="share-fit"])
 moneysavingexpert.com##.all-social-btns, .social-buttons-header
 montrealgazette.com###pn_socialmedia_widget-9, .article-actions
 morningconsult.com##.single-post__social
