@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: H9VwtDZ2LZ82Oezw33/bSw
-! Last Modified: 2025-01-27 08:20 UTC
+! Checksum: dme67aBoQpDIQ4otlL03Sg
+! Last Modified: 2025-02-03 08:21 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -388,7 +388,6 @@ faz.net##.gh-MainNav-is-visible.js-article-scroller-sticky-header.js-global-head
 fedscoop.com##.homeslim
 feeder.co##.navbar-expander
 ffblife.com##.footer-top > .wrapper
-fhm.com###FHMIssueCover
 fidelity.com##.right-icons-bar
 fineartamerica.com###linknextsidearrow
 fineartamerica.com###linkprevioussidearrow
@@ -1071,7 +1070,6 @@ support.mozilla.org##.warning.announce-bar
 swiftkey.com##.active.alert-banner
 syncfusion.com###feedbackButton
 syncfusion.com###swaychat-chat-widget
-takelessons.com###SearchFormSticky
 tdbank.com##.td-cs-primary.td-callout-secondary.td-callout
 techmeme.com##.ifsp
 telesurenglish.net##.contRightC
@@ -1234,7 +1232,6 @@ vocativ.com##.rcol
 vocativ.com##.voc-feed
 vocativ.com##.voc-feed-thumbroll
 vrbo.com###Feedback
-watchdog.org###sticky-anchor
 watchesbysjx.com##.clearfix.sub.main-header
 watchserieshd.*##.notify-foot
 watsi.org##.marginLeft-32-m.flexJustify-end-m.flex

@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: oZShtB3SBlXabHzXAE/2Qw
-! Last Modified: 2025-01-27 08:20 UTC
+! Checksum: RxIBkmsqSWRzhRBPjjzQrg
+! Last Modified: 2025-02-03 08:21 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -919,11 +919,6 @@ axios.com##.Navigation__compressed--1VpjA:style(height: 110px !important;)
 axios.com##.rebelbar--fake.rebelbar
 axios.com##.site-header__container--scrolled, .site-header__container, header.z-50.fixed.w-full, header > div.fixed, nav[class*="Nav__StyledNav-sc"], nav[data-cfw-rewrite="nav"]:style(position: absolute !important;)
 axios.com##[class*="StoryComponent__StoryHeader-sc-"]:style(margin-top: 0 !important;)
-azarus.io##.h_aza_discordButton
-azarus.io##.h_aza_viewerPage:style(height: unset !important;)
-azarus.io##.hv_aza_landing.v_header:style(position: relative !important;)
-azarus.io##.v_sectionSticky:style(position: relative !important;)
-azarus.io##main:style(padding-top: 0 !important;)
 azfamily.com##.wn-sticky:style(position: relative !important; top: 0 !important;)
 azquotes.com,safenotes.org###menu:style(position: absolute !important;)
 azure.microsoft.com###azure-header:style(position: relative !important;)
@@ -4879,8 +4874,8 @@ kyivpost.com##.mainhead:style(padding: 36px 0 47px !important; background-color:
 kyivpost.com##.mainnav .wrap:style(border: 1px solid #e3e2e6 !important; max-width: 1290px !important;)
 kyivpost.com##.page-wrap.scrolled:style(padding-top: 0 !important;)
 kyleschaeffer.com,nationalgeographiclodges.com,news.com.au,newsplex.com,pixieset.com,qz.com,rollcall.com,sltrib.com,streetinsider.com,technochops.com,technologynetworks.com,uppermichiganssource.com###nav:style(position: relative !important; top: 0 !important;)
-l.opnxng.com,libreddit.app.runonflux.io,libreddit.bus-hit.me,libreddit.kavin.rocks,libreddit.privacydev.net,libreddit.projectsegfau.lt,libreddit.tux.pizza,r.walkx.fyi,red.artemislena.eu,reddit.rtrace.io,redlib.aosus.link,redlib.freedit.eu,redlib.kylrth.com,redlib.northboot.xyz,redlib.pussthecat.org,redlib.seasi.dev,safereddit.com,snoo.habedieeh.re###banner
-l.opnxng.com,libreddit.app.runonflux.io,libreddit.bus-hit.me,libreddit.kavin.rocks,libreddit.privacydev.net,libreddit.projectsegfau.lt,libreddit.tux.pizza,r.walkx.fyi,red.artemislena.eu,reddit.rtrace.io,redlib.aosus.link,redlib.freedit.eu,redlib.kylrth.com,redlib.northboot.xyz,redlib.pussthecat.org,redlib.seasi.dev,safereddit.com,snoo.habedieeh.re##nav.fixed_navbar:style(position: absolute !important;)
+l.opnxng.com,libreddit.app.runonflux.io,libreddit.bus-hit.me,libreddit.kavin.rocks,libreddit.privacydev.net,libreddit.projectsegfau.lt,libreddit.tux.pizza,red.artemislena.eu,reddit.rtrace.io,redlib.aosus.link,redlib.freedit.eu,redlib.kylrth.com,redlib.northboot.xyz,redlib.pussthecat.org,redlib.seasi.dev,safereddit.com,snoo.habedieeh.re###banner
+l.opnxng.com,libreddit.app.runonflux.io,libreddit.bus-hit.me,libreddit.kavin.rocks,libreddit.privacydev.net,libreddit.projectsegfau.lt,libreddit.tux.pizza,red.artemislena.eu,reddit.rtrace.io,redlib.aosus.link,redlib.freedit.eu,redlib.kylrth.com,redlib.northboot.xyz,redlib.pussthecat.org,redlib.seasi.dev,safereddit.com,snoo.habedieeh.re##nav.fixed_navbar:style(position: absolute !important;)
 l2inc.com##.desktop-nav.js-sticky-nav:style(position: relative !important;)
 laboratoryequipment.com###footer-expand:style(position: relative !important;)
 lacrosseunlimited.com##.megamenu:style(position: relative !important;)
@@ -8119,8 +8114,6 @@ thedailytouch.com###header-area:style(position: relative !important; top: 0 !imp
 thediplomat.com###td-head::after, #td-head::before, #td-top:style(position: absolute !important;)
 thedissolve.com###locking-header:style(position: relative !important; top: 0 !important;)
 thedodo.com###header__inner--large, .absolute_pos.rebelbar--fixed__postpage.rebelbar--fixed, .topbar:style(position: relative !important; top: 0 !important;)
-thedonald.win##.brand-bar, .filter-bar:style(position: absolute !important;)
-thedonald.win##.header .bar, .header.fixed .filter-bar:style(position: relative !important;)
 theenergydetective.com###chat-application:style(position: absolute !important;)
 theenergydetective.com##.main-nav .menu > li.home a:style(padding-left: 0 !important;)
 theenergydetective.com##.navbar .sticky-header-minicart, .sticky-logo
