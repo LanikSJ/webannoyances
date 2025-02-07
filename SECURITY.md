@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| AdBlock Plus | :x:    
+| AdBlock Plus | :x:           |
 | AdGuard | :white_check_mark: |
 | uBlock Origin | :white_check_mark: |
 

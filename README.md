@@ -2,13 +2,13 @@
 
 - [Intro](#intro)
 - [Demonstration](#demonstration)
-    - [Before](#typical-website-in-2020-before-installing-web-annoyances-ultralist)
-    - [After](#typical-website-in-2020-after-installing-web-annoyances-ultralist)
+  - [Before](#typical-website-in-2020-before-installing-web-annoyances-ultralist)
+  - [After](#typical-website-in-2020-after-installing-web-annoyances-ultralist)
 - [Requirements](#requirements)
-    - [Desktop](#desktop)
-    - [Mobile](#mobile)
+  - [Desktop](#desktop)
+  - [Mobile](#mobile)
 - [One Click Installation](#one-click-installation)
-    - [Installation Notes](#installation-notes)
+  - [Installation Notes](#installation-notes)
 - [Easylist Forum](#easylist-forum)
 - [Mirror Hosts of Web Annoyances Ultralist](#mirror-hosts-of-web-annoyances-ultralist)
 
