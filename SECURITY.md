@@ -5,10 +5,10 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| AdBlock Plus | :x:           |
-| AdGuard | :white_check_mark: |
+| Version       | Supported          |
+| ------------- | ------------------ |
+| AdBlock Plus  | :x:                |
+| AdGuard       | :white_check_mark: |
 | uBlock Origin | :white_check_mark: |
 
 ## Reporting a Vulnerability
