@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Ad Placeholder Filters
-! Checksum: EhxkdZMzysVam3Kq5/qu6Q
-! Last Modified: 2025-01-27 08:20 UTC
+! Checksum: hFejR98MfHQA+tS85E2Irg
+! Last Modified: 2025-02-10 08:25 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for empty advertising placeholders.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -104,7 +104,7 @@ bellingcat.com##.footer__mailing
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com###ConnatixVideoAd
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.zone.grid.combo .ad-widget:upward(2)
 berksmontnews.com,bostonherald.com,chicoer.com,dailybreeze.com,dailybulletin.com,dailydemocrat.com,dailyfreeman.com,dailylocal.com,dailynews.com,dailytribune.com,delcotimes.com,denverpost.com,eastbaytimes.com,excelsiorcalifornia.com,macombdaily.com,marinij.com,mercurynews.com,montereyherald.com,morningjournal.com,news-herald.com,ocregister.com,oneidadispatch.com,orovillemr.com,paradisepost.com,pasadenastarnews.com,pe.com,phoenixvillenews.com,pottsmerc.com,presstelegram.com,record-bee.com,redbluffdailynews.com,redlandsdailyfacts.com,santacruzsentinel.com,saratogian.com,sbsun.com,sgvtribune.com,siliconvalley.com,themorningsun.com,theoaklandpress.com,thereporter.com,thereporteronline.com,times-standard.com,timesherald.com,timesheraldonline.com,trentonian.com,troyrecord.com,twincities.com,ukiahdailyjournal.com,whittierdailynews.com###mobile-adhesion, .dfp-ad
-bfst.to,bfstrms.xyz,buffstream.to###fcnbox, #nwmlay
+bfstrms.xyz,buffstream.to###fcnbox, #nwmlay
 bicycleretailer.com###brain-leader-slot
 bigbrotherjunkies.com##div.code-block:has-text(/Advertisement/)
 bigleaguepolitics.com###dsk-box-ad-c, .klicked-privacy-banner, .tpd-box-ad-a, .tpd-box-ad-b, .tpd-box-ad-c, .z-lockerdome-inline
