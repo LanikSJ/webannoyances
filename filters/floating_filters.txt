@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: RxIBkmsqSWRzhRBPjjzQrg
-! Last Modified: 2025-02-03 08:21 UTC
+! Checksum: 6cljSYNNH3Xg2Y7Y30Nzyw
+! Last Modified: 2025-02-24 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -220,7 +220,7 @@ abcnews.go.com##body:not(.breaking-on) #global-viewport #pane-main:style(padding
 abcnews.go.com##body:not(.breaking-on):not(.scroll-locked)[data-section="homepage"] #abcn-videoplayer:style(top: 94.567px !important;)
 abcnews4.com##.sd-header-brand:style(position: relative !important; top: 0 !important;)
 abcradio.com###header:style(position: relative !important; padding: 5px 0 0 0 !important;)
-abcstores.com,actionnewsjax.com,alaskaair.com,algolia.com,androidmag.de,aopa.org,apnews.com,arkema-americas.com,asia.nikkei.com,atomicdelights.com,auburntigers.com,barstoolsports.com,celebritynetworth.com,chimicles.com,code42.com,conservativereview.com,consumerist.com,dartagnan.com,digitaljournal.com,dribbble.com,drivetribe.com,dropboxforum.com,duke.edu,economictimes.com,fiercebiotech.com,fiercetelecom.com,fiercevideo.com,financemagnates.com,fnbodirect.com,fortune.com,forums.androidcentral.com,foursquare.com,giadc.io,glew.io,greentechmedia.com,hardrockhotelatlanticcity.com,hawaiinewsnow.com,health24.com,howshost.com,howtheyplay.com,ieee.org,imgur.com,inhabitat.com,insertcoinclothing.com,instyle.com,intezer.com,iwaspoisoned.com,josbank.com,kdnuggets.com,lecreuset.com,lifesitenews.com,linkedin.com,lull.com,mediaequalizer.com,menshealth.com,mensjournal.com,mentalfloss.com,mic.com,mlb.com,nbc12.com,netlify.com,nltimes.nl,nme.com,nti.org,oxfordamerican.org,pando.com,pastebin.com,paypal.com,privateerit.com,prospect.org,protonmail.com,ramblinwreck.com,raptorcs.com,raspberrypi.org,rei.com,ronpaullibertyreport.com,runnersworld.com,sandiegoreader.com,sciencebulletin.org,seedlipdrinks.com,sensorstechforum.com,soundcloud.com,staticding.org,steuern.de,stratolaunch.com,suntimes.com,surrestaurant.com,tailopez.com,theblaze.com,thebump.com,thechive.com,thecipherbrief.com,thesoldiersfamily.com,thetruthaboutguns.com,tristatehomepage.com,trustnodes.com,tvguide.com,ucsusa.org,und.com,uponit.com,usafacts.org,usatoday.com,usmagazine.com,variety.com,vindy.com,virgin.com,vogue.fr,wafb.com,wbrc.com,wbtv.com,wcyb.com,wect.com,weddingbee.com,wftv.com,wirelessweek.com,wpxi.com,wsoctv.com,xda-developers.com###header:style(position: relative !important; top: 0 !important;)
+abcstores.com,actionnewsjax.com,alaskaair.com,algolia.com,androidmag.de,aopa.org,apnews.com,arkema-americas.com,asia.nikkei.com,atomicdelights.com,auburntigers.com,barstoolsports.com,celebritynetworth.com,chimicles.com,code42.com,conservativereview.com,consumerist.com,dartagnan.com,digitaljournal.com,dribbble.com,drivetribe.com,dropboxforum.com,duke.edu,economictimes.com,fiercebiotech.com,fiercetelecom.com,fiercevideo.com,financemagnates.com,fnbodirect.com,fortune.com,forums.androidcentral.com,foursquare.com,giadc.io,glew.io,greentechmedia.com,hardrockhotelatlanticcity.com,hawaiinewsnow.com,health24.com,howshost.com,howtheyplay.com,ieee.org,imgur.com,inhabitat.com,insertcoinclothing.com,instyle.com,intezer.com,iwaspoisoned.com,josbank.com,kdnuggets.com,lecreuset.com,lifesitenews.com,linkedin.com,lull.com,mediaequalizer.com,menshealth.com,mensjournal.com,mentalfloss.com,mic.com,mlb.com,nbc12.com,netlify.com,nltimes.nl,nme.com,nti.org,oxfordamerican.org,pando.com,pastebin.com,paypal.com,privateerit.com,prospect.org,protonmail.com,ramblinwreck.com,raptorcs.com,raspberrypi.org,rei.com,ronpaullibertyreport.com,runnersworld.com,sandiegoreader.com,sciencebulletin.org,seedlipdrinks.com,sensorstechforum.com,soundcloud.com,staticding.org,steuern.de,stratolaunch.com,suntimes.com,surrestaurant.com,tailopez.com,theblaze.com,thebump.com,thechive.com,thecipherbrief.com,thetruthaboutguns.com,tristatehomepage.com,trustnodes.com,tvguide.com,ucsusa.org,und.com,uponit.com,usafacts.org,usatoday.com,usmagazine.com,variety.com,vindy.com,virgin.com,vogue.fr,wafb.com,wbrc.com,wbtv.com,wcyb.com,wect.com,weddingbee.com,wftv.com,wirelessweek.com,wpxi.com,wsoctv.com,xda-developers.com###header:style(position: relative !important; top: 0 !important;)
 abcvideo.cc##.container > .panel.col-l, .container > .wrapper.header.panel:style(position: absolute !important;)
 abdoriani.com,ably.io,bitcoingold.org,borrowlenses.com,cugmhp.org,dailydot.com,dojacat.com,influxdata.com,instructables.com,investsnips.com,koditips.com,nyiso.com,oregoncraftbeer.org,spaceintelreport.com,straighttalkonevidence.org,techcoil.com,the-tls.co.uk,unitag.io,utah.gov###main-header:style(position: absolute !important;)
 ablebits.com###id-b20FloatMenuSidebar:style(position: relative !important;)
@@ -782,7 +782,6 @@ asia.nikkei.com##.header__outer:style(position: absolute !important; height: 132
 asia.nikkei.com##.header__title:style(top: 2rem !important; left: unset !important; width: 100% !important;)
 asia.nikkei.com##.nav__primary > ul > li:style(padding: 0 15px !important;)
 asiancorrespondent.com###fixed-header
-asianen.com##.navbar-fixed-top.navbar-custom.navbar.header-top:style(position: absolute !important;)
 asiaone.com##.ant-affix:style(position: relative !important; top: unset !important; width: unset !important; height: unset !important;)
 asiaone.com##.ao-desktop-menu-wrapper > div:nth-child(1)
 asiaone.com##.logo:style(width: 180px !important;)
@@ -2310,7 +2309,7 @@ css-irl.info,opensignal.com,theblacktux.com##.c-header:style(position: absolute 
 css-tricks.com###site-header:style(position: relative !important; box-shadow: none !important; transform: none !important; animation: none !important;)
 css-tricks.com##.main-nav>ul:style(position: relative !important;)
 css-tricks.com##html:root body.header-not-at-top:style(--nav-height: 130px !important;)
-cssauthor.com,whatsnew2day.com,windows101tricks.com##.bs-pinning-block:style(position: absolute !important; transform: translateY(0) !important;)
+cssauthor.com,windows101tricks.com##.bs-pinning-block:style(position: absolute !important; transform: translateY(0) !important;)
 ctinsider.com##.article .aside .sticky .stickyItem:style(position: static !important;)
 ctinsider.com##.articleRibbon:style(position: relative !important; transform: translateY(0) !important;)
 ctinsider.com##.pageHeader--links:style(margin-right: 11px !important; margin-left: auto !important;)
@@ -3880,7 +3879,6 @@ gransforsbruk.com##.navbar-fixed-top.menu-wrapper:style(position: absolute !impo
 granta.com##.main-granta-header:style(position: absolute !important;)
 grantthornton.com##.global-header__main, .global-header__sticky-nav:style(position: absolute !important; top: 0 !important;)
 grasscity.com##.sticky_wrapper:style(position: relative !important; top: 0 !important;)
-grasswire.com###sticky_header:style(position: relative !important; top: 0 !important;)
 gray.tv##.header-container:style(padding-bottom: 0 !important;)
 greatbigstory.com##.navbar-master:style(position: absolute !important; top: 0 !important;)
 greatist.com##.all-wrapper:style(position: relative !important;)
@@ -6046,8 +6044,6 @@ notquitenigella.com##.floating:style(position: absolute !important;)
 notthebee.com##.shadow-lg.p-6.btn-blue
 novayagazeta.ru##.DDw2_:style(position: absolute !important; top: 0 !important; transition: none !important; overflow-y: unset !important;)
 novayagazeta.ru##header:style(position: relative !important; transition: none !important; top: 0 !important;)
-nowarticle.com##.page_body:style(padding-top: 0 !important;)
-nowarticle.com##.sticky.centered-top-container, .sticky-navigation-active.sticky-navigation.navigation-wrap:style(position: relative !important;)
 nowthatspeachy.com##.menu-wrapper:style(position: relative !important;)
 noxinfluencer.com###header-fixed:style(position: absolute !important;)
 npdigital.com###header:style(position: absolute !important; background: 0 0 !important;)

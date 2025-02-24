@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: dme67aBoQpDIQ4otlL03Sg
-! Last Modified: 2025-02-03 08:21 UTC
+! Checksum: uPoKEx6ED1v0rUHLzPcO5g
+! Last Modified: 2025-02-24 08:20 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -737,7 +737,6 @@ mybroadband.co.za##div.box-poll.side-box:nth-of-type(3)
 myce.com##.like-button.shrinkme.white-gradient
 myfoxdc.com##.yui-img
 mygoodplanet.com##.header--slide.thb-fixed-shadow-style2.style4.fixed.header
-mymassagechairs.com###ai_widget-2
 myopenrouter.com###sliding-popup
 mypalmbeachpost.com##.main-header .main-nav-container .main-nav-v2 .main-nav-list .main-nav-item.main-nav-logo
 mystatesman.com###cm-access-meter-welcome
@@ -787,7 +786,6 @@ nova-magazine.net##.armonioso-textwidget-no-paddings.armonioso-textwidget-wrappe
 nova-magazine.net##.header-info-text
 nova-magazine.net##.mainmenu-belowheader
 novayagazeta.ru##.lY2pg
-nowarticle.com###catcher
 nplusonemag.com##hr
 nraila.org###next-article
 ntknetwork.com###b2t
@@ -1293,7 +1291,6 @@ yourcentralvalley.com##.site-header__navigation .menu-item-has-children > a:afte
 yourkidstable.com##.divibars
 yourmechanic.com##.nav-bar__body
 yucalc.com##.js-bottom-corner-btns.bottom-corner-btns
-yummly.co##.header-iab
 zamanalwsl.net###coming_now
 zamanalwsl.net###fixedContainer
 zapster.io###feedback
