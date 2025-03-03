@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
-! Checksum: +QDwfVU2M0YhnM1RdZShlg
-! Last Modified: 2025-02-03 08:21 UTC
+! Checksum: c94qQzSRNPDv+ctBHCGqlQ
+! Last Modified: 2025-03-03 08:28 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -488,7 +488,6 @@ thecounter.org##.modal-x
 thefa.com##.active.fa-cookie
 theguardian.com##[id*="sp_message_container"]
 theinquirer.net###rdm-cookie-consent
-themefoxx.com###cookie-consent-lite
 thepennypinchertips.com##.cache_box
 thepostmillennial.com###main-cookie-banner, #main-trust-badge, .sh-back-to-top, .sp-overlay, .tpm-backtop.el-backtop
 thetimes.co.uk###tto-cookieMessage, #tto-cookieMessageInner

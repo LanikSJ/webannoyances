@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: 0Ag23S30eot8E5ZgPSHMCQ
-! Last Modified: 2025-02-10 08:25 UTC
+! Checksum: HVix4UU5nfZZHJeaaYt4xg
+! Last Modified: 2025-03-03 08:28 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -60,7 +60,7 @@ aeon.co##[class*="DriveBannerFooter__BannerWrapper-"], [class*="DriveBannerHeade
 aeon.co,wallstreet.org##.fancybox-opened
 aetna.com##.app-download__animator.app-download__container.dismissable__container.dismissable
 aforkstale.com###om-xwiwbkcchsjqe343x6nt, #omaha-optin
-africacheck.org,alexa.com,betterhelp.com,breitbart.com,brioni.com,buckscountycouriertimes.com,burlingtoncountytimes.com,businessinsider.com,change.org,china-underground.com,chron.com,cigarinspector.com,citylab.com,cjr.org,coinstaker.com,dailydot.com,dewalt.com,discovermagazine.com,eastbaytimes.com,ew.com,fair.org,filmcomment.com,forzieri.com,geniuskitchen.com,glassdoor.com,hindustantimes.com,iphonelife.com,jcutrer.com,leaf.tv,lightstalking.com,mamapedia.com,mongodb.com,motor-talk.de,newsbtc.com,newseum.org,otakustream.tv,paper.li,propublica.org,publicdomainreview.org,rankedboost.com,readfrontier.org,revealnews.org,revisionisthistory.com,searchenginewatch.com,shopstyle.com,slamonline.com,spiceworks.com,syfy.com,techwalla.com,thedailybell.com,thefreethoughtproject.com,theintell.com,themediterraneandish.com,themefoxx.com,thespoon.tech,thewrap.com,topclassactions.com,toptal.com,usatoday.com,variety.com,washingtonmonthly.com,wdsu.com,wellplated.com,williams-sonoma.com,yodalearning.com##html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
+africacheck.org,alexa.com,betterhelp.com,breitbart.com,brioni.com,buckscountycouriertimes.com,burlingtoncountytimes.com,businessinsider.com,change.org,china-underground.com,chron.com,cigarinspector.com,citylab.com,cjr.org,coinstaker.com,dailydot.com,dewalt.com,discovermagazine.com,eastbaytimes.com,ew.com,fair.org,filmcomment.com,forzieri.com,geniuskitchen.com,glassdoor.com,hindustantimes.com,iphonelife.com,jcutrer.com,leaf.tv,lightstalking.com,mamapedia.com,mongodb.com,motor-talk.de,newsbtc.com,newseum.org,otakustream.tv,paper.li,propublica.org,publicdomainreview.org,rankedboost.com,readfrontier.org,revealnews.org,revisionisthistory.com,searchenginewatch.com,shopstyle.com,slamonline.com,spiceworks.com,syfy.com,techwalla.com,thedailybell.com,thefreethoughtproject.com,theintell.com,themediterraneandish.com,thespoon.tech,thewrap.com,topclassactions.com,toptal.com,usatoday.com,variety.com,washingtonmonthly.com,wdsu.com,wellplated.com,williams-sonoma.com,yodalearning.com##html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
 africacheck.org,brioni.com,china-underground.com,cigarinspector.com,coinstaker.com,el-nation.com,filmcomment.com,forzieri.com,iphonelife.com,jcutrer.com,publicdomainreview.org,renttherunway.com,solgaard.co,syfy.com##.mfp-bg, .mfp-wrap
 aftenposten.no##.widget.relatedContents.flyout.noPrint.active.instantiated
 agilebits.com,emptywheel.net,yubico.com##.avia-post-nav
@@ -808,7 +808,7 @@ ratemyprofessors.com###rateReminderModal
 rawstory.com##.mvp-to-top.back-to-top.mvp-fly-top
 rawstory.com##body[style*="overflow-y: hidden;"]:style(overflow-y: scroll !important;)
 razer.com##.modal.modal-newsletter, .modal-backdrop
-readfrontier.org,revealnews.org,themefoxx.com,washingtonmonthly.com##.pum-active
+readfrontier.org,revealnews.org,washingtonmonthly.com##.pum-active
 realclearpolitics.com###large_notif_wrapper, .notif-wrapper.warning-wrapper, .overlay_newsletter_promo
 realclearscience.com##.spnf_right.spnf_ticker
 reason.com###donationdrive_popup, #donationdrive_popup_overlay, .active.blackout
