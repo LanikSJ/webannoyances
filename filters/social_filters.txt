@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: lfahBYda3zhJaVOFQHcudg
-! Last Modified: 2025-01-27 08:20 UTC
+! Checksum: 80Y4R5fQxhXvGF2WL1D+lQ
+! Last Modified: 2025-03-10 08:18 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -258,7 +258,6 @@ craftsmanship.net##.foobar-social
 crainsnewyork.com###follow-us-links
 crash.net##.follow-title, .follow-block
 creativedestructionmedia.com##.penci-social-share-footer.penci-social-buttons
-crimerussia.com##.entry__bottom-blck--socials, .soc-links
 crosscut.com##.socialshare-wrapper
 crunchbase.com###ss-sticky-bar, .herald-soc-nav, .ss-facebook-color, .ss-linkedin-color, .ss-twitter-color
 crunchify.com###crunchy-sharing-float
