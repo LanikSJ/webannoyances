@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: YcHX0lw7m2m9GE2Q8GA/mw
-! Last Modified: 2025-03-10 08:18 UTC
+! Checksum: lI5rh7z4fvKb72/ebrM0kA
+! Last Modified: 2025-03-17 08:21 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -1364,7 +1364,7 @@ blogs.bing.com##.site-header-wrap:style(position: relative !important;)
 blogs.bing.com##.site:style(margin-top: 0 !important;)
 blogs.nasa.gov##body:after, body:before
 blogs.windows.com##.is-active.sticky-header
-blogspot.com,sb2.live,talospace.com,vulnano.com##.animating.sticky.centered-top-container
+blogspot.com,talospace.com,vulnano.com##.animating.sticky.centered-top-container
 blogtalkradio.com##.popover
 blogtalkradio.com,stereogum.com##.navbar:style(position: static !important;)
 bloodhorse.com##.site-head:style(position: absolute !important;)
@@ -5488,7 +5488,6 @@ modernity.news##.cs-header:style(position: static !important; top: calc(var(--cs
 modernity.news##.cs-header__inner:style(min-height: var(--cs-header-initial-height) !important;)
 modernity.news##.cs-header__wrapper::after, .cs-header__wrapper::before:style(left: 0 !important; border-bottom-left-radius: var(--cs-layout-elements-border-radius) !important; border-top-left-radius: var(--cs-layout-elements-border-radius) !important; width: calc((100vw - 1720px + 20px + 60px)/2) !important;)
 modernity.news##.cs-header__wrapper:style(box-shadow: 0px 1px 3px rgba(0,0,0,.05) !important;)
-moderntld.com##.navbar-fixed nav:style(position: absolute !important;)
 moldmanusa.com,rag-bone.com###wrapper:style(margin-top: 0 !important;)
 momjunction.com###more_calc
 momjunction.com##.page-template-template-baby-names .top-nav, .page-template-template-baby-names-home-page .top-nav, .single-baby-names .top-nav:style(position: absolute !important;)
@@ -8072,7 +8071,7 @@ thechicagocouncil.org,transparencyreport.google.com,youstake.com##.sticky-header
 thechive.com###secondary-container
 thechive.com##.header-wrap:style(position: absolute !important;)
 thecinemaholic.com##.gridlove-sticky-sidebar, .gridlovec-sticky-sidebar
-thecinemaholic.com,westworldwatchers.com,whatfinger.com###gridlove-header-sticky
+thecinemaholic.com,whatfinger.com###gridlove-header-sticky
 thecoderworld.com##.jeg_header_sticky
 theconservativetreehouse.com###actionbar:style(position: relative !important; top: 0 !important;)
 theconservativetreehouse.com##.infinite-wrap:style(min-height: 100% !important;)

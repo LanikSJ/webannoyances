@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: 80Y4R5fQxhXvGF2WL1D+lQ
-! Last Modified: 2025-03-10 08:18 UTC
+! Checksum: fwkRUHk7B9y/xLcE6/fUYA
+! Last Modified: 2025-03-17 08:21 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -860,7 +860,6 @@ salon.com###facebook-icon, #pocket-icon, #social_total, #twitter-icon, .facebook
 sanangelolive.com##.ssc-container
 sandiegoreader.com##.icon16, .object_tools
 sayingimages.com###text-51
-sb2.live##.resp-sharing-button__link
 sba.gov##.blogsShareLink
 sbnation.com##.c-sports-blog-directory__item-social
 sc.gov###pinterestAnchor
@@ -1176,7 +1175,6 @@ weeklystandard.com##.ActionBar-items, .Page-social, .text-tools
 welivesecurity.com##.wlistingsinglesocialmedia
 wellandgood.com##.social-share--circle.post__share
 westernjournal.com###a2apage_dropdown
-westworldwatchers.com###mks_social_widget-2, .gridlove-soc-menu
 wgauradio.com##.story-pg__social-icons-contr
 whatfinger.com##.gridlove-share
 whattoexpect.com##.wte-share

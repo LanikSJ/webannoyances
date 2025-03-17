@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Ad Placeholder Filters
-! Checksum: hFejR98MfHQA+tS85E2Irg
-! Last Modified: 2025-02-10 08:25 UTC
+! Checksum: QUOG2Zj7rudYu1Q3L6qxzA
+! Last Modified: 2025-03-17 08:21 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for empty advertising placeholders.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -698,7 +698,6 @@ wearemel.com##.promo
 weeklystandard.com##.ad, .block.form.widget, .cover, .featured-cover, .featured-teasers, .fixed-bottom-ad
 wehavekids.com###stickyfooterad
 weny.com###WNAd1, #WNAd41, #WNAd43, #WNAd52
-westworldwatchers.com###gridlove_adsense_widget-10, .gridlove-adsense-wrapper
 whattoexpect.com###gptAd2, #gptAd3
 wheretraveler.com##.region-top-leaderboard
 wikia.com###WikiaBarWrapper, .fandom-app-smart-banner

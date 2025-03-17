@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Checksum: 9jlXRPzJcD/dtvJyqWYTJw
-! Last Modified: 2025-01-13 08:21 UTC
+! Checksum: cQj1N7BMmlCEZi3tJpArcA
+! Last Modified: 2025-03-17 08:21 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -746,7 +746,6 @@ washingtontechnology.com##.WASHINGTON-TECHNOLOGY
 washingtontimes.com###newsletter-form-story, .block-email-alerts-footer, .email-alerts
 webmd.com###blog-post-nl
 weeklystandard.com###dy_Home_Page_Sub_Promo, #newsletter_sign_up_form, .desktop-sidebar-sub, .fixed-sub-button, .sub-drawer, .subscription-promo
-westworldwatchers.com###blog_subscription-2
 wideopencountry.com,wideopeneats.com,wideopenpets.com,wideopenspaces.com##.execphpwidget
 windowscentral.com##.block-newsletter.block
 wired.com##.cm-subscribe-link-wrapper, .subscribe, .subscribe-panel-component
