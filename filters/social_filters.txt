@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: fwkRUHk7B9y/xLcE6/fUYA
-! Last Modified: 2025-03-17 08:21 UTC
+! Checksum: 0gfaOXGoNNUjtjMugl9C7g
+! Last Modified: 2025-03-24 08:24 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -469,8 +469,6 @@ greenbuildingadvisor.com###follow-us-vert, .toolbox_links
 greencarreports.com,motorauthority.com##.social-v
 grist.org##.lf-share__link--fb.lf-share__link
 groupninemedia.com##.brand-container-social
-grownmenstuff.com##.td-post-sharing-style1, .td-post-sharing-visible, .td-social-facebook, .td-social-pinterest, .td-social-reddit, .td-social-sharing-button, .td-social-twitter
-grownmenstuff.com,igeeksblog.com##.td-post-sharing
 grubstreet.com,nymag.com,thecut.com,vulture.com##.connect, .connect-list, .follow-list, .share-link
 gsmarena.com##.sharrre.social-share
 guidepatterns.com###itfbppl_overlay
@@ -513,6 +511,7 @@ ibtimes.*###article-left-side-share-panel, #block-ibtimes-social-social-buttons,
 ico.org.uk###toggle-hiddenpanel-headershare
 ifixsmartphone.com##.project-share-overlay
 ifunny.co##.button_pinterest
+igeeksblog.com##.td-post-sharing
 imdb.com##.icon-link-bar.link-bar
 imgflip.com###fShare
 imgur.com##.share-twttr.item
@@ -714,7 +713,6 @@ nikkei.com##.follow-nar, .snsicon-list
 nintendolife.com##.share-this, .social-links, .ui-share-page
 nist.gov##.pane-social-share
 nme.com##.icon-social-facebook, .icon-social-google, .icon-social-instagram, .icon-social-pinterest, .icon-social-twitter, .social-share, .td-post-sharing-visible
-nova-magazine.net##.post-info-share, .widget_armonioso_social_icons
 nowthisnews.com##.email-form, .facebook-list, .instagram-list, .snapchat-list, .twitter-list, .youtube-list, .post-meta-social
 nvcc.edu###head-social
 nwfdailynews.com##.btn-highlight.btn-sm.btn

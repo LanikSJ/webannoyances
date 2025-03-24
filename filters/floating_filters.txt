@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: lI5rh7z4fvKb72/ebrM0kA
-! Last Modified: 2025-03-17 08:21 UTC
+! Checksum: QtqxlX/Xby2Xe7A9WUCwag
+! Last Modified: 2025-03-24 08:24 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -3159,7 +3159,6 @@ fapexy.com##.kulokida_div:style(margin-top: 0 !important;)
 fapeza.com###main-navbar:style(position: absolute !important; box-shadow: none !important;)
 fapodrop.com##.header-container, .header-links:style(position: absolute !important;)
 fas.org###wrapper_nav:style(position: relative !important; transform: none !important;)
-fascinatingmaps.com,santafenewmexican.com###main-navigation:style(position: relative !important;)
 fashionmagazine.com##.is-fixed.js--header-nav.header-nav:style(position: absolute !important;)
 fastcodesign.com##.fadeIn.animated.navbar-brands-container, .nav-bar-wrapper, .nav-bar, .navbar-brands-container, .page-header:style(position: relative !important; top: 0 !important;)
 fastcodesign.com##.layout--post:style(padding-top: 0 !important;)
@@ -5102,7 +5101,6 @@ longtao.fun##.sticky_layout:style(position: relative !important; top: 0 !importa
 longtermtrends.net##.navbar-fixed-top.navbar-light.navbar:style(position: absolute !important;)
 longwarjournal.org##.sticky.nav.row:style(position: relative !important;)
 lookout.com##.sticky-wrap:style(position: relative !important;)
-lookupbook.net###banner:style(position: relative !important; top: 0 !important;)
 loopnet.com##+js(aeld, scroll)
 loopnet.com##.sticky-profile-hero, .profile-sticky-header:style(position: absolute !important;)
 louslagrotto.com##.has-hero-intent .site-header-desktop-primary[data-header-sticky]:style(position: absolute !important; top: 5rem !important; left: 2rem !important; background-color: unset !important;)
@@ -5622,7 +5620,6 @@ mumsnet.com##.header:style(margin-top: 0 !important;)
 munchies.vice.com##.site-header__logo:style(width: 217px !important;)
 mundodeportivo.com##.header-logo-wrapper:style(position: relative !important;)
 muraselon.com###menu-main:style(position: absolute !important;)
-muslimpress.com###base-header:style(position: relative !important; top: 0 !important;)
 mvmt.com##.header-menu-wrapper:style(position: relative !important;)
 mvmt.com##.plp-filter-bar:style(position: relative !important; top: 0 !important;)
 mvmt.com##.sticky-bar
@@ -7015,6 +7012,7 @@ sandstonecare.com##.navigation-anchor
 sandstonecare.com##.navigation-top:style(display: block !important;)
 sandvine.com##.navbar-fixed-top.navbar:style(position: absolute !important; top: 0 !important;)
 sangaline.com,zippia.com###navbar-main:style(position: relative !important; top: 0 !important;)
+santafenewmexican.com###main-navigation:style(position: relative !important;)
 sapiens.org##.fixed.header-fixed-wrapper:style(position: absolute !important;)
 sapling.com##.sticky.header:style(position: absolute !important;)
 saraacarter.com###mvp-main-body-wrap:style(margin-top: 0 !important;)
@@ -8061,8 +8059,6 @@ theboatgalley.com##.nav-primary:style(position: absolute !important;)
 thebolditalic.com###nav-wrapper:style(position: relative !important; top: 0 !important;)
 thebrag.com##.sticky-top.header:style(position: relative !important;)
 thebrewenthusiast.com##.Mobile-bar--top.Mobile-bar:style(position: relative !important; top: 0 !important;)
-thebrightzoneinternational.com##.header-nav > div:nth-child(2)
-thebrightzoneinternational.com##.header-nav-wrapper:style(position: relative !important;)
 thebristolcable.org##.fixed-top.header-standard.header:style(position: relative !important; top: 0 !important;)
 thebump.com###fixed-footer:style(position: relative !important; top: 0 !important;)
 thebump.com###main-container > div:nth-of-type(1) > div > div > div:style(position: absolute !important;)

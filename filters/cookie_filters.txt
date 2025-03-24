@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
-! Checksum: c94qQzSRNPDv+ctBHCGqlQ
-! Last Modified: 2025-03-03 08:28 UTC
+! Checksum: T1bm3HqPwb8sKW9c634iWA
+! Last Modified: 2025-03-24 08:24 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -368,7 +368,6 @@ go-dove.com##app-gdpr, .fixedfooter
 gocomics.com,just-auto.com,just-drinks.com,just-food.com,just-style.com,outono.net,retropie.org.uk##.cc_banner-wrapper
 godbolt.org###simplecook
 gravatar.com##.a8c-cookie-banner
-grownmenstuff.com,securityaffairs.co###cookie-law-info-bar
 guildwars2.com##[class*="cookieNotification"]
 gulfnews.com##.gn-cookies-warning
 head-fi.org##.js-notices.notices--bottom_fixer.notices
@@ -465,6 +464,7 @@ samsung.com##.cm-cookie-geo, .f_backtotop
 samsung.com#@#.cookie-warning
 sciencenorway.no###coiConsentBanner
 scroll.in###GDPRAlertBanner
+securityaffairs.co###cookie-law-info-bar
 sennheiser.com###uc-banner-modal
 sevenforums.com###cookiescript_injected
 siliconrepublic.com###cookie-law > div

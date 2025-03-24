@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: uPoKEx6ED1v0rUHLzPcO5g
-! Last Modified: 2025-02-24 08:20 UTC
+! Checksum: JEWVAZYf8pcz63mwPQaVqQ
+! Last Modified: 2025-03-24 08:25 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -381,7 +381,6 @@ fark.com##.new_to_fark_p
 fark.com##.top_right_container
 fark.com##.tryBareFark
 fas.org###wrapper_nav.affix-top .logo
-fascinatingmaps.com##.placeholder
 fashionista.com##.is-visible.l-sticky-navbar
 fastpokemap.se##.slicknav_menu
 faz.net##.gh-MainNav-is-visible.js-article-scroller-sticky-header.js-global-header-main-nav-sticky.gh-MainNav-is-sticky.gh-MainNav
@@ -781,10 +780,6 @@ nootrobox.com##.article__sidebar__container
 nordstrom.com##.iA20W._1YWTkD.medium_jDd9A.brandon_Z18sClN.dark_Z19mnhH
 nordstrom.com##.Z2lyN7e.Z1E0VGc
 nos.nl##.footer__column--visible-on-tablet.footer__column
-nova-magazine.net###top-link
-nova-magazine.net##.armonioso-textwidget-no-paddings.armonioso-textwidget-wrapper
-nova-magazine.net##.header-info-text
-nova-magazine.net##.mainmenu-belowheader
 novayagazeta.ru##.lY2pg
 nplusonemag.com##hr
 nraila.org###next-article
