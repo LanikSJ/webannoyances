@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: HVix4UU5nfZZHJeaaYt4xg
-! Last Modified: 2025-03-03 08:28 UTC
+! Checksum: DjtSK2waQoKiHY/aWzK6RA
+! Last Modified: 2025-03-31 08:25 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -626,7 +626,6 @@ mediapart.fr##.mkt-banner
 medicalnewstoday.com###mask, #message
 medicalxpress.com,outsideonline.com,pjrvs.com##.notice
 medicinenet.com###backTop, .avgrund-overlay, .avgrund-popin
-megynkelly.org###openModal
 melissa.com##.lp-popup__iframe-wrapper
 menshealth.com##.prev-item
 merriam-webster.com###subscribe-overlay
@@ -1009,7 +1008,6 @@ toyota.com##.tcom-back-to-top
 tractorsupply.com###dijit_Dialog_1, #dijit_Dialog_1_underlay, #tscAckDrawerMessage, .dijitBackgroundIframe
 trails.com##.ub-emb-overlay
 travelzoo.com###signupOverlay
-treato.com###modal-bg, .treatoSqueezePagePopupWrap
 tripadvisor.*###taplc_pcb_branding_interstitial_rollout_p1_0, .dark.ui_backdrop
 tristatehomepage.com##.upnext-bg.mod-upnext-popup.mod-media-list.mod-wrapper
 trucks.com###mpopupBox, .cb-footer-widget

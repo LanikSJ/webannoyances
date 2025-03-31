@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: QtqxlX/Xby2Xe7A9WUCwag
-! Last Modified: 2025-03-24 08:24 UTC
+! Checksum: RYCQuJMUl4T8x9v0XpJzUw
+! Last Modified: 2025-03-31 08:25 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -722,7 +722,7 @@ arlingtontimes.com,auburn-reporter.com,bainbridgereview.com,bellevuereporter.com
 arlnow.com###container-nav:style(position: absolute !important; top: -22px !important; max-height: 500% !important; overflow: auto !important;)
 arlnow.com###menu-main, .secondary-menu:style(position: relative !important; top: 0 !important;)
 arlnow.com###search-navigation:style(position: absolute !important; top: 0 !important;)
-arlnow.com,cryptbin.com,firstaidkitband.com,imgcloud.pw,popville.com,siliconstudio.co.jp,tyrantfarms.com,vuukle.com,windowsreport.com###top-bar:style(position: absolute !important;)
+arlnow.com,firstaidkitband.com,imgcloud.pw,popville.com,siliconstudio.co.jp,tyrantfarms.com,vuukle.com,windowsreport.com###top-bar:style(position: absolute !important;)
 arm.com##.c-mega-navigation, .c-utility-navigation-wrapper:style(position: absolute !important;)
 arm.com##.c-mega-navigation__home-link:style(margin: 40px auto 5px !important;)
 arm.com##.js-navigation-home-link.c-mega-navigation__home-link:style(transform: none !important;)
@@ -8283,7 +8283,6 @@ thescore.com##.main-menu-row:style(position: relative !important; top: 0 !import
 thescoreesports.com##.Header__header--3jcoj:style(position: absolute !important; top: 0 !important;)
 theseasonedhome.com##.responsive-nav-wrapper:style(position: relative !important; top: 0 !important;)
 theshaderoom.com##.js-progress-bar.nav-sticky__progress-bar
-thesimpledollar.com##.js-masthead-wrapper.masthead-wrapper:style(position: absolute !important;)
 thesleuthjournal.com###navigation > .inner:style(padding: 0 !important;)
 thesleuthjournal.com##.appear, .disappear:style(transform: none !important; opacity: 1 !important;)
 thesleuthjournal.com##.breaking-news:style(padding-top: 0 !important;)
@@ -8603,9 +8602,6 @@ traveltips.usatoday.com##.site-masthead:style(height: 80px !important;)
 traveltips.usatoday.com##.site-nav-fixed.site-nav:style(position: absolute !important;)
 traversecity.com##.seasonsWrapper:style(top: 0 !important;)
 treasury.gov###usa-header, #header, #navigation:style(position: absolute !important;)
-treato.com##.fixed-banner.banner-sticky-toolbar-wrap:style(position: absolute !important;)
-treato.com##.fixed-widget.active.left-widget-inner:style(position: relative !important;)
-treato.com##.row.top-header-row:style(position: relative !important; top: 0 !important;)
 treehugger.com##.header.comp:style(position: absolute !important;)
 trellian.com##.smaller:style(position: relative !important; top: 0 !important;)
 trendingpolitics.com##.fixed.page-nav, .page-header:style(position: static !important;)
