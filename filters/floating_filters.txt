@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: Tds68a9F/hQEcScwhG2vNQ
-! Last Modified: 2025-04-10 00:03 UTC
+! Last Modified: 2025-04-10 09:32 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -87,11 +87,11 @@
 49ers.com,atlantafalcons.com,azcardinals.com,baltimoreravens.com,bengals.com,buccaneers.com,buffalobills.com,chargers.com,chicagobears.com,chiefs.com,clevelandbrowns.com,colts.com,dallascowboys.com,denverbroncos.com,detroitlions.com,giants.com,houstontexans.com,jaguars.com,miamidolphins.com,neworleanssaints.com,newyorkjets.com,packers.com,panthers.com,patriots.com,philadelphiaeagles.com,raiders.com,redskins.com,seahawks.com,steelers.com,therams.com,titansonline.com,vikings.com##.d3-o-nav--secondary:style(position: absolute !important;)
 49ers.com,atlantafalcons.com,azcardinals.com,baltimoreravens.com,bengals.com,buccaneers.com,buffalobills.com,chargers.com,chicagobears.com,chiefs.com,clevelandbrowns.com,colts.com,dallascowboys.com,denverbroncos.com,detroitlions.com,giants.com,houstontexans.com,jaguars.com,miamidolphins.com,neworleanssaints.com,newyorkjets.com,packers.com,panthers.com,patriots.com,philadelphiaeagles.com,raiders.com,redskins.com,seahawks.com,steelers.com,therams.com,titansonline.com,vikings.com##.nfl-has-sticky-nav .d3-l-wrap:style(padding-top: 0 !important;)
 4kdownload.com,codastory.com,flashrouters.com,hn.algolia.com,koons.com,origins.com,projects.fivethirtyeight.com,ucsc.edu,volkskrant.nl##.page-header:style(position: absolute !important;)
-4kmedia.org,abc17news.com,abqjournal.com,adobe.com,aei.org,afp.com,andrewcotton.co.uk,augustasportswear.com,bbqguys.com,bentkowski.info,bitcoinist.com,bitstamp.net,bittubers.com,blog.startech.com,brobible.com,bundeswahlleiterin.de,ca.gov,cardinalcommerce.com,chasebonus.com,cigarcountry.com,clerk.house.gov,coingeek.com,commonapp.org,cruisecritic.com,datacenterdynamics.com,dictionary.cambridge.org,domainbigdata.com,douyu.com,dramaqueen.pl,druglab.fr,earthtouchnews.com,easy.ac,eatsmarter.com,edgewortheconomics.com,elevenwarriors.com,emailtester.de,emptywheel.net,extension.psu.edu,fixya.com,forum.team-mediaportal.com,fox10phoenix.com,fox13news.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox46charlotte.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,free-qr-code.net,freedomnode.com,gcits.com,getadblock.com,gizmochina.com,gnome.org,grahamdigital.com,grapee.jp,gsmarena.com,gurufocus.com,haverland.co.uk,hotdeals.com,howardstern.com,icon-park.com,icv2.com,ifu.com,ifunny.co,ilovepdf.com,imagetwist.com,interestingengineering.com,investmentnews.com,iridiumbrowser.de,jeopardy.com,kesq.com,keyt.com,kiln.digital,kion546.com,kisskissbankbank.com,krdo.com,ktvu.com,ktvz.com,kvia.com,kyma.com,laboratoryequipment.com,lairdtech.com,linkody.com,localcrimenews.com,localnews8.com,longreads.com,looper.com,m.brecks.com,m.cdw.com,m.grainger.com,ma.ttias.be,massprivatei.blogspot.com,mcafee.com,mcclatchy.com,mediafire.com,mentegram.com,mlwbd.*,monitor.firefox.com,movietickets.com,muffingroup.com,my9nj.com,nafnafgrill.com,narrative.ly,narratively.com,nbc-sports.massrel.io,neoneko.net,nesn.com,netvibes.com,nexcess.net,olamediagroup.com,oath.com,octobanana.com,openalias.org,osmocom.org,overclock.net,overyondr.com,penconsultants.com,pennzoil.com,pionline.com,pud.com,puppylinux.com,railwayage.com,rainforesttrust.org,rand.org,rankedboost.com,reachadspecs.com,recaro.com,redbooth.com,redditinc.com,repairpal.com,riftcat.com,rossdawson.com,saic.com,savearescue.org,severalnines.com,shapescale.com,shepherdcolor.com,slashgear.com,sleeper.app,smartasset.com,sportsbookreview.com,stackblitz.com,straight.com,subzero-wolf.com,sucuri.net,tangeroutlet.com,tastingtable.com,techpost.io,ted.com,themebeta.com,thisweekinstartups.com,threema.ch,tivo.com,tizianaterenzi.com,today.com,topclassactions.com,unionmarketdc.com,vault111.com,velonews.com,vivaldi.net,washingtonexaminer.com,wemedia.com,whistlermagazine.com,windowstechies.com,winnoise.com,wogx.com,wowbiz.ro,yellowhammernews.com,zara.com,zerohedge.com###header:style(position: absolute !important;)
+4kmedia.org,abc17news.com,abqjournal.com,adobe.com,aei.org,afp.com,andrewcotton.co.uk,augustasportswear.com,bbqguys.com,bentkowski.info,bitcoinist.com,bitstamp.net,bittubers.com,blog.startech.com,brobible.com,bundeswahlleiterin.de,ca.gov,cardinalcommerce.com,chasebonus.com,cigarcountry.com,clerk.house.gov,coingeek.com,commonapp.org,cruisecritic.com,datacenterdynamics.com,dictionary.cambridge.org,domainbigdata.com,douyu.com,dramaqueen.pl,druglab.fr,earthtouchnews.com,easy.ac,eatsmarter.com,edgewortheconomics.com,elevenwarriors.com,emailtester.de,emptywheel.net,extension.psu.edu,fixya.com,forum.team-mediaportal.com,fox10phoenix.com,fox13news.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox46charlotte.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,free-qr-code.net,freedomnode.com,gcits.com,getadblock.com,gizmochina.com,gnome.org,grahamdigital.com,grapee.jp,gsmarena.com,gurufocus.com,haverland.co.uk,hotdeals.com,howardstern.com,icon-park.com,icv2.com,ifu.com,ifunny.co,ilovepdf.com,imagetwist.com,interestingengineering.com,investmentnews.com,iridiumbrowser.de,jeopardy.com,kesq.com,keyt.com,kiln.digital,kion546.com,kisskissbankbank.com,krdo.com,ktvu.com,ktvz.com,kvia.com,kyma.com,laboratoryequipment.com,lairdtech.com,linkody.com,localcrimenews.com,localnews8.com,longreads.com,looper.com,m.brecks.com,m.cdw.com,m.grainger.com,ma.ttias.be,massprivatei.blogspot.com,mcafee.com,mcclatchy.com,mediafire.com,mentegram.com,mlwbd.*,monitor.firefox.com,movietickets.com,muffingroup.com,my9nj.com,nafnafgrill.com,narrative.ly,narratively.com,nbc-sports.massrel.io,neoneko.net,nesn.com,netvibes.com,nexcess.net,nickiswift.com,olamediagroup.com,oath.com,octobanana.com,openalias.org,osmocom.org,overclock.net,overyondr.com,penconsultants.com,pennzoil.com,pionline.com,pud.com,puppylinux.com,railwayage.com,rainforesttrust.org,rand.org,rankedboost.com,reachadspecs.com,recaro.com,redbooth.com,redditinc.com,repairpal.com,riftcat.com,rossdawson.com,saic.com,savearescue.org,severalnines.com,shapescale.com,shepherdcolor.com,slashgear.com,sleeper.app,smartasset.com,sportsbookreview.com,stackblitz.com,straight.com,subzero-wolf.com,sucuri.net,tangeroutlet.com,tastingtable.com,techpost.io,ted.com,themebeta.com,thisweekinstartups.com,threema.ch,tivo.com,tizianaterenzi.com,today.com,topclassactions.com,unionmarketdc.com,vault111.com,velonews.com,vivaldi.net,washingtonexaminer.com,wemedia.com,whistlermagazine.com,windowstechies.com,winnoise.com,wogx.com,wowbiz.ro,yellowhammernews.com,zara.com,zerohedge.com###header:style(position: absolute !important;)
 4sysops.com##.kleo-main-header:style(position: relative !important;)
 4sysops.com##.kleo-quick-contact-wrapper:style(position: absolute !important;)
-500ish.com,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##article + div:not(.extremeHero-smallCardContainer), div[data-test-id="post-sidebar"]:style(position: absolute !important; top: 25% !important; opacity: 1 !important;)
-500ish.com,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,greylock.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##.is-dockedTop, .js-metabar, nav:not(.collectionHeader-nav):style(position: absolute !important; transform: translateY(0) !important;)
+500ish.com,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##article + div:not(.extremeHero-smallCardContainer), div[data-test-id="post-sidebar"]:style(position: absolute !important; top: 25% !important; opacity: 1 !important;)
+500ish.com,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,greylock.com,helium.com,howwegettonext.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,open.nytimes.com,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##.is-dockedTop, .js-metabar, nav:not(.collectionHeader-nav):style(position: absolute !important; transform: translateY(0) !important;)
 5newsonline.com,67.222.152.241,8bitworkshop.com,abcbirds.org,aha-music.com,angularjs.org,army.mil,badasstorrents.com,bennettnotes.com,bhmginc.com,blogs.royalsociety.org,blokada.org,bootcss.com,botsentinel.com,boydsbets.com,cammodeldirectory.com,camzter.tv,cardfellow.com,ceros.com,cloudconvert.com,cltv.com,code.visualstudio.com,coinmama.com,collegescheduler.com,commonsware.com,corporate.kohls.com,crowdfundinsider.com,density.io,developers.yubico.com,discoverpods.com,domaintools.com,dummies.com,effectivealtruism.org,equityzen.com,esource.com,euractiv.com,fee.org,feetfinder.com,files-conversion.com,galliumos.org,gamejolt.com,geekbench.com,gpuinfo.org,hetzner.com,hltv.org,hwinfo.com,illustratedtheoryofnumbers.com,insidermonkey.com,ionos.com,ipaddress.is,irishcentral.com,jif.com,just-watch-it.com,konghq.com,kplr11.com,lawhelpinteractive.org,lightbulbs.com,linkedin.com,liquidation.com,liquipedia.net,lostmediawiki.com,mailgun.com,manjaro.org,marriedbiography.com,mediapost.com,messagecontrol.com,minerva-labs.com,myfox8.com,namethatpornstar.com,nubiles-porn.com,officetooltips.com,omdbapi.com,openworm.org,outsideways.com,parsers.me,pastebin.pl,patheos.com,peoplecancode.com,philanthropyroundtable.org,phl17.com,php.net,pix11.com,playerswiki.com,podcastrepublic.net,podomatic.com,poorlittleitgirl.com,portfoliovisualizer.com,princetoncarbon.com,privateinternetaccess.com,psyarxiv.com,queryxchange.com,raise.com,rgl.gg,romspedia.com,seedtable.com,signal.org,simonmccade.com,sixthtone.com,snipboard.io,solveigmm.com,status.ws,stntrading.eu,streak.com,streema.com,superporn.com,symphony.com,tabulator.info,talkingdotnet.com,tampabay.com,taxfoundation.org,teachable.com,teamwork.tf,telegram.org,theblacksea.eu,thegreenplace.net,thepostmillennial.com,tips.net,topratedfirms.com,torlock2.com,torrentparadise.*,transportenvironment.org,trendmicro.com,trends.gab.com,trickyways.com,ucsd.edu,upcitemdb.com,upguard.com,uploadvr.com,videoder.com,viki.com,vive.co,wallpaperflare.com,wgno.com,wgnradio.com,whatisdomain.net,whnt.com,wifflegif.com,womenslabour.org,wordpill.com,wpsfinder.com,wqad.com,wreg.com,wtkr.com,wtvr.com,yourupload.com,youswear.com##.navbar:style(position: absolute !important;)
 67.222.152.241,namethatpornstar.com##.mainmenu:style(position: absolute !important;)
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com###feature-container, #feature-header-container, .feature-container, .feature-header-container:style(position: relative !important; top: 0 !important; height: 5em !important; width: 100% !important;)
@@ -111,7 +111,7 @@
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.story, main:style(margin-top: 0 !important;)
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.weather-desktop:style(display: inline-block !important; text-align: center !important; vertical-align: top !important;)
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.weather-text-container:style(display: block !important; line-height: 1 !important; margin: 0 !important; vertical-align: top !important;)
-6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com,abovethelaw.com,accenture.com,adexchanger.com,adweek.com,afr.com,aol.co.uk,aol.com,architectural-review.com,arkema-americas.com,artplusgallerypa.com,bathandbodyworks.com,bgov.com,bitport.io,blog.thoughtlabs.com,blogtalkradio.com,boston.com,burpee.com,businessinsider.com.au,businessinsider.de,calvertjournal.com,capbluecross.com,carfax.com,cebglobal.com,channelnewsasia.com,cheatsheet.com,chipotle.com,city-data.com,click2houston.com,clickondetroit.com,clickorlando.com,cnn.com,collectorsweekly.com,community.arm.com,corporationwiki.com,couponchief.com,cpbj.com,cryptoslate.com,css-tricks.com,dailycaller.com,dezeen.com,deltadentalins.com,dmnews.com,dreamstime.com,dribbble.com,duckduckgo.com,emsisoft.com,excellusbcbs.com,expressvpn.com,fair.org,fastcodesign.com,fastcompany.com,filehippo.com,firstwefeast.com,flirc.tv,footwearnews.com,foxbusiness.com,foxnews.com,geek.com,ggwash.org,giga.de,glassesdirect.co.uk,gmfinancial.com,golfadvisor.com,hannaandersson.com,huffpost.com,ifre.com,independentpersian.com,indyturk.com,kaspersky.com,kfor.com,ksat.com,lairdtech.com,lawnewz.com,livelingua.com,local10.com,logolounge.com,macobserver.com,marketwatch.com,mckinsey.com,mediaite.com,military.com,mtb-news.de,myflorida.com,mymodernmet.com,nationalreview.com,nature.com,neteller.com,news4jax.com,newsbreakinglive.com,nowthatspeachy.com,petco.com,podia.com,potterybarn.com,pprune.org,protechtraining.com,q13fox.com,rare.us,reviewed.com,robertedwardauctions.com,runningshoesguru.com,seattletimes.com,seekingalpha.com,skinsnipe.com,spectrum.com,splcenter.org,spoonuniversity.com,standard.co.uk,tampabay.com,techcrunch.com,techopedia.com,texasmonthly.com,theblaze.com,thecipherbrief.com,thelines.com,thenationalpulse.com,therealnews.com,thestar.com.my,timesofisrael.com,trendingpolitics.com,uber.com,undark.org,uproxx.com,usenix.org,usmagazine.com,variety.com,vinepair.com,virginia.gov,washingtoncitypaper.com,washingtontimes.com,weismarkets.com,whatsapp.com,whyy.org,wktv.com,wlfi.com,wmtw.com,wordpress.com,wordpress.org,wsls.com,wthitv.com,wwe.com,xda-developers.com##body:style(padding-top: 0 !important;)
+6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com,abovethelaw.com,accenture.com,adexchanger.com,adweek.com,afr.com,aol.co.uk,aol.com,architectural-review.com,arkema-americas.com,artplusgallerypa.com,bathandbodyworks.com,bgov.com,bitport.io,blog.thoughtlabs.com,blogtalkradio.com,boston.com,burpee.com,businessinsider.com.au,businessinsider.de,calvertjournal.com,capbluecross.com,carfax.com,cebglobal.com,channelnewsasia.com,cheatsheet.com,chipotle.com,city-data.com,click2houston.com,clickondetroit.com,clickorlando.com,cnn.com,collectorsweekly.com,community.arm.com,corporationwiki.com,couponchief.com,cpbj.com,cryptoslate.com,css-tricks.com,dailycaller.com,dezeen.com,deltadentalins.com,dmnews.com,dreamstime.com,dribbble.com,emsisoft.com,excellusbcbs.com,expressvpn.com,fair.org,fastcodesign.com,fastcompany.com,filehippo.com,firstwefeast.com,flirc.tv,footwearnews.com,foxbusiness.com,foxnews.com,geek.com,ggwash.org,giga.de,glassesdirect.co.uk,gmfinancial.com,golfadvisor.com,hannaandersson.com,huffpost.com,ifre.com,independentpersian.com,indyturk.com,kaspersky.com,kfor.com,ksat.com,lairdtech.com,lawnewz.com,livelingua.com,local10.com,logolounge.com,macobserver.com,marketwatch.com,mckinsey.com,mediaite.com,military.com,mtb-news.de,myflorida.com,mymodernmet.com,nationalreview.com,nature.com,neteller.com,news4jax.com,newsbreakinglive.com,nowthatspeachy.com,petco.com,podia.com,potterybarn.com,pprune.org,protechtraining.com,q13fox.com,rare.us,reviewed.com,robertedwardauctions.com,runningshoesguru.com,seattletimes.com,seekingalpha.com,skinsnipe.com,spectrum.com,splcenter.org,spoonuniversity.com,standard.co.uk,tampabay.com,techcrunch.com,techopedia.com,texasmonthly.com,theblaze.com,thecipherbrief.com,thelines.com,thenationalpulse.com,therealnews.com,thestar.com.my,timesofisrael.com,trendingpolitics.com,uber.com,undark.org,uproxx.com,usenix.org,usmagazine.com,variety.com,vinepair.com,virginia.gov,washingtoncitypaper.com,washingtontimes.com,weismarkets.com,whatsapp.com,whyy.org,wktv.com,wlfi.com,wmtw.com,wordpress.com,wordpress.org,wsls.com,wthitv.com,wwe.com,xda-developers.com##body:style(padding-top: 0 !important;)
 7-eleven.com##.FeedBackButton_feedback-button-wrapper__6m_eq:style(position: absolute !important;)
 7-eleven.com##.notification-banner
 7-eleven.com,alamy.com,baseballhq.com,bgov.com,blog.zoom.us,bloomberg.com,boston25news.com,bugzilla.mozilla.org,burpee.com,claremont.org,coasterforce.com,cryptoslate.com,dailywire.com,dazeddigital.com,donaldjtrump.com,fidoalliance.org,fox13memphis.com,fox23.com,fox26houston.com,gianlucadimarzio.com,github.io,hrw.org,inews.co.uk,lamag.com,mobile.wnd.com,nationalreview.com,novel.pixiv.net,nyclu.org,oilandgasinvestor.com,ok.co.uk,pixel.google,reactos.org,ritzpix.com,robertedwardauctions.com,samsung.com,similarsites.com,splcenter.org,stuff.tv,tattoodo.com,telesurtv.net,terrawest.com,thebrag.com,theweek.com,traumanurses.org,trustedreviews.com,ubs.com,untangle.com,userstyles.org,verily.com,wallstreetoasis.com,westpoint.edu,woodmagazine.com,wsbtv.com,wsvn.com###header:style(position: relative !important;)
@@ -655,6 +655,11 @@ apkmos.com,igeeksblog.com,lastwordonprofootball.com,livekindly.co,smartphoneacce
 apnews.com##.Page-header-stickyWrap:style(position: relative !important; top: 0 !important;)
 app.feetfinder.com##.cLVZXo
 app.feetfinder.com##.SideBarMain:style(position: relative !important; top: 0 !important;)
+app.starbucks.com##.base___R2z_A:style(position: absolute !important;)
+app.starbucks.com##.breadcrumbBar___JcJ3W:style(position: relative !important;)
+app.starbucks.com##.globalNavFixed___PPX6p:style(position: relative !important;)
+app.starbucks.com##.globalNavPadding___ZVJ1T:style(padding-top: 0 !important;)
+app.starbucks.com##.sb-headerCrate:style(position: absolute !important;)
 appadvice.com###js-nav-second
 appadvice.com###js-nav:style(position: relative !important; top: 0 !important;)
 appalachianmagazine.com###td-header-menu, .td-header-wrap:style(position: relative !important; top: 0 !important;)
@@ -750,6 +755,7 @@ art19.com##.scrolled.web-player-header:style(position: absolute !important; back
 arte.tv##.row.next-navigation:style(position: absolute !important;)
 artmyn.com##.navbar:hover:style(background: #fff !important; color: #000 !important;)
 artmyn.com##.navbar:style(position: absolute !important; background: none !important; color: #fff !important;)
+artofit.org##.sticky-on:style(position: relative !important; background-color: unset !important; top: unset !important; border-top: unset !important; left: unset !important; height: unset !important; margin: 0 !important;)
 artofmanliness.com##.aom-nav:style(position: absolute !important;)
 artofproblemsolving.com###header:style(height: 72px !important; margin-top: unset !important; box-shadow: none !important;)
 artofproblemsolving.com##.infobar
@@ -1455,6 +1461,10 @@ bonobos.com,cheatsheet.com,citizenslant.com,cookforyourlife.org,fstoppers.com,go
 bookriot.com##.main-nav:style(position: absolute !important; top: 0 !important;)
 bookscanner.de##.is-empty.j-cart:style(position: absolute !important;)
 bookscanner.de##.jtpl-navigation:style(position: absolute !important; top: 0 !important;)
+boomplay.com##.footer:style(position: relative !important; top: 60px !important;)
+boomplay.com##.sidebar, main:style(padding-top: 70px !important;)
+boomplay.com##html,body:style(overflow: auto !important;)
+boomplay.com##main.scrollView:style(height: unset !important;)
 booth.pm##header[role="banner"]:style(position: relative !important;)
 bordercantos.com##.stickydiv:style(position: relative !important; top: 0 !important;)
 borderstan.com###search-navigation, #top-bar:style(position: relative !important; top: 0 !important;)
@@ -2634,8 +2644,8 @@ disboard.org##.fixed-join-button:style(position: absolute !important;)
 disboard.org##.navbar-search
 disboard.org##.share-buttons:style(position: absolute !important; top: unset !important; padding-top: 0 !important; left: 0 !important; margin-left: 0 !important; flex-direction: unset !important;)
 disboards.com,eraser.heidi.ie,forum.wordreference.com,khinsider.com,sammyboy.com##.p-nav .p-nav-list .p-navEl.is-selected:style(padding-right: 15px !important; border-top-left-radius: 2px !important; border-top-right-radius: 2px !important;)
-disboards.com,khinsider.com##.p-nav-list .p-navEl-link.p-navEl-link--splitMenu:style(padding-right: 1.875px !important;)
-disboards.com,khinsider.com,sammyboy.com###top > div:nth-child(3):not(.p-sectionLinks)
+disboards.com,khinsider.com,sammyboy.com,techist.com###top > div:nth-child(3):not(.p-sectionLinks)
+disboards.com,khinsider.com,techist.com##.p-nav-list .p-navEl-link.p-navEl-link--splitMenu:style(padding-right: 1.875px !important;)
 discogs.com##.sticky_footer:style(position: relative !important;)
 discord.com##.rich-content-right:style(position: absolute !important; top: 0 !important;)
 discord.me###searchWrap:style(position: relative !important; top: 0 !important;)
@@ -2772,9 +2782,9 @@ drp.su##.Navbar__nav:style(position: absolute !important;)
 drweil.com###js-header-inner
 dslrbodies.com###sitemenu:style(position: absolute !important; top: 0 !important;)
 dualshockers.com##.nav-main:style(position: absolute !important;)
-duckduckgo.com###header_wrapper:not(.header-wrap--with-hero), .js-header-wrap.header-wrap:not(.header-wrap--with-hero):style(position: relative !important; top: 0 !important;)
-duckduckgo.com##.is-stuck.has-dropdowns.js-zcm-sticky.metabar--fixed.metabar:style(position: absolute !important; top: 0 !important;)
-duckduckgo.com##.js-serp-bottom-right.serp__bottom-right:style(position: absolute !important; bottom: unset !important;)
+duckduckgo.com##.bpmtqMMvOah3BsmgaZwn:style(position: relative !important; top: 0 !important; left: unset !important; border-bottom: 1px solid var(--theme-col-bg-page) !important;)
+duckduckgo.com##.header-wrap:style(position: relative !important; top: 0 !important;)
+duckduckgo.com##.jhl8KW91eJEZ7AAMCYw6 > div:nth-child(2)
 duduf.com,htpcguides.com,linuxincluded.com,nintendosoup.com,ourfakehistory.com,theantimedia.com###site-navigation:style(position: absolute !important;)
 duffelblog.com###mvp-main-body-wrap, #mvp-main-nav-bot, .mvp-fixed-next:style(margin-top: 0 !important;)
 duffelblog.com###mvp-main-nav-bot, #mvp-main-nav-top, #mvp-main-nav-bot-cont, .mvp-fixed1:style(position: relative !important; top: 0 !important; transform: none !important;)
@@ -2920,6 +2930,7 @@ engineering.com,makeprojects.com##.nav-container:style(position: absolute !impor
 engineering.linecorp.com##.stuck.header-wrapper:style(position: relative !important; box-shadow: none !important; animation: none !important;)
 english-grammar-lessons.com###simplenewsTopBtn
 english.alarabiya.net##.floating-back-to-top
+englishsunglish.com###kt-scroll-up
 enjoytravel.com###newsletter-subscribe, .popover:style(position: absolute !important;)
 enmnews.com##.menu-sticky.navigation-bar:style(position: static !important;)
 enotes.com##.redacted.obscured:style(filter: unset !important; color: #000 !important; text-shadow: none !important;)
@@ -2952,7 +2963,7 @@ equifax.com##.affix.sticky-nav:style(position: relative !important;)
 erahm.org,krypted.com###sidebar:style(position: absolute !important; top: 0 !important; bottom: unset !important;)
 eraser.heidi.ie##.add-header-height, .main-navigation-ul > li:style(height: 90px !important; line-height: 90px !important;)
 eraser.heidi.ie##.mk-header-holder:style(position: absolute !important;)
-eraser.heidi.ie,forum.wordreference.com,khinsider.com##.p-navSticky:style(position: relative !important; box-shadow: none !important;)
+eraser.heidi.ie,forum.wordreference.com,khinsider.com,techist.com##.p-navSticky:style(position: relative !important; box-shadow: none !important;)
 eraser.heidi.ie,leakimedia.com##.p-navEl-link--splitMenu:style(padding-right: 1.875px !important;)
 eraser.heidi.ie,leakimedia.com##.p-navEl.is-selected .p-navEl-link:style(padding-right: 15px !important;)
 ergotron.com###chat
@@ -3130,6 +3141,7 @@ falconhospital.com##.breadcrumb-wrapper, .header:style(position: absolute !impor
 fanbox.cc##.cplgnZ:style(position: absolute !important;)
 fandom.com###WikiaBar, .notifications-placeholder
 fandom.com##.fandom-community-header__background:style(position: relative !important;)
+fandom.com##.fixed-header:style(position: unset !important; transform: none !important; outline: unset !important; box-shadow: none !important;)
 fandom.com##.global-explore-navigation, .global-navigation, .global-navigation__bottom, .global-top-navigation:style(position: absolute !important;)
 fandom.com##.is-visible.fandom-sticky-header
 fandom.com##.page-side-tools:style(position: relative !important; top: 0 !important;)
@@ -3542,6 +3554,9 @@ gale.com##.c-product-detail__banner__header__content__sticky
 gallup.com###ctl00_HeaderNavigation_Navbar:style(position: relative !important; animation: none !important;)
 gallup.com##.navbar-sticky-placeholder
 galoremag.com###deskNav:style(position: absolute !important;)
+game8.co##.p-archiveBody__container:style(margin-top: 0 !important;)
+game8.co##.p-archiveBody__side-inner:style(position: relative !important; top: 0 !important; max-height: unset !important;)
+game8.co##.p-rootHeaderWrapper:style(position: relative !important;)
 gamebanana.com###PrimaryNav:style(position: relative !important;)
 gamedev.net##.rightcol, .sidebar:style(position: relative !important;)
 gamedev.net##nav.navbar:style(position: absolute !important;)
@@ -4252,18 +4267,9 @@ ign.com##.pgQSsticky.sidebar:style(position: absolute !important;)
 ignite.amazon.com##.PageLayout__header:style(position: absolute !important;)
 ignite.co##.sticky_nav--stick.sticky_nav.main_nav_wrapper
 ihavenotv.com##.top50:style(margin-top: 0 !important;)
-iheart.com###NavHeader:style(background-color: transparent !important; border-bottom: none !important;)
-iheart.com###page-view-container:style(margin-top: 6.5rem !important;)
-iheart.com##._full-width.component-microsite, .hero-active.component-branded-header:style(margin-top: 76px !important;)
-iheart.com##.component-playerbar:style(position: absolute !important; height: 75px !important; top: 81px !important; margin-top: 0 !important; margin-bottom: 76px !important; z-index: 1 !important;)
-iheart.com##.container-home-page-carousel.container-fluid, .content-layout-container:style(margin-top: 77px !important;)
-iheart.com##.css-13t6g5d, .header, .nav-sticky.header:style(position: absolute !important;)
-iheart.com##.css-1fpo8d0:style(height: 6.5rem !important;)
-iheart.com##.css-1fpo8d0:style(position: absolute !important; transform: none !important;)
-iheart.com##.css-y7m2f7:style(margin-top: 13rem !important;)
-iheart.com##.dropdown-menu-popper, .menu-option:style(z-index: 2 !important;)
-iheart.com##.e13u9iy40.css-gsoye7:style(position: absolute !important; top: 6.5rem !important; margin-top: 0 !important;)
-iheart.com##.station-header-container:style(position: absolute !important; top: 0 !important;)
+iheart.com##.css-1bjq084:style(position: relative !important;)
+iheart.com##.css-h52sej:style(position: relative !important; top: 0 !important;)
+iheart.com##.css-gci0q2:style(position: absolute !important;)
 ihop.com##.c-navbar:style(position: absolute !important;)
 ijr.com###masthead, .opt360-header.py1.z10000.right-0.left-0.top-0.fixed.border-box.header-height, .z1.relative > .header-height:style(position: relative !important; top: 0 !important;)
 ijr.com###progress-bar
@@ -4926,6 +4932,8 @@ leaf.tv##.fixed-header, .header-top:style(position: relative !important; top: 0 
 leafly.com,tribunemedia.com##header.fixed:style(position: absolute !important;)
 leakimedia.com###top > div:nth-child(2)
 leakimedia.com##.p-navSticky:style(position: relative !important; background: none !important; box-shadow: none !important;)
+learn.microsoft.com###affixed-left-container:style(position: relative !important; top: 0 !important; height: calc(-157px + 100vh) !important;)
+learn.microsoft.com###affixed-right-container:style(position: relative !important; top: 0 !important;)
 learn-japanese-adventure.com###btnTop
 learn-japanese.livejournal.com##.pageblock:style(margin-top: 60px !important;)
 learningsynths.ableton.com##.components_lesson-viewer__toc-toggle:style(position: absolute !important;)
@@ -5596,6 +5604,8 @@ mumsnet.com##.header:style(margin-top: 0 !important;)
 munchies.vice.com##.site-header__logo:style(width: 217px !important;)
 mundodeportivo.com##.header-logo-wrapper:style(position: relative !important;)
 muraselon.com###menu-main:style(position: absolute !important;)
+musixmatch.com###__next > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2)
+musixmatch.com###__next > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2):style(position: relative !important;)
 mvmt.com##.header-menu-wrapper:style(position: relative !important;)
 mvmt.com##.plp-filter-bar:style(position: relative !important; top: 0 !important;)
 mvmt.com##.sticky-bar
@@ -5931,9 +5941,8 @@ nextimpulsesports.com##.site-navigation-wrap:style(position: relative !important
 nextjournal.com###sidebar-container:style(position: absolute !important;)
 nextofwindows.com##.td-container-wrap.td-header-logo-wrap:style(padding-top: 30px !important;)
 nexusmods.com##.shadowed.new-head:style(position: absolute !important; box-shadow: none !important;)
-nfl.com##.page-header-transition-manager-container > div:nth-of-type(2):style(position: absolute !important; transform: none !important; top: 0 !important;)
-nfl.com##.rmq-5a4b0a67.rmq-c5694ca2.rsv-d4b4b949:style(position: relative !important;)
-nfl.com##.rmq-6e08d6a4, .rmq-d8bfbbf5 > div:nth-of-type(3) > div:nth-of-type(1):style(position: relative !important; top: 0 !important;)
+nfl.com##.h-\[--header-panel-top-hat-height\]
+nfl.com##.top-\[--header-panel-top-hat-height\], .top-\[calc\(var\(--header-panel-top-hat-height\)\+var\(--header-panel-main-nav-height\)\)\]:style(position: relative !important; top: 0 !important;)
 nflbite.com##.td-header-row:style(position: relative !important; transform: translate3d(0px, 0px, 0px) !important; width: 100% !important;)
 nft.kraken.com##[data-testid="top-navigation"]:style(position: absolute !important;)
 ngccoin.com###coinEncycNav:style(position: absolute !important; top: 460px !important;)
@@ -5965,7 +5974,9 @@ nike.com##.pre-l-header:style(position: relative !important;)
 nilaykhandelwal.com##.news-list-nav:style(position: absolute !important; top: 0 !important;)
 nimbupani.com##.next, .previous
 nine.com.au##.header-module__inner:style(position: relative !important; top: 0 !important;)
-nintendo.com##.ewhzAo
+nintendo.com###sidebar-wrapper:style(position: absolute !important;)
+nintendo.com##.kZRjaX
+nintendo.com##.plo-header:style(position: absolute !important;)
 nintendolife.com##.headerbar:style(position: relative !important;)
 nites.tv##.hd:style(position: absolute !important; top: 0 !important;)
 nites.tv##.home .hd:style(background: linear-gradient(to bottom, var(--body) 0%, rgba(0,0,0,0) 100%) !important;)
@@ -6965,6 +6976,7 @@ salon.com###nav-wrapper:style(position: relative !important;)
 salon.com##.DqBWg-Vvho_ZrxWqxa8ub, .header-container, .style__navigation___DqBWg:style(position: absolute !important;)
 samharris.org##.site-header-section:style(height: calc(6rem - 1px) !important;)
 samhsa.gov###block-headercallout
+sammyboy.com##.p-navSticky--primary.is-sticky .p-nav-list .p-navEl-link.p-navEl-link--splitMenu:style(padding-right: 15px !important;)
 samsclub.com##.sc-header-desktop-sticky:style(position: relative !important;)
 samsclub.com##.sc-pc-image-carousel-desktop:style(position: relative !important; top: 0 !important;)
 samsmithworld.com##.custom-header:style(position: absolute !important;)
@@ -7375,6 +7387,7 @@ solveigmm.com##.navbar.is-fixed .navbar-menu__link:style(height: unset !importan
 solveigmm.com##.navbar.is-fixed .navbar__wrapper:not(.first-line.navbar.is-fixed .navbar__wrapper):style(height: 77px !important;)
 solveigmm.com##.scrollup
 sonicfangameshq.com##.uix_headerContainer > div:nth-child(4):not(.uix_welcomeSection)
+songswave.com###search-box
 sony.com##.to-top
 sonymusic.co.uk##header:style(position: absolute !important; transition: none !important;)
 soompi.com##.component-feedback:style(position: absolute !important;)
@@ -7573,7 +7586,6 @@ staples.com##.tabbed-navigation__tabPlaceholder
 staradvertiser.com###top-nav-secondary, #top-nav:style(position: relative !important; top: 0 !important;)
 staradvertiser.com##.fixed-social:style(position: absolute !important; left: -50px !important;)
 staradvertiser.com##.topnav:style(position: absolute !important;)
-starbucks.com##.menuPadding___TZ12b
 starbucks.com##.sb-global-subnav-containerLight:style(position: relative !important;)
 stardsl.net##.fusion-sticky-header-wrapper:style(position: relative !important; top: 0 !important;)
 startech.com##.shadow.nav-scroll-in
