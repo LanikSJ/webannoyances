@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: oXbNOzk9vmjphzdm/SklvQ
-! Last Modified: 2025-04-07 08:26 UTC
+! Checksum: JcjCtjmzMuAzieacoDJHzQ
+! Last Modified: 2025-04-14 08:23 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -625,8 +625,6 @@ m4arts.org##.tpagw0
 macleans.ca##.rdm-daac-notice-template
 macleans.ca##.service_footer.row
 macworld.co.uk###idgBrands
-maddadskillz.com###footer-area-center
-maddadskillz.com##.sfsiaftrpstwpr
 mademan.com##.ajax-end.persistent-tray
 mademan.com##.topbar
 madison.com##.rail-copyright
