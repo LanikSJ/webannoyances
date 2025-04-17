@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: 3vHymDt4ZAziv6tRaPfCzg
-! Last Modified: 2025-04-17 07:36 UTC
+! Last Modified: 2025-04-17 16:26 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -7615,9 +7615,9 @@ steamcommunity.com###footer.compact:style(position: absolute !important;)
 steamcommunity.com##._1uSw_aqus0W7yb3vT9_-22:style(position: relative !important; top: 0 !important;)
 steamcommunity.com##.apphub_background:style(background-attachment: unset !important;)
 steamcommunity.com##.FixedElementOnScrollWrapper_padding
-steamcommunity.com##.responsive_header:style(position: absolute !important;)
 steamcommunity.com##.responsive_OnClickDismissMenu.panel:style(position: relative !important; top: 0 !important;)
 steamcommunity.com##.workshopItemControlsCtn:style(position: relative !important;)
+steamcommunity.com,steampowered.com##.responsive_header:style(position: absolute !important;)
 steamdb.info##.table thead th:style(position: relative !important; top: 0 !important;)
 steamdb.info##.tabnav:style(position: absolute !important;)
 steamid.uk##.fixnavbar:style(position: absolute !important;)
