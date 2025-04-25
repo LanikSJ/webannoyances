@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: 3vHymDt4ZAziv6tRaPfCzg
-! Last Modified: 2025-04-20 04:05 UTC
+! Last Modified: 2025-04-25 07:52 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -14,7 +14,7 @@
 /matomo-connect.js$script,important
 /matomo-script.js$script,important
 1001fonts.com##.stickynav-offset:style(position: relative !important; top: 0 !important;)
-1001fonts.com,2guyscigars.com,ambition.com,apps.gab.com,cebglobal.com,centurylink.com,clickview.net,countyoffice.org,docs.betterdiscord.app,docs.gitlab.com,failory.com,feeder.co,fox5vegas.com,freakhosting.com,girlsupnorth.com,huffingtonpost.*,huffpost.com,ihavenotv.com,imagesocket.com,kfyrtv.com,lists.mediawiki.org,macobserver.com,memes.com,moz.com,mtb-news.de,nathancunn.com,newsbank.com,niteo.co,pngegg.com,popeyesfoundation.org,postgresql.org,postmake.io,posts.tf,q13fox.com,sagepub.com,technode.com,thebulletin.org,utorrent.com,wbng.com,webcenterfairbanks.com,wlfi.com,wpd.app,wsmv.com,wthitv.com,wvva.com##.navbar:style(position: relative !important;)
+1001fonts.com,2guyscigars.com,ambition.com,apps.gab.com,cebglobal.com,centurylink.com,clickview.net,countyoffice.org,docs.betterdiscord.app,docs.gitlab.com,failory.com,feeder.co,fox5vegas.com,freakhosting.com,girlsupnorth.com,huffingtonpost.*,huffpost.com,ihavenotv.com,imagesocket.com,kfyrtv.com,lists.mediawiki.org,macobserver.com,memes.com,moz.com,mtb-news.de,nathancunn.com,newsbank.com,niteo.co,pngegg.com,popeyesfoundation.org,postgresql.org,postmake.io,q13fox.com,sagepub.com,technode.com,thebulletin.org,utorrent.com,wbng.com,webcenterfairbanks.com,wlfi.com,wpd.app,wsmv.com,wthitv.com,wvva.com##.navbar:style(position: relative !important;)
 1001tracklists.com##.head:style(position: relative !important;)
 100milefreepress.net,abbynews.com,about.fandom.com,aboutamazon.com,adssettings.google.com,agassizharrisonobserver.com,albernivalleynews.com,aldergrovestar.com,allamericanrejects.com,ambotv.com,arrowlakesnews.com,ashcroftcachecreekjournal.com,barrierestarjournal.com,bashawstar.com,blog.bitbucket.org,bizfluent.com,blueorigin.com,boundarycreektimes.com,bowenislandundercurrent.com,brightsurf.com,burnslakelakesdistrictnews.com,bustle.com,caledoniacourier.com,campbellrivermirror.com,castlegarnews.com,castoradvance.com,chicagobusiness.com,citizensaccess.com,clearwatertimes.com,cloverdalereporter.com,coastmountainnews.com,community.microfocus.com,comoxvalleyrecord.com,couponcabin.com,coupons.cnn.com,cowichanvalleycitizen.com,crainscleveland.com,crainsdetroit.com,crainsnewyork.com,cranbrooktownsman.com,crestonvalleyadvance.ca,deadbydaylight.com,docs.google.com,dove.com,dropboxforum.com,eaglevalleynews.com,eckvilleecho.com,edpuzzle.com,embracepetinsurance.com,emsisoft.com,exabeam.com,extrahop.com,fangraphs.com,fiveguys.com,flopstarter.com,foreignpolicy.com,freepik.com,freshideen.com,goldstreamgazette.com,grandforksgazette.ca,haidagwaiiobserver.com,hedgehogreview.com,hopestandard.com,hugedomains.com,i24news.tv,instructure.com,interior-news.com,international.nubank.com.br,ipaddress.com,jbkempf.com,jimmyjohns.com,kat.am,katcr.to,kelownacapnews.com,keremeosreview.com,kickasstorrent.*,kickasstorrents.*,kimberleybulletin.com,houston-today.com,lacombeexpress.com,ladysmithchronicle.com,lakecountrycalendar.com,lakecowichangazette.com,langleyadvancetimes.com,libp2p.io,liveabout.com,manyvids.com,mapleridgenews.com,mcmansionhell.com,meds.se,microchip.com,milorganite.com,missioncityrecord.com,modernistcuisine.com,mondaymag.com,movi.pk,myadcenter.google.com,nameslook.com,nanaimobulletin.com,nelsonstar.com,newlinesmag.com,news18.com,northdeltareporter.com,northernsentinel.com,northislandgazette.com,notebooklm.google,oakbaynews.com,ominecaexpress.com,orders.ordercoldstone.com,oreilly.com,pcgamebenchmark.com,peacearchnews.com,pentictonwesternnews.com,phlabs.com,pimeyes.com,pipestoneflyer.ca,pocketsense.com,ponokanews.com,pqbnews.com,pronouns.page,quesnelobserver.com,rabbitscams.sex,reddeeradvocate.com,revelstokereview.com,rhodecode.com,ricekrispiestreats.com,rimbeyreview.com,rit.rakuten.com,rosslandnews.com,saanichnews.com,saobserver.net,sextpanther.com,similkameenspotlight.com,sookenewsmirror.com,speedrun.com,stettlerindependent.com,stives.com,summerlandreview.com,surreynowleader.com,sylvanlakenews.com,taylorswift.com,terracestandard.com,thefreepress.ca,themarginalian.org,thenorthernview.com,theprogress.com,thequint.com,toysrus.com,trailtimes.ca,tysonfoods.com,usw.org,vancouverislandfreedaily.com,vicnews.com,wendys.com,westerlynews.ca,wildskirts.com,wirefly.com,wltribune.com##header:style(position: absolute !important;)
 100percentfedup.com##.menu-header-menu-container-add:style(position: absolute !important;)
@@ -1025,7 +1025,7 @@ barstoolsports.com##div[style^="padding-bottom:"]:style(padding-bottom: 0 !impor
 bartamanpatrika.com##.bp-footer:style(position: relative !important)
 bartamanpatrika.com##.fixed-bottom, .fixed-top:style(position: absolute !important;)
 bartamanpatrika.com##mybot .profile_div
-bartamanpatrika.com,blog.google,brainly.*,cbsnews.com,cnbc.com,dell.com,federalnewsnetwork.com,giftcardgranny.com,glamour.com,gq.com,journals.sagepub.com,just-auto.com,just-drinks.com,just-food.com,just-style.com,newrepublic.com,parenting.com,pitchfork.com,powerhungry.com,ruralsprout.com,taxact.com,whoisxmlapi.com##html:style(overflow-x: hidden !important;)
+bartamanpatrika.com,blog.google,brainly.*,cbsnews.com,cnbc.com,dell.com,federalnewsnetwork.com,giftcardgranny.com,gq.com,journals.sagepub.com,just-auto.com,just-drinks.com,just-food.com,just-style.com,newrepublic.com,parenting.com,pitchfork.com,powerhungry.com,ruralsprout.com,taxact.com,whoisxmlapi.com##html:style(overflow-x: hidden !important;)
 baseball-reference.com,basketball-reference.com,fbref.com,hockey-reference.com,sports-reference.com###inner_nav > ul:style(position: relative !important; box-shadow: none !important;)
 baseball-reference.com,basketball-reference.com,fbref.com,hockey-reference.com,sports-reference.com###inner_nav.frozen:style(padding-top: 0 !important;)
 baseball-reference.com,basketball-reference.com,fbref.com,hockey-reference.com,sports-reference.com###modal-container:style(position: absolute !important;)
@@ -1876,7 +1876,7 @@ chick-fil-a.com##.home-menu:style(position: static !important;)
 childrenshealthdefense.org##.defender-header:style(position: static !important;)
 china-underground.com###wpadminbar, .td-pb-span4 > .wpb_wrapper:style(position: absolute !important;)
 chip.de##.Header--Sticky:style(transform: translate(0,0) !important;)
-chip.de,espn.*,mobile.edweek.org,riskiq.com##.Header:style(position: absolute !important;)
+chip.de,espn.*##.Header:style(position: absolute !important;)
 chipotle.com##.header, .section--header.section:style(position: relative !important; top: 0 !important;)
 chipotle.com##.sticky_header.js-header.c-site-header:style(position: absolute !important;)
 chocolatey.org##.collapsed.shadow.d-md-block.d-none.d-hash-none.py-3.btn-announcement-notifications.btn-collapsing-right-sidebar.btn-primary.btn:style(position: absolute !important;)
@@ -2764,11 +2764,13 @@ driving.ca##.featured-video .player-wrapper:style(position: absolute !important;
 driving.ca##.header, .sticky--header:style(position: static !important;)
 droid-life.com##.site__header, .site__priNav--sections__scroller:style(position: relative !important;)
 droid-life.com##.site__priNav--sections:style(position: absolute !important;)
-dropbox.com,dsogaming.com,glennbeck.com,haxx.se,luckypeach.com,metro.co.uk,namecheap.com,newsday.com,queerty.com,relevantmagazine.com,standard.co.uk,thecipherbrief.com,thisiswhyimbroke.com,turkeyblocks.org,vesselnews.io,wiat.com,wncn.com###masthead:style(position: relative !important; top: 0 !important;)
+dropbox.com##.banner--sticky
+dropbox.com##.dwg-nav:style(position: relative !important; top: 0 !important; trasition: none !important; --dwg-nav__top-offset: 0 !important; --dwg-nav__sticky-top: 0 !important; --dwg-nav__height--redesign: 92px !important; margin-bottom: unset !important;)
 drp.su##.Navbar__nav:style(position: absolute !important;)
 drweil.com###js-header-inner
 dslrbodies.com###sitemenu:style(position: absolute !important; top: 0 !important;)
 dsogaming.com##.wp-dark-mode-switcher:style(position: absolute !important;)
+dsogaming.com,haxx.se,luckypeach.com,metro.co.uk,namecheap.com,newsday.com,queerty.com,relevantmagazine.com,standard.co.uk,thecipherbrief.com,thisiswhyimbroke.com,turkeyblocks.org,vesselnews.io,wiat.com,wncn.com###masthead:style(position: relative !important; top: 0 !important;)
 dualshockers.com##.nav-main:style(position: absolute !important;)
 duckduckgo.com##.bpmtqMMvOah3BsmgaZwn:style(position: relative !important; top: 0 !important; left: unset !important; border-bottom: 1px solid var(--theme-col-bg-page) !important;)
 duckduckgo.com##.header-wrap:style(position: relative !important; top: 0 !important;)
@@ -2842,6 +2844,12 @@ edri.org##a.logo img:style(position: absolute !important;)
 educative.io###handleScroll:style(margin-top: 0 !important;)
 educative.io##[class^="Header-"]:style(position: relative !important; width: 100% !important;)
 educative.io##a[title="edpresso"], [class^="MuiBox"]:style(position: static !important;)
+edweek.org##.m-actionbar:style(position: absolute !important; top: 0 !important;)
+edweek.org##.o-header__articleBar-wrapper
+edweek.org##.o-header__bar-wrapper:style(position: absolute !important; transform: none !important;)
+edweek.org##.o-header:style(--headerHeight: 120px !important; --headerProgress: 0% !important;)
+edweek.org##.s-nav-is-fixed .o-header__logo svg:style(width: 330px !important;)
+edweek.org##.s-nav-is-fixed .o-header__trigger .o-header__trigger__label:style(max-width: 200px !important;)
 eero.com##.sticky.eo-sticky-main-nav:style(position: absolute !important;)
 eetimes.com,gitbook.com,hola.com##.sticky:style(position: relative !important;)
 eezy.xyz###stuff0, header:style(position: absolute !important;)
@@ -3616,13 +3624,8 @@ geekwire.com##.navbar-fixed-top.navbar-inverse.navbar.banner:style(position: abs
 geekwire.com##.post-sidebar.col-md-4:style(position: relative !important; top: 0 !important;)
 geforce.com##.nav-header-container:style(display: block !important; height: 44px !important;)
 geforce.com##.navigation .global-nav:style(position: absolute !important; top: 0 !important;)
-geico.com###cat_banner:style(position: static !important;)
-geico.com###primary-header:style(position: relative !important; top: 0 !important;)
-geico.com###primary-header[role="banner"], .main-header, .print-hide.main-header:style(position: absolute !important; top: 0 !important;)
-geico.com###sidebar:style(position: absolute !important; padding-top: 100px !important;)
-geico.com##.banner.top.show ~ #primary-header, .banner.top.show ~ #wrapper #sidebar, .banner.top.show ~ #wrapper, .banner.top.show ~ ec-primary-navigation #primary-header, .banner.top.show ~ #wrapper:style(margin-top: 0 !important;)
-geico.com##.banner.top.show ~ #primary-navigation .panel-wrapper.menu, .banner.top.show ~ #primary-navigation .panel-wrapper.search, .banner.top.show ~ #primary-navigation .panel-wrapper.account, .banner.top.show ~ #primary-navigation .panel-wrapper.articles:style(top: 6rem !important;)
-geico.com##.oo_feedback_float:style(position: relative !important;)
+geico.com###primary-header:style(position: relative !important;)
+geico.com##.to-top-arrow
 gematsu.com###menu_wrapper:style(position: relative  !important;)
 gematsu.com##.jl_blank_nav
 gemini.com###fixed-footer, .headroom--pinned.headroom--not-top.headroom.bloginfo
@@ -3630,8 +3633,9 @@ generalmillscf.com##.mainHeader:style(position: relative !important;)
 generalmillscf.com##.siteContainer:style(margin: 0 !important;)
 geneticliteracyproject.org###sticky-navigation:style(position: absolute !important; box-shadow: none !important;)
 geneticliteracyproject.org##.main-navigation.sticky-navigation-transition .navigation-logo img
-genius.com##.MediaPlayersContainer__Container-sc-1tibexe-0:style(position: relative !important;)
-genius.com##.RecommendedSongs__Container-fhtuij-0:style(position: relative !important; top: 0 !important;)
+genius.com###sticky-nav:style(position: relative !important; top: 0 !important;)
+genius.com##[class^="RecommendedSongs__Container-"]:style(position: relative !important; top: 0 !important;)
+genius.com##[class^="SongNav__ScrollTop-"]
 geniuskitchen.com##body:style(position: static !important;)
 gentlenursery.com##.fixed.nav-primary:style(position: absolute !important;)
 get.dev##.h-c-header__bar:style(position: absolute !important;)
@@ -3719,15 +3723,19 @@ gitlab.com##.super-sidebar, .top-bar-fixed:style(position: absolute !important; 
 gizchina.com##.vw-sticky-menu.vw-header__main-menu:style(position: static !important; transform: translateY(0) !important;)
 glaciermedia.ca###main-header:style(position: absolute !important; background: linear-gradient(180deg,rgba(35,39,45,0.75) 0%,rgba(35,39,45,0.65) 1%,rgba(35,39,45,0) 90%) !important; box-shadow: none !important;)
 glaciermedia.ca##.et_header_style_left #et-top-navigation:style(padding: 38px 0 0 0 !important;)
-glamour.com##.component-header, .header.component-sticky > div:nth-of-type(1), .header.component-sticky, .header.content-container, .sticky-header.component-header, .sticky.secondary:style(position: relative !important; top: 0 !important;)
-glamour.com##.sticky-box--expand.sticky-box:style(position: static !important;)
+glamour.com##.StackedNavigationSectionPrimaryLinks-foRfJu:style(height: 4rem !important;)
 glamourfame.com##.top-navbar:style(position: relative !important; top: 0 !important;)
 glassdoor.co.uk,glassdoor.com###globalNavContainer:style(position: relative !important; top: 0 !important;)
 glassesdirect.co.uk###nav-logo
 glassesdirect.co.uk###navigation:style(position: relative !important; border-top: 1px solid rgba(45,55,70,0.2) !important;)
 glassesdirect.co.uk##.genesys-mxg-frame:style(position: absolute !important;)
 glassesdirect.co.uk##.sticky-block:style(position: relative !important; top: unset !important; left: unset !important; right: unset !important; background-color: unset !important; z-index: unset !important;)
-glassesusa.com##.flag-sticky.gjs-header-top.top-strip, .flag-sticky.optimizely-sticky-menu.gjs-header-bottom.bottom-strip, .headerMain__sticky___34mXQ:style(position: absolute !important;)
+glassesusa.com##.chatButton_byT0g9
+glassesusa.com##.hidden_bMnaOm:style(display: block !important;)
+glassesusa.com##.stickySidebar_e19oGX:style(position: relative !important; top: 0 !important;)
+glassesusa.com##.wrapHeader_alhYf2:style(position: absolute !important;)
+glennbeck.com##.homepage__channels--bar, .navbar__inner:style(position: absolute !important;)
+glennbeck.com##.post-splash-custom .widget__shares:style(position: static !important;)
 global.canon##header:style(position: relative !important; top: 0 !important; transition: none !important; transform: none !important; border-bottom: none !important;)
 global.rakuten.com###rf-header-nav:style(float: left !important; width: unset !important; letter-spacing: unset !important;)
 global.rakuten.com##.j-header-toggle > li p a:style(padding-bottom: 28px !important;)
@@ -3764,7 +3772,10 @@ gobdp.com##.banner:style(position: absolute !important;)
 gocardless.com##.is-sticky.text-no-smoothing.text-heading.sticky-nav__inner:style(position: relative !important; top: 0 !important;)
 gocomics.com##.gc-site-header:style(position: relative !important;)
 gocomics.com##.js-gc-lock-target--fixed:style(position: relative !important; top: 0 !important;)
+godaddy.com###below-header:style(position: relative !important;)
+godaddy.com##.pl-a18osifv
 goddesscams.online##.app-sidebar-content:style(position: relative !important; top: 0 !important; height: unset !important;)
+goddesscams.online##.SidebarStatic\#cT:style(position: relative !important; top: 0 !important; height: unset !important;)
 godotengine.org,mikeindustries.com,mspoweruser.com,reasoncoresecurity.com###nav:style(position: absolute !important; top: 0 !important;)
 gofundme.com##.hero_filter__lQdK_:style(animation: none !important;)
 gofundme.com##.hero_hero__3_xYh:style(position: relative !important;)
@@ -4185,6 +4196,9 @@ humanreadablemag.com###headerAnnouncementWrapper:style(position: absolute !impor
 humblebundle.com##.js-maintain-scrollbar-on-dropdown.s-fixed.js-sticky-navbar.sticky-navbar
 humblebundle.com##.js-navigation-container-v2.navigation-container-v2:style(position: relative !important;)
 humblebundle.com##.storefront.v2 .nav-container.store-wide:style(position: static !important;)
+hungama.com###header:style(position: absolute !important; top: -84px !important;)
+hungama.com##.left-side-tab:style(position: absolute !important;)
+hungama.com##.right-ad-box:style(position: absolute !important; top: 0 !important;)
 hunker.com##.component-site-header:style(position: relative !important;)
 hunker.com##.jwplayer__container--sticky.jwplayer__container:style(position: static !important;)
 hyatt.com##.header:style(position: absolute !important; top: 0 !important;)
@@ -4454,6 +4468,7 @@ insightcrime.org##.topmenu:style(position: absolute !important; height: 112px !i
 insightdata.ai##.logo_nav:style(position: relative !important; top: 0 !important;)
 inspiredcoffee.com###athena-header:style(position: absolute !important;)
 instabug.com###phantom
+instagram.com##._acum:style(position: absolute !important;)
 instagram.com##.x1n327nk.xeq5yr9.x13vifvy.xixxii4:style(position: absolute !important;)
 instantcheckmate.com###e:style(position: absolute !important; top: 81px !important;)
 institutionalinvestor.com###compressed-navbar:style(position: relative !important; top: 0 !important;)
@@ -4616,6 +4631,9 @@ jezebel.com##.global-nav.fixed:style(position: absolute !important;)
 jhu.edu##.related-content:style(position: absolute !important; top: 99.7px !important;)
 jhu.edu##.section.nav.global-nav:style(position: absolute !important;)
 jhu.edu##.stuck.force.section.social:style(position: absolute !important; padding-top: 0 !important;)
+jiosaavn.com##.c-aside, .c-header:style(position: absolute !important;)
+jiosaavn.com##.c-banner
+jiosaavn.com##.c-player:style(position: relative !important;)
 jira.atlassian.com##.aui-sidebar .aui-sidebar-wrapper.aui-is-docked:style(position: absolute !important;)
 jira.atlassian.com##.aui-sidebar-wrapper:style(height: 100em !important;)
 jira.atlassian.com##.issue-view:style(overflow: unset !important;)
@@ -5369,6 +5387,7 @@ michelinman.com##.dgad-siderail-container__nav:style(position: absolute !importa
 michigan.com###affx, .news-bar.container-fluid:style(position: absolute !important; top: 0 !important;)
 microcenter.com##.mm-t007-sticky-bar
 microsoft.com###contactSalesStickyBar, #shared-stickybanner-reimagineevent2024, .fixed-sticky
+microsoft.com##.position-fixed:style(position: absolute !important;)
 microsoft365.com,office.com##.shy-header
 microsoftedge.microsoft.com###headerArea:style(position: static !important;)
 microsoftedge.microsoft.com###persistent-header
@@ -5462,7 +5481,6 @@ mmanews.com##.vc_hidden-xs.td-pb-span4.vc_column_container.wpb_column > .vc_colu
 mnn.com##.site-header:style(box-shadow: none !important;)
 mobafire.com###header-logo-new, #net-menu, .header-new.self-clear:style(position: absolute !important;)
 mobalytics.gg##.live-comp-wrap:style(position: absolute !important;)
-mobile.edweek.org###login-states:style(transform: translateY(0px) !important;)
 mobile.reuters.com##.header-main.group.header, .header-mini.header-pane-main:style(height: 54px !important;)
 mobile.reuters.com##.header-mini-buttons
 mobile.reuters.com##.reuters-nav-buttons:style(display: block !important; opacity: 1 !important;)
@@ -6132,6 +6150,7 @@ onlinelibrary.wiley.com##.coolBar:style(position: static !important;)
 onlinelibrary.wiley.com##.fixedCoolBar:style(padding-top: 0 !important;)
 onlinelibrary.wiley.com##.pageHeader:style(position: static !important;)
 onlinelibrary.wiley.com##.publication-cover-info:upward(1):style(position: static !important;)
+onlinemictest.com##.left:style(position: absolute !important;)
 onlinesearches.com###searchBarTop:style(position: relative !important;)
 onthehub.com###grve-inner-header:style(position: relative !important; height: 90px !important; line-height: 90px !important;)
 oo-software.com##.globalnav-fixed-top:style(position: relative !important;)
@@ -6538,6 +6557,7 @@ posteo.de##.p_mainnav:style(position: relative !important;)
 postimg.cc##.sb-slide:style(position: absolute !important;)
 postingsplus.com###menu1:style(position: relative !important;)
 postmates.com###merchant-fixed-element-id:style(position: absolute !important;)
+posts.tf###navbar-container:style(position: relative !important; top: 0 !important; transform: scale(1.01) translateZ(0) !important;)
 potbelly.com##.active-false:style(position: relative !important; top: 0 !important;)
 pprune.org###magicbar:style(position: absolute !important; bottom: 0 !important;)
 pprune.org##.toolbar:style(display: table !important;)
@@ -6840,11 +6860,8 @@ rennlist.com###nav1:style(position: relative !important; top: 0 !important;)
 renttherunway.com##.light-background:style(position: relative !important; top: 0 !important;)
 repubblica.it##.fixed.bottom-header-wrapper:style(position: absolute !important;)
 research.fb.com##.top-menu:style(position: absolute !important; height: 128px !important;)
-researchgate.net##.is-sticky.publication-resources-summary__inner.js-lite-sticky-target:style(position: absolute !important; box-shadow: none !important;)
-researchgate.net##.js-lite-sticky-target.research-resources-summary__inner:style(position: static !important; padding: 0 0 10px 0 !important; height: 52px !important;)
-researchgate.net##.lite-page__header-navigation:style(position: static !important;)
-researchgate.net##.publication-resources-summary--sticky.publication-resources-summary:style(position: relative !important;)
-researchgate.net,unclaimed.org##.sticky-placeholder
+researchgate.net##.global-leaderboard-ad-container:style(position: relative !important;)
+researchgate.net##.index-header:style(position: relative !important;)
 researchsquare.com##.annotator-frame:style(position: absolute !important; top: 0 !important;)
 researchsquare.com##.rs-navbar:style(position: absolute !important; top: 0 !important;)
 resetera.com##.is-sticky.uix_stickyBar.p-navSticky--all.p-navSticky, .uix_stickyBodyElement.uix_sidebarNav__inner:style(position: absolute !important; top: 0 !important;)
@@ -6890,7 +6907,6 @@ rightwingnews.com##.subset:style(position: relative !important; top: 0 !importan
 ripoffreport.com###header-wrap:style(position: relative !important;)
 ripple.com##.navbar.banner:style(position: absolute !important;)
 ripple.is##.sticky-menu.css-sticky.container:style(position: absolute !important;)
-riskiq.com##.fixed-buttons:style(position: absolute !important;)
 riteaid.com##.cx-header-menu:style(position: absolute !important;)
 riverpoolsandspas.com###BackToTopBtn
 roadsandkingdoms.com###titlebar:style(position: relative !important; top: 0 !important;)
@@ -7703,6 +7719,7 @@ stuff.co.nz##.sics-component__header__fixed--down.sics-component__header__fixed:
 stuff.tv##.region-sidebar-second #block-hcm-external-blocks-mpu-flexible1
 stuff.tv##iframe#um_ultimedia_wrapper_iframeUltimedia:style(position: absolute !important; top: 0 !important; left: 0 !important; right: unset !important; bottom: unset !important; width: 100% !important; height: 100% !important;)
 stuffyoushouldknow.com###hsw-header:style(position: relative !important; top: 0 !important;)
+subrosacyber.com##.container-side-bar-blog:style(position: relative !important; top: 0 !important;)
 substack.com##.main-menu-content:style(position: absolute !important; top: 0 !important;)
 subway.com##.sw-headerpane--sticky.sw-headerpane:style(position: absolute !important;)
 sucuri.net##.chat-widget-wrapper:style(position: relative !important;)
@@ -8749,11 +8766,8 @@ ulta.com##.ProductHero .ProductHero__content .ProductHero__MediaGallery:style(po
 ulta.com##.TopBar:style(position: relative !important; transform: none !important;)
 un.org###brand-bar:style(position: absolute !important;)
 unchainedpodcast.com##.sticky-nav-container
-unclaimed.org##.jet-sticky-section:style(position: static !important;)
-uncoverdc.com##.td-header-menu-wrap, .wpb_wrapper:style(position: static !important;)
-uncoverdc.com##.td-header-wrap .td-affix .header-search-wrap .td-icon-search, .td-header-wrap .td-affix .sf-menu > li > a, .td-header-wrap .td-affix .td-main-menu-logo a:style(line-height: 60px !important;)
-uncoverdc.com##.td-header-wrap .td-affix .td-main-menu-logo img:style(max-height: 60px !important;)
-uncoverdc.com##.td-header-wrap .td-affix .td-main-menu-logo:style(height: 60px !important;)
+unclaimed.org##.country-selector:style(position: absolute !important;)
+uncoverdc.com###search-panel, .fixed-top:style(position: absolute !important;)
 undark.org###home-middle:style(margin-top: 0 !important;)
 undark.org###main-menu:style(position: relative !important; top: 0 !important; box-shadow: 0 0 10px 2px hsla(0,0%,4%,0) !important;)
 undark.org###wtr-progress, .jetpack
