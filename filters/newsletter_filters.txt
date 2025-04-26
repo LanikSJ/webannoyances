@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
 ! Checksum: +DSBpDE2X+6dCKJKJgCrLg
-! Last Modified: 2025-04-14 08:22 UTC
+! Last Modified: 2025-04-26 10:35 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -141,7 +141,7 @@ channelnewsasia.com##.newsletter-cta
 chicagomag.com###footer-newsletter-subscribe
 childrenshealthdefense.org##.defender-home-signup-bar
 chowhound.com##.fr_fw_nl, .sip.fr_map_signup_w
-cigarandpipes.com##.klaviyo_flyout
+cigarandpipes.com##.et_pb_section_0_tb_footer.et_pb_section
 circleci.com##.bg-gray-light
 cityam.com###footer-newsletter, #footer-newsletter-mobile, .signup-bar_wrapper.gform_wrapper, .subscription
 citylab.com##.c-newsletter
@@ -578,6 +578,7 @@ slickdeals.net##.newsletter
 smashingmagazine.com##.c-promo-box--newsletter
 smithsonianmag.com##.circulation-subscribe, .smithsonian-journeys-travel
 snopes.com###smg-zone-main-after-feature, .email-signup-box
+snowest.com##.nl
 socialitelife.com##.pk-subscribe-form-wrap
 softonic.com##.popup-newsletter
 sonsoflibertymedia.com##.if-signup-sidebar.ifklicked-subscribe-form, .ifklicked-subscribe, .ifklicked-subscribe-form-below
