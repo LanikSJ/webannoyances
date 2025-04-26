@@ -229,7 +229,7 @@ civileats.com##.side-social
 cjr.org###bottom-sharing
 cleantechnica.com,iceagenow.info,reclaimthenet.org###dpsp-content-top
 cloudflare.com##.IN-widget, .learning-share-icons
-cnbc.com###rt_social, #social-buttons-nav_gig_containerParent, #social-buttons_gig_containerParent, #social-buttons-transporter, #social-tools-panel, .Footer-share, .HighlightShare-container, .Share-share, .SocialShare-headerWrapper, .makeit-social-media, .sub-header-social-container 
+cnbc.com###rt_social, #social-buttons-nav_gig_containerParent, #social-buttons_gig_containerParent, #social-buttons-transporter, #social-tools-panel, .Footer-share, .HighlightShare-container, .Share-share, .SocialShare-headerWrapper, .makeit-social-media, .sub-header-social-container
 cnet.com###connectCNET, #globalSocialPromoWrap
 cnn.com###smt_floater, #smt_main, #smt_secondary, .SocialBar__component, .SocialTimeBar__container, .aaea9bbf, .c_sharelftcol, .e036253d, .gigya-sharebar.js-gigya-sharebar, .media-social--ul, .shareBar_gigya, .tech-social, [class*="social-sharestyles__ShareButton"], div[class*="social-share-expandablestyles"], div[class*="social-sharestyles__ShareLabelWrapper"]
 cnsnews.com###cns-social-links
