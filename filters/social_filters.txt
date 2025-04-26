@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
 ! Checksum: 2cHUlQEOQW3Q1zOvnC468A
-! Last Modified: 2025-04-14 08:22 UTC
+! Last Modified: 2025-04-26 10:34 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -51,7 +51,7 @@ adage.com,cbslocal.com,consequenceofsound.net,merriam-webster.com,scpr.org,spect
 adbusters.org###ssb-container
 add0n.com###sharing
 adlice.com##.google
-adn.com,baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,courant.com,dailypress.com,mcall.com,nydailynews.com,orlandosentinel.com,pilotonline.com,sun-sentinel.com##.ts-share-bar
+adn.com,baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,courant.com,dailypress.com,mcall.com,orlandosentinel.com,pilotonline.com,sun-sentinel.com##.ts-share-bar
 adobe.com##.footer-icons
 advisorperspectives.com##.ap-actionbar-link--social
 aei.org##.entry-share-star
@@ -717,7 +717,7 @@ nvcc.edu###head-social
 nwfdailynews.com##.btn-highlight.btn-sm.btn
 ny1.com###footerSocialLinks
 nybooks.com##.icon-google-plus
-nydailynews.com###ra-follow, #ra-share-top, #rf-follow, .footer-call-to-action-container, .ra-share, .ra-share-e, .ra-share-f, .ra-share-t, .sharebar, .ft--btnbar
+nydailynews.com###sharing-sticky, .article-bottom-share
 nymag.com###ck_digg, #ck_facebook, #ck_sharethis_top, #ck_twitter, .art-nav-share-list-item, .rightMenu.followLabel
 nypost.com###highlight-share, .share-facebook, .share-twitter, .floating-share, .select-share, .widget_nypost_social_widget, [data-component="floatingShare"]
 nytimes.com###masthead-social, #sharetools-interactive, .article-video-sharetools, .email-share-item, .email-sharetool, .fb-share-item, .follow-tools, .inline-share-wrapper, .masthead.in-content .sharetools, .more-share-item, .recipe-details-share, .share-post, .styles-shareButton--KciLA, .show-all-sharetool.sharetool, .styles-shareMenu--17wGM, .styles-shareNetworks--2_V3p, .vhs-plugin-imax-playback-metadata-share-tools, .vhs-tools, .facebook-sharetool, .twitter-share-item, .twitter-sharetool, .save-sharetool, .masthead.in-content.masthead-theme-transparent-ffffff .user-tools, .footer-nav-primary-list, .wa-share-item, [aria-label^="Email"], [aria-label^="More sharing options"], [aria-label^="Share on Facebook"], [aria-label^="Share on Twitter"]
