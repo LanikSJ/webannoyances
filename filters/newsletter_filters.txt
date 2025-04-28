@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
 ! Checksum: +DSBpDE2X+6dCKJKJgCrLg
-! Last Modified: 2025-04-26 10:35 UTC
+! Last Modified: 2025-04-28 08:56 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -203,7 +203,7 @@ disrn.com,lithub.com##.widget_mc4wp_form_widget.widget
 disrn.com,outkick.com##.g1-newsletter
 dividend.com###dividend-email-subscribe-container:upward(1)
 djhjmedia.com##.widget_newsletterwidgetminimal
-dqydj.com###enews-ext-2
+dqydj.com###div_block-22-225, #div_block-89-16837, #section-581-16854
 drinkheartwater.com##.z-1.m-120.grid--m-reverse.grid--2.grid.relative
 driving.ca##.newsletter-widget
 droid-life.com##.callout-newsletter-sign-up, .l--flat-list.site__priNav--file-callouts
