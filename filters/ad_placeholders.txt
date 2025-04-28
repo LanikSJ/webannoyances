@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Ad Placeholder Filters
-! Checksum: ultmtGMsLEQx/953o4swDA
-! Last Modified: 2025-04-14 08:22 UTC
+! Checksum: vD98400AvNi0fr1wlB5k2w
+! Last Modified: 2025-04-28 08:50 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for empty advertising placeholders.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -296,7 +296,6 @@ healthline.com###mmr1__slot
 healthline.com##.css-1cg0byz, .css-20w1gi
 heavy.com###Mobile_InArticle_300x250_Bottom_2, #Mobile_InArticle_300x250_Bottom_3, #after-post, .heavy_ad, .wpcom-protected-iframe
 hedgeaccordingly.com##.worldplus-ad-clearfix
-hightimes.com##.dfp-ad-widget-class
 hindawi.com##.advWrapper
 hindustantimes.com##.advertisement-250, .advertisement-middle, [id*="adslot"]
 history.com##.m-header-ad
