@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
 ! Checksum: 2cHUlQEOQW3Q1zOvnC468A
-! Last Modified: 2025-04-26 10:34 UTC
+! Last Modified: 2025-04-28 08:58 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -257,6 +257,7 @@ coupons.com##.siso-links.mod-signinsignuplinks
 craftsmanship.net##.foobar-social
 crainsnewyork.com###follow-us-links
 crash.net##.follow-title, .follow-block
+crazydadlife.com###dd_ajax_float, .simple-social-icons
 creativedestructionmedia.com##.penci-social-share-footer.penci-social-buttons
 crosscut.com##.socialshare-wrapper
 crunchbase.com###ss-sticky-bar, .herald-soc-nav, .ss-facebook-color, .ss-linkedin-color, .ss-twitter-color
@@ -320,6 +321,7 @@ dogsnaturallymagazine.com##.shared-counts-wrap
 doist.com##.db-actionbar-holder, .db-share
 dotesports.com##.styles__sharing--3tU63
 doublegames.*##.new-share-buttons
+dqydj.com###div_block-159-16839, #dpsp-floating-sidebar, .oxy-social-icons
 drafthousefilms.com##.entry-footer-share
 dreamhost.com##.soc-share
 drewestate.com##.buzz_share
@@ -540,6 +542,7 @@ itnews.com.au###follow-us
 itsblockchain.com##.stm_share
 ixsystems.com###monarchwidget-2
 jacobinmag.com##.sm.po-hr-fl__sharing
+jheneaiko.com##.social-nav
 jpost.com##.ClickFacebookLike, .article-side-share-vertical, .article-subline-share, .vjs-social-share-links
 juggle.org##.width.max.x-container.x-topbar-inner > .x-social-global
 julieseatsandtreats.com,realhousemoms.com##.wprm-recipe-pin
@@ -941,6 +944,7 @@ streetinsider.com###floating_footer
 stripes.com##.even-4.button-group, .fadeIn1.animate.hide-for-large-up.tab-bar
 studyfinds.org##.fb-follow-link, .shared-counts-wrap
 stuff.co.nz##.Header__socialIcons, .Theme-SocialIcons, .sics-component__sharebar
+stylecaster.com,tvline.com##[class^="_socialMedia_"]
 sueddeutsche.de##.szig-sharing
 suntimes.com##.post-meta-social
 supercars.net##.vw-post-share, .vw-site-social-links
