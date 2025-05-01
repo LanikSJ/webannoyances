@@ -174,6 +174,7 @@ bloombergquint.com###offline-notification, .paywall-meter-module__story-paywall-
 bloombergquint.com,dnaindia.com###desktopBannerWrapped, #izmiddle-box
 boardingarea.com###ba-flybox
 boingboing.net###modalOverlay
+boingboing.net###modalOverlay
 bookforum.com###EmailRegistrationPopup, #OverlayRegistration
 bose.com##.bottom_banner
 bostonglobe.com###continue_button, .incognito-paywall--visible.incognito-paywall, .infinite-modal__black-bar, .meter-progress-bar
@@ -397,6 +398,8 @@ feetfinder.com##body:style(overflow: auto !important;)
 fermatslibrary.com###emailCollectionModal
 fidelity.com##.info-flyout-wrapper
 filmlifestyle.com##.optin-monster-saas-overlay, .sh-back-to-top
+filmora.wondershare.com###modalLeaveDownload, .modal-backdrop
+filmora.wondershare.com##html,body:style(overflow: auto !important;)
 filmora.wondershare.com###modalLeaveDownload, .modal-backdrop
 filmora.wondershare.com##html,body:style(overflow: auto !important;)
 fiverr.com###js-popup-user, .b-modal
@@ -902,6 +905,8 @@ spiceworks.com##.join-login-wrapper, .msp_menu, .sui-site-message-container
 spiegel.de##.sticky-overlay
 spigen.com###ztb-slide-box-widget
 splendidtable.org###cboxContent, #cboxOverlay
+sports.williamhill.com###noticeIframe
+sports.williamhill.com##html,body:style(overflow: auto !important;)
 sports.williamhill.com###noticeIframe
 sports.williamhill.com##html,body:style(overflow: auto !important;)
 sports.yahoo.com##.ys-interstitial
