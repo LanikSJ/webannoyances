@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
 ! Checksum: FcA8D11noCYWISco64ql7g
-! Last Modified: 2025-04-28 09:00 UTC
+! Last Modified: 2025-05-01 09:12 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -501,6 +501,7 @@ hotukdeals.com##.voteBar
 howardstern.com##.show-banner.notification
 howstuffworks.com###pagination-upper
 howtogeek.com##.email-overlay, .email-overlay555, .overlay-wrapper, .overlay-wrapper555
+howtolucid.com##.spu-bg, .spu-box
 html5up.net###bar
 htpcguides.com##.ginger_banner-wrapper, .ssbp-toggle-close.ssbp-toggle-switch
 huffingtonpost.*,huffpost.com###cambria-callout, #guce-inline-consent-iframe, #subscription-toaster, .image_overlay_icon, .popup-window__modal-body-container, .app-download-interstitial, .newsletter-toaster, .subscription-toaster
