@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: 3vHymDt4ZAziv6tRaPfCzg
-! Last Modified: 2025-04-28 08:54 UTC
+! Last Modified: 2025-05-01 09:11 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -4150,6 +4150,9 @@ howmuch.net##stickyheader
 howstuffworks.com###hsw-header, .fb-hsw-like-wrapper.row, header:style(position: relative !important; top: 0 !important;)
 howstuffworks.com###page #editorial-main .share-wrap .citation-wrap:style(line-height: unset !important;)
 howtheyplay.com###header_wrap:style(position: relative !important; top: 0 !important;)
+howtolucid.com###main-header:style(position: absolute !important; top: 0 !important;)
+howtolucid.com###progressbar
+howtolucid.com##.scroll_cstm_blog
 hp.com##.footer-fixed.ask-common-wrap
 hp.com##.lia-top-quilt > .lia-quilt-row.lia-quilt-row-header.stick:first-child:style(position: static !important;)
 hpe.com###HpeChatEmailButton:style(position: absolute !important;)
@@ -6060,11 +6063,9 @@ nubank.com.br##.style__HeaderWrapper-sc-tirswe-0:style(position: absolute !impor
 nubiles-porn.com##.header-banner-wrapper
 nubiles-porn.com##.hover-join-form
 nutro.com##.header-wrapper .logo-wrapper .logo-img, .logo-wrapper:style(position: absolute !important;)
-nvidia.com###box:style(padding-top: 0 !important;)
-nvidia.com###container:style(top: 0 !important;)
-nvidia.com###page-content, .m-t-60:style(margin-top: 0 !important;)
-nvidia.com##.global-nav, .secondary-menu-slot, .subnav:style(position: relative !important; top: 0 !important;)
-nvidia.com##div[style="margin-top:75px;"]:style(margin-top: 0 !important;)
+nvidia.com##.theme-deeplearning .global-nav:style(position: absolute !important;)
+nvidia.com##.theme-geforce .global-nav:style(position: relative !important;)
+nvidia.com##html:style(--nv-header-height: 110px !important;)
 nydailynews.com,twincities.com###sharing-sticky, .nav-primary-top > .entry-title
 nydailynews.com,twincities.com##.header-placeholder
 nydailynews.com,twincities.com##.headroom--not-top .digisubs-wrapper, .headroom--not-top .menu-label, .headroom--not-top .nav-primary-bottom, .headroom--not-top .nav-primary-middle, .headroom--not-top .search-icon-wrapper, .headroom--not-top .trending-bar-wrapper ul:style(display: flex !important;)
@@ -6291,7 +6292,11 @@ patch.com##[class*="styles_SocialShare--IsSticky"]:style(position: absolute !imp
 patents.google.com##.header.style-scope.application-timeline:style(position: relative !important;)
 pathful.com##.Layoutstyles__TopContainer-sc-12oy6tl-1:style(position: absolute !important;)
 patient.labcorp.com##body .global:style(position: absolute !important;)
-patreon.com##.fAkiJK, .fBOwnp:style(position: absolute !important;)
+patreon.com##[data-tag="navbar"] header:style(position: absolute !important;)
+patreon.com##.iofpbx:not(.theme-light):style(color: var(--color-action-inverse) !important;)
+patreon.com##.iofpbx:style(position: absolute !important; transform: translateY(1.3rem) !important;)\
+patreon.com##.iofpbx .logo-link.scrolled .wordmark:style(opacity: 1 !important;)
+patreon.com##.iofpbx .logomark, .iofpbx.scrolled .backdrop:style(opacity: 0 !important;)
 paul.is-a-geek.org##.site-navigation-fixed.navigation-top:style(position: relative !important;)
 paul.reviews##.postinfo:style(position: absolute !important;)
 paychex.com###block-worxfilter, .pos-f.mq-sub-header:style(position: relative !important;)
