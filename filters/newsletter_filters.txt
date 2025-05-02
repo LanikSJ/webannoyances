@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Checksum: +DSBpDE2X+6dCKJKJgCrLg
-! Last Modified: 2025-04-28 08:56 UTC
+! Checksum: 010YHbL7B0YCBe9cywYWVg
+! Last Modified: 2025-05-02 18:15 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
