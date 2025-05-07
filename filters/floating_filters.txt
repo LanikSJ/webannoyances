@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: kuQ3h5C/ajRmceufl+n0dQ
-! Last Modified: 2025-05-06 12:41 UTC
+! Last Modified: 2025-05-07 11:13 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -1132,6 +1132,7 @@ bestblades.eu,flirt4free.ca,girlsupnorth.com,talkingdotnet.com,tubepornlist.com#
 bestbuy.com##.top-fluid-container:style(position: relative !important;)
 bestbuy.com##.top-fluid-container[style="height: 73px;"]
 bestcam.tv,surlatable.com,utah.com###back-to-top
+bestgore.fun##.root-header:style(position: absolute !important;)
 bestproducts.com###sticky-wrap:style(position: relative !important;)
 bestproducts.com##.nav:style(position: relative !important; max-width: 100% !important; left: 0 !important; right: 0 !important; top: 0 !important; margin: 0 auto !important;)
 bestvpn.com,brainfacts.org,floridatravellife.com,flyingmag.com,gamewatcher.com,handelsblatt.com,popsci.com,saveur.com,therecord.com,workingmother.com##.main-header:style(position: absolute !important;)
@@ -1531,7 +1532,7 @@ buddyns.com,engineering.com,makeprojects.com##.footer:style(position: relative !
 buffalonews.com###main-body-container:style(padding-top: 0 !important;)
 buffalonews.com###site-navbar-container:style(position: relative !important; transform: none !important;)
 buffer.com##.js-header-navigation:style(position: relative !important;)
-bugatti.store,buymeacoffee.com,castingcall.club,ccp.edu,ctrade.tf,dashlane.com,freephotos.cc,freetubeapp.io,goodrx.com,nextshark.com,openphone.com,privacysavvy.com,pt.quizur.com,smithsfoodanddrug.com,support.kraken.com,thetransmitter.com##.top-0.sticky:style(position: relative !important;)
+bugatti.store,buymeacoffee.com,castingcall.club,ccp.edu,ctrade.tf,dashlane.com,freephotos.cc,freetubeapp.io,goodrx.com,nextshark.com,openphone.com,privacysavvy.com,pt.quizur.com,smithsfoodanddrug.com,steambot.info,support.kraken.com,thetransmitter.com##.top-0.sticky:style(position: relative !important;)
 bugs.chromium.org###meta-float, #summary-float, mr-header:style(position: relative !important;)
 bugs.chromium.org##.issueheader, .issue-header-container, mr-issue-metadata:style(position: relative !important; top: 0 !important;)
 bugs.chromium.org##mr-app:style(padding-top: 0 !important;)
@@ -5343,12 +5344,15 @@ medpagetoday.com##.rr-recirc-bottom-box-ad-container:style(position: static !imp
 medscape.com###fpf-fadeout, #fpf_widget
 medscape.com###pageN_2:style(display: block !important;)
 meetup.com##.sticky:style(position: relative !important; top: 0 !important;)
+megabizarro.net###recallbar:style(position: absolute !important;)
 melissa.com###sideIcon
 memegenerator.net##.comp-ui-sticky:style(position: absolute !important; top: 12px !important;)
 mensjournal.com##.main-bg.header:style(position: relative !important; top: 0 !important;)
-mentalfloss.com###header-main-navbar:style(position: absolute !important;)
-mentalfloss.com###myPlayerID, .player-position, .smallWidth.makeVideoticky.videoElement.close_btn, .smallWidth.makeVideoticky.videoElement.overlay, .videoElement.close_btn:style(position: static !important;)
-mentalfloss.com###navbar-section, #navbar-slim-wrapper, .header-wrapper:style(position: relative !important; top: 0 !important;)
+mentalfloss.com###mm-root > header:style(position: absolute !important;)
+mentalfloss.com##._1d9nku5:style(height: 80px !important;)
+mentalfloss.com##._czmsio:style(height: 40px !important;)
+mentalfloss.com##.top-20.sticky:style(position: relative !important; top: 0 !important;)
+mentalfloss.com##.fixed:style(position: absolute !important;)
 merchdojacat.com##.section-header:style(position: relative !important; transition: none !important; top: 0 !important;)
 mercola.com##.main-menu-bg:style(visibility: visible !important; opacity: 1 !important;)
 mercola.com##.mm-slideout.header:style(position: absolute !important; top: 0 !important; width: 100% !important; background: #fff !important; opacity: 1 !important;)
