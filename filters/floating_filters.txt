@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: kuQ3h5C/ajRmceufl+n0dQ
-! Last Modified: 2025-05-07 11:13 UTC
+! Last Modified: 2025-05-08 14:15 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -2644,8 +2644,8 @@ directindustry.com##.jCQiJQ:style(margin-top: -4px !important;)
 directindustry.com##.rRqtw:style(margin-top: 5px !important;)
 directv.com###navBar:style(position: relative !important;)
 disboard.org###header .logo:style(display: block !important; opacity: 1 !important;)
-disboard.org###header:style(position: absolute !important; background: rgba(47, 53, 76, 0) !important; backdrop-filter: blur(0px) !important;)
 disboard.org##.fixed-join-button:style(position: absolute !important;)
+disboard.org##.layout-main #header:style(position: absolute !important; background: rgba(47, 53, 76, 0) !important; backdrop-filter: blur(0px) !important;)
 disboard.org##.navbar-search
 disboard.org##.share-buttons:style(position: absolute !important; top: unset !important; padding-top: 0 !important; left: 0 !important; margin-left: 0 !important; flex-direction: unset !important;)
 disboards.com,eraser.heidi.ie,forum.wordreference.com,khinsider.com,sammyboy.com##.p-nav .p-nav-list .p-navEl.is-selected:style(padding-right: 15px !important; border-top-left-radius: 2px !important; border-top-right-radius: 2px !important;)
@@ -8419,6 +8419,7 @@ ticketmaster.com##.main-nav:style(position: absolute !important; background-colo
 ticketmaster.com##.paypal-nav-partner-container:style(display: inline-block !important;)
 tiffany.com###filters:style(position: relative !important;)
 tiffany.com###headerBlueBar:style(position: absolute !important;)
+tiktok.com##[class*="-DivCategoryListWrapper"]:style(position: absolute !important; top: 0 !important;)
 tiktok.com##[class*="-DivJustWatchedButtonContainer"]
 tiktok.com##[class*="-DivScrollToButtonContainer"]
 tiktok.com##[class*="-DivSideNavContainer"]:style(position: absolute !important;)
@@ -8442,23 +8443,21 @@ timeforkids.com##._3tgoBUpb:style(position: absolute !important;)
 timeforkids.com##.lzbDNwqx:style(background: linear-gradient(180deg,rgba(0,0,0,.5) 0,transparent) !important; box-shadow: none !important;)
 times-standard.com##.article.toolbar:style(position: absolute !important;)
 timesfreepress.com###detailHeadlineStickyBar, .sticky.headerWrap:style(position: relative !important; top: 0 !important;)
-timeslive.co.za##.nav-publication-sunday-times.nav-light, .nav-publication-times-live.nav-light:style(position: absolute !important;)
-timeslive.co.za##body.contracted nav .logo:style(width: 260px !important;)
-timeslive.co.za##body.contracted nav .nav-links a:style(margin-left: 30px !important;)
-timeslive.co.za##body.contracted nav .nav-links ul .logo-button:style(border: 1px solid #333 !important; margin-left: 10px !important; padding: 4px 8px !important;)
-timeslive.co.za##nav .nav-links ul li .logo-button a:style(margin-left: 0 !important;)
-timeslive.co.za##nav .nav-links ul li .logo-button:style(border: 1px solid #333 !important;)
-timeslive.co.za##nav .nav-links ul li.search a:style(border-radius: 4px !important; padding: 2px 2px 4px !important;)
-timeslive.co.za##nav .nav-links ul:style(padding: 20px 0 !important;)
-timeslive.co.za##nav .nav-wrapper:style(height: 85px !important;)
-timeslive.co.za##nav .user-buttons ul li a:style(border: 1px solid #333 !important; margin-left: 0 !important; padding: 7px 20px !important;)
-timeslive.co.za##nav .user-buttons ul:style(padding: 20px !important;)
-timeslive.co.za##nav.nav-publication-sunday-times .user-buttons ul li a.register:style(background-color: #5c3d60 !important; border-color: #5c3d60 !important; color: #fff !important;)
-timeslive.co.za##nav:style(height: 85px !important;)
+timeslive.co.za##.nav-content-container > .logo:style(width: 230px !important;)
+timeslive.co.za##.nav-publication-times-live:style(position: absolute !important;)
+timeslive.co.za##.nav-wrapper:style(height: 85px !important;)
+timeslive.co.za##.tl-marquee-home:style(visibility: visible !important; opacity: 1 !important;)
+timeslive.co.za##body.contracted nav .nav-links .logo-button:style(padding: 0 20px 0 30px !important; width: 200px !important; clip-path: polygon(2vw 0,100% 0,100% 100%,0 100%) !important;)
+timeslive.co.za##body.contracted nav .nav-links ul .search a:style(padding: unset !important; border-radius: unset !important;)
 timesofisrael.com##.header:style(position: relative !important; top: 0 !important; animation: none !important;)
 timesofisrael.com##.sidebar-control:style(position: absolute !important; top: 5% !important;)
 timesofisrael.com##.sidebar-main.sidebar:style(position: absolute !important; height: auto !important; overflow-x: hidden !important; overflow-y: auto !important;)
 timesofisrael.com##.sidebar:style(z-index: -1 !important;)
+timeout.com##._headerScrolled_1px4w_73 ._headerBottomRow_1px4w_29:style(padding-top: 1.5rem !important; transform: none !important;)
+timeout.com##._logo_1px4w_117, ._logo_1qlnh_93:style(width: 250px !important; left: 0 !important;)
+timeout.com##._navigationMenu_1qlnh_169:style(margin-top: 150px !important;)
+timeout.com##._overlayHeader_1qlnh_30
+timeout.com##.masthead-header:style(position: relative !important;)
 timleland.com###iframeContent:style(top: 0 !important;)
 timsquirrell.com##.responsive-padding--right.responsive-padding--left.header-announcement-wrapper.sqs-announcement-bar-dropzone:style(position: relative !important; top: 0 !important;)
 tinkercad.com###navbar:style(position: absolute !important; top: 0 !important;)
@@ -9429,7 +9428,7 @@ yourdictionary.com##.top-0.sticky:style(position: relative !important; --tw-shad
 yourkidstable.com##.wpfront-notification-bar-spacer
 yourtango.com###menu-header-main-wrapper-header:style(position: relative !important;)
 yourtango.com##.middle-social-share .single-article-share:style(position: absolute !important; top: 0 !important;)
-youtube.com###contentContainer.tp-yt-app-drawer:style(padding-top: 120px !important; padding-bottom: unset !important;)
+youtube.com###contentContainer.tp-yt-app-drawer:style(padding-bottom: unset !important;)
 youtube.com###contentContainer.tp-yt-app-drawer[swipe-open].tp-yt-app-drawer::after, tp-yt-app-drawer:style(position: absolute !important;)
 youtube.com###frosted-glass
 youtube.com###header.ytd-c4-tabbed-header-renderer, #header.ytd-tabbed-page-header:style(position: absolute !important; left: 0 !important; transform: translate3d(0px, -56px, 0px) !important;)
