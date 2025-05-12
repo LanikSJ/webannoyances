@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: hTGsCwY1tzMUbv9r0omqwQ
-! Last Modified: 2025-05-05 08:23 UTC
+! Checksum: Ssgit8/lq2uYUPTzsHKqgg
+! Last Modified: 2025-05-12 08:24 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -578,10 +578,6 @@ lawnewz.com###LawNewz_Mobile_MedRec_2
 lawnewz.com###lnn-promo
 lawnewz.com###post-nav
 leadingauthorities.com##.header-wrp:after
-leadingred.us##.clappr-watermark
-leadingred.us##.full
-leadingred.us##.ga-content
-leadingred.us##.simplebar-track
 lefigaro.fr##.fig-micronav__wrapper
 lefigaro.fr##.figh-collapse--with-abo.collapsed_content
 legacy.com##.Questionnaire__isOpen___2e031.Questionnaire__Questionnaire___3v3BM
