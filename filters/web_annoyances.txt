@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: Ssgit8/lq2uYUPTzsHKqgg
-! Last Modified: 2025-05-12 08:24 UTC
+! Checksum: mqlQLdszqa3nnlG8FpPVTw
+! Last Modified: 2025-05-19 08:27 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -366,8 +366,6 @@ excelcommand.com###menu_above_all
 excelcommand.com##.box_v3_background_standout_light.email_subscribe_wrapper-bottom_of_page.box_v3_width_variable_full.box_v3_wrapper
 excelforum.com###SideBar
 experian.com###sldbnr
-exstreamist.com##.sf-widget-holder
-exstreamist.com##.sidebar_list
 extrahop.com##.helpButton
 f-secure.com###article-sidebar
 fablesofaesop.com###prvcypop_372
