@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: smJYrEZHKYp+zBDemF6Suw
-! Last Modified: 2025-05-19 08:27 UTC
+! Last Modified: 2025-05-25 22:52 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -2648,7 +2648,7 @@ disboards.com,eraser.heidi.ie,forum.wordreference.com,khinsider.com,sammyboy.com
 disboards.com,khinsider.com,sammyboy.com,techist.com###top > div:nth-child(3):not(.p-sectionLinks)
 disboards.com,khinsider.com,techist.com##.p-nav-list .p-navEl-link.p-navEl-link--splitMenu:style(padding-right: 1.875px !important;)
 discogs.com##.sticky_footer:style(position: relative !important;)
-discord.com##.rich-content-right:style(position: absolute !important; top: 0 !important;)
+discord.com##.rich-content-right:style(position: relative !important; top: 0 !important;)
 discord.me###searchWrap:style(position: relative !important; top: 0 !important;)
 discord.me###sideMenu:style(position: absolute !important;)
 discord.me##.header-fix
