@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: SXQFOKbDx0IIRTV8jORSxA
-! Last Modified: 2025-05-05 08:23 UTC
+! Checksum: 1jBse8YSKdzoiVQfkfrW0Q
+! Last Modified: 2025-05-26 08:34 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -854,7 +854,6 @@ rumble.com##.bg-blue.desktop-only.media-engage-share.round-button
 runnersworld.com##.social-button-group, .standard-social-buttons, .sticky.inner
 runningshoesguru.com##.fontello-icon-facebook-1, .fontello-icon-gplus-1, .fontello-icon-twitter-1, .fontello-icon-youtube-play
 ruralsprout.com###dpsp-sticky-bar-wrapper, #dpsp_social_media_follow-3, .widget_dpsp_social_media_follow
-sadanduseless.com###conversions-box
 salesforce.com##.embeddedServiceHelpButton, .socialMediaSharingComponent
 salon.com###facebook-icon, #pocket-icon, #social_total, #twitter-icon, .facebook-white-22.sprite, .flyout-wrap.text-center, .followSalon.widget, .p-bottom-2.p-top-2, .pocket-btn, .slide-out.mainMenu, .style__followus___203Us, .style__socialIcons___dpxjv, .style__social___evyKZ, .twitter-white-22.sprite
 sanangelolive.com##.ssc-container

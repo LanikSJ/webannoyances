@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: smJYrEZHKYp+zBDemF6Suw
-! Last Modified: 2025-05-25 22:52 UTC
+! Checksum: ySRqOtQMt0bInAUVFaWqvA
+! Last Modified: 2025-05-26 08:34 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -22,7 +22,7 @@
 10best.usatoday.com##.hamburger-uninit:style(position: absolute !important;)
 10best.usatoday.com##.off-canvas-wrap:style(max-width: unset !important;)
 10best.usatoday.com##.vert-social-sharing-bar:style(position: absolute !important; top: -27px !important;)
-10best.usatoday.com,aminoapps.com,aura.app,bitport.io,btcwires.com,careers.7-eleven.com,clever.com,climateaction.org,coldstonecreamery.com,dailycaller.com,data.swiftkey.com,dcunited.com,deepcapture.com,democracynow.org,dippindots.com,discord.me,discounttire.com,duluthtrading.com,ehow.com,eonline.com,euroleaguebasketball.net,examine.com,fedex.com,gladiator.tf,goddesscams.online,gonintendo.com,halfwheel.com,hbr.org,homesciencetools.com,honda.com,independentarabia.com,independentpersian.com,indyturk.com,inquirer.com,itemfix.com,mediacentre.euroleague.net,mic.com,nyuhs.org,oo-software.com,order.wendys.com,personal.chase.com,pillsbury.com,prmdeal.com,saksfifthavenue.com,sammobile.com,sfchronicle.com,sfgate.com,shoplology.com,simpleflying.com,site24x7.com,support.google.com,teamblind.com,themarysue.com,topclassactions.com,trident.edu,vacationtracker.io,vera.org,wallpapers.com,welchs.com,whio.com##header:style(position: relative !important;)
+10best.usatoday.com,aminoapps.com,aura.app,bitport.io,btcwires.com,careers.7-eleven.com,clever.com,climateaction.org,coldstonecreamery.com,dailycaller.com,data.swiftkey.com,dcunited.com,deepcapture.com,democracynow.org,dippindots.com,discord.me,discounttire.com,duluthtrading.com,ehow.com,eonline.com,euroleaguebasketball.net,examine.com,fedex.com,gladiator.tf,goddesscams.online,gonintendo.com,halfwheel.com,hbr.org,homesciencetools.com,honda.com,independentarabia.com,independentpersian.com,indyturk.com,inquirer.com,itemfix.com,mediacentre.euroleague.net,mic.com,nyuhs.org,oo-software.com,order.wendys.com,personal.chase.com,pillsbury.com,prmdeal.com,saksfifthavenue.com,sammobile.com,sfchronicle.com,sfgate.com,simpleflying.com,site24x7.com,support.google.com,teamblind.com,themarysue.com,topclassactions.com,trident.edu,vacationtracker.io,vera.org,wallpapers.com,welchs.com,whio.com##header:style(position: relative !important;)
 10tv.com##.article__close:style(position: relative !important; top: 38px !important;)
 10tv.com##.grid__sticky-content:style(position: absolute !important; top: 0 !important;)
 10tv.com##.header__featured:style(top: 62px !important;)
@@ -7217,8 +7217,6 @@ shop.samsmithworld.com##.header-logo:style(transition: none !important; max-heig
 shop.samsmithworld.com##.site-nav--mobile__top:style(height: 75px !important; transition: none !important;)
 shop.wegmans.com##.css-1tulwj4:style(position: relative !important; top: unset !important; left: unset !important; width: unset !important; z-index: unset !important;)
 shopdisney.com##.nav__container:style(position: relative !important; top: 0 !important; transform: translateY(0) !important; border-bottom: 1px solid rgba(0,0,0,.1) !important; box-shadow: none !important;)
-shoplology.com##.fixed_icon:style(position: static !important;)
-shoplology.com##.gotop
 shopmable.com###top-box
 shopmable.com,softonic.com##.page-header:style(position: relative !important;)
 shouldiblockit.com###siri
