@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: C8a3wjJAapzbU2WyeAvHqw
-! Last Modified: 2025-06-02 08:27 UTC
+! Last Modified: 2025-06-04 04:13 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -5171,6 +5171,7 @@ magazine.atavist.com##header:style(position: absolute !important; bottom: unset 
 magento.com###nav-main:style(position: absolute !important;)
 magicleap.com###gNav, .eBPeJX.s15dwlnb-0:style(position: absolute !important;)
 magnolia.com###magnolia-header:style(position: relative !important;)
+mail.google.com##.aAX:style(overflow: auto !important;)
 mail.google.com##.aeJ:style(overflow-y: unset !important;)
 mail.google.com##.at9:style(overflow-x: unset !important; overflow-y: unset !important;)
 mail.yahoo.com#@#html:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
