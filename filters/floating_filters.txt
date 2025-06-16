@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: C8a3wjJAapzbU2WyeAvHqw
-! Last Modified: 2025-06-11 23:49 UTC
+! Checksum: K32M2Zx6vKLFreRzm8bXRg
+! Last Modified: 2025-06-16 08:28 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -2357,7 +2357,7 @@ cybernews.com##.scroll-up
 cybernews.com##.sticky-sidebar:style(position: absolute !important;)
 cyberscoop.com##.logo--small:style(transform: none !important;)
 cybersecurity.att.com##.sticky_bottom:style(position: relative !important;)
-cyclingentertainment.stream,sport5.live,toxicpatat.com##.vjs-watermark
+cyclingentertainment.stream,sport5.live##.vjs-watermark
 d.tube###sidebar:style(position: absolute !important; box-shadow: rgba(34,36,38,.15) 1px 1px 1px !important;)
 d.tube##.fixed.menu.main.borderless.large.ui:style(position: absolute !important;)
 dagbladet.no##.fixed.index-header:style(position: relative !important; top: 0 !important;)
@@ -4921,8 +4921,8 @@ last.fm##.masthead, .top-bar:style(position: absolute !important;)
 lastwordonnothing.com###sidebar-link:style(position: absolute !important;)
 lasvegas-entertainment-guide.com##.wrapping:style(position: absolute !important;)
 lasvegasnews.media###sticky_header:style(position: absolute !important;)
-latimes.com##[data-element="page-header"]:style(transform: none !important;)
 latimes.com##.ct-sticky-top:style(position: relative !important;)
+latimes.com##[data-element="page-header"]:style(transform: none !important;)
 launchdarkly.com##.resp_full_width_menu.head-container:style(position: absolute !important;)
 law.com###brand-nav:style(position: absolute !important; top: auto !important; display: block !important; opacity: 1 !important; z-index: 99 !important;)
 law.com###leaderboard:style(padding: 30px 0 !important;)
@@ -5342,7 +5342,6 @@ merchdojacat.com##.section-header:style(position: relative !important; transitio
 mercola.com##.main-menu-bg:style(visibility: visible !important; opacity: 1 !important;)
 mercola.com##.mm-slideout.header:style(position: absolute !important; top: 0 !important; width: 100% !important; background: #fff !important; opacity: 1 !important;)
 mercola.com##.post-nav-floating, .sticky-trigger-icon:style(position: relative !important; top: 0 !important;)
-merecarriker.com###infinite-footer
 meredith.com###header, #sidebar, .subnav:style(position: absolute !important;)
 merit.me##.site__Navigation:style(position: absolute !important;)
 merriam-webster.com##.left-sidebar-container, .sidebar-container:style(position: relative !important; top: 0 !important; max-height: unset !important; height: unset !important;)
@@ -8559,7 +8558,6 @@ townandcountrymag.com##.content-nav-active.sticky.nav, .sticky.nav:style(positio
 townhall.com###thm-nav-sm, .fa-bars.fa, .toggle, nav:style(position: relative !important; top: 0 !important;)
 townhall.com##.fadeInDown.animated.navbar-article.navbar-fixed-top.navbar-default.navbar, .sticky
 townsquaremedia.com###nav-close-button, #nav-menu-button:style(position: absolute !important;)
-toxicpatat.com##nav:style(position: absolute !important; transform: none !important;)
 toyota.com###globalnav1, .navigation-container:style(position: static !important;)
 toyota.com###Subnav, #wrapper > #root > div > nav, .dealer-locator .map-wrapper, .flyout_header, .header_wrapper, div.main-header:style(position: static !important;)
 toyota.com##.app-container div[style*="padding-bottom: "]:style(padding-bottom: 0 !important;)

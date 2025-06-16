@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Ad Placeholder Filters
-! Checksum: 0vwdlppUXO+86JeHxBG1Jg
-! Last Modified: 2025-05-19 08:27 UTC
+! Checksum: a0Sr38HIZMRX6Ikshpcvzw
+! Last Modified: 2025-06-16 08:28 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for empty advertising placeholders.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -185,7 +185,7 @@ crooksandliars.com##.clab-inline, .pane-cl-ad-blocks-5, .pane-cl-ad-blocks-6
 ctvnews.ca##.mobileBoxAd
 cubbiescrib.com###Adfactory_mobile_inline_300x250__mobile, #pinned-ad
 curbed.com##.m-ad
-cyclingentertainment.stream,sedsports.com,sport5.live,toxicpatat.com###ads_overlay, #awtsbox
+cyclingentertainment.stream,sedsports.com,sport5.live###ads_overlay, #awtsbox
 dailycaller.com##.ad, [class*="index__adWrapper--"]
 dailycaller.com,fark.com,poynter.org##.ad_container
 dailyfx.com##.text-center:has-text(/Advertisement/)
