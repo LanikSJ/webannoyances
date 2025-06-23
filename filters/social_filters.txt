@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: 1jBse8YSKdzoiVQfkfrW0Q
-! Last Modified: 2025-05-26 08:34 UTC
+! Checksum: EnU5ac7mV4badCJbL9zbGg
+! Last Modified: 2025-06-23 08:28 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -1087,7 +1087,6 @@ todayonline.com##.is-active.today-utility-bar, .today-share-mobile
 toddstarnes.com##.yui3-widget
 tomsguide.com,tomshardware.*##.share-bar, .shareButtons, .uix_icon--share.uix_icon.fa-share-alt.far.fa--xf
 tomsguide.com,tomshardware.*##.socialite.facebook, .socialite.pinterest, .socialite.reddit, .socialite.twitter:upward(1)
-tomssurprisesale.com###ss-signup
 toofab.com##.social__btn--facebook.social__btn, .social__btn--twitter.social__btn
 topclassactions.com##.getsocial
 topic.com##.ArticleTombstone-shareCol, .HeaderGrid-socialList

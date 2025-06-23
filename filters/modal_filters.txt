@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: D6To63ktQ0mvIC5ks9sHNA
-! Last Modified: 2025-05-05 08:23 UTC
+! Checksum: qYOxQKIaOwXF9IvURFyGfA
+! Last Modified: 2025-06-23 08:28 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -1004,7 +1004,6 @@ tnsr.org###popup.modal
 toddstarnes.com##.copy-layer-background.sqs-slide-layer-content
 toms.com###gv-btop
 tomsguide.com,tomshardware.*###ec-modal, #prism-modal
-tomssurprisesale.com##.lightbox-bg
 tonerprice.com###bio_ep_bg, #bio_ep
 toptal.com##.bounce_modal
 totalprosports.com###btn-overlay_next, #btn-overlay_prev
