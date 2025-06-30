@@ -13,6 +13,7 @@
   - [📝 Installation Notes](#-installation-notes)
 - [💬 EasyList Forum](#-easylist-forum)
 - [🌐 Mirror Hosts of Web Annoyances Ultralist](#-mirror-hosts-of-web-annoyances-ultralist)
+- [📄 License](#-license)
 
 ## 📖 Intro
 
@@ -97,3 +98,7 @@ Join the EasyList Forum @ [https://forums.lanik.us](https://forums.lanik.us) for
 ## 🌐 Mirror Hosts of Web Annoyances Ultralist
 
 TBD
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
