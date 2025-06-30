@@ -1,18 +1,20 @@
-# Web Annoyances Ultralist - _unsuck the web!_
+# 🛡️ Web Annoyances Ultralist - _unsuck the web!_
 
-- [Intro](#intro)
-- [Demonstration](#demonstration)
-  - [Before](#typical-website-in-2020-before-installing-web-annoyances-ultralist)
-  - [After](#typical-website-in-2020-after-installing-web-annoyances-ultralist)
-- [Requirements](#requirements)
-  - [Desktop](#desktop)
-  - [Mobile](#mobile)
-- [One Click Installation](#one-click-installation)
-  - [Installation Notes](#installation-notes)
-- [Easylist Forum](#easylist-forum)
-- [Mirror Hosts of Web Annoyances Ultralist](#mirror-hosts-of-web-annoyances-ultralist)
+## 📑 Table of Contents
 
-## Intro
+- [📖 Intro](#-intro)
+- [🎬 Demonstration](#-demonstration)
+  - [🟥 Before](#-before)
+  - [🟩 After](#-after)
+- [🔧 Requirements](#-requirements)
+  - [💻 Desktop](#-desktop)
+  - [📱 Mobile](#-mobile)
+- [⚡ One Click Installation](#-one-click-installation)
+  - [📝 Installation Notes](#-installation-notes)
+- [💬 EasyList Forum](#-easylist-forum)
+- [🌐 Mirror Hosts of Web Annoyances Ultralist](#-mirror-hosts-of-web-annoyances-ultralist)
+
+## 📖 Intro
 
 Are you tired of not being able to use all of your screen real estate for the text that matters on a website
 because floating headers and other distracting elements are blocking your view?
@@ -22,15 +24,19 @@ Block annoying web elements such as [sticky headers](https://alisdair.mcdiarmid.
 
 When possible, sticky headers, stickynavs, floating elements, scrolling videos and more will be pinned in place to prevent site breakage.
 
-## Demonstration
+## 🎬 Demonstration
 
-### Typical Website in 2020 _Before_ Installing Web Annoyances Ultralist
+### 🟥 Before
+
+Typical Website in 2020 _Before_ Installing Web Annoyances Ultralist
 
 ![scrolling_video_newsletter_header_share_icons highlighted](https://user-images.githubusercontent.com/22258847/51348578-16f08980-1a71-11e9-80b8-0f2ad5379bcd.png)
 
 Above screenshot taken using uBlock Origin Default Filter Lists
 
-### Typical Website in 2020 _After_ Installing Web Annoyances Ultralist
+### 🟩 After
+
+Typical Website in 2020 _After_ Installing Web Annoyances Ultralist
 
 ![afterinstall](https://user-images.githubusercontent.com/22258847/51348138-e8be7a00-1a6f-11e9-9b0c-5fac61a83f8f.png)
 
@@ -38,7 +44,7 @@ Above screenshot taken using uBlock Origin Default Filter Lists + Web Annoyances
 
 Head over to the [demonstration page](https://github.com/LanikSJ/webannoyances/wiki/Demonstration-of-Web-Annoyances-Ultralist) for additional visual examples of Web Annoyances Ultralist in action.
 
-## Requirements
+## 🔧 Requirements
 
 This filter list aims to remove annoying web elements that block your view of the screen and is created and optimized using the [uBlock Origin Extended Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax).
 
@@ -47,7 +53,7 @@ For the best user experience, please use this filter list with [![uBO_icon_16](h
 
 Browser specific download locations are located below:
 
-### Desktop
+### 💻 Desktop
 
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png) [uBlock Origin for ![google-social-logo-chrome-16](https://user-images.githubusercontent.com/22258847/58106483-354cca00-7bb6-11e9-9e23-d0e727180c2a.png) Google Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png) [uBlock Origin for ![Firefox_Logo_2017_16](https://user-images.githubusercontent.com/22258847/58106480-34b43380-7bb6-11e9-8156-d103da14289b.png) Mozilla FireFox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
@@ -57,18 +63,18 @@ Browser specific download locations are located below:
 - ![adguard_icon_16](https://user-images.githubusercontent.com/22258847/58104254-7d69ed80-7bb2-11e9-989b-a0a73db4d808.png) [AdGuard for ![64px-Windows_darkblue_2012_svg svg](https://user-images.githubusercontent.com/22258847/58109066-ea818100-7bba-11e9-9808-fde2015ebe10.png)](https://adguard.com/en/adguard-windows/overview.html)
 - ![adguard_icon_16](https://user-images.githubusercontent.com/22258847/58104254-7d69ed80-7bb2-11e9-989b-a0a73db4d808.png) [AdGuard for ![64px-MacOS_wordmark_(2017) svg](https://user-images.githubusercontent.com/22258847/58109057-e6edfa00-7bba-11e9-886b-f162bcffc7df.png)](https://adguard.com/en/adguard-mac/overview.html)
 
-### Mobile
+### 📱 Mobile
 
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png) [uBlock Origin for ![Firefox_Logo_2017_16](https://user-images.githubusercontent.com/22258847/58106480-34b43380-7bb6-11e9-8156-d103da14289b.png) Mozilla FireFox for
   ![16px-Android_robot svg](https://user-images.githubusercontent.com/22258847/58109333-74314e80-7bbb-11e9-98ea-b25525b42e9d.png) Android](https://addons.mozilla.org/EN-US/android/addon/ublock-origin/)
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png) [uBlock Origin for ![Kiwi Browser](https://user-images.githubusercontent.com/5884000/63644438-59560500-c6e9-11e9-8089-695a781bc095.png) Kiwi Browser for
   ![16px-Android_robot svg](https://user-images.githubusercontent.com/22258847/58109333-74314e80-7bbb-11e9-98ea-b25525b42e9d.png) Android](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
-## One Click Installation
+## ⚡ One Click Installation
 
 Click the following: [Add Web Annoyances Ultralist to Custom uBlock Origin Filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt&title=Web%20Annoyances%20Ultralist).
 
-### Installation Notes
+### 📝 Installation Notes
 
 After clicking the Link above, a warning box will appear asking you to confirm the installation - Click 'OK' to add the list to your Custom Filter Lists.
 
@@ -84,10 +90,10 @@ You can validate the list installed properly by navigating to your uBlock Origin
 
 [Step-by-Step install instructions](https://github.com/LanikSJ/webannoyances/wiki/Installation-Instructions#install-method-2---step-by-step-installation) are available in the [wiki](https://github.com/LanikSJ/webannoyances/wiki).
 
-## EasyList Forum
+## 💬 EasyList Forum
 
 Join the EasyList Forum @ [https://forums.lanik.us](https://forums.lanik.us) for faster reporting of issues and chat.
 
-## Mirror Hosts of Web Annoyances Ultralist
+## 🌐 Mirror Hosts of Web Annoyances Ultralist
 
 TBD
