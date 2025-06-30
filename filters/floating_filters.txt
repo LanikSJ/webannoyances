@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: YBtMMrcxSCSjJeYMCTRwWw
-! Last Modified: 2025-06-23 23:52 UTC
+! Checksum: 3vH50DTe67BK2XvTStxrAQ
+! Last Modified: 2025-06-30 08:28 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -607,7 +607,7 @@ antergos.com###header-menu, #main-header, #top-header:style(position: relative !
 antergos.com,getmonero.org##cloudflare-app:style(position: absolute !important;)
 antergos.com,getmonero.org##html:style(top: 0 !important;)
 anthem.com,bcbsga.com##.on.alert-pattern-v2.ant-dismissable.ant-anthem-alert:style(position: absolute !important;)
-antimalwareserviceexecutable.org,arnoldporter.com,auditmypc.com,blog.sucuri.net,braintropic.com,cernovich.com,collinmbarrett.com,coloradoreview.colostate.edu,copyblogger.com,coryrylan.com,crazydadlife.com,ebikeschool.com,ehomerecordingstudio.com,eng.uber.com,erome.vip,famousbirthdays.com,formidable.com,gamingtoday.com,gasspouts.com,gdpr-info.eu,githubuniverse.com,helpdeskgeek.com,intowindows.com,jheneaiko.com,malwarebytes.com,milcorp.com,mintpressnews.com,mnn.com,mspoweruser.com,notlaura.com,octoverse.github.com,peerlyst.com,phickle.com,physiotutors.com,quartersnacks.com,realityblurred.com,recordedfuture.com,regroove.ca,rootreport.com,sallysbakingaddiction.com,samharris.org,smartrecruiters.com,techtipsapp.com,theamericanscholar.org,theamphour.com,thenib.com,thetechhacker.com,thewonderweeks.com,utech-polyurethane.com,warriortrading.com,wdc.com,wifinowevents.com,wplearninglab.com##.site-header:style(position: absolute !important;)
+antimalwareserviceexecutable.org,arnoldporter.com,auditmypc.com,blog.sucuri.net,braintropic.com,cernovich.com,collinmbarrett.com,coloradoreview.colostate.edu,copyblogger.com,coryrylan.com,crazydadlife.com,ebikeschool.com,ehomerecordingstudio.com,eng.uber.com,erome.vip,famousbirthdays.com,formidable.com,gamingtoday.com,gasspouts.com,gdpr-info.eu,githubuniverse.com,helpdeskgeek.com,intowindows.com,jheneaiko.com,malwarebytes.com,milcorp.com,mintpressnews.com,mnn.com,mspoweruser.com,notlaura.com,octoverse.github.com,peerlyst.com,phickle.com,physiotutors.com,quartersnacks.com,realityblurred.com,recordedfuture.com,regroove.ca,rootreport.com,sallysbakingaddiction.com,samharris.org,smartrecruiters.com,theamericanscholar.org,theamphour.com,thenib.com,thetechhacker.com,thewonderweeks.com,utech-polyurethane.com,warriortrading.com,wdc.com,wifinowevents.com,wplearninglab.com##.site-header:style(position: absolute !important;)
 anysoftwaretools.com,techcenturion.com###sticky-navigation:style(position: absolute !important; top: 0 !important;)
 aol.co.uk,aol.com##.inner-floating-container:style(opacity: 1 !important;)
 aol.co.uk,aol.com##.m-navbar--hasSubnav.m-navbar--hasLogo.m-navbar.l-navbar--fixed.l-navbar, .m-navbar.l-navbar--fixed.l-navbar, .o2-in-side-view, .vdb_player:style(position: relative !important; top: 0 !important;)
@@ -1520,7 +1520,6 @@ bsky.app##.css-175oi2r.r-pgf20v, .r-196lrry.css-175oi2r:style(position: absolute
 bsky.app##.r-1d5kdc7 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2):style(position: relative !important; transform: none !important; opacity: 1 !important;)
 bsky.app##.r-1i6wzkk.css-175oi2r
 bsky.app##.r-gtdqiz:style(position: relative !important;)
-bsocialplus.com###SITE_HEADER:style(position: absolute !important;)
 btcd.io##.bcd-head-price, .btc-head:style(position: absolute !important;)
 bubblin.io###toggleable, div > iframe:style(position: absolute !important;)
 bucksfreepress.co.uk###__nq__hh:style(visibility: collapse)
@@ -3512,9 +3511,9 @@ fratellirossetti.com###skywalker_header_multiline:style(position: absolute !impo
 fredhaasnissan.com##.di-stacks--bottom, .di-stacks--top:style(position: relative !important;)
 free.vice.com##.site-header__logo:style(width: 95px !important;)
 freecodecamp.org###donation-banner-link:style(position: absolute !important;)
-freeconvert.com,hersheyland.com##.navbar-container:style(position: absolute !important;)
 freeconvert.com###breadcrumb:style(top: 100% !important;)
 freeconvert.com##.freshdesk-widget-placeholder
+freeconvert.com,hersheyland.com##.navbar-container:style(position: absolute !important;)
 freecourseweb.com###sticky:style(position: static !important;)
 freecourseweb.com##.grecaptcha-badge:style(position: absolute !important;)
 freedomworks.org###block-fw-menu-fw-desktop-menu, #top:style(position: relative !important; top: 0 !important;)
@@ -4266,8 +4265,6 @@ idnes.cz###p-menu:style(position: relative !important;)
 idropnews.com###main-nav-cont:style(position: relative !important; top: 0 !important;)
 idropnews.com###sidebar:style(opacity: 1 !important;)
 idropnews.com,zeit.co##.sticky:style(position: absolute !important;)
-idtbox.com##.topbar-wrap:style(padding-top: 0 !important;)
-idtbox.com##.topbar:style(position: relative !important;)
 idtheftcenter.org##.av-logo-container.container, nav > div > ul > li > a:style(height: 118px !important; line-height: 118px !important;)
 idtheftcenter.org##.logo > [href="https://www.idtheftcenter.org/"], .logo > a > img:style(max-height: 118px !important;)
 idtheftcenter.org,mashed.com###header:style(position: absolute !important; margin-top: 0 !important;)
@@ -7292,8 +7289,6 @@ slack.com##header.headroom:style(position: absolute !important; transform: trans
 slack.help###nav_list, .category_header.header_white.header:style(position: absolute !important;)
 slackhq.com##.is-fixed.c-nav__primary.c-nav:style(position: absolute !important;)
 slamonline.com###DesktopNav:style(position: relative !important; top: 0 !important;)
-slashdigit.com###wpp-8:style(position: static !important; top: 0 !important;)
-slashdigit.com###wpp-8_clone
 slashdot.org###slashboxes:style(position: relative !important;)
 slashdot.org##.slashbar:style(position: absolute !important; top: 0 !important;)
 slashleaks.com###top, .navbar-header:style(position: relative !important; top: 0 !important;)

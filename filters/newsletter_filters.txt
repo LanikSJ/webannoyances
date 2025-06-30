@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Checksum: 010YHbL7B0YCBe9cywYWVg
-! Last Modified: 2025-05-02 18:15 UTC
+! Checksum: cCYfjgDOYMA6gHw5m5hpcw
+! Last Modified: 2025-06-30 08:28 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -700,7 +700,6 @@ totalprosports.com###mai_reusable_block_widget-3
 townhall.com##.email-signup-inpage, .nlbox
 trains.com##.aboveMobile.basement
 travelandleisure.com##.newsletter-callout
-trennd.co##.subscribeBarContainer
 triplebyte.com##.fixed.blog-post__subscription__header
 troublefixers.org##.subscribe_outer
 troyhunt.com###floating_subscribe
