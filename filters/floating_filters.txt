@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: 3vH50DTe67BK2XvTStxrAQ
-! Last Modified: 2025-06-30 08:28 UTC
+! Last Modified: 2025-07-04 04:59 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -631,7 +631,6 @@ apify.com###xxx:style(position: absolute !important;)
 apkcreative.com##.zik-header-container:style(position: absolute !important;)
 apkmos.com##.td-header-wrap .td-affix .td-main-menu-logo:style(height: 60px !important;)
 apkmos.com,igeeksblog.com,lastwordonprofootball.com,livekindly.co,smartphoneaccessoriesreview.com,statereviewer.com,techbizweb.com,techquila.co.in,thezerohack.com##.td-header-menu-wrap:style(position: static !important; transform: translate3d(0,0,0) !important;)
-apnews.com##.Page-header-stickyWrap:style(position: relative !important; top: 0 !important;)
 app.feetfinder.com##.cLVZXo
 app.feetfinder.com##.SideBarMain:style(position: relative !important; top: 0 !important;)
 app.starbucks.com##.base___R2z_A:style(position: absolute !important;)
