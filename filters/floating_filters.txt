@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: ljPfZW6j5kU5b88Ptn1HNg
-! Last Modified: 2025-07-07 08:28 UTC
+! Last Modified: 2025-07-13 03:04 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -2786,7 +2786,7 @@ dsogaming.com,haxx.se,luckypeach.com,metro.co.uk,namecheap.com,newsday.com,queer
 dualshockers.com##.nav-main:style(position: absolute !important;)
 duckduckgo.com##.bpmtqMMvOah3BsmgaZwn:style(position: relative !important; top: 0 !important; left: unset !important; border-bottom: 1px solid var(--theme-col-bg-page) !important;)
 duckduckgo.com##.header-wrap:style(position: relative !important; top: 0 !important;)
-duckduckgo.com##.jhl8KW91eJEZ7AAMCYw6 > div:nth-child(2)
+duckduckgo.com##.JfFALYdEgcyeDEjrtTpZ > div:nth-child(2), .jhl8KW91eJEZ7AAMCYw6 > div:nth-child(2)
 duckduckgo.com##.TccjmKV6RraCaCw5L9gd:style(position: absolute !important;)
 duduf.com,htpcguides.com,linuxincluded.com,nintendosoup.com,ourfakehistory.com,theantimedia.com###site-navigation:style(position: absolute !important;)
 duffelblog.com###mvp-main-body-wrap, #mvp-main-nav-bot, .mvp-fixed-next:style(margin-top: 0 !important;)
@@ -3151,7 +3151,7 @@ fakespot.com##.product-show .analysis-section .analysis-details h5, .product-sho
 falconhospital.com##.breadcrumb-wrapper, .header:style(position: absolute !important;)
 fanbox.cc##.cplgnZ:style(position: absolute !important;)
 fandom.com###WikiaBar, .notifications-placeholder
-fandom.com##.fandom-community-header__background:style(position: relative !important;)
+fandom.com##.fandom-community-header__background:style(position: absolute !important;)
 fandom.com##.fixed-header:style(position: unset !important; transform: none !important; outline: unset !important; box-shadow: none !important;)
 fandom.com##.global-explore-navigation, .global-navigation, .global-navigation__bottom, .global-top-navigation:style(position: absolute !important;)
 fandom.com##.is-visible.fandom-sticky-header
