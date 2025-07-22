@@ -1,4 +1,7 @@
 name: NodeJS Dependencies Update
+permissions:
+  contents: write
+  pull-requests: write
 
 env:
   NODE_VERSION: 20
