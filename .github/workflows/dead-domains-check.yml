@@ -1,5 +1,9 @@
 name: Dead Domains Check
 
+permissions:
+  contents: read
+  pull-requests: write
+
 env:
   NODE_VERSION: 20
 
