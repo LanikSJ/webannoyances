@@ -1,7 +1,7 @@
 name: Dead Domains Check
 
 permissions:
-  contents: read
+  contents: write
   pull-requests: write
 
 env:
