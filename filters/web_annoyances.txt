@@ -1228,6 +1228,12 @@ whatahowler.com##.is-other.markup--p-quote.markup--quote
 whattomine.com##.centered-image-short
 whitesourcesoftware.com###default-next-button-wrapper
 whoishostingthis.com##.clickable
+wiki.fextralife.com##.wp-block-template-part.wp-block-template-part--footer.site-footer-container
+wiki.fextralife.com##.discussion-wrapper
+wiki.fextralife.com##nav.valnet-flex-navbar
+wiki.fextralife.com###fextra-navbar-desktop
+wiki.fextralife.com##.hidden-xs.side-bar-right
+wiki.fextralife.com##.wiki-header-container
 wired.co.uk##.a-gallery__aside--touch.a-gallery__aside
 wirelessweek.com###footer-expand
 wlox.com##.story-feed
