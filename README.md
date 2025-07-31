@@ -11,6 +11,11 @@
   - [📱 Mobile](#-mobile)
 - [⚡ One Click Installation](#-one-click-installation)
   - [📝 Installation Notes](#-installation-notes)
+- [🔧 Usage Instructions](#-usage-instructions)
+  - [📝 Filter Processing Scripts](#-filter-processing-scripts)
+  - [🛠️ Other Utility Scripts](#️-other-utility-scripts)
+  - [📋 Configuration](#-configuration)
+  - [🔄 Workflow Examples](#-workflow-examples)
 - [💬 EasyList Forum](#-easylist-forum)
 - [🌐 Mirror Hosts of Web Annoyances Ultralist](#-mirror-hosts-of-web-annoyances-ultralist)
 - [📄 License](#-license)
@@ -90,6 +95,158 @@ You can validate the list installed properly by navigating to your uBlock Origin
 ![installed](https://user-images.githubusercontent.com/22258847/40389548-42ecaf5e-5e02-11e8-8d16-1d7e08c805b6.PNG)
 
 [Step-by-Step install instructions](https://github.com/LanikSJ/webannoyances/wiki/Installation-Instructions#install-method-2---step-by-step-installation) are available in the [wiki](https://github.com/LanikSJ/webannoyances/wiki).
+
+## 🔧 Usage Instructions
+
+This repository includes several scripts for managing and processing filter lists. Below are the usage instructions for the main tools.
+
+### 📝 Filter Processing Scripts
+
+#### checksum-sort.sh - Enhanced Backup & Sorting Tool
+
+The `checksum-sort.sh` script provides comprehensive filter list processing with advanced backup functionality.
+
+**Basic Usage:**
+
+```bash
+./scripts/checksum-sort.sh filters/combined-filters.txt
+```
+
+**Features:**
+
+- **Organized Backup Storage**: Centralized backup directory (`backup/`) for better organization
+- **Backup Integrity Verification**: Automatic checksum verification using SHA256, MD5, or size comparison
+- **Automatic Backup Rotation**: Configurable maximum backup retention (default: 10 backups)
+- **Enhanced Error Handling**: Robust rollback mechanism with verification
+- **Cross-Platform Compatibility**: Works on both Linux and macOS
+
+**Advanced Usage:**
+
+```bash
+# List available backups for a filter file
+./scripts/checksum-sort.sh --list-backups filters/combined-filters.txt
+
+# View backup history
+ls -la backup/
+```
+
+**Sample Output:**
+
+```bash
+[INFO] 2024-01-15 10:30:15 Available backups for 'combined-filters.txt':
+-rw-r--r-- 1 user staff 1.2M Jan 15 10:25 combined-filters.txt.backup.20240115_102530
+-rw-r--r-- 1 user staff 1.1M Jan 15 09:15 combined-filters.txt.backup.20240115_091545
+```
+
+#### sorter.pl - Enhanced Fanboy Adblock Sorter v2.0
+
+The `sorter.pl` script has been completely rewritten with modern Perl best practices and enhanced functionality.
+
+**Basic Usage (Backward Compatible):**
+
+```bash
+perl scripts/sorter.pl filters/combined-filters.txt
+```
+
+**Command Line Options:**
+
+- `--help, -h`: Show comprehensive help
+- `--verbose, -v`: Enable detailed logging
+- `--backup-suffix`: Customize backup file suffix
+- `--no-backup`: Skip backup creation
+- `--dry-run`: Preview changes without modification
+
+**Advanced Usage Examples:**
+
+```bash
+# Verbose processing with detailed statistics
+perl scripts/sorter.pl --verbose filters/combined-filters.txt
+
+# Custom backup suffix
+perl scripts/sorter.pl --backup-suffix .original filters/combined-filters.txt
+
+# Process multiple files without backups
+perl scripts/sorter.pl --no-backup filters/*.txt
+
+# Preview changes without making modifications
+perl scripts/sorter.pl --dry-run --verbose filters/combined-filters.txt
+```
+
+**Features:**
+
+- **Modern Perl Standards**: Strict and warnings pragmas, UTF-8 support
+- **Enhanced Error Handling**: Comprehensive file validation and graceful error recovery
+- **Statistics and Monitoring**: File statistics, section counting, before/after comparison
+- **Multi-file Support**: Process multiple files with individual error handling
+- **Safety Features**: Atomic file operations, configurable backups, proper cleanup
+
+### 🛠️ Other Utility Scripts
+
+#### Domain-Specific Processing Scripts
+
+The repository includes several specialized scripts for processing different types of filter lists:
+
+- `admiral-domains.sh`: Process Admiral anti-adblock domains
+- `combined-filters.sh`: Generate combined filter lists
+- `fanboy-social.sh`: Process Fanboy social media filters
+- `malware-domains.sh`: Process malware domain lists
+- `remove-lines.sh`: Remove specific lines from filter lists
+
+#### Additional Tools
+
+- `addChecksum.pl`: Add checksums to filter lists
+- `FOP.py`: Filter Optimizer Python script
+
+### 📋 Configuration
+
+**Backup Configuration (checksum-sort.sh):**
+
+```bash
+readonly BACKUP_DIR="${SCRIPT_DIR}/../backup"  # Backup storage location
+readonly MAX_BACKUPS=10                        # Maximum backups to retain
+```
+
+**Customization Options:**
+
+- Modify `BACKUP_DIR` to change backup location
+- Adjust `MAX_BACKUPS` to change retention policy
+- Logging format can be customized in log functions
+
+### 🔄 Workflow Examples
+
+**Basic Filter Processing Workflow:**
+
+```bash
+# 1. Process and sort a filter list with backup
+./scripts/checksum-sort.sh filters/combined-filters.txt
+
+# 2. Check processing results
+./scripts/checksum-sort.sh --list-backups filters/combined-filters.txt
+
+# 3. If needed, manually sort with verbose output
+perl scripts/sorter.pl --verbose filters/combined-filters.txt
+```
+
+**Development Workflow:**
+
+```bash
+# 1. Test changes without modification
+perl scripts/sorter.pl --dry-run --verbose filters/test-filter.txt
+
+# 2. Apply changes with custom backup
+perl scripts/sorter.pl --backup-suffix .dev filters/test-filter.txt
+
+# 3. Process with full backup and verification
+./scripts/checksum-sort.sh filters/test-filter.txt
+```
+
+### ⚠️ Important Notes
+
+- All scripts maintain backward compatibility with existing workflows
+- Backup files are automatically managed and rotated
+- UTF-8 encoding is supported for international filter lists
+- Cross-platform compatibility ensures consistent behavior on Linux and macOS
+- Process-safe temporary files prevent conflicts during concurrent operations
 
 ## 💬 EasyList Forum
 
