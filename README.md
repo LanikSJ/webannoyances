@@ -109,7 +109,7 @@ The `checksum-sort.sh` script provides comprehensive filter list processing with
 **Basic Usage:**
 
 ```bash
-./scripts/checksum-sort.sh filters/combined-filters.txt
+./scripts/checksum-sort.sh filters/ultralist.txt
 ```
 
 **Features:**
@@ -124,7 +124,7 @@ The `checksum-sort.sh` script provides comprehensive filter list processing with
 
 ```bash
 # List available backups for a filter file
-./scripts/checksum-sort.sh --list-backups filters/combined-filters.txt
+./scripts/checksum-sort.sh --list-backups filters/ultralist.txt
 
 # View backup history
 ls -la backup/
@@ -133,9 +133,9 @@ ls -la backup/
 **Sample Output:**
 
 ```bash
-[INFO] 2024-01-15 10:30:15 Available backups for 'combined-filters.txt':
--rw-r--r-- 1 user staff 1.2M Jan 15 10:25 combined-filters.txt.backup.20240115_102530
--rw-r--r-- 1 user staff 1.1M Jan 15 09:15 combined-filters.txt.backup.20240115_091545
+[INFO] 2024-01-15 10:30:15 Available backups for 'ultralist.txt':
+-rw-r--r-- 1 user staff 1.2M Jan 15 10:25 ultralist.txt.backup.20240115_102530
+-rw-r--r-- 1 user staff 1.1M Jan 15 09:15 ultralist.txt.backup.20240115_091545
 ```
 
 #### sorter.pl - Enhanced Fanboy Adblock Sorter v2.0
@@ -145,7 +145,7 @@ The `sorter.pl` script has been completely rewritten with modern Perl best pract
 **Basic Usage (Backward Compatible):**
 
 ```bash
-perl scripts/sorter.pl filters/combined-filters.txt
+perl scripts/sorter.pl filters/ultralist.txt
 ```
 
 **Command Line Options:**
@@ -160,16 +160,16 @@ perl scripts/sorter.pl filters/combined-filters.txt
 
 ```bash
 # Verbose processing with detailed statistics
-perl scripts/sorter.pl --verbose filters/combined-filters.txt
+perl scripts/sorter.pl --verbose filters/ultralist.txt
 
 # Custom backup suffix
-perl scripts/sorter.pl --backup-suffix .original filters/combined-filters.txt
+perl scripts/sorter.pl --backup-suffix .original filters/ultralist.txt
 
 # Process multiple files without backups
 perl scripts/sorter.pl --no-backup filters/*.txt
 
 # Preview changes without making modifications
-perl scripts/sorter.pl --dry-run --verbose filters/combined-filters.txt
+perl scripts/sorter.pl --dry-run --verbose filters/ultralist.txt
 ```
 
 **Features:**
@@ -218,13 +218,13 @@ readonly MAX_BACKUPS=10                        # Maximum backups to retain
 
 ```bash
 # 1. Process and sort a filter list with backup
-./scripts/checksum-sort.sh filters/combined-filters.txt
+./scripts/checksum-sort.sh filters/ultralist.txt
 
 # 2. Check processing results
-./scripts/checksum-sort.sh --list-backups filters/combined-filters.txt
+./scripts/checksum-sort.sh --list-backups filters/ultralist.txt
 
 # 3. If needed, manually sort with verbose output
-perl scripts/sorter.pl --verbose filters/combined-filters.txt
+perl scripts/sorter.pl --verbose filters/ultralist.txt
 ```
 
 **Development Workflow:**
