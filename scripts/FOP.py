@@ -247,6 +247,9 @@ class FilterProcessor:
         :param uncombined_filters: List[str]:
         :param domain_pattern: re.Pattern:
         :param domain_separator: str:
+        :param uncombined_filters: List[str]:
+        :param domain_pattern: re.Pattern:
+        :param domain_separator: str:
         :returns: List of combined filter strings
 
         """
@@ -401,6 +404,11 @@ class FilterProcessor:
         :param domains1: re.Match:
         :param domains2: re.Match:
         :param domain_pattern: re.Pattern:
+        :param filter1: str:
+        :param filter2: str:
+        :param domains1: re.Match:
+        :param domains2: re.Match:
+        :param domain_pattern: re.Pattern:
 
         """
         # Check if the non-domain parts are identical
@@ -444,6 +452,7 @@ class FilterProcessor:
         :param domain_str: str:
         :param domain_str: str:
         :param domain_str: str:
+        :param domain_str: str:
 
         """
         domains = domain_str.split("|" if "|" in domain_str else ",")
@@ -459,6 +468,11 @@ class FilterProcessor:
     ) -> str:
         """Merge domains from two filters.
 
+        :param base_filter: str:
+        :param domains1: re.Match:
+        :param domains2: re.Match:
+        :param domain_pattern: re.Pattern:
+        :param domain_separator: str:
         :param base_filter: str:
         :param domains1: re.Match:
         :param domains2: re.Match:
@@ -614,6 +628,7 @@ class FilterSorter:
         :param filename: str:
         :param filename: str:
         :param filename: str:
+        :param filename: str:
         :returns: True if the file was modified, False otherwise
 
         """
@@ -716,6 +731,7 @@ class FilterSorter:
         :param line: str:
         :param line: str:
         :param line: str:
+        :param line: str:
 
         """
         return (line.startswith("!") or line.startswith("%include")
@@ -724,6 +740,7 @@ class FilterSorter:
     def _process_filter_line(self, line: str) -> Optional[str]:
         """Process and clean up a filter line.
 
+        :param line: str:
         :param line: str:
         :param line: str:
         :param line: str:
@@ -802,6 +819,8 @@ class FilterSorter:
         :param is_element_section: bool:
         :param section: List[str]:
         :param is_element_section: bool:
+        :param section: List[str]:
+        :param is_element_section: bool:
 
         """
         if is_element_section:
@@ -823,6 +842,7 @@ class FilterSorter:
     def _tidy_filter_rule(self, filter_text: str) -> str:
         """Clean up and sort options in blocking filters.
 
+        :param filter_text: str:
         :param filter_text: str:
         :param filter_text: str:
         :param filter_text: str:
@@ -948,6 +968,9 @@ class FilterSorter:
         :param domains: str:
         :param separator: str:
         :param selector: str:
+        :param domains: str:
+        :param separator: str:
+        :param selector: str:
 
         """
         # Sort domains
@@ -985,6 +1008,7 @@ class FilterSorter:
         :param selector: str:
         :param selector: str:
         :param selector: str:
+        :param selector: str:
 
         """
         # This is a simplified version - the original has complex string handling
@@ -994,6 +1018,7 @@ class FilterSorter:
     def _remove_unnecessary_wildcards(self, filter_text: str) -> str:
         """Remove unnecessary wildcards from filter text.
 
+        :param filter_text: str:
         :param filter_text: str:
         :param filter_text: str:
         :param filter_text: str:
@@ -1046,6 +1071,8 @@ class FilterSorter:
     def _replace_file(self, temp_file: str, original_file: str) -> None:
         """Replace original file with temporary file.
 
+        :param temp_file: str:
+        :param original_file: str:
         :param temp_file: str:
         :param original_file: str:
         :param temp_file: str:
@@ -1194,6 +1221,7 @@ class RepositoryManager:
         :param message: str:
         :param message: str:
         :param message: str:
+        :param message: str:
 
         """
         if not self.base_command:
@@ -1247,6 +1275,7 @@ class FOPApplication:
         :param locations: Optional[List[str]]:  (Default value = None)
         :param locations: Optional[List[str]]:  (Default value = None)
         :param locations: Optional[List[str]]:  (Default value = None)
+        :param locations: Optional[List[str]]:  (Default value = None)
 
         """
         self._print_greeting()
@@ -1272,6 +1301,7 @@ class FOPApplication:
     def _process_location(self, location: str) -> None:
         """Process all filter files in a location.
 
+        :param location: str:
         :param location: str:
         :param location: str:
         :param location: str:
@@ -1343,6 +1373,8 @@ class FOPApplication:
                                   user_changes: bool) -> None:
         """Handle repository commit process.
 
+        :param repo_manager: RepositoryManager:
+        :param user_changes: bool:
         :param repo_manager: RepositoryManager:
         :param user_changes: bool:
         :param repo_manager: RepositoryManager:
@@ -1457,6 +1489,8 @@ class FOPApplication:
         :param changed: bool:
         :param comment: str:
         :param changed: bool:
+        :param comment: str:
+        :param changed: bool:
 
         """
         if not comment:
@@ -1490,6 +1524,7 @@ class FOPApplication:
     def _validate_url(self, url: str) -> bool:
         """Validate URL format.
 
+        :param url: str:
         :param url: str:
         :param url: str:
         :param url: str:
