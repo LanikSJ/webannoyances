@@ -371,6 +371,9 @@ fablesofaesop.com###prvcypop_372
 failory.com###magnify-widget-container
 fairygodboss.com##.fixedBottom
 fandom.com##.page__right-rail
+fandom.com##.global-footer
+fandom.com##.main-page-tag-rcs
+fandom.com###mw-data-after-content
 fanucamerica.com###myBtn
 fark.com##.new_to_fark_p
 fark.com##.top_right_container
