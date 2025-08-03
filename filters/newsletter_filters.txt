@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
 ! Checksum: g8+u8i6sM1yTT7N4/1F4qA
-! Last Modified: 2025-07-28 18:16 UTC
+! Last Modified: 2025-08-03 05:49 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -157,6 +157,7 @@ computerweekly.com###download-offer
 conservativereview.com##.rail-email-capture
 consumerreports.org##.newsletter-sign-up
 cookinglight.com##.newsletter-callout.component
+conversationsabouther.net##.post-subscribe
 cosmosmagazine.com,l2inc.com###daily-newsletter-signup
 couponchief.com###block-newsletter-col, #mainblock-newsletter
 couponfollow.com###alets-subscribe, #topSub
@@ -249,6 +250,7 @@ fiercetelecom.com###block-tektitegenericnewsletterblock
 filmschoolrejects.com##cloudflare-app
 financialsamurai.com###enews-ext-2
 finehomebuilding.com##.inline-email-form
+finimize.com##.gBBEKo, .kSqQD
 fivebooks.com##.inline-el.-newsletter.inline-box
 fivethirtyeight.com##.newsletter, .newsletter-modal
 flickr.com##.signup-footer
