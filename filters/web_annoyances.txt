@@ -501,6 +501,10 @@ homecrux.com##.tac.us_wrapper
 hoopshype.com##.meta
 hotnewhiphop.com##.js-newsstand-toggler
 hotukdeals.com###softMessages-list
+idlprocycling.com##.raw-html-component
+idlprocycling.com##.text-white.pb-8.py-5.gap-6.flex-col.flex.footer--Classic.footer
+idlprocycling.com##.pt-3
+idlprocycling.com###comments
 increment.com##.ArticleMilestones > .u-Container
 index.co##.c_windowFixedCanvas
 index.hu##.lapozo
