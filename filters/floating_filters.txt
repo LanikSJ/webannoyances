@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: bHm+DT6AM4zk9qO1BDsZ2Q
-! Last Modified: 2025-08-03 05:48 UTC
+! Last Modified: 2025-08-03 07:49 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -607,7 +607,6 @@ antergos.com###header-menu, #main-header, #top-header:style(position: relative !
 antergos.com,getmonero.org##cloudflare-app:style(position: absolute !important;)
 antergos.com,getmonero.org##html:style(top: 0 !important;)
 anthem.com,bcbsga.com##.on.alert-pattern-v2.ant-dismissable.ant-anthem-alert:style(position: absolute !important;)
-antimalwareserviceexecutable.org,arnoldporter.com,auditmypc.com,blog.sucuri.net,braintropic.com,cernovich.com,collinmbarrett.com,coloradoreview.colostate.edu,copyblogger.com,coryrylan.com,crazydadlife.com,ebikeschool.com,ehomerecordingstudio.com,eng.uber.com,erome.vip,famousbirthdays.com,formidable.com,freecodecamp.org,gamingtoday.com,gasspouts.com,gdpr-info.eu,githubuniverse.com,helpdeskgeek.com,intowindows.com,jheneaiko.com,malwarebytes.com,milcorp.com,mintpressnews.com,mnn.com,mspoweruser.com,notlaura.com,octoverse.github.com,peerlyst.com,phickle.com,physiotutors.com,quartersnacks.com,realityblurred.com,recordedfuture.com,regroove.ca,rootreport.com,sallysbakingaddiction.com,samharris.org,smartrecruiters.com,theamericanscholar.org,theamphour.com,thenib.com,thetechhacker.com,thewonderweeks.com,utech-polyurethane.com,warriortrading.com,wdc.com,wifinowevents.com,wplearninglab.com##.site-header:style(position: absolute !important;)
 anysoftwaretools.com,techcenturion.com###sticky-navigation:style(position: absolute !important; top: 0 !important;)
 aol.co.uk,aol.com##.inner-floating-container:style(opacity: 1 !important;)
 aol.co.uk,aol.com##.m-navbar--hasSubnav.m-navbar--hasLogo.m-navbar.l-navbar--fixed.l-navbar, .m-navbar.l-navbar--fixed.l-navbar, .o2-in-side-view, .vdb_player:style(position: relative !important; top: 0 !important;)
@@ -717,6 +716,7 @@ armstrongeconomics.com,wefunder.com##.topNav:style(position: absolute !important
 army.mil##.top-stories:style(position: absolute !important; top: 0 !important;)
 armytimes.com###top-header, .site-color.secondary-navigation:style(position: relative !important; top: 0 !important;)
 arnavdhamija.com##.sidebar-toggle:style(position: absolute !important;)
+arnoldporter.com,auditmypc.com,blog.sucuri.net,braintropic.com,cernovich.com,collinmbarrett.com,coloradoreview.colostate.edu,copyblogger.com,coryrylan.com,crazydadlife.com,ebikeschool.com,ehomerecordingstudio.com,eng.uber.com,erome.vip,famousbirthdays.com,formidable.com,freecodecamp.org,gamingtoday.com,gasspouts.com,gdpr-info.eu,githubuniverse.com,helpdeskgeek.com,intowindows.com,jheneaiko.com,malwarebytes.com,milcorp.com,mintpressnews.com,mnn.com,mspoweruser.com,notlaura.com,octoverse.github.com,peerlyst.com,phickle.com,physiotutors.com,quartersnacks.com,realityblurred.com,recordedfuture.com,regroove.ca,rootreport.com,sallysbakingaddiction.com,samharris.org,smartrecruiters.com,theamericanscholar.org,theamphour.com,thenib.com,thetechhacker.com,thewonderweeks.com,utech-polyurethane.com,warriortrading.com,wdc.com,wifinowevents.com,wplearninglab.com##.site-header:style(position: absolute !important;)
 arnoldporter.com##.js-subnav.site-wrapper-fluid.site-subnav:style(position: absolute !important;)
 arris.com###menu-parent.mainnav:style(position: absolute !important; top: 0 !important;)
 arris.com##.navbar-fixed-top:style(position: absolute !important; top: 30px !important;)
@@ -2202,7 +2202,7 @@ cookieconsent.io###branding:style(position: absolute !important; padding-top: 95
 cookieconsent.io##.bg-color-green::before:style(background-attachment: unset !important;)
 cookieconsent.io##.btn-outline-secondary:style(color: white !important; border-color: white !important;)
 cookieconsent.io##.scrolled #branding #site-title:style(max-width: 400px !important;)
-cookiesfordays.com,justonecookbook.com,natashaskitchen.com,powerhungry.com##slick-heartbeat:style(position: absolute !important;)
+cookiesfordays.com,girlscangrill.com,justonecookbook.com,natashaskitchen.com,powerhungry.com##slick-heartbeat:style(position: absolute !important;)
 cookinglight.com##.ckl-diet.header-banner.partial:style(position: relative !important;)
 cooksillustrated.com###buorg, .active.header-wrapper__sticky, .atkPinnedHeader__wrapper
 cooley.com###contentarea:style(margin-top: 0 !important;)
@@ -4380,14 +4380,14 @@ indeed.com##.cmp-HeaderBasicContainer-nameRatingsFollow:style(display: flex !imp
 indeed.com##.cmp-HeaderBasicContainer:style(flex-direction: column !important;)
 indeed.com##.cmp-HeaderStickyContainer-brandColorStrip, .cmp-HeaderStickyContainer-stickyTriggerElement, .sticky-banner
 indeed.com##.cmp-HeaderStickyContainer-fixedContainer:style(position: static !important; box-shadow: none !important; border-bottom: 1px solid #ececec !important;)
-independent.co.uk##.hero-video.hero:style(position: static !important; top: auto !important; right: unset !important;)
-independent.co.uk##.hero-video:style(width: 100% !important;)
-independent.co.uk##.hero-wrapper, .sticky.video-popout-wrap:style(position: static !important;)
-independent.co.uk##.sticky-video:style(position: static !important; width: 968px !important; height: 544.5px !important;)
-independent.co.uk##.video-hero-video:style(position: static !important; top: unset !important; right: unset !important; width: 100% !important;)
-independent.co.uk##.video-hero-wrapper:style(height: unset !important;)
-independent.co.uk##.video-popout-close
-independent.co.uk##.video-sticky-video:style(position: static !important; top: unset !important; left: unset !important; width: unset !important; box-shadow: none !important; background-color: unset !important; animation: none !important;)
+independent.co.uk###closeContainer
+independent.co.uk###liveIco:style(width: 52px !important; height: 20px !important; bottom: 13px !important; left: 18px !important;)
+independent.co.uk###placeHolder:style(position: absolute !important;)
+independent.co.uk###topLeftElements:style(width: calc(100% - 120px) !important;)
+independent.co.uk###vf-tray-trigger
+independent.co.uk###viewsElements:style(top: 55px !important; left: 20px !important;)
+independent.co.uk##[id^="native_playerSekindoSPlayer"]:style(position: relative !important; left: 0 !important; bottom: 0 !important; width: 624px !important; height: 351px !important; box-shadow: none !important;)
+independent.co.uk##[id^="Video-iFrame-SekindoSPlayer"]:style(width: 624px !important; height: 351px !important;)
 independent.ie##.indo-1c50554c_subnav:style(height: unset !important;)
 independent.ie##.indo-5581dc71_headerwrapper:style(position: relative !important; --subnav-height: 48px !important;)
 independent.ie##.video-js:style(position: relative !important; padding-top: 56.25% !important; bottom: 0 !important; width: 100% !important; height: 150px !important; right: 0 !important; animation: none !important; box-shadow: none !important;)
@@ -6666,7 +6666,7 @@ psychcentral.com##.css-12wdr8u:style(position: relative !important;)
 psyche.co##[class*="styled__Container-"][class*="styled__GuideNav-"]:style(position: static !important;)
 psyche.co##[class*="styled__HeaderWrapper"]:style(position: static !important; border-bottom: 1px solid rgba(0, 0, 0, 0) !important;)
 psyche.co##[class*="styled__Pusher-"]
-psychologytoday.com##.main-nav-wrapper:style(position: absolute !important;)
+psychologytoday.com##.main-nav-wrapper:style(position: absolute !important; box-shadow: none !important;)
 pt.quizur.com##.fixed.borderMenuMobile:style(position: relative !important;)
 pt.quizur.com,stats.wonderland.tf##.top-20.sticky:style(position: relative !important; top: 0 !important;)
 pubexec.com##.staged.no-touch-sticky.clearfix.bot-layer:style(position: relative !important;)
@@ -8126,6 +8126,7 @@ thefiscaltimes.com##.sub-header:style(position: relative !important; top: 0 !imp
 theflavorbender.com##.menu-toggle:style(position: relative !important; top: 0 !important;)
 thefloorpro.com##.fixed .navFloatwrapper:style(position: absolute !important;)
 thefly.com###site_header, #site_header_nav:style(position: relative !important; top: 0 !important;)
+thefp.com##.container-SgmYZ_.pc-flexDirection-row:style(position: absolute !important; top: 0 !important;)
 thefreedictionary.com###fixedBlock
 thegamesdb.net###tinyHeader:style(position: absolute !important;)
 thegatewaypundit.com###wj-network-header-container .wj-network-header-logo:style(height: calc(6.6vw + 12px) !important; min-height: 36px !important; margin: 4px 0 !important; transition: none !important;)
@@ -8863,7 +8864,6 @@ vesa.org###header-nav, #pre-header:style(position: relative !important; top: 0 !
 viaircorp.com##.sticky-atc
 vicetv.com###V1C3 > .navbar:style(position: absolute !important;)
 vicis.com##.stuck:style(position: absolute !important;)
-vid10.kimcilonlyofc.site##.pos-stickymenu:style(position: relative !important;)
 video.newyorker.com##.the-nav.js-nav.cne-wrapper--header:style(position: absolute !important;)
 video.wired.com##.the-nav.js-nav.cne-wrapper--header:style(position: absolute !important;)
 videoconverterfactory.com##.btt
