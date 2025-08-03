@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
 ! Checksum: g8+u8i6sM1yTT7N4/1F4qA
-! Last Modified: 2025-08-03 05:49 UTC
+! Last Modified: 2025-08-03 07:50 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -646,6 +646,7 @@ thedrive.com##.newsletter-image, .newsletter-signup, .page-header-message[href="
 theepochtimes.com##.newsletter_widget
 thefader.com##.mobile_newsletter
 thefix.com###header-subscribe
+thefp.com##.container-liQ2Vy, .wrapper-TFWk0w
 thefreedictionary.com###SubscrSlider
 thegatewaypundit.com##.email-list-subscribe
 thegazette.com###subscribe-CTA
