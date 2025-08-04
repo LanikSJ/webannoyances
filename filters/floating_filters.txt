@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: bHm+DT6AM4zk9qO1BDsZ2Q
-! Last Modified: 2025-08-04 02:22 UTC
+! Checksum: ASTuYBBAfLuEdl+PyELRhQ
+! Last Modified: 2025-08-04 21:27 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -406,9 +406,9 @@ airlive.net,alextimes.com,cryptodisrupt.com##.td-logo-sticky
 airspacemag.com###Scroll-Nav, is-sticky.sticky-block
 airwaysmag.com##.floatingmainmenu.thisisfixed.header-menu, .floatingmainmenu_b.header-undermenu, .xoo-wsc-basket:style(position: absolute !important;)
 aitestkitchen.withgoogle.com##.cArvvO:style(position: relative !important;)
-aivanet.com,electronichouse.com,eng.uber.com,geekstraw.com,lastwordonprofootball.com,milestomemories.com,morganhilltimes.com,pressbull.com,rbr.com,sayingimages.com,smartphoneaccessoriesreview.com,techbizweb.com,zycrypto.com##.td-more-articles-box:style(position: absolute !important; right: 0 !important; visibility: visible !important;)
+aivanet.com,electronichouse.com,eng.uber.com,geekstraw.com,lastwordonprofootball.com,milestomemories.com,morganhilltimes.com,pressbull.com,rbr.com,sayingimages.com,techbizweb.com,zycrypto.com##.td-more-articles-box:style(position: absolute !important; right: 0 !important; visibility: visible !important;)
 aivanet.com,fandomwire.com,igeeksblog.com##.td-header-menu-wrap.td-affix:style(position: absolute !important; transform: translate3d(0,0,0) !important;)
-aivanet.com,fandomwire.com,lastwordonprofootball.com,linux4one.com,smartphoneaccessoriesreview.com,statereviewer.com,techquila.co.in,thezerohack.com,troublefixers.org##.td-ss-main-sidebar:style(position: static !important; top: auto !important;)
+aivanet.com,fandomwire.com,lastwordonprofootball.com,linux4one.com,statereviewer.com,techquila.co.in,thezerohack.com,troublefixers.org##.td-ss-main-sidebar:style(position: static !important; top: auto !important;)
 aiyprojects.withgoogle.com##.header-background:style(position: absolute !important;)
 ajc.com,daytondailynews.com,journal-news.com,springfieldnewssun.com##.c-header:style(position: relative !important;)
 ajc.com,daytondailynews.com,journal-news.com,springfieldnewssun.com##.c-homepageContent:style(padding-top: 15px !important;)
@@ -506,8 +506,8 @@ allrecipes.com,bhg.com,coastalliving.com,cookinglight.com,ew.com,foodandwine.com
 allrecipes.com,bhg.com,coastalliving.com,cookinglight.com,ew.com,foodandwine.com,fortune.com,health.com,hellogiggles.com,instyle.com,myrecipes.com,parents.com,peopleenespanol.com,realsimple.com,southernliving.com,time.com,travelandleisure.com##.title-display:style(opacity: 0 !important; transform: none !important;)
 allrecipes.com,bhg.com,coastalliving.com,cookinglight.com,ew.com,foodandwine.com,fortune.com,health.com,hellogiggles.com,instyle.com,myrecipes.com,peopleenespanol.com,realsimple.com,southernliving.com,time.com,travelandleisure.com###jumpstart_player_1:style(position: static !important;)
 allrecipes.com,bhg.com,coastalliving.com,cookinglight.com,ew.com,foodandwine.com,fortune.com,health.com,hellogiggles.com,instyle.com,myrecipes.com,peopleenespanol.com,realsimple.com,southernliving.com,time.com,travelandleisure.com##.component.navigation-test .menu-homepage-row:last-of-type .logo, .scroll-up .component.navigation-test .primary-text-links
-allrecipes.com,bhg.com,coastalliving.com,cookinglight.com,ew.com,foodandwine.com,fortune.com,health.com,hellogiggles.com,instyle.com,myrecipes.com,peopleenespanol.com,realsimple.com,southernliving.com,time.com,travelandleisure.com##.docking-nav-placeholder, .jumpnext-playlist-container, .vjs-loading-spinner
 allrecipes.com,bhg.com,coastalliving.com,cookinglight.com,ew.com,foodandwine.com,fortune.com,health.com,hellogiggles.com,instyle.com,myrecipes.com,peopleenespanol.com,realsimple.com,southernliving.com,time.com,travelandleisure.com##.component.navigation-test .menu-homepage-row:last-of-type .primary-links, .logo, .menu-homepage-row:last-of-type .primary-link:style(display: block !important;)
+allrecipes.com,bhg.com,coastalliving.com,cookinglight.com,ew.com,foodandwine.com,fortune.com,health.com,hellogiggles.com,instyle.com,myrecipes.com,peopleenespanol.com,realsimple.com,southernliving.com,time.com,travelandleisure.com##.docking-nav-placeholder, .jumpnext-playlist-container, .vjs-loading-spinner
 alltrails.com###fullscreen-search-filters, #mobile-header, .result-info:style(position: relative !important; top: 0 !important;)
 allure.com##.inner:style(position: relative !important; top: 0 !important;)
 allure.com##.sticky-wrapper, .utility-nav
@@ -629,7 +629,7 @@ apexmotorswa.com##.vdp-header-bar__title:style(font-size: 24px !important;)
 apify.com###xxx:style(position: absolute !important;)
 apkcreative.com##.zik-header-container:style(position: absolute !important;)
 apkmos.com##.td-header-wrap .td-affix .td-main-menu-logo:style(height: 60px !important;)
-apkmos.com,igeeksblog.com,lastwordonprofootball.com,livekindly.co,smartphoneaccessoriesreview.com,statereviewer.com,techbizweb.com,techquila.co.in,thezerohack.com##.td-header-menu-wrap:style(position: static !important; transform: translate3d(0,0,0) !important;)
+apkmos.com,igeeksblog.com,lastwordonprofootball.com,livekindly.co,statereviewer.com,techbizweb.com,techquila.co.in,thezerohack.com##.td-header-menu-wrap:style(position: static !important; transform: translate3d(0,0,0) !important;)
 app.feetfinder.com##.cLVZXo
 app.feetfinder.com##.SideBarMain:style(position: relative !important; top: 0 !important;)
 app.starbucks.com##.base___R2z_A:style(position: absolute !important;)
@@ -716,8 +716,8 @@ armstrongeconomics.com,wefunder.com##.topNav:style(position: absolute !important
 army.mil##.top-stories:style(position: absolute !important; top: 0 !important;)
 armytimes.com###top-header, .site-color.secondary-navigation:style(position: relative !important; top: 0 !important;)
 arnavdhamija.com##.sidebar-toggle:style(position: absolute !important;)
-arnoldporter.com,auditmypc.com,blog.sucuri.net,braintropic.com,cernovich.com,collinmbarrett.com,coloradoreview.colostate.edu,copyblogger.com,coryrylan.com,crazydadlife.com,ebikeschool.com,ehomerecordingstudio.com,eng.uber.com,erome.vip,famousbirthdays.com,formidable.com,freecodecamp.org,gamingtoday.com,gasspouts.com,gdpr-info.eu,githubuniverse.com,helpdeskgeek.com,intowindows.com,jheneaiko.com,malwarebytes.com,milcorp.com,mintpressnews.com,mnn.com,mspoweruser.com,notlaura.com,octoverse.github.com,peerlyst.com,phickle.com,physiotutors.com,quartersnacks.com,realityblurred.com,recordedfuture.com,regroove.ca,rootreport.com,sallysbakingaddiction.com,samharris.org,smartrecruiters.com,theamericanscholar.org,theamphour.com,thenib.com,thetechhacker.com,thewonderweeks.com,utech-polyurethane.com,warriortrading.com,wdc.com,wifinowevents.com,wplearninglab.com##.site-header:style(position: absolute !important;)
 arnoldporter.com##.js-subnav.site-wrapper-fluid.site-subnav:style(position: absolute !important;)
+arnoldporter.com,auditmypc.com,blog.sucuri.net,braintropic.com,cernovich.com,collinmbarrett.com,coloradoreview.colostate.edu,copyblogger.com,coryrylan.com,crazydadlife.com,ebikeschool.com,ehomerecordingstudio.com,eng.uber.com,erome.vip,famousbirthdays.com,formidable.com,freecodecamp.org,gamingtoday.com,gasspouts.com,gdpr-info.eu,githubuniverse.com,helpdeskgeek.com,intowindows.com,jheneaiko.com,malwarebytes.com,milcorp.com,mintpressnews.com,mnn.com,mspoweruser.com,notlaura.com,octoverse.github.com,peerlyst.com,phickle.com,physiotutors.com,quartersnacks.com,realityblurred.com,recordedfuture.com,regroove.ca,rootreport.com,sallysbakingaddiction.com,samharris.org,smartrecruiters.com,theamericanscholar.org,theamphour.com,thenib.com,thetechhacker.com,thewonderweeks.com,utech-polyurethane.com,warriortrading.com,wdc.com,wifinowevents.com,wplearninglab.com##.site-header:style(position: absolute !important;)
 arris.com###menu-parent.mainnav:style(position: absolute !important; top: 0 !important;)
 arris.com##.navbar-fixed-top:style(position: absolute !important; top: 30px !important;)
 arris.com##.navbar-right:style(margin-right: 0 !important;)
@@ -2136,11 +2136,11 @@ community.arm.com##.scrolled .banner.context .hierarchy .current-hierarchy > .hi
 community.arm.com##.scrolled .banner.context .hierarchy .current-hierarchy:style(flex-direction: column !important; align-items: flex-start !important; width: 100% !important;)
 community.arm.com##.scrolled .banner.context .hierarchy:style(flex-direction: column !important; align-items: flex-start !important;)
 community.arm.com##.scrollWithUserVertical:style(position: relative !important; top: 0 !important; height: 70px !important; flex-direction: row !important;)
-community.brave.com,community.cartalk.com,community.humanetech.com,community.letsencrypt.org,community.signalusers.org,community.spiceworks.com,devcommunity.x.com,discourse.pi-hole.net,discourse.ubuntu.com,discuss.privacyguides.net,discuss.techlore.tech,forum.gitlab.com,forum.kee.pm,forum.level1techs.com,forum.openwrt.org,forum.torproject.org,forums.blizzard.com,forums.distill.io,,forums.fatsharkgames.com,forums.plex.tv,forums.sifive.com,fragiledeal.com,ubuntu-mate.community##.with-timeline:style(position: relative !important; top: 0 !important;)
-community.brave.com,community.cartalk.com,community.humanetech.com,community.letsencrypt.org,community.signalusers.org,community.spiceworks.com,devcommunity.x.com,discourse.pi-hole.net,discourse.ubuntu.com,discuss.privacyguides.net,discuss.techlore.tech,forum.gitlab.com,forum.kee.pm,forum.level1techs.com,forum.openwrt.org,forum.torproject.org,forums.blizzard.com,forums.distill.io,,forums.fatsharkgames.com,forums.plex.tv,forums.sifive.com,fragiledeal.com,ubuntu-mate.community##.extra-info
-community.brave.com,community.cartalk.com,community.humanetech.com,community.letsencrypt.org,community.signalusers.org,community.spiceworks.com,devcommunity.x.com,discourse.pi-hole.net,discourse.ubuntu.com,discuss.privacyguides.net,discuss.techlore.tech,forum.gitlab.com,forum.kee.pm,forum.level1techs.com,forum.openwrt.org,forum.torproject.org,forums.blizzard.com,forums.distill.io,,forums.fatsharkgames.com,forums.plex.tv,forums.sifive.com,fragiledeal.com,ubuntu-mate.community##.topic-avatar:style(position: relative !important; top: 0 !important; margin-bottom: 0 !important;)
 community.brave.com,community.cartalk.com,community.humanetech.com,community.letsencrypt.org,community.signalusers.org,community.spiceworks.com,devcommunity.x.com,discourse.pi-hole.net,discourse.ubuntu.com,discuss.privacyguides.net,discuss.techlore.tech,forum.gitlab.com,forum.kee.pm,forum.level1techs.com,forum.openwrt.org,forum.torproject.org,forums.blizzard.com,forums.distill.io,,forums.fatsharkgames.com,forums.plex.tv,forums.sifive.com,fragiledeal.com,ubuntu-mate.community##.d-header-wrap:style(position: relative !important;)
+community.brave.com,community.cartalk.com,community.humanetech.com,community.letsencrypt.org,community.signalusers.org,community.spiceworks.com,devcommunity.x.com,discourse.pi-hole.net,discourse.ubuntu.com,discuss.privacyguides.net,discuss.techlore.tech,forum.gitlab.com,forum.kee.pm,forum.level1techs.com,forum.openwrt.org,forum.torproject.org,forums.blizzard.com,forums.distill.io,,forums.fatsharkgames.com,forums.plex.tv,forums.sifive.com,fragiledeal.com,ubuntu-mate.community##.extra-info
 community.brave.com,community.cartalk.com,community.humanetech.com,community.letsencrypt.org,community.signalusers.org,community.spiceworks.com,devcommunity.x.com,discourse.pi-hole.net,discourse.ubuntu.com,discuss.privacyguides.net,discuss.techlore.tech,forum.gitlab.com,forum.kee.pm,forum.level1techs.com,forum.openwrt.org,forum.torproject.org,forums.blizzard.com,forums.distill.io,,forums.fatsharkgames.com,forums.plex.tv,forums.sifive.com,fragiledeal.com,ubuntu-mate.community##.sidebar-wrapper:style(position: relative !important; top: 0 !important;)
+community.brave.com,community.cartalk.com,community.humanetech.com,community.letsencrypt.org,community.signalusers.org,community.spiceworks.com,devcommunity.x.com,discourse.pi-hole.net,discourse.ubuntu.com,discuss.privacyguides.net,discuss.techlore.tech,forum.gitlab.com,forum.kee.pm,forum.level1techs.com,forum.openwrt.org,forum.torproject.org,forums.blizzard.com,forums.distill.io,,forums.fatsharkgames.com,forums.plex.tv,forums.sifive.com,fragiledeal.com,ubuntu-mate.community##.topic-avatar:style(position: relative !important; top: 0 !important; margin-bottom: 0 !important;)
+community.brave.com,community.cartalk.com,community.humanetech.com,community.letsencrypt.org,community.signalusers.org,community.spiceworks.com,devcommunity.x.com,discourse.pi-hole.net,discourse.ubuntu.com,discuss.privacyguides.net,discuss.techlore.tech,forum.gitlab.com,forum.kee.pm,forum.level1techs.com,forum.openwrt.org,forum.torproject.org,forums.blizzard.com,forums.distill.io,,forums.fatsharkgames.com,forums.plex.tv,forums.sifive.com,fragiledeal.com,ubuntu-mate.community##.with-timeline:style(position: relative !important; top: 0 !important;)
 community.broadcom.com###NAV:style(position: relative !important;)
 community.broadcom.com##.stickyNav-filler
 community.cartalk.com##.cartalk-nav-wrapper:style(position: relative !important;)
@@ -4303,8 +4303,8 @@ ifunny.co,service.parentpaygroup.com,tacobell.com##body:style(height: unset !imp
 igeeksblog.com##.td-affix .td-logo-in-menu .td-sticky-mobile.td-header-logo:style(display: inline !important;)
 igeeksblog.com##.td-header-active.td-header-desktop-sticky-wrap, .td-logo-in-menu .td-sticky-mobile.td-mobile-logo
 igeeksblog.com##.td-header-wrap .td-affix .sf-menu > li > a, .td-main-menu-logo img:style(line-height: 80px !important;)
+igeeksblog.com##.td-header-wrap .td-affix .td-main-menu-logo:style(height: 80px !important;)
 igeeksblog.com,seeitmarket.com##.td-header-wrap .td-affix .td-main-menu-logo img:style(max-height: 80px !important;)
-igeeksblog.com,smartphoneaccessoriesreview.com##.td-header-wrap .td-affix .td-main-menu-logo:style(height: 80px !important;)
 ign.com##.feedback-button:style(position: absolute !important;)
 ign.com##.home.sidebar-content-transition > .scrollbar:style(overflow-x: unset !important; overflow-y: unset !important;)
 ign.com##.pgQSsticky.sidebar:style(position: absolute !important;)
@@ -5057,8 +5057,8 @@ lino.network###header-wrap:style(position: absolute !important; background-color
 linode.com##body > header:style(position: relative !important; top: 0 !important;)
 linustechtips.com###lmgNav:style(position: relative !important;)
 linustechtips.com##.cAnnouncementsFloat.cAnnouncements:style(position: absolute !important;)
-linux4one.com,smartphoneaccessoriesreview.com##.td-affix .header-search-wrap .td-icon-search, .td-header-wrap .td-affix .sf-menu > li > a, .td-header-wrap .td-affix .td-main-menu-logo a:style(line-height: 80px !important;)
-linux4one.com,smartphoneaccessoriesreview.com##.td-header-wrap .td-affix .td-main-menu-logo img:style(top: 0 !important; max-height: 80px !important;)
+linux4one.com##.td-affix .header-search-wrap .td-icon-search, .td-header-wrap .td-affix .sf-menu > li > a, .td-header-wrap .td-affix .td-main-menu-logo a:style(line-height: 80px !important;)
+linux4one.com##.td-header-wrap .td-affix .td-main-menu-logo img:style(top: 0 !important; max-height: 80px !important;)
 linuxboot.org##.navbar-custom.navbar-fixed-top.navbar-default.navbar:style(position: absolute !important;)
 linuxmint.com##.navbar-brand:style(padding-top: 20px !important; padding-bottom: 20px !important;)
 linuxmint.com##.navbar-sticky-on:style(background-color: transparent !important;)
@@ -7333,7 +7333,6 @@ smartdraw.com##.grayTopBar.navbar, .siteNavRow.row-fluid:style(position: absolut
 smarteranalyst.com###page-wrapper:style(margin-top: 45px !important;)
 smarteranalyst.com##.sticky.header-layout-left-logo.main-nav-bar:style(position: relative !important;)
 smartertravel.com##.headernav:style(position: relative !important; top: 0 !important;)
-smartphoneaccessoriesreview.com##.td-logo-in-menu .td-sticky-disable.td-header-logo:style(display: block !important;)
 smithsonianjourneys.org###backFilters
 smithsonianjourneys.org##.header-container-wrapper:style(position: relative !important;)
 smokeroom.com##.prod:style(position: absolute !important;)
