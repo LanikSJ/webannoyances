@@ -106,11 +106,13 @@ Browser specific download locations are located below:
 ### 📱 Mobile
 
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-  [uBlock Origin for ![Firefox_Logo_2017_16](https://user-images.githubusercontent.com/22258847/58106480-34b43380-7bb6-11e9-8156-d103da14289b.png) Mozilla FireFox for
-  ![16px-Android_robot svg](https://user-images.githubusercontent.com/22258847/58109333-74314e80-7bbb-11e9-98ea-b25525b42e9d.png) Android](https://addons.mozilla.org/EN-US/android/addon/ublock-origin/)
+  [uBlock Origin for ![Firefox_Logo_2017_16](https://user-images.githubusercontent.com/22258847/58106480-34b43380-7bb6-11e9-8156-d103da14289b.png)
+  Mozilla FireFox for ![16px-Android_robot svg](https://user-images.githubusercontent.com/22258847/58109333-74314e80-7bbb-11e9-98ea-b25525b42e9d.png)
+  Android](https://addons.mozilla.org/EN-US/android/addon/ublock-origin/)
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-  [uBlock Origin for ![Kiwi Browser](https://user-images.githubusercontent.com/5884000/63644438-59560500-c6e9-11e9-8089-695a781bc095.png) Kiwi Browser for
-  ![16px-Android_robot svg](https://user-images.githubusercontent.com/22258847/58109333-74314e80-7bbb-11e9-98ea-b25525b42e9d.png) Android](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+  [uBlock Origin for ![Kiwi Browser](https://user-images.githubusercontent.com/5884000/63644438-59560500-c6e9-11e9-8089-695a781bc095.png)
+  Kiwi Browser for ![16px-Android_robot svg](https://user-images.githubusercontent.com/22258847/58109333-74314e80-7bbb-11e9-98ea-b25525b42e9d.png)
+  Android](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 ## ⚡ One Click Installation
 
