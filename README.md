@@ -90,26 +90,26 @@ Browser specific download locations are located below:
 ### 💻 Desktop
 
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-[uBlock Origin for ![google-social-logo-chrome-16](https://user-images.githubusercontent.com/22258847/58106483-354cca00-7bb6-11e9-9e23-d0e727180c2a.png) Google Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+  [uBlock Origin for ![google-social-logo-chrome-16](https://user-images.githubusercontent.com/22258847/58106483-354cca00-7bb6-11e9-9e23-d0e727180c2a.png) Google Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-[uBlock Origin for ![Firefox_Logo_2017_16](https://user-images.githubusercontent.com/22258847/58106480-34b43380-7bb6-11e9-8156-d103da14289b.png) Mozilla FireFox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  [uBlock Origin for ![Firefox_Logo_2017_16](https://user-images.githubusercontent.com/22258847/58106480-34b43380-7bb6-11e9-8156-d103da14289b.png) Mozilla FireFox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-[uBlock Origin for
+  [uBlock Origin for
   ![Safari_browser_logo_16](https://user-images.githubusercontent.com/22258847/58106493-35e56080-7bb6-11e9-8d9d-4feebb27a241.png) Apple Safari](https://github.com/el1t/uBlock-Safari#installation)
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-[uBlock Origin for ![Opera_2015_icon_16](https://user-images.githubusercontent.com/22258847/58106490-354cca00-7bb6-11e9-9826-e339bbd708b3.png) Opera](https://addons.opera.com/extensions/details/ublock/)
+  [uBlock Origin for ![Opera_2015_icon_16](https://user-images.githubusercontent.com/22258847/58106490-354cca00-7bb6-11e9-9826-e339bbd708b3.png) Opera](https://addons.opera.com/extensions/details/ublock/)
 - ![adguard_icon_16](https://user-images.githubusercontent.com/22258847/58104254-7d69ed80-7bb2-11e9-989b-a0a73db4d808.png)
-[AdGuard for ![64px-Windows_darkblue_2012_svg svg](https://user-images.githubusercontent.com/22258847/58109066-ea818100-7bba-11e9-9808-fde2015ebe10.png)](https://adguard.com/en/adguard-windows/overview.html)
+  [AdGuard for ![64px-Windows_darkblue_2012_svg svg](https://user-images.githubusercontent.com/22258847/58109066-ea818100-7bba-11e9-9808-fde2015ebe10.png)](https://adguard.com/en/adguard-windows/overview.html)
 - ![adguard_icon_16](https://user-images.githubusercontent.com/22258847/58104254-7d69ed80-7bb2-11e9-989b-a0a73db4d808.png)
-[AdGuard for ![64px-MacOS_wordmark_(2017) svg](https://user-images.githubusercontent.com/22258847/58109057-e6edfa00-7bba-11e9-886b-f162bcffc7df.png)](https://adguard.com/en/adguard-mac/overview.html)
+  [AdGuard for ![64px-MacOS_wordmark_(2017) svg](https://user-images.githubusercontent.com/22258847/58109057-e6edfa00-7bba-11e9-886b-f162bcffc7df.png)](https://adguard.com/en/adguard-mac/overview.html)
 
 ### 📱 Mobile
 
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-[uBlock Origin for ![Firefox_Logo_2017_16](https://user-images.githubusercontent.com/22258847/58106480-34b43380-7bb6-11e9-8156-d103da14289b.png) Mozilla FireFox for
+  [uBlock Origin for ![Firefox_Logo_2017_16](https://user-images.githubusercontent.com/22258847/58106480-34b43380-7bb6-11e9-8156-d103da14289b.png) Mozilla FireFox for
   ![16px-Android_robot svg](https://user-images.githubusercontent.com/22258847/58109333-74314e80-7bbb-11e9-98ea-b25525b42e9d.png) Android](https://addons.mozilla.org/EN-US/android/addon/ublock-origin/)
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-[uBlock Origin for ![Kiwi Browser](https://user-images.githubusercontent.com/5884000/63644438-59560500-c6e9-11e9-8089-695a781bc095.png) Kiwi Browser for
+  [uBlock Origin for ![Kiwi Browser](https://user-images.githubusercontent.com/5884000/63644438-59560500-c6e9-11e9-8089-695a781bc095.png) Kiwi Browser for
   ![16px-Android_robot svg](https://user-images.githubusercontent.com/22258847/58109333-74314e80-7bbb-11e9-98ea-b25525b42e9d.png) Android](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 ## ⚡ One Click Installation
@@ -158,11 +158,11 @@ advanced backup functionality.
 **Features:**
 
 - **Organized Backup Storage**: Centralized backup directory (`backup/`) for better
-organization
+  organization
 - **Backup Integrity Verification**: Automatic checksum verification using SHA256,
-MD5, or size comparison
+  MD5, or size comparison
 - **Automatic Backup Rotation**: Configurable maximum backup retention (default:
-10 backups)
+  10 backups)
 - **Enhanced Error Handling**: Robust rollback mechanism with verification
 - **Cross-Platform Compatibility**: Works on both Linux and macOS
 
@@ -224,7 +224,7 @@ perl scripts/sorter.pl --dry-run --verbose filters/ultralist.txt
 - **Modern Perl Standards**: Strict and warnings pragmas, UTF-8 support
 - **Enhanced Error Handling**: Comprehensive file validation and graceful error recovery
 - **Statistics and Monitoring**: File statistics, section counting, before/after
-comparison
+  comparison
 - **Multi-file Support**: Process multiple files with individual error handling
 - **Safety Features**: Atomic file operations, configurable backups, proper cleanup
 
