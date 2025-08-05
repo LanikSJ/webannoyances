@@ -90,14 +90,18 @@ Browser specific download locations are located below:
 ### 💻 Desktop
 
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-  [uBlock Origin for ![google-social-logo-chrome-16](https://user-images.githubusercontent.com/22258847/58106483-354cca00-7bb6-11e9-9e23-d0e727180c2a.png) Google Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+  [uBlock Origin for ![google-social-logo-chrome-16](https://user-images.githubusercontent.com/22258847/58106483-354cca00-7bb6-11e9-9e23-d0e727180c2a.png)
+  Google Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-  [uBlock Origin for ![Firefox_Logo_2017_16](https://user-images.githubusercontent.com/22258847/58106480-34b43380-7bb6-11e9-8156-d103da14289b.png) Mozilla FireFox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  [uBlock Origin for ![Firefox_Logo_2017_16](https://user-images.githubusercontent.com/22258847/58106480-34b43380-7bb6-11e9-8156-d103da14289b.png)
+  Mozilla FireFox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
   [uBlock Origin for
-  ![Safari_browser_logo_16](https://user-images.githubusercontent.com/22258847/58106493-35e56080-7bb6-11e9-8d9d-4feebb27a241.png) Apple Safari](https://github.com/el1t/uBlock-Safari#installation)
+  ![Safari_browser_logo_16](https://user-images.githubusercontent.com/22258847/58106493-35e56080-7bb6-11e9-8d9d-4feebb27a241.png)
+  Apple Safari](https://github.com/el1t/uBlock-Safari#installation)
 - ![uBO_icon_16](https://user-images.githubusercontent.com/22258847/58104215-675c2d00-7bb2-11e9-9ef7-53bd5d32139c.png)
-  [uBlock Origin for ![Opera_2015_icon_16](https://user-images.githubusercontent.com/22258847/58106490-354cca00-7bb6-11e9-9826-e339bbd708b3.png) Opera](https://addons.opera.com/extensions/details/ublock/)
+  [uBlock Origin for ![Opera_2015_icon_16](https://user-images.githubusercontent.com/22258847/58106490-354cca00-7bb6-11e9-9826-e339bbd708b3.png)
+  Opera](https://addons.opera.com/extensions/details/ublock/)
 - ![adguard_icon_16](https://user-images.githubusercontent.com/22258847/58104254-7d69ed80-7bb2-11e9-989b-a0a73db4d808.png)
   [AdGuard for ![64px-Windows_darkblue_2012_svg svg](https://user-images.githubusercontent.com/22258847/58109066-ea818100-7bba-11e9-9808-fde2015ebe10.png)](https://adguard.com/en/adguard-windows/overview.html)
 - ![adguard_icon_16](https://user-images.githubusercontent.com/22258847/58104254-7d69ed80-7bb2-11e9-989b-a0a73db4d808.png)
