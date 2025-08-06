@@ -9057,7 +9057,7 @@ wearethemighty.com###top_nav_bar:style(position: absolute !important;)
 wearethorn.org###header-outer:style(position: absolute !important; top: 0 !important;)
 weather.com##.js-onboarding__navigation.navigation:style(position: relative !important; top: 0 !important;)
 weather.com##.styles-9NQaZexm__articleNavigationSticky__17gxM, .styles__articleNavigationSticky__3Ynft.styles__articleNavigationContainer__2i63K:style(position: absolute !important;)
-web.archive.org###wm-ipp > div:style(position: relative !important; top: 0 !important;)
+web.archive.org###wm-ipp:style(position: relative !important;)
 web.archive.org##.capture-details:style(position: relative !important;)
 web.dev##.w-actions
 web.dev##web-header:style(position: absolute !important;)
