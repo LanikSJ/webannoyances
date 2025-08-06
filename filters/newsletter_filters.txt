@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
 ! Checksum: KdB4l58wYnneiXQVUdEAzQ
-! Last Modified: 2025-08-04 21:27 UTC
+! Last Modified: 2025-08-06 00:56 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -301,6 +301,7 @@ grist.org##.aside, .email-signup-form
 grubstreet.com,nymag.com,thecut.com,vulture.com###magpromo, .column-subscribe, .newsletter-flex-text, .newsletter-slideout, .subscribe, .subscription
 gun.deals###subscribe-newsletter-popup
 haaretz.com##.newsletter, .newsletter--ruler, [id*="newsletterRegForm"]
+harpersbazaar.com##.journey-container-wrapper
 hacks.mozilla.org###newsletterForm
 hakaimagazine.com##.newssignup.main
 hamhigh.co.uk###subscriptionIframe
