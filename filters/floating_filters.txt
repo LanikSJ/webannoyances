@@ -1102,10 +1102,10 @@ belfasttelegraph.co.uk##.c-persistent1
 bellingcat.com##.masthead:style(margin-top: 0 !important; padding-top: 100px !important;)
 bellingcat.com##.navigation-main:style(position: absolute !important;)
 bellingcat.com##.site__header:style(position: static !important)
-bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.is-sticky.mi-sticky-player
-bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.media-wrap:style(position: static !important; top: unset !important; width: unset !important; height: unset !important; z-index: unset !important;)
-bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.video.is-sticky:style(height: auto !important; padding-bottom: 0 !important; background-color: transparent !important;)
-bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sanluisobispo.com,star-telegram.com,sunherald.com,theolympian.com,thenewstribune.com,thestate.com,tri-cityherald.com##.s2nPlayerFrame:style(position: static !important; top: 0 !important; left: 0 !important; width: 690px !important; height: 413px !important; visibility: visible !important; transform: none !important;)
+bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.is-sticky.mi-sticky-player
+bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.media-wrap:style(position: static !important; top: unset !important; width: unset !important; height: unset !important; z-index: unset !important;)
+bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.video.is-sticky:style(height: auto !important; padding-bottom: 0 !important; background-color: transparent !important;)
+bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sanluisobispo.com,star-telegram.com,sunherald.com,theolympian.com,thenewstribune.com,thestate.com,tri-cityherald.com##.s2nPlayerFrame:style(position: static !important; top: 0 !important; left: 0 !important; width: 690px !important; height: 413px !important; visibility: visible !important; transform: none !important;)
 bellular.games##.gh-toc:style(position: absolute !important; top: 0 !important;)
 bellular.games##.js-header:style(position: absolute !important; transform: none !important;)
 belmond.com##.module-hero-blur-wrapper:style(position: absolute !important;)
@@ -3959,7 +3959,7 @@ gsa.gov###mobile-header, .category-nav:style(position: absolute !important;)
 gsa.gov##.hidden-xs.navbar-fixed-top, .hidden-xs:style(position: relative !important; top: 0 !important;)
 gsmarena.com###footer-side:style(position: relative !important; top: 0 !important;)
 gsu.edu###fixed-util-bar:style(position: absolute !important;)
-gsuitetips.com###od-header, #od-navbar:style(position: relative !important; top: 0 !important;)
+gtaall.net##.affix.menu:style(position: relative !important; top: unset !important; height: 281px !important;)
 guaranteedrate.com##.small-nav.navbar-parent:style(position: absolute !important;)
 guide.michelin.com##.header--fixed.header, .feedback:style(position: absolute !important;)
 guides.github.com##.sticky.js-toc.toc:style(position: absolute !important;)
@@ -6108,9 +6108,9 @@ nytimes.com##.bdcd0f07:style(-webkit-box-flex: 0 !important; flex: 0 33% !import
 nytimes.com##.bff7037b:style(-webkit-box-align: start !important; align-items: flex-start !important; padding-top: unset !important;)
 nytimes.com##.c149d6cc:style(padding: 16px 0 0 !important;)
 nytimes.com##.cde295d3
+nytimes.com##.css-1y7qxpi
 nytimes.com##.css-qnmdf1
 nytimes.com##.e9c65b25:style(height: 60px !important;)
-nytimes.com##.NYTAppHideMasthead:style(position: absolute !important;)
 nytimes.com##[data-testid="wirecutter-home-link-desktop"]:style(width: 192px !important; margin-top: -6px !important;)
 nzherald.co.nz###premium-toaster
 nzherald.co.nz##.floatingNav, .nz-herald.onscreen.site-logo-wrapper:style(position: relative !important; top: 0 !important;)
@@ -6487,6 +6487,7 @@ plannedparenthood.org##.site-header:style(position: absolute !important; transfo
 plasticsnews.com,plasticsnewseurope.com,rubbernews.com,tirebusiness.com###clear-nav-account, #live, main-nav:style(position: absolute !important;)
 plasticsnews.com,plasticsnewseurope.com,rubbernews.com,tirebusiness.com###main-header:style(position: absolute !important; top: 0 !important;)
 play.google.com##.S3WLMd:style(position: absolute !important; transition: none !important; box-shadow: none !important;)
+play.google.com,trends.google.com,www.google.com##header[id="gb"][role="banner"]:style(position: absolute !important;)
 play.history.com##header[class*="Component-positionSticky"]:style(position: absolute !important;)
 playboy.com###header-global:style(position: absolute !important; top: 0 !important; transform: none !important;)
 playboy.com##.box-1.bg-bunny.main:style(position: relative !important; top: 0 !important;)
@@ -8409,6 +8410,7 @@ ticketmaster.com##.main-nav:style(position: absolute !important; background-colo
 ticketmaster.com##.paypal-nav-partner-container:style(display: inline-block !important;)
 tiffany.com###filters:style(position: relative !important;)
 tiffany.com###headerBlueBar:style(position: absolute !important;)
+tiktok.com###fixed-top-container:style(position: absolute !important;)
 tiktok.com##[class*="-DivCategoryListWrapper"]:style(position: absolute !important; top: 0 !important;)
 tiktok.com##[class*="-DivJustWatchedButtonContainer"]
 tiktok.com##[class*="-DivScrollToButtonContainer"]
@@ -8616,7 +8618,6 @@ trendmicro.com###floating-botton:style(position: absolute !important;)
 trendmicro.com##.nav-up #global-header, .nav-up .navbar-header, .nav-up #user-profile, .nav-up .navbar-collapse:style(display: block !important;)
 trendmicro.com##.navbar-main-fixed.mainNavMenu:style(position: relative !important; top: 0 !important;)
 trendmicro.com##.navbar-main-fixed.nav-sticky-wrapper:style(position: static !important;)
-trends.google.com,www.google.com##header[id="gb"][role="banner"]:style(position: absolute !important;)
 trends.tf##thead.sortable:style(position: relative !important;)
 tribtoday.com###top_header, #wprmenu_bar:style(position: relative !important; top: 0 !important;)
 trident.edu###td-sticky-links:style(position: absolute !important;)
@@ -9294,6 +9295,7 @@ wordpress.com,wordpress.org##.masthead-fixed .site-main:style(margin-top: 0 !imp
 wordpress.org##.is-position-sticky:style(position: relative !important;)
 wordreference.com###search:style(position: static !important; box-shadow: none !important;)
 wordstream.com##.ws-header:style(position: relative !important;)
+workspacetips.io###od-header, #od-navbar:style(position: absolute !important;)
 worldatlas.com##.w-headerMain:style(position: absolute !important; top: 0 !important;)
 worldfreeware.download##.mega-menu.affix .nav > li > a:style(height: 75px !important; padding: 26px 17px !important; font-size: unset !important;)
 worldfreeware.download##.mega-menu::after, .mega-menu.affix::before:style(height: 75px !important;)
