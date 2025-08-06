@@ -6689,7 +6689,7 @@ psychcentral.com##.css-12wdr8u:style(position: relative !important;)
 psyche.co##[class*="styled__Container-"][class*="styled__GuideNav-"]:style(position: static !important;)
 psyche.co##[class*="styled__HeaderWrapper"]:style(position: static !important; border-bottom: 1px solid rgba(0, 0, 0, 0) !important;)
 psyche.co##[class*="styled__Pusher-"]
-psychologytoday.com##.main-nav-wrapper:style(position: absolute !important; box-shadow: none !important;)
+psychologytoday.com##.main-nav-wrapper:style(position: absolute !important; box-shadow: 0 1px 2px 0 #1F293714 !important;)
 pt.quizur.com##.fixed.borderMenuMobile:style(position: relative !important;)
 pt.quizur.com,stats.wonderland.tf##.top-20.sticky:style(position: relative !important; top: 0 !important;)
 pubexec.com##.staged.no-touch-sticky.clearfix.bot-layer:style(position: relative !important;)
