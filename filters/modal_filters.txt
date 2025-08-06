@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
 ! Checksum: VF6H9Ynt2Wv0mmtd+Iu+Jw
-! Last Modified: 2025-08-03 05:50 UTC
+! Last Modified: 2025-08-06 00:58 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -759,6 +759,9 @@ phmloans.com###ReadyChat_WP
 photobucket.com###myModal
 phys.org,sportcal.com###back-top
 picreel.com##.frame-container
+pictoa.com##.overlay
+pictoa.com##body:style(overflow: auto !important;)
+pictoa.com##main:style(filter: none !important;)
 pinterest.com##.AppInterstitial, .AppUpsellHeader__background, .ReactModalPortal, .denzelAppInterstitial
 pinterest.com##main > article > section > div h4:has-text(/Heads up: This might be sensitive content/):upward(4)
 pinterest.com##section[data-test-id="pinHeader"]:style(filter: unset !important;)
