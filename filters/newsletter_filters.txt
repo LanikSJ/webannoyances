@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
 ! Checksum: KdB4l58wYnneiXQVUdEAzQ
-! Last Modified: 2025-08-06 00:56 UTC
+! Last Modified: 2025-08-07 04:15 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -364,6 +364,7 @@ kentucky.com###subscription-cta-container
 keyvalues.com##.subscription-section
 khaleejtimes.com###foxpush_subscribe
 khn.org##.email-signup
+kiwico.com##.header-cta-container, .footer__newsletter-signup
 kpopstarz.com##.nwletter
 ksl.com##.emailSignup, .queueHeader
 kyivpost.com##.text-widget, .widget-sub-form
