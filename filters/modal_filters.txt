@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
 ! Checksum: VF6H9Ynt2Wv0mmtd+Iu+Jw
-! Last Modified: 2025-08-06 00:58 UTC
+! Last Modified: 2025-08-07 04:14 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -53,6 +53,8 @@ activejunky.com###registrationModal
 actorsfund.org###popup-announcement-overlay, #popup-announcement-wrap
 adamfayed.com##.moOptinForm
 adidas.com,theladders.com###modal-root
+adobe.com##.bCxaJG_spectrum-Underlay, .OdG0hG_spectrum-Modal-wrapper
+adobe.com##html:style(overflow: auto !important;)
 adjust.com,exabeam.com,formlabs.com,mailgun.com,nginx.com,simplethread.com###drift-widget-container
 adriannapapell.com,primaryarms.com,sbs.ox.ac.uk##.popup-content
 advantaira.com##.pum-overlay.pum
@@ -520,6 +522,7 @@ ignorelimits.com##.optin-monster-saas-overlay
 imausa.com###snppopup-exit
 imgur.com###post-jump-container, .NewCover .GoUp, .ButtonBackToTop, .badge.GalleryPage-betaOptOut, .go-to-comments.box, .transition.icon-arrow-right.nextItem.contextOverlay
 impactbnd.com##.fade.fade--load.blog--scroll--item
+in2013dollars.com##.modal-container
 inc.com##.SectionUpDown, .clicklessNavButton
 indeed.com##.cmp-ReactInSoy-ReviewsPromo, .is-shown.icl-LegalConsentBanner
 independent.co.uk##.adblock-modal, .tp-backdrop, .tp-modal
@@ -571,7 +574,7 @@ jyllands-posten.dk##html.sp-message-open:style(overflow: unset !important; posit
 kaspersky.com##[data-at-selector="modal-module"]
 kaspersky.com##body:style(overflow: auto !important; padding-right: 0 !important;)
 keepass.info###consent_c
-kiwico.com###show-unlock-modal, .header_ctas
+kiwico.com##.ReactModalPortal
 knowablemagazine.org##.article-flyout
 kommersant.ru##.push_notification
 kqed.org###getsitecontrol
@@ -642,6 +645,7 @@ mint.intuit.com##[aria-labelledby="idsModalHeader1"]:upward(2)
 mississippi.gov###socialModal
 mit.edu###cboxContent, #cboxOverlay
 mixi.media##.ikQVYF.lrv94l-0
+mkbsecurity.com##[id^="app-embed-container-"]
 mlb66.ir##.overlay-wrapper
 modernfarmer.com###_mmtoggle, .chicago-background
 momtricks.com###get_ebook_2_background, #get_ebook_2_wrapper, .post-optin-inner
@@ -914,6 +918,7 @@ stripes.com###APIpopup_shadowoverlay, #pressplusOverlay
 studyfinds.org###exitpopup-modal
 subzero-wolf.com##.footer-announcement
 summerinfant.com##.fancybox-container
+suntrust.com##.modal-alerts-container, .modal-backdrop
 supercars.net##.leadform-popup-widget
 surlatable.com##.welcome-popup
 symantec.com###myBtn
