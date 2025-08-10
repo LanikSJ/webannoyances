@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
 ! Checksum: KdB4l58wYnneiXQVUdEAzQ
-! Last Modified: 2025-08-07 04:15 UTC
+! Last Modified: 2025-08-10 08:27 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -374,6 +374,7 @@ lamag.com##p a[href*="/newsletters/"]:upward(3)
 laphamsquarterly.org###lq_daily
 laptopmag.com###newsletter-subscribe-banner, .newsletter-signup.box
 lastweekinaws.com##.block__container--blog-cta, .block__container--newsletter, .newsletter-hero, .rm-carousel-element, .sticky-sidebar-cta
+lastwordonsports.com##.text-white.p-6.rounded-lg.bg-gray-800
 latimes.com,pacificsandiego.com,sandiegouniontribune.com##.NewsletterModule, .newsletter-module.module, newsletter-campaign
 lawenforcementtoday.com##.block-subscribe-now:upward(2)
 legalinsurrection.com##.sidebarNewsletter:upward(1)
@@ -381,6 +382,7 @@ lennyletter.com##.hdr-subscribe-link
 leowid.com###mc4wp_form_widget-3
 lifesitenews.com##.subscribe-form-wrap.subscribe-form-ctr
 lightreading.com###mktng_popin
+livekindly.com###section_756070901
 livemint.com##.subscribe-box
 loadoutroom.com##.join-gear-club
 longreads.com##.entry-email-signup
