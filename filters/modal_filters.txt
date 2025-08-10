@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
 ! Checksum: VF6H9Ynt2Wv0mmtd+Iu+Jw
-! Last Modified: 2025-08-07 04:14 UTC
+! Last Modified: 2025-08-10 08:30 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -1048,6 +1048,7 @@ verdict.co.uk###scroll_totop, .eupopup-container, .site-footer
 version2.dk##.adblock-message-container, .adblock-message-overlay
 vogue.com##.component-cnid-modal-backdrop, .newsletter-modal--container__mobile
 voxeu.org###cccwr
+vpnpro.com##.modal-popup
 waaytv.com,wccftech.com##tqwidget
 wagwalking.com###cta-modal
 wallethub.com###footer_cta
