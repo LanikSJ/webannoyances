@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: 9WLz73lSctpSMZyxa8NWfw
-! Last Modified: 2025-08-20 14:26 UTC
+! Last Modified: 2025-08-20 15:57 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -2097,7 +2097,6 @@ coindesk.com##.jw-wrapper:style(position: absolute !important; bottom: 0 !import
 coindesk.com##.sticky-social-share:style(position: absolute !important; top: 0 !important;)
 coinex.com##.en.refer-float:style(position: static !important;)
 coinex.com##.tab-choose.pr.clearfix:style(position: static !important; padding-top: 0 !important; height: 40px !important; box-shadow: none !important; max-width: 1366px !important;)
-coinmama.com,fantasyalarm.com,food52.com,jrcigars.com,liftfoils.com,popularwoodworking.com,privacy.com,support.mewe.com,technicpack.net,untangle.com###launcher:style(position: absolute !important;)
 coinmarketcap.com##.fixed.dataTables_scrollHead, .fixed_left:style(position: absolute !important;)
 coinmarketcap.com##th:style(position: relative !important; top: 0 !important;)
 coinopsy.com##.header:style(position: relative !important; margin-top: 0 !important;)
@@ -6351,10 +6350,8 @@ patch.com##[class*="styles_SocialShare--IsSticky"]:style(position: absolute !imp
 patents.google.com##.header.style-scope.application-timeline:style(position: relative !important;)
 pathful.com##.Layoutstyles__TopContainer-sc-12oy6tl-1:style(position: absolute !important;)
 patient.labcorp.com##body .global:style(position: absolute !important;)
-patreon.com##.iofpbx .logo-link.scrolled .wordmark:style(opacity: 1 !important;)
-patreon.com##.iofpbx .logomark, .iofpbx.scrolled .backdrop:style(opacity: 0 !important;)
-patreon.com##.iofpbx:not(.theme-light):style(color: var(--color-action-inverse) !important;)
-patreon.com##.iofpbx:style(position: absolute !important; transform: translateY(1.3rem) !important;)\
+patreon.com##.hWQzDU:style(position: absolute !important;)
+patreon.com##.xcOaR
 patreon.com##[data-tag="navbar"] header:style(position: absolute !important;)
 paul.is-a-geek.org##.site-navigation-fixed.navigation-top:style(position: relative !important;)
 paul.reviews##.postinfo:style(position: absolute !important;)
@@ -8899,6 +8896,7 @@ usni.org###sticky-header
 usphonebook.com###navigationHeader:style(position: absolute !important;)
 ussoccer.com###crest-bar:style(position: absolute !important;)
 utah.com##.scrollbar-hide:style(position: relative !important; top: 0 !important;)
+utctime.net##.shadow2:style(position: absolute !important;)
 utexas.edu##.fix-header.container-logo.container:style(position: relative !important; top: 0 !important;)
 uthealthaustin.org##.section--top-cta-buttons:style(position: absolute !important;)
 uxplanet.org##.markup--quote.is-other:style(background-image: none !important;)
