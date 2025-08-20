@@ -3945,6 +3945,7 @@ gracobaby.com###stickyMinSearch, .desktop-sticky-nav-toggle
 gracobaby.com##.d-lg-block.search, .d-lg-none.search:style(display: block !important;)
 gracobaby.com##.header-banner
 gracobaby.com##.hasStickyNav:style(position: absolute !important;)
+gracobaby.com##.sticky-add-to-cart
 gradshop.com,scandycandy.se##.section-header:style(position: relative !important; top: 0 !important;)
 graduationmall.com,shop.spacex.com##.shopify-section--header:style(position: relative !important;)
 graduationmall.com##.announcement-bar
