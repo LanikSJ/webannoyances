@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
 ! Checksum: VF6H9Ynt2Wv0mmtd+Iu+Jw
-! Last Modified: 2025-08-10 08:30 UTC
+! Last Modified: 2025-08-20 15:58 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -461,7 +461,8 @@ govconwire.com##.moOptinForm, .sky-form-modal-overlay, [class*="Modal__ModalPort
 govtech.com###interstitial
 govtrack.us###followus_modal
 govtrack.us##body:style(overflow: auto !important;)
-gracobaby.com###InteristialPopUp, .email-modal-backdrop
+graduationmall.com##.shopify-section--popup
+graduationmall.com##html,body:style(overflow: auto !important;)
 grandst.com###logged_out_wall, #site_overlay
 greencarreports.com###postNav
 greenviewfertilizer.com###email-pop
