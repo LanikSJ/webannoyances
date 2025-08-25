@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: LV59/ET4Ew5P1lYzRIx9Eg
-! Last Modified: 2025-07-14 08:30 UTC
+! Checksum: XeaXIW7XBifAh5DSnCtV2A
+! Last Modified: 2025-08-25 08:32 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -370,10 +370,10 @@ f-secure.com###article-sidebar
 fablesofaesop.com###prvcypop_372
 failory.com###magnify-widget-container
 fairygodboss.com##.fixedBottom
-fandom.com##.page__right-rail
+fandom.com###mw-data-after-content
 fandom.com##.global-footer
 fandom.com##.main-page-tag-rcs
-fandom.com###mw-data-after-content
+fandom.com##.page__right-rail
 fanucamerica.com###myBtn
 fark.com##.new_to_fark_p
 fark.com##.top_right_container
@@ -501,10 +501,10 @@ homecrux.com##.tac.us_wrapper
 hoopshype.com##.meta
 hotnewhiphop.com##.js-newsstand-toggler
 hotukdeals.com###softMessages-list
+idlprocycling.com###comments
+idlprocycling.com##.pt-3
 idlprocycling.com##.raw-html-component
 idlprocycling.com##.text-white.pb-8.py-5.gap-6.flex-col.flex.footer--Classic.footer
-idlprocycling.com##.pt-3
-idlprocycling.com###comments
 increment.com##.ArticleMilestones > .u-Container
 index.co##.c_windowFixedCanvas
 index.hu##.lapozo
@@ -1144,7 +1144,6 @@ tmz.com##.when-its-on-widget
 today.com##.headlineTitleText___CRuAl
 tomjepson.co.uk###divBottomRight
 topbestalternatives.com##.pea_cook_bottomright.pea_cook_wrapper
-toptere.com##.widget_monarchwidget.widget
 townhall.com###closemenu
 townhall.com##.comment-alert
 townhall.com##.hlw
@@ -1235,12 +1234,12 @@ whatahowler.com##.is-other.markup--p-quote.markup--quote
 whattomine.com##.centered-image-short
 whitesourcesoftware.com###default-next-button-wrapper
 whoishostingthis.com##.clickable
-wiki.fextralife.com##.wp-block-template-part.wp-block-template-part--footer.site-footer-container
-wiki.fextralife.com##.discussion-wrapper
-wiki.fextralife.com##nav.valnet-flex-navbar
 wiki.fextralife.com###fextra-navbar-desktop
+wiki.fextralife.com##.discussion-wrapper
 wiki.fextralife.com##.hidden-xs.side-bar-right
 wiki.fextralife.com##.wiki-header-container
+wiki.fextralife.com##.wp-block-template-part.wp-block-template-part--footer.site-footer-container
+wiki.fextralife.com##nav.valnet-flex-navbar
 wired.co.uk##.a-gallery__aside--touch.a-gallery__aside
 wirelessweek.com###footer-expand
 wlox.com##.story-feed
