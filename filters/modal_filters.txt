@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: VF6H9Ynt2Wv0mmtd+Iu+Jw
-! Last Modified: 2025-08-20 15:58 UTC
+! Checksum: DnvIlxMa26pXIAHHthBVWg
+! Last Modified: 2025-08-27 08:54 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -53,9 +53,9 @@ activejunky.com###registrationModal
 actorsfund.org###popup-announcement-overlay, #popup-announcement-wrap
 adamfayed.com##.moOptinForm
 adidas.com,theladders.com###modal-root
+adjust.com,exabeam.com,formlabs.com,mailgun.com,nginx.com,simplethread.com###drift-widget-container
 adobe.com##.bCxaJG_spectrum-Underlay, .OdG0hG_spectrum-Modal-wrapper
 adobe.com##html:style(overflow: auto !important;)
-adjust.com,exabeam.com,formlabs.com,mailgun.com,nginx.com,simplethread.com###drift-widget-container
 adriannapapell.com,primaryarms.com,sbs.ox.ac.uk##.popup-content
 advantaira.com##.pum-overlay.pum
 aeon.co##[class*="DriveBannerFooter__BannerWrapper-"], [class*="DriveBannerHeader__BannerWrapper-"], [class*="SupportBannerFooter__BannerWrapper-"], [class*="SupportBannerHeader__BannerWrapper-"]
@@ -861,7 +861,6 @@ seatgeek.com##.seatgeek-lightbox-background
 seattletimes.com###container:style(filter: none !important;)
 seattletimes.com##.NewsletterSignupSplash
 sec.gov##.acsModalBackdrop
-securitycheckli.st##.style__ScrollToTop-sc-1z0so4v-7
 seekingalpha.com##.modal:not(.sa-auth), .modal-backdrop
 sephora.com##div[data-comp^="GlobalModalsWrapper"]
 sepio.systems###showOnScrollWrapper

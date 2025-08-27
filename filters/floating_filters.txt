@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: r6QIBnw7hxQJzmypp9wRvg
-! Last Modified: 2025-08-25 08:32 UTC
+! Checksum: EQPDjUJ4hnWxvAXnHREYTA
+! Last Modified: 2025-08-27 08:54 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -7226,7 +7226,6 @@ securingtomorrow.mcafee.com##body > .navbar.navbar-expand-md:style(height: 90px 
 securitiesanalytics.com##.tc-header:style(position: relative !important;)
 securityaffairs.co###wrapper > .menu-secondary-menu-container:style(position: static !important;)
 securityaffairs.co##.standard_wrapper.wide .menu-secondary-menu-container
-securitycheckli.st##.lhDdRM:style(position: absolute !important; background: transparent !important; box-shadow: none !important;)
 securityevaluators.com###logo-menu:style(position: absolute !important; background-color: transparent !important;)
 securitygladiators.com##.sticky-inside-pad:style(height: unset !important;)
 securityweek.com##DIV[style="margin-top:2px;"]
@@ -8602,9 +8601,6 @@ topic.com##.Header-header, .IssueNav-header:style(position: relative !important;
 topic.com##.modules-SolidNavBar-solidNavBar:style(position: absolute !important;)
 topsmerch.com##.logo.el-image:style(position: absolute !important;)
 topsmerch.com##.menus:style(position: absolute !important; overflow-y: unset !important;)
-topstocksnews.com###fix_header
-topstocksnews.com###pagetop
-topstocksnews.com##.-fix.c-shareBtns:style(position: absolute !important;)
 toptal.com##.is-sticky.is-active.blog_author_banner.for-author.blog_banner.has-no_background.blog-block, .is-visible.is-fixed.page_header_menu-wrapper.grid-row.blog-simple-header:style(position: absolute !important;)
 toptenreviews.com###main_nav:style(position: absolute !important;)
 toptenreviews.com##.wtoc-link-list:style(position: static !important;)
