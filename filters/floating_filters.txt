@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: EQPDjUJ4hnWxvAXnHREYTA
-! Last Modified: 2025-08-27 08:54 UTC
+! Checksum: nsPEH6cEMOViV0KgMVnz8g
+! Last Modified: 2025-09-01 08:31 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -345,7 +345,7 @@ adp.com##.clearfix.top-nav.adp-nav-background:style(position: relative !importan
 ads.twitter.com,developer.twitter.com,dmagazine.com,lotuffleather.com,peoplefinders.com,quantamagazine.org,searchenginewatch.com,trendings.net##.nav:style(position: absolute !important;)
 adssettings.google.com,contributor.google.com###yDmH0d:style(overflow-x: auto !important; overflow-y: scroll !important; padding-right: 0 !important;)
 adssettings.google.com,contributor.google.com##c-wiz:style(overflow: unset !important;)
-adultsearch.com,ampize.me,analvids.com,babesource.com,bitchesgirls-leaks.com,blockshopper.com,cinemablend.com,daftsex-hd.com,drinkheartwater.com,erofound.com,erohive.com,erome-leaks.com,fapello.cc,fapello.fans,fapello.tv,fapello-leaks.com,findsource.co,getofleaks.co,giftcards.com,goodsmileus.com,google.org,gray.tv,hackr.io,iconninja.com,ign.com,inews.co.uk,kusi.com,leakedall.com,leakedfan.com,magsformiles.com,megaleaks.co,messenger.com,moviemaker.com,nbcdfw.com,nudostar-leaked.com,of2leaks.co,omni.se,only2leaked.co,only2leaked.com,only4leaked.co,only4leaked.com,partitionwizard.com,picsart.com,porndude-leaks.com,pornez.tv,pornploy.com,powerschool.com,purewow.com,rare.us,recurbate.fans,searchtags.co,seks.cx,sexy-egirls-leaked.com,simpcity.fans,simpcity.tv,simpcity-su.com,skiphop.com,tenereteam.com,theben.de,theslutporn.vip,thothub-leaked.com,thotsbay-leaked.com,thotsfan.com,thotslife-leaks.com,topfapgirls.tv,tutorialspoint.com,vpnpro.com,vt.co,wben.com,wellandgood.com,whitelist.tf,wionews.com,wtop.com,yogonet.com##.header:style(position: relative !important;)
+adultsearch.com,analvids.com,babesource.com,bitchesgirls-leaks.com,blockshopper.com,cinemablend.com,daftsex-hd.com,drinkheartwater.com,erofound.com,erohive.com,erome-leaks.com,fapello.cc,fapello.fans,fapello.tv,fapello-leaks.com,findsource.co,getofleaks.co,giftcards.com,goodsmileus.com,google.org,gray.tv,hackr.io,iconninja.com,ign.com,inews.co.uk,kusi.com,leakedall.com,leakedfan.com,magsformiles.com,megaleaks.co,messenger.com,moviemaker.com,nbcdfw.com,nudostar-leaked.com,of2leaks.co,omni.se,only2leaked.co,only2leaked.com,only4leaked.co,only4leaked.com,partitionwizard.com,picsart.com,porndude-leaks.com,pornez.tv,pornploy.com,powerschool.com,purewow.com,rare.us,recurbate.fans,searchtags.co,seks.cx,sexy-egirls-leaked.com,simpcity.fans,simpcity.tv,simpcity-su.com,skiphop.com,tenereteam.com,theben.de,theslutporn.vip,thothub-leaked.com,thotsbay-leaked.com,thotsfan.com,thotslife-leaks.com,topfapgirls.tv,tutorialspoint.com,vpnpro.com,vt.co,wben.com,wellandgood.com,whitelist.tf,wionews.com,wtop.com,yogonet.com##.header:style(position: relative !important;)
 advancedcustomfields.com###header:style(opacity: 1 !important; position: absolute !important; background: none !important; color: white !important; box-shadow: none !important;)
 advanceduninstaller.com##.menu-btn:style(background-color: #fff !important; color: #3f345f !important;)
 advanceduninstaller.com##.osahan-navbar .nav-link:style(color: #fff !important;)
@@ -2331,7 +2331,7 @@ cryptoslate.com###top-nav:style(display: block !important;)
 cryptovest.com##.mainNav:style(position: relative !important; box-shadow: none !important; border: none !important;)
 crystalmark.info###global_menu:style(position: static !important;)
 csfloat.com##.sticky.filter:style(position: relative !important; top: 0 !important;)
-csfloat.com,ehow.co.uk,mysteriousuniverse.org##.header-container:style(position: relative !important;)
+csfloat.com,mysteriousuniverse.org##.header-container:style(position: relative !important;)
 csindy.com###NavigationHorizontal:style(position: relative !important; top: 0 !important;)
 csiro.au##.sticky.hidden-print.flex--v-center.navbar--action.navbar--sticky:style(position: absolute !important;)
 csmonitor.com###csm-header-content, #sticky-nav-sticky-wrapper:style(position: relative !important; top: 0 !important;)
@@ -2389,7 +2389,7 @@ cybernews.com##.scroll-up
 cybernews.com##.sticky-sidebar:style(position: absolute !important;)
 cyberscoop.com##.logo--small:style(transform: none !important;)
 cybersecurity.att.com##.sticky_bottom:style(position: relative !important;)
-cyclingentertainment.stream,sport5.live##.vjs-watermark
+cyclingentertainment.stream##.vjs-watermark
 d.tube###sidebar:style(position: absolute !important; box-shadow: rgba(34,36,38,.15) 1px 1px 1px !important;)
 d.tube##.fixed.menu.main.borderless.large.ui:style(position: absolute !important;)
 dagbladet.no##.fixed.index-header:style(position: relative !important; top: 0 !important;)
@@ -2800,7 +2800,6 @@ dove.com##.pdp-sticky-bottom-container
 dowjones.com##.dropdown-submenu-opened.page-header:style(position: relative !important; top: 0 !important;)
 downdetector.com##.main-navbar:style(position: static !important;)
 downloads.khinsider.com###audiowrap:style(position: relative !important; top: 0 !important;)
-dpage.io##.promo:style(position: absolute !important;)
 dqydj.com###dpsp-floating-sidebar:style(position: absolute !important;)
 drafthouse.com##.fixed.contain-to-grid, .top-bar:style(position: relative !important; top: 0 !important;)
 draftkings.com##.css-1svd5ae:style(position: absolute !important;)
