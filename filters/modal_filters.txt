@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: DnvIlxMa26pXIAHHthBVWg
-! Last Modified: 2025-08-27 08:54 UTC
+! Checksum: kJXR26R8Nia+EOctELxEcg
+! Last Modified: 2025-09-08 08:30 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -18,7 +18,6 @@
 13wham.com,abc22now.com,abc3340.com,abc45.com,abc6onyourside.com,abc7amarillo.com,abcnews4.com,abcstlouis.com,azteca48.com,bakersfieldnow.com,cbs12.com,cbs2iowa.com,cbs4local.com,cbs6albany.com,cbsaustin.com,chattanoogacw.com,cnycentral.com,cw14online.com,cw15kxvo.com,cw18milwaukee.com,cw23tv.com,cw34.com,cw35.com,cw58.tv,cw7michigan.com,cwalbany.com,cwbaltimore.com,cwcentralpa.com,cwcincinnati.com,cwcolumbus.com,cwlasvegas.com,cwokc.com,cwrochester.com,cwtreasurevalley.com,fox11online.com,fox17.com,fox23maine.com,fox28media.com,fox38corpuschristi.com,fox42kptm.com,fox45now.com,fox47.com,fox4beaumont.com,fox56.com,foxbaltimore.com,foxchattanooga.com,foxillinois.com,foxkansas.com,foxlexington.com,foxnebraska.com,foxreno.com,foxrichmond.com,foxrochester.com,foxsanantonio.com,idahonews.com,katu.com,katv.com,kbsi23.com,kcby.com,kdsm17.com,keprtv.com,kfdm.com,kfoxtv.com,khqa.com,kimatv.com,klewtv.com,kmph.com,kmyu.tv,komonews.com,kpic.com,krcgtv.com,krcrtv.com,ktul.com,ktvl.com,ktvo.com,ktxs.com,kunptv.com,kunwtv.com,kutv.com,kval.com,local12.com,local21news.com,my15wtcn.com,my40.tv,my48.tv,mycbs4.com,myfox28columbus.com,mynbc15.com,mynews4.com,myrdctv.com,mytv30web.com,mytvbuffalo.com,mytvdayton.com,mytvrichmond.com,mytvwichita.com,mytvz.com,mywdka.com,nbc16.com,nbc24.com,nbc25news.com,nbcmontana.com,nebraska.tv,news3lv.com,news4sanantonio.com,newschannel20.com,newschannel9.com,okcfox.com,raleighcw.com,siouxlandnews.com,southernoregoncw.com,star64.tv,telemundoaustin.com,thecw46.com,thecwtc.com,turnto10.com,univisionseattle.com,upnorthlive.com,utv44.com,valleycentral.com,wabm68.com,wach.com,wchstv.com,wcti12.com,wcyb.com,weartv.com,wfgxtv.com,wfxl.com,wgme.com,wgxa.tv,wjactv.com,wjla.com,wlos.com,wpde.com,wpgh53.com,wsbt.com,wset.com,wsmh.com,wtov9.com,wtto21.com,wtwc40.com,wutv29.com,wvah.com,wwmt.com###js-Progress-Bar
 20k.org##.overlay-mobile-styles-enabled
 2daygeek.com,threepercenternation.com###spu-bg, #spu-main
-3dprintingforbeginners.com##.tl-state-root
 4029tv.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,wpbf.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.ab-iam-root
 4029tv.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,wpbf.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.ab-pause-scrolling, body.ab-pause-scrolling, html.ab-pause-scrolling:style(overflow: auto !important;)
 404ink.com##.sqs-popup-overlay-content
