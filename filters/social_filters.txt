@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: blRXk7YMEALZqd1RsipR6w
-! Last Modified: 2025-08-27 08:54 UTC
+! Checksum: IXAAKvYZJh6gU5jq6HewLg
+! Last Modified: 2025-09-15 08:29 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -707,7 +707,6 @@ nexisonline.net##.kiwi-article-bar-center.rect.kiwi-article-bar
 nextgov.com##.ng-social-follow
 nexthive.com###single-share
 nextshark.com##.tipi-i-facebook, .tipi-i-instagram, .tipi-i-twitter, .tipi-i-youtube-play
-nflbite.com##.twitter.clearfix.news-card > footer > .news-card-footer-icons
 nflshop.com###NFLFooterContentBottomMiddleSocial
 nikkei.com##.follow-nar, .snsicon-list
 nintendolife.com##.share-this, .social-links, .ui-share-page

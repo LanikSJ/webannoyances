@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: GlWtQen6B8POPH9KlW2Hyg
-! Last Modified: 2025-09-08 08:30 UTC
+! Checksum: sD7l62Mkumg8bF+FyCOLGA
+! Last Modified: 2025-09-15 08:29 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -4159,7 +4159,6 @@ hola.com##.brand:style(opacity: 1 !important;)
 hola.com##.container.mainMenu.fixed-mainMenu.fixed-menu:style(position: absolute !important;)
 holidappy.com,owlcation.com,wehavekids.com###header_wrap:style(position: absolute !important;)
 hollywoodreporter.com##.header-sticky
-home.nflbite.com##.col-md-7 > div:style(position: static !important;)
 homedepot.com###header-root:style(position: relative !important; top: 0 !important;)
 homelight.com##.section--no-embossed-border.agent-quiz.section:style(position: static !important; top: 0 !important;)
 homeownershub.com##.navbar-custom.logo.navbar-fixed-top.navbar-default.navbar:style(position: absolute !important;)
@@ -6017,7 +6016,6 @@ nextofwindows.com##.td-container-wrap.td-header-logo-wrap:style(padding-top: 30p
 nexusmods.com##.shadowed.new-head:style(position: absolute !important; box-shadow: none !important;)
 nfl.com##.h-\[--header-panel-top-hat-height\]
 nfl.com##.top-\[--header-panel-top-hat-height\], .top-\[calc\(var\(--header-panel-top-hat-height\)\+var\(--header-panel-main-nav-height\)\)\]:style(position: relative !important; top: 0 !important;)
-nflbite.com##.td-header-row:style(position: relative !important; transform: translate3d(0px, 0px, 0px) !important; width: 100% !important;)
 nft.kraken.com##[data-testid="top-navigation"]:style(position: absolute !important;)
 ngccoin.com###coinEncycNav:style(position: absolute !important; top: 460px !important;)
 nginx.com###nx_masthead:style(position: absolute !important;)
