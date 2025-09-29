@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: 8N8YvQF2iW88nJMlDndKTQ
-! Last Modified: 2025-09-22 08:30 UTC
+! Checksum: w/r7pyWTfYsCQepp7RPnGQ
+! Last Modified: 2025-09-29 08:31 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -1117,7 +1117,6 @@ theoutline.com##.samsung
 theoutline.com##.stack-embed--display.stack-embed:has(.general-disclaimer)
 theoutline.com##.ui-fan-stack.ui-scroll-start.ui-scroll-end.card-stack--fan.card-stack
 thequint.com##.thequint-sticky-logo.header-section__logo
-theralphretort.com##.swal2-in.swal2-fade.swal2-container
 thesmokinggun.com##.toolkit
 thespruceeats.com##.header .search-form--recipe-nav
 thevintagenews.com###fader
