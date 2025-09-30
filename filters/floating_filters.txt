@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: l6C2/n8NmlEXDJRRf5O51Q
-! Last Modified: 2025-09-29 08:31 UTC
+! Last Modified: 2025-09-30 22:04 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -344,7 +344,7 @@ adp.com##.clearfix.top-nav.adp-nav-background:style(position: relative !importan
 ads.twitter.com,developer.twitter.com,dmagazine.com,lotuffleather.com,peoplefinders.com,quantamagazine.org,searchenginewatch.com,trendings.net##.nav:style(position: absolute !important;)
 adssettings.google.com,contributor.google.com###yDmH0d:style(overflow-x: auto !important; overflow-y: scroll !important; padding-right: 0 !important;)
 adssettings.google.com,contributor.google.com##c-wiz:style(overflow: unset !important;)
-adultsearch.com,analvids.com,babesource.com,bitchesgirls-leaks.com,blockshopper.com,cinemablend.com,daftsex-hd.com,drinkheartwater.com,erofound.com,erohive.com,erome-leaks.com,fapello.cc,fapello.fans,fapello.tv,fapello-leaks.com,findsource.co,getofleaks.co,giftcards.com,goodsmileus.com,google.org,gray.tv,hackr.io,iconninja.com,ign.com,inews.co.uk,kusi.com,leakedall.com,leakedfan.com,magsformiles.com,megaleaks.co,messenger.com,moviemaker.com,nbcdfw.com,nudostar-leaked.com,of2leaks.co,omni.se,only2leaked.co,only2leaked.com,only4leaked.co,only4leaked.com,partitionwizard.com,picsart.com,porndude-leaks.com,pornez.tv,pornploy.com,powerschool.com,purewow.com,rare.us,recurbate.fans,searchtags.co,seks.cx,sexy-egirls-leaked.com,simpcity.fans,simpcity.tv,simpcity-su.com,skiphop.com,tenereteam.com,theben.de,theslutporn.vip,thothub-leaked.com,thotsbay-leaked.com,thotsfan.com,thotslife-leaks.com,topfapgirls.tv,tutorialspoint.com,vpnpro.com,vt.co,wben.com,wellandgood.com,whitelist.tf,wionews.com,wtop.com,yogonet.com##.header:style(position: relative !important;)
+adultsearch.com,analvids.com,babesource.com,bitchesgirls-leaks.com,blockshopper.com,cinemablend.com,daftsex-hd.com,drinkheartwater.com,epubs.siam.org,erofound.com,erohive.com,erome-leaks.com,fapello.cc,fapello.fans,fapello.tv,fapello-leaks.com,findsource.co,getofleaks.co,giftcards.com,goodsmileus.com,google.org,gray.tv,hackr.io,iconninja.com,ign.com,inews.co.uk,kusi.com,leakedall.com,leakedfan.com,magsformiles.com,megaleaks.co,messenger.com,moviemaker.com,nbcdfw.com,nudostar-leaked.com,of2leaks.co,omni.se,only2leaked.co,only2leaked.com,only4leaked.co,only4leaked.com,partitionwizard.com,picsart.com,porndude-leaks.com,pornez.tv,pornploy.com,powerschool.com,purewow.com,rare.us,recurbate.fans,searchtags.co,seks.cx,sexy-egirls-leaked.com,simpcity.fans,simpcity.tv,simpcity-su.com,skiphop.com,tenereteam.com,theben.de,theslutporn.vip,thothub-leaked.com,thotsbay-leaked.com,thotsfan.com,thotslife-leaks.com,topfapgirls.tv,tutorialspoint.com,vpnpro.com,vt.co,wben.com,wellandgood.com,whitelist.tf,wionews.com,wtop.com,yogonet.com##.header:style(position: relative !important;)
 advancedcustomfields.com###header:style(opacity: 1 !important; position: absolute !important; background: none !important; color: white !important; box-shadow: none !important;)
 advanceduninstaller.com##.menu-btn:style(background-color: #fff !important; color: #3f345f !important;)
 advanceduninstaller.com##.osahan-navbar .nav-link:style(color: #fff !important;)
@@ -1522,7 +1522,7 @@ browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoen
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.sticky-bar.masthead:after
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.sticky-bar.masthead:style(position: relative !important; top: 0 !important;)
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.stickyTop .content .about:style(margin-top: 0 !important;)
-browserleaks.com,codemirror.net,facebook.design,fivethirtyeight.com,fogodechao.com,foragerfunds.com,herdprotect.com,iridiumbrowser.de,jet.com,kiln.digital,knobattack.com,nextcloud.com,olympic.org,ont.io,shop.bird.co,thedrive.com,thezdi.com,videolan.org,wykop.pl,zerodayinitiative.com###nav:style(position: absolute !important;)
+browserleaks.com,codemirror.net,facebook.design,fivethirtyeight.com,fogodechao.com,foragerfunds.com,herdprotect.com,iridiumbrowser.de,jet.com,kiln.digital,knobattack.com,nextcloud.com,olympic.org,ont.io,poki.com,shop.bird.co,thedrive.com,thezdi.com,videolan.org,wykop.pl,zerodayinitiative.com###nav:style(position: absolute !important;)
 browserstack.com###header-habitat:style(position: relative !important;)
 browserstack.com##.promo-notification
 bsky.app##.css-175oi2r.r-pgf20v, .r-196lrry.css-175oi2r:style(position: absolute !important;)
@@ -3024,6 +3024,10 @@ epicureaneva.com###main-header:style(position: absolute !important; box-shadow: 
 epicureaneva.com###top-header
 epicureaneva.com##.et_header_style_centered #main-header .logo_container:style(height: 181px !important;)
 eporner.com###top2:style(position: absolute !important;)
+epubs.siam.org,pnas.org##.st-header
+epubs.siam.org,pnas.org##[data-core-nav="header"]:style(position: relative !important;)
+epubs.siam.org##.core-nav-wrapper::before:style(position: absolute !important;)
+epubs.siam.org##.navbar:style(position: relative !important; top: 0 !important;)
 equifax.com##.affix.sticky-nav:style(position: relative !important;)
 erahm.org,krypted.com###sidebar:style(position: absolute !important; top: 0 !important; bottom: unset !important;)
 eraser.heidi.ie##.add-header-height, .main-navigation-ul > li:style(height: 90px !important; line-height: 90px !important;)
@@ -5780,7 +5784,7 @@ nation.foxnews.com##.sticky-banner
 nationaldefensemagazine.org##.logo-hold .logo > span:style(display: inline-block !important;)
 nationaldefensemagazine.org##.logo-hold .logo img:style(margin-top: -55px !important; width: 229px !important;)
 nationaldefensemagazine.org##.logo-hold .logo:style(vertical-align: top !important;)
-nationaldefensemagazine.org,siam.org,theaureview.com##.sticky-header:style(position: relative !important;)
+nationaldefensemagazine.org,pogo.org,siam.org,theaureview.com##.sticky-header:style(position: relative !important;)
 nationalenquirer.com###sidebar-right:style(position: static !important; top: 0 !important;)
 nationalenquirer.com##.sticky-spacer
 nationalgeographic.com##.CTAButton_ctaButton_3xuMB:style(position: absolute !important; opacity: 1 !important; animation: none !important;)
@@ -6533,8 +6537,6 @@ pltw.read.inkling.com###contents-tab:style(overflow: unset !important;)
 pltw.read.inkling.com##.nav:style(position: absolute !important;)
 plusbitcoin.net##.site-main:style(margin-top: 0 !important;)
 pmc.ncbi.nlm.nih.gov##.usa-in-page-nav:style(position: relative !important;)
-pnas.org##.st-header
-pnas.org##[data-core-nav="header"]:style(position: relative !important;)
 pnc.com##.smaller.collapsible-header:style(position: relative !important; top: 0 !important;)
 png-pixel.com##.meshspin-wrapper:style(position: absolute !important;)
 pngegg.com###scrolltop
@@ -6561,8 +6563,8 @@ pogdesign.co.uk##header .ddgo strong:nth-child(1):style(line-height: 22px !impor
 pogdesign.co.uk##header .logo strong:style(font-size: 3.3rem !important; letter-spacing: -0.15rem !important; height: 50px !important; margin: 5px 0 10px 0 !important; padding: 0 0 0 65px !important;)
 pogdesign.co.uk##header .logo:style(background-size: 60px 62px !important; margin: 0 0 0 5px !important; padding: 15px 0 3px 0 !important; background-position: 0 13px !important;)
 pogdesign.co.uk##header:style(position: absolute !important; height: 90px !important;)
-pogo.org##.global-nav:style(position: absolute !important; transform: none !important;)
-pokerlistings.com##.header-wrap:style(position: relative !important;)
+pogo.org##.site-header__inner:style(height: var(--header-height) !important;)
+poki.com###app-root:style(background-attachment: unset !important;)
 polaritytherapy.org###header-outer.small-nav #logo img:style(height: 100px !important;)
 polaritytherapy.org###header-outer.small-nav #logo:style(margin-top: 20px !important; margin-bottom: 20px !important;)
 polaritytherapy.org###SFevtcalnav:style(position: absolute !important; top: unset !important;)
@@ -7305,7 +7307,10 @@ showbiz411.com,whole-dog-journal.com##.tdc-row-placeholder
 shrm.org###ctl00_PlaceHolderMain_ArticleSectionNavigation_pan_Main:style(position: relative !important; top: 0 !important;)
 shrm.org##.affix.noindex.container-nav.container-fluid:style(position: absolute !important;)
 si.com##.shadow-header, .style_87vl00:style(position: relative !important;)
+siam.org##.col-intro:style(position: relative !important;)
 siam.org##.section--top__media-outer:style(position: relative !important; top: 0 !important;)
+siam.org##.staff-grid-dropdown-outer::before:style(position: absolute !important; top: 0 !important; filter: none !important;)
+siam.org##.staff-grid-dropdown-outer:style(position: relative !important;)
 sideprojectbook.com###main-nav:style(position: absolute !important;)
 siderite.blogspot.com###mastheadnbt:style(position: relative !important; height: 72px !important; padding: 25px 0 !important;)
 siderite.blogspot.com##.clippy:style(position: absolute !important;)
