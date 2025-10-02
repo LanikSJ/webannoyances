@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
 ! Checksum: lLNNu0+5t9GzULMOSMKByA
-! Last Modified: 2025-09-08 08:30 UTC
+! Last Modified: 2025-10-02 15:25 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -404,6 +404,7 @@ microsoft.com###cookie-prompt, #epb, .m-back-to-top, .site-survey-opener
 microsoftcasualgames.com###banner, #cookie-consent-container
 milorganite.com###cookie_directive_container
 mindk.com##.cookies-alert-block, .mk-btn-top
+minafi.com##.fixed.bg-blue-500
 minitool.com##.bottom-cookie-wrap
 mit.edu##.legal-banner-component
 moen.com##.plmr-c-cookie-notification
