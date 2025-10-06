@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: l6C2/n8NmlEXDJRRf5O51Q
-! Last Modified: 2025-10-02 15:24 UTC
+! Checksum: En+o+VHPkCw1H3T2tOQw1w
+! Last Modified: 2025-10-06 08:29 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -600,7 +600,7 @@ analytica.net##.navbar:style(position: absolute !important; background-color: un
 android.com##.android-header:style(position: absolute !important; transform: none !important;)
 androidauthority.com##._--_-___Ic
 androidauthority.com##._--_-___Il:style(position: relative !important; top: 0 !important;)
-androidauthority.com,belitsoft.com,cellularinsights.com,checkout51.com,cookinglight.com,denuvo.com,edri.org,huronconsultinggroup.com,leisurepro.com,livelingua.com,mediaite.com,mypaysimple.com,nordbayern.de,nutella.com,propublica.org,skip.it,stream.org,unubo.com,victoryjournal.com,virginia.gov,wipersoft.com##header:style(position: relative !important; top: 0 !important;)
+androidauthority.com,belitsoft.com,cellularinsights.com,checkout51.com,cookinglight.com,denuvo.com,edri.org,huronconsultinggroup.com,leisurepro.com,livelingua.com,mediaite.com,mypaysimple.com,nordbayern.de,nutella.com,propublica.org,stream.org,unubo.com,victoryjournal.com,virginia.gov,wipersoft.com##header:style(position: relative !important; top: 0 !important;)
 androidbenchmark.net,cpubenchmark.net,harddrivebenchmark.net,iphonebenchmark.net,memorybenchmark.net,pcbenchmarks.net,videocardbenchmark.net###main_menu, #tabs:style(position: absolute !important;)
 androidpolice.com,babygaga.com,collider.com,fextralife.com,gamerant.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,screenrant.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,xda-developers.com###js-secondary-header
 androidpolice.com,babygaga.com,collider.com,fextralife.com,gamerant.com,hotcars.com,makeuseof.com,moms.com,screenrant.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,xda-developers.com###js-header:style(position: relative !important;)
@@ -1913,13 +1913,13 @@ christianpost.com##.js-is-sticky.site-nav:style(position: relative !important; t
 christianpost.com##.site-header-sticky.site-header-inner:style(position: absolute !important; top: 0 !important;)
 christianpost.com##.sticky-element.site-nav:style(position: relative !important;)
 christophniemann.com##.page_header, .page_nav_toggle_open.page_nav_toggle:style(position: absolute !important; top: 0 !important;)
+chrome-stats.com##.navbar:style(position: relative !important; box-shadow: none !important;)
+chrome-stats.com##[class^="sidebar-"]:style(position: absolute !important; top: 5px !important;)
 chrome.google.com##.F-f-k:style(position: relative !important; overflow: unset !important;)
 chrome.google.com##.O-j-k, .Yb-wa.h-Yb-wa, .ikIPKb, header:style(position: absolute !important;)
 chrome.google.com##.vCJLQ:style(box-shadow: none !important;)
 chrome.google.com##.X-e-x:style(position: relative !important; top: 0 !important;)
 chrome.google.com##.ZZ9xL:style(font-size: 1.75rem !important; line-height: 2.25rem !important;)
-chrome-stats.com##.navbar:style(position: relative !important; box-shadow: none !important;)
-chrome-stats.com##[class^="sidebar-"]:style(position: absolute !important; top: 5px !important;)
 chromestatus.com##footer:style(position: relative !important;)
 chromestory.com##.reveal.sticky-message
 chromewebstore.google.com###kO001e:style(position: absolute !important; box-shadow: none !important;)
@@ -3033,10 +3033,10 @@ epicureaneva.com###main-header:style(position: absolute !important; box-shadow: 
 epicureaneva.com###top-header
 epicureaneva.com##.et_header_style_centered #main-header .logo_container:style(height: 181px !important;)
 eporner.com###top2:style(position: absolute !important;)
-epubs.siam.org,pnas.org##.st-header
-epubs.siam.org,pnas.org##[data-core-nav="header"]:style(position: relative !important;)
 epubs.siam.org##.core-nav-wrapper::before:style(position: absolute !important;)
 epubs.siam.org##.navbar:style(position: relative !important; top: 0 !important;)
+epubs.siam.org,pnas.org##.st-header
+epubs.siam.org,pnas.org##[data-core-nav="header"]:style(position: relative !important;)
 equifax.com##.affix.sticky-nav:style(position: relative !important;)
 erahm.org,krypted.com###sidebar:style(position: absolute !important; top: 0 !important; bottom: unset !important;)
 eraser.heidi.ie##.add-header-height, .main-navigation-ul > li:style(height: 90px !important; line-height: 90px !important;)
@@ -5494,9 +5494,9 @@ military.com##header:style(position: relative !important; top: 0 !important; hei
 militaryaerospace.com##.site-navbar:style(position: absolute !important;)
 militarytimes.com###top-header, .js-pubsub-module.has-secondary-nav.layout-module.generic-module, .site-color.secondary-navigation:style(position: relative !important; top: 0 !important;)
 milotree.com##.header-group:style(position: absolute !important;)
+mimecast.com##.navigation-bar:style(position: relative !important;)
 minafi.com##.fixed.bg-blue-500:style(position: relative !important;)
 minafi.com##.social-shares:style(position: absolute !important; top: 300px !important; left: -400px !important; opacity: 1 !important;)
-mimecast.com##.navigation-bar:style(position: relative !important;)
 mindbodyonline.com###fixedTop, .fixedHeader, .wrapperTop:style(position: absolute !important;)
 mindk.com##.sticky-element-original.post-top-block:style(position: relative !important;)
 minds.com##.mdl-color-text--grey-600.mdl-color--white.m-noshadow:style(position: absolute !important;)
@@ -6064,8 +6064,6 @@ nhsinform.scot###navigation:style(position: static !important;)
 nianticlabs.com##.header:style(position: absolute !important; background-color: transparent !important; box-shadow: none !important;)
 nickiminajofficial.com###page-footer:style(position: absolute !important;)
 nicovideo.jp###CommonHeader:style(position: relative !important;)
-niezlomni.com##.skiptranslate iframe:style(position: relative !important;)
-niezlomni.com##body:style(top: 0 !important;)
 nih.gov###myScrollspy:style(position: absolute !important;)
 nike.com###react-root > div > div:nth-of-type(2), .js-globalNav.en.gnav:style(position: absolute !important;)
 nike.com##.pre-l-header:style(position: relative !important;)
