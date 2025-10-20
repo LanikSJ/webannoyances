@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
-! Checksum: lLNNu0+5t9GzULMOSMKByA
-! Last Modified: 2025-10-02 15:25 UTC
+! Checksum: IbQNJ9swILr3wYgor5zlvA
+! Last Modified: 2025-10-20 08:30 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -267,7 +267,6 @@
 /wrapperMessagingWithoutDetection.js$script,domain=the-sun.com|thescottishsun.co.uk|thesun.co.uk|thesun.ie
 1worldonline.com##.js-cookies-popup
 7news.com.au##.ToastNotification.cookie-consent--normal
-8kun.top##div>i>.disclaimer-8kun
 @@||erolnik.gov.pl/content/scripts/cookieconsent.min.js$script,1p
 @@||geolocation.onetrust.com/cookieconsentpub/$script
 @@||lightningmaps.org^*/cookieconsent.$script,stylesheet
@@ -403,8 +402,8 @@ microcenter.com###PnlPrivacyAlert
 microsoft.com###cookie-prompt, #epb, .m-back-to-top, .site-survey-opener
 microsoftcasualgames.com###banner, #cookie-consent-container
 milorganite.com###cookie_directive_container
-mindk.com##.cookies-alert-block, .mk-btn-top
 minafi.com##.fixed.bg-blue-500
+mindk.com##.cookies-alert-block, .mk-btn-top
 minitool.com##.bottom-cookie-wrap
 mit.edu##.legal-banner-component
 moen.com##.plmr-c-cookie-notification
