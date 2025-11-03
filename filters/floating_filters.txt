@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: t2rB1hJJ77/RiapXJQ/5og
-! Last Modified: 2025-10-27 08:30 UTC
+! Checksum: 3abW5YdTp1XpFNN+3Xn7/g
+! Last Modified: 2025-11-03 08:31 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -5554,7 +5554,7 @@ mlb.com##.sticky-components__inner--sticky.sticky-components__inner, .sticky.pos
 mlb.com##.template-article__content:style(margin-left: 0 !important;)
 mlb.com##.template-article__sidebar:style(position: relative !important; height: auto !important;)
 mlbshop.com##.fixed.sliver:style(position: relative !important;)
-mlbstreams.net,nhlstream.net##.stuck.waypoint:style(position: absolute !important;)
+mlbstreams.net##.stuck.waypoint:style(position: absolute !important;)
 mlbtraderumors.com,prohockeyrumors.com##.headlines-bar:style(position: absolute !important;)
 mlssoccer.com###mls-global, .affix.nav_wrapper.region-navigation.region:style(position: absolute !important; top: 0 !important;)
 mlssoccer.com##.logo__custom:style(position: absolute !important;)
@@ -8287,7 +8287,6 @@ theintercept.com##.Homepage-sidemenu, .Post-social--fixed:style(position: absolu
 theintercept.com##.Post-feature-title-block:style(transform: translate3d(0px, 0px, 0px) !important;)
 theintercept.com##.Post-social-link-block:style(float: right !important;)
 theirrelevantinvestor.com###sticker:style(position: absolute !important;)
-theitstuff.com##.visible.menu-wrap:style(position: absolute !important;)
 thejakartapost.com##.showin-mobile-version.no-padding.col-xs-12:style(position: relative !important; top: 0 !important;)
 thejc.com##.main-header:style(position: relative !important; height: 6.25rem !important;)
 thejewishvoice.com##.mvp-nav-small, .mvp-fixed1:style(position: absolute !important; top: 0 !important;)

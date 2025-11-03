@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: PQ1JXXsBZISShpBe8gi/3g
-! Last Modified: 2025-10-20 08:30 UTC
+! Checksum: tBYEQ3vuidlsyOl7FzDwBw
+! Last Modified: 2025-11-03 08:31 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -290,7 +290,6 @@ dailykos.com##.comment-auto-updater-large.comment-auto-updater-comment.comment-a
 dailykos.com##.comments > div:nth-of-type(1) > div
 dappersports.com##.right-bar
 davidsopas.com##.oi_st_menu_holder
-davidtan.org##.site-header
 db.com###wt-confirm-layer
 deadstate.org###prev-next-wrap
 dealcatcher.com###main-menu
