@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: 3abW5YdTp1XpFNN+3Xn7/g
-! Last Modified: 2025-11-03 08:31 UTC
+! Checksum: woHXwj/zQ87LIXKTO5r9NA
+! Last Modified: 2025-11-10 08:33 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -650,7 +650,6 @@ apexmotorswa.com##.vdp-header-bar__mileage, .vdp-header-bar__price:style(font-si
 apexmotorswa.com##.vdp-header-bar__subtitle:style(font-size: 15px !important;)
 apexmotorswa.com##.vdp-header-bar__title:style(font-size: 24px !important;)
 apify.com###xxx:style(position: absolute !important;)
-apkcreative.com##.zik-header-container:style(position: absolute !important;)
 apkmos.com##.ct-drawer-inner:style(position: relative !important;)
 app.feetfinder.com##.cLVZXo
 app.feetfinder.com##.SideBarMain:style(position: relative !important; top: 0 !important;)
