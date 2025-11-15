@@ -1160,8 +1160,10 @@ berlingske.dk###siteHeaderSticky, .article-header__progress-bar-wrap
 bestbackups.com##.sticky.header_menu:style(position: absolute !important;)
 bestblades.eu,flirt4free.ca,girlsupnorth.com,talkingdotnet.com,tubepornlist.com##.scroll-to-top
 bestbuy.com##.top-fluid-container:style(position: relative !important;)
-bestbuy.com##.top-fluid-container[style="height: 73px;"]
+bestbuy.com##div.top-fluid-container[style="height: 73px;"], .top-fluid-container[style="height: 73px;"]
+bestbuy.com,meetup.com,withum.com##.sticky:style(position: relative !important; top: 0 !important;)
 bestcam.tv,surlatable.com,utah.com###back-to-top
+bestgore.fun,cliqz.com,mightyearth.org,puretrance.com##.menu-container:style(position: absolute !important;)
 bestgore.fun##.root-header:style(position: absolute !important;)
 bestproducts.com###sticky-wrap:style(position: relative !important;)
 bestproducts.com##.nav:style(position: relative !important; max-width: 100% !important; left: 0 !important; right: 0 !important; top: 0 !important; margin: 0 auto !important;)
@@ -1989,7 +1991,6 @@ clinicaltrials.gov##.menu-content:style(position: relative !important;)
 clinicaltrials.gov##ctg-focus-your-search-panel:style(position: relative !important; top: 0 !important;)
 clips4sale.com##.sticky-store-header:style(position: relative !important;)
 cliqz.com##.logo-container:style(padding: 27px 36px 27px 0 !important;)
-cliqz.com,mightyearth.org,puretrance.com##.menu-container:style(position: absolute !important;)
 cloud.google.com##.devsite-nav.devsite-page-nav:style(position: relative !important; top: 0 !important; left: auto !important;)
 cloud.google.com##.devsite-top-section-pinned.nocontent.devsite-top-section, .h-c-header__bar, devsite-header:style(position: absolute !important;)
 cloud.google.com##.h-c-header--corporate-initiative.h-is-wholly-scrolled .h-c-header__bar, .h-c-header--product-initiative.h-is-wholly-scrolled .h-c-header__bar:style(transform: translateZ(0) !important;)
@@ -3808,6 +3809,7 @@ github.com##.is-stuck.top-0.js-sticky.user-profile-nav.UnderlineNav:style(width:
 github.com##.jPdcfu:style(position: relative !important;)
 github.com##.js-notification-shelf-offset-top:style(position: relative !important; top: 0 !important;)
 github.com##.lp-IntroHero:style(position: absolute !important; transform: scale(1) !important; opacity: 1 !important;)
+github.com##.non-sticky-header-container:style(display: block !important;)
 github.com##.notifications-v2:style(position: relative !important; z-index: unset !important;)
 github.com##.position-sticky[data-turbo-frame="user-profile-frame"]:style(position: relative !important;)
 github.com##.pr-review-tools:style(margin-top: -4px !important;)
@@ -3818,6 +3820,8 @@ github.com##.react-blob-sticky-header
 github.com##.react-blob-view-header-sticky:style(position: relative !important;)
 github.com##.show-if-stuck
 github.com##.sticky-file-header:style(position: relative !important; top: 0 !important;)
+github.com##.sticky-header-shadow
+github.com##.sticky-header-wrapper:style(position: relative !important; top: 0 !important;)
 github.com##.user-profile-nav:style(position: relative !important;)
 github.com##.vcard-names-container:style(position: static !important; top: unset !important; left: unset !important; width: auto !important;)
 github.com##.xEgty:style(position: relative !important;)
@@ -5423,7 +5427,6 @@ medpagetoday.com###mpt_header:style(position: static !important; height: 100px !
 medpagetoday.com##.rr-recirc-bottom-box-ad-container:style(position: static !important;)
 medscape.com###fpf-fadeout, #fpf_widget
 medscape.com###pageN_2:style(display: block !important;)
-meetup.com,withum.com##.sticky:style(position: relative !important; top: 0 !important;)
 megabizarro.net###recallbar:style(position: absolute !important;)
 melissa.com###sideIcon
 memegenerator.net##.comp-ui-sticky:style(position: absolute !important; top: 12px !important;)
@@ -6623,7 +6626,8 @@ politifact.com##.m-sharing, .o-header:style(position: absolute !important;)
 politiken.dk##.sticky-top
 poll.qu.edu##.sticky-bar[data-sticky-scroll-listener-selector]:not([data-sticky-disabled="true"])[data-sticky="true"]
 poll.qu.edu##[id*="poll-release-nav-sticky-bar-"]:style(visibility: visible !important;)
-pollfish.com##.menu-container:style(position: absolute !important;)
+pollfish.com###INDShadowRootHost, INDshadowRootWrap
+pollfish.com##.banner.top-0.fixed:style(position: absolute !important;)
 polygon.com##.pinned.m-site-nav:style(position: relative !important; top: 0 !important;)
 poorlittleitgirl.com##.sticky-div > .sticky:style(position: relative !important; top: 0 !important;)
 popculture.com###click-close
@@ -7810,6 +7814,7 @@ store.steampowered.com##._1iqjH40fN4Diar-d-rLbR5:style(display: flex !important;
 store.steampowered.com##._1JM3A81UO1KoAFlVTA3a8O:style(position: relative !important; top: 0 !important;)
 store.steampowered.com##._2uCcEtorGeW0ZGXBH1Ccus:style(position: relative !important;)
 store.steampowered.com##._2zTu0OPJoqo1BXb1J9pDJ2:style(position: absolute !important; height: 150px !important; width: 100% !important; transform: translateY(102px) !important;)
+store.steampowered.com##._3IxVZE9uydjh3cA9kmtnk7:style(position: relative !important; top: 0 !important;)
 store.steampowered.com##._3j2deAP85R6gftsIWiHe7n:style(position: relative !important; box-shadow: none !important;)
 store.steampowered.com##._3tf3bdmBO0Ji0rv8PH-ZXz:style(display: block !important;)
 store.steampowered.com##._3uAuM7D5wUQg-5M21NGJc5:style(overflow-x: unset !important; overflow-y: unset !important;)
