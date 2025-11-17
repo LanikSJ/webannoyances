@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Checksum: KdB4l58wYnneiXQVUdEAzQ
-! Last Modified: 2025-08-10 08:27 UTC
+! Checksum: YK14gZrWEhA1P2KJ53vCtg
+! Last Modified: 2025-11-17 08:32 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -104,7 +104,6 @@ blog.feedspot.com###custom_html-3, #custom_html-3_clone, #text-836, #text-836_cl
 blog.zoom.us###subscribe-ask
 blogs.discovermagazine.com##body > div:nth-of-type(3)
 bloomberg.com##.inline-newsletter, .inline-newsletter-top, .newsletter-module
-bloombergquint.com##.bloombergquint-newoptinbox-background, .sticky-subscription-active, .subscribe-newsletter--large, .subscription-combo-box-module__subscriptionCombo__30SP7, .subscription-combo-box-module__subscriptionCombo__3l12r, .subscription__combo__mobile-wrapper
 boardingarea.com,cockroachlabs.com,cyberscoop.com,gulfnews.com,harpers.org,hindustantimes.com,insightcrime.org,livescience.com,mydomaine.com,notquitenigella.com,spoonuniversity.com,thecollegefix.com,trust.org,vagabomb.com##.subscribe
 bonappetit.com##.subscribe-box
 boredpanda.com##.new-variation-3.newsletter-variation
@@ -122,7 +121,6 @@ browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoen
 buffalonews.com##.ml-subscribe-form.ml-form-embedContainer
 businessinsider.com,insider.com,thisisinsider.com##.editorial-sidebar, .inline-newsletter-signup, .right-subscribe
 businessinsider.com.au###mc-signup-in-post, #mc_signup
-businessinsider.in###nlFormSlide
 businesstimes.com.sg,thepostmillennial.com##.newsletter-wrapper
 buzzfeed.com###mod-newsletter-signup-1, #mod-newsletter-signup-2
 buzzfeednews.com##.bfp-newsletter-signup-container, .newsblock-newsletter-signup
@@ -301,11 +299,11 @@ grist.org##.aside, .email-signup-form
 grubstreet.com,nymag.com,thecut.com,vulture.com###magpromo, .column-subscribe, .newsletter-flex-text, .newsletter-slideout, .subscribe, .subscription
 gun.deals###subscribe-newsletter-popup
 haaretz.com##.newsletter, .newsletter--ruler, [id*="newsletterRegForm"]
-harpersbazaar.com##.journey-container-wrapper
 hacks.mozilla.org###newsletterForm
 hakaimagazine.com##.newssignup.main
 hamhigh.co.uk###subscriptionIframe
 happymag.tv##.subscibe-secion
+harpersbazaar.com##.journey-container-wrapper
 hbo.com###newsletterPopup
 healthcareitnews.com##.field-name-subscription-form
 healthline.com##.css-11k39sg

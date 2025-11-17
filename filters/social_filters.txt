@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: IXAAKvYZJh6gU5jq6HewLg
-! Last Modified: 2025-09-15 08:29 UTC
+! Checksum: cZ+fk4K1Tb8vWq8Lv9WGCQ
+! Last Modified: 2025-11-17 08:32 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -166,7 +166,6 @@ blogspot.ca##.followgooglewrapper
 bloody-disgusting.com,complex.com,firstwefeast.com,totalprosports.com###ctoolbar
 bloomberg.com###header-sharing, #hub_social_buttons, .Social__Wrapper, .bb-nav-social__link, .bb-nav-social__more-icon, .blvs-share-button, .highlights-v6-story__social, .share-article-button, .sticky-social-buttons
 bloomberglinea.com##.ts-share-bar-custom
-bloombergquint.com##.article__details__share, .bq-footer__social, .js-article-details-share-sticky, .js-subscription-combo-box, .share-module__container__AuuXv, .share-module__list__19rxp, .share-toggle-module__share-button__2DRMl, .social_buttons-module__container___3CXN7, .storyshare__icons, div[class^="two-stories-with-ad-slot-m__ad_container"], [class*="share-floating-expanded-"], [class^="share-toggle-module__share-button-top"]
 bnonews.com,duffelblog.com##.g1-sharebar-off.g1-sharebar-loaded.g1-sharebar.g1-row
 boingboing.net###followbb
 bongino.com##button.react-share__ShareButton
@@ -289,7 +288,6 @@ dawn.com##.social--facebook, .social--twitter
 dcist.com###entry-social-float
 deadline.com##.social-google, .social-linkedin, .social-twshare, button[title="Show more sharing options"]
 deadspin.com##.js_share_tools_meta
-deadstate.org##.nav-soc-but
 decider.com###highlight-share, .decider-sharedaddy-wrapper, .recirc__sticky, .story__meta__share-count, .widget_nypost_decider_social_connect_widget
 defenseone.com###fb_flyin_open, #flyin-container, .d1-article-bottom-subscribe-container, .d1-article-left-rail-subscribe-container, .d1-article-sidebar-subscribe-container, .d1-social-article
 delicious.com.au##.connect-row.row

@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: NpeShWeYPPZcr/XUO3qqCA
-! Last Modified: 2025-10-02 15:26 UTC
+! Checksum: oLLBMF/xkxP8q+LI2/L9vg
+! Last Modified: 2025-11-17 08:32 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -170,8 +170,6 @@ blog.petrockblock.com###wpca-bar
 bloomberg.com###graphics-paywall-overlay, #paywall-banner, .navi-push-notification-prompt
 bloomberg.com##body:style(overflow: auto !important;)
 bloomberg.com##body[data-paywall-overlay-status="show"]:style(overflow-x: hidden !important; overflow-y: scroll !important;)
-bloombergquint.com###offline-notification, .paywall-meter-module__story-paywall-container__1UgCE
-bloombergquint.com,dnaindia.com###desktopBannerWrapped, #izmiddle-box
 boardingarea.com###ba-flybox
 boingboing.net###modalOverlay
 bookforum.com###EmailRegistrationPopup, #OverlayRegistration
@@ -327,6 +325,7 @@ disneynow.com###fittPortal_0
 disneynow.com##html,body:style(overflow: auto !important;)
 dividend.com###popup-modal
 dividend.com,interestingengineering.com,pbs.org,sandiegoreader.com,washingtontimes.com###newsletter-modal
+dnaindia.com###desktopBannerWrapped, #izmiddle-box
 docs.microsoft.com##.lf-selection-popover
 doodle.com###d-participationBetaWelcomeView, .d-shown.d-dialog
 dreamcam.com##.attention_overlay__paW1a
@@ -1124,7 +1123,7 @@ zippia.com##.page-popup-search-step-slide, div.career-map-overlay
 ziprecruiter.com##.active.email_popover
 zmescience.com##.jeg_container > .jeg_read_progress_wrapper
 ||getsitecontrol.com^$script,domain=hyperallergic.com|religionnews.com|strongtowns.org|thelocal.fr|theparisreview.org
-||izooto.com^$script,domain=bloombergquint.com|dnaindia.com
+||izooto.com^$script,domain=dnaindia.com
 ||lightboxcdn.com/vendor/*$domain=cnet.com
 ||picreel.com^$subdocument
 ||stacklist.com/*/subscribe-modal

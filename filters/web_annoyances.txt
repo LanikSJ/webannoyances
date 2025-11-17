@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: tBYEQ3vuidlsyOl7FzDwBw
-! Last Modified: 2025-11-03 08:31 UTC
+! Checksum: GDirUG22NiAbzGDL7s7XYg
+! Last Modified: 2025-11-17 08:32 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -166,7 +166,6 @@ calcalistech.com##.fixed.art-action
 californiasunday.com##.banner.site-header
 californiasunday.com##.story-endcap
 californiasunday.com##.trampoline.flushcontainer
-cardpool.com##.feedback_link
 care.com##.nav-btns
 cargurus.com##.cg-mobileSubNavigation-condensedWrapper
 cargurus.com##.userFeedbackToggle-floatingIcon.userFeedbackToggle
@@ -291,7 +290,6 @@ dailykos.com##.comments > div:nth-of-type(1) > div
 dappersports.com##.right-bar
 davidsopas.com##.oi_st_menu_holder
 db.com###wt-confirm-layer
-deadstate.org###prev-next-wrap
 dealcatcher.com###main-menu
 dealnews.com##.slide-container-image.slide-container-middle.slide-container-left.slide-container
 deccanchronicle.com##.callout
