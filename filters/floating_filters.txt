@@ -3812,7 +3812,7 @@ github.com##.non-sticky-header-container:style(display: block !important;)
 github.com##.notifications-v2:style(position: relative !important; z-index: unset !important;)
 github.com##.position-sticky[data-turbo-frame="user-profile-frame"]:style(position: relative !important;)
 github.com##.pr-review-tools:style(margin-top: -4px !important;)
-github.com##.pr-toolbar:style(position: relative !important; box-shadow: none !important; background-color: unset !important; border-bottom: none !important;)
+github.com##.pr-toolbar:style(position: relative !important; top: 0 !important; box-shadow: none !important; background-color: unset !important; border-bottom: none !important;)
 github.com##.prc-PageLayout-PageLayoutRoot-1zlEO:style(--sticky-pane-height: unset !important;)
 github.com##.prc-PageLayout-Pane-Vl5LI:style(overflow: unset !important;)
 github.com##.react-blob-sticky-header
