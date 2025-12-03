@@ -1,25 +1,67 @@
-# Contributing
+# Contributing to WebAnnoyances
 
-When contributing to this repository, please first discuss the change you
-wish to make via issue, email, or any other method with the owners of
-this repository before making a change.
+Thank you for your interest in contributing to WebAnnoyances! This project relies on
+community contributions to maintain effective ad blocking and annoyance filters. All
+contributions are welcome, from reporting issues to submitting filter improvements.
 
-Please note we have a code of conduct, please follow it in all your
-interactions with the project.
+## Getting Started
 
-## Pull Request Process
+1. **Fork** the repository on GitHub
+2. **Clone** your fork locally: `git clone https://github.com/YOUR_USERNAME/webannoyances.git`
+3. **Create** a new branch for your changes: `git checkout -b feature/your-feature-name`
 
-1. Ensure any install or build dependencies are removed before the end of
-   the layer when doing a build.
-2. Update the README.md with details of changes to the interface, this
-   includes new environment variables, exposed ports, useful file
-   locations and container parameters.
-3. Increase the version numbers in any examples files and the README.md
-   to the new version that this Pull Request would represent. The
-   versioning scheme we use is [SemVer](https://semver.org/).
-4. You may merge the Pull Request in once you have the sign-off of two
-   other developers, or if you do not have permission to do that, you
-   may request the second reviewer to merge it for you.
+## How to Contribute
+
+### Reporting Issues
+
+- Check existing [issues](https://github.com/LanikSJ/webannoyances/issues) to avoid duplicates
+- Use the issue template and provide detailed information about:
+  - The website/domain causing the issue
+  - Type of content to block (ads, trackers, annoyances)
+  - Screenshots or examples if applicable
+  - Your browser and ad blocker extension versions
+
+### Contributing Filters
+
+- Familiarize yourself with [EasyList syntax](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
+- Test your filters thoroughly before submitting
+- Follow the existing patterns in the filter files
+- Use descriptive commit messages explaining what filters were added/removed and why
+
+### Pull Request Process
+
+1. **Update** the appropriate filter files with your changes
+2. **Test** your changes locally:
+   - Use [Adblock Plus Filter Validator](https://abpvn.com/rules-syntax-checker/)
+   - Test in multiple browsers with Adblock Plus/uBlock Origin
+3. **Commit** your changes with clear, descriptive messages
+4. **Push** to your fork and create a Pull Request
+5. **Sign-off** on your commits if required by the repository
+
+**Note:** For large contributions or complex changes, please open an issue first to discuss your approach.
+
+## Testing Your Changes
+
+- Test filters in multiple browsers (Chrome, Firefox, Safari, Edge)
+- Verify filters work with major ad blockers (Adblock Plus, uBlock Origin, AdGuard)
+- Consider performance impact - complex filters may slow down page loading
+- Check for false positives - ensure legitimate content isn't blocked
+
+## Commit Guidelines
+
+- Use clear, descriptive commit messages
+- Start with a verb (Add, Remove, Fix, Update, etc.)
+- Reference issue numbers when applicable: `Fix #123: Remove annoying popup from example.com`
+- Keep commits focused on single changes when possible
+- Test commits before pushing to ensure they work correctly
+
+## Questions?
+
+If you have questions about contributing or need help getting started, feel free to:
+
+- Open a [GitHub Discussion](https://github.com/LanikSJ/webannoyances/discussions)
+- Check the [Documentation](https://github.com/LanikSJ/webannoyances/wiki)
+- Join the conversation on [forums.lanik.us](https://forums.lanik.us)
 
 ## Code of Conduct
 
