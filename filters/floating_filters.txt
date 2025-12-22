@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: NkUD6hJ6lEolrsgnXWSEIg
-! Last Modified: 2025-12-15 08:35 UTC
+! Checksum: RQbzi79/aI1VvBHxB+YRPQ
+! Last Modified: 2025-12-22 08:34 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -343,7 +343,7 @@ adnauseam.io,al.com,alaskahighwaynews.ca,americanexpress.com,artfixdaily.com,ass
 adobe.com##.breadcrumbs-container:style(position: absolute !important;)
 adobe.com##.global-navigation:style(position: relative !important;)
 adp.com##.clearfix.top-nav.adp-nav-background:style(position: relative !important; top: 0 !important;)
-ads.twitter.com,developer.twitter.com,dmagazine.com,lotuffleather.com,peoplefinders.com,quantamagazine.org,searchenginewatch.com,trendings.net##.nav:style(position: absolute !important;)
+ads.twitter.com,developer.twitter.com,dmagazine.com,lotuffleather.com,peoplefinders.com,quantamagazine.org,searchenginewatch.com##.nav:style(position: absolute !important;)
 adssettings.google.com,contributor.google.com###yDmH0d:style(overflow-x: auto !important; overflow-y: scroll !important; padding-right: 0 !important;)
 adssettings.google.com,contributor.google.com##c-wiz:style(overflow: unset !important;)
 advancedcustomfields.com###header:style(opacity: 1 !important; position: absolute !important; background: none !important; color: white !important; box-shadow: none !important;)
@@ -2261,7 +2261,6 @@ coolheadtech.com##.global-header-content:style(position: absolute !important;)
 coolheadtech.com##.is_stuck.sidebar-content:style(position: absolute !important; top: 0 !important;)
 coolo.ai###aside-menu:style(position: relative !important; top: 0 !important;)
 coolo.ai,pewchip.com,thailandopen.org##.header-wrapper:style(position: relative !important;)
-coomer.su##.global-sidebar:style(position: absolute !important;)
 copadivino.com###mainNav, .navbar-header:style(position: relative !important; top: 0 !important;)
 copperhead.co,insites.com,lensculture.com,my-proxy.com,pexels.com,spacelaunchnow.me##.navbar:style(position: absolute !important; background-color: transparent !important;)
 cornell.edu###donate-toggle:style(position: relative !important; top: 0 !important;)
@@ -3103,8 +3102,8 @@ ericksonseniorliving.com##.navbar.fixed .navbar-buttons svg:style(margin-right: 
 ericksonseniorliving.com##.navbar.fixed .navbar-nav .nav-item > a:style(font-size: 1.4rem !important;)
 ericksonseniorliving.com##.navbar.fixed > .navbar-container:style(position: relative !important; max-width: 1640px !important; padding-left: 15px !important; padding-right: 15px !important;)
 erome.vip##.header-11-left:style(position: relative !important; height: 954px !important;)
-erothots.co,erothots1.com##.c-head:style(position: relative !important;)
-erothots.co,erothots1.com##.menu:style(position: relative !important;)
+erothots1.com##.c-head:style(position: relative !important;)
+erothots1.com##.menu:style(position: relative !important;)
 escapistmagazine.com###mnmd-sticky-header
 eso.org,spacetelescope.org###content:style(margin-top: 0 !important;)
 eso.org,spacetelescope.org##.affix:style(position: absolute !important; top: 0 !important;)
@@ -5055,8 +5054,8 @@ kyivpost.com##.mainhead:style(padding: 36px 0 47px !important; background-color:
 kyivpost.com##.mainnav .wrap:style(border: 1px solid #e3e2e6 !important; max-width: 1290px !important;)
 kyivpost.com##.page-wrap.scrolled:style(padding-top: 0 !important;)
 kyleschaeffer.com,nationalgeographiclodges.com,news.com.au,newsplex.com,pixieset.com,qz.com,rollcall.com,sltrib.com,streetinsider.com,technochops.com,technologynetworks.com,uppermichiganssource.com###nav:style(position: relative !important; top: 0 !important;)
-l.opnxng.com,libreddit.app.runonflux.io,libreddit.kavin.rocks,libreddit.privacydev.net,libreddit.projectsegfau.lt,libreddit.tux.pizza,red.artemislena.eu,reddit.rtrace.io,redlib.aosus.link,redlib.freedit.eu,redlib.kylrth.com,redlib.northboot.xyz,redlib.pussthecat.org,redlib.seasi.dev,safereddit.com,snoo.habedieeh.re###banner
-l.opnxng.com,libreddit.app.runonflux.io,libreddit.kavin.rocks,libreddit.privacydev.net,libreddit.projectsegfau.lt,libreddit.tux.pizza,red.artemislena.eu,reddit.rtrace.io,redlib.aosus.link,redlib.freedit.eu,redlib.kylrth.com,redlib.northboot.xyz,redlib.pussthecat.org,redlib.seasi.dev,safereddit.com,snoo.habedieeh.re##nav.fixed_navbar:style(position: absolute !important;)
+l.opnxng.com,libreddit.app.runonflux.io,libreddit.kavin.rocks,libreddit.privacydev.net,libreddit.projectsegfau.lt,libreddit.tux.pizza,red.artemislena.eu,reddit.rtrace.io,redlib.aosus.link,redlib.freedit.eu,redlib.kylrth.com,redlib.northboot.xyz,redlib.pussthecat.org,safereddit.com,snoo.habedieeh.re###banner
+l.opnxng.com,libreddit.app.runonflux.io,libreddit.kavin.rocks,libreddit.privacydev.net,libreddit.projectsegfau.lt,libreddit.tux.pizza,red.artemislena.eu,reddit.rtrace.io,redlib.aosus.link,redlib.freedit.eu,redlib.kylrth.com,redlib.northboot.xyz,redlib.pussthecat.org,safereddit.com,snoo.habedieeh.re##nav.fixed_navbar:style(position: absolute !important;)
 l2inc.com##.desktop-nav.js-sticky-nav:style(position: relative !important;)
 laboratoryequipment.com###footer-expand:style(position: relative !important;)
 lacrosseunlimited.com##.megamenu:style(position: relative !important;)

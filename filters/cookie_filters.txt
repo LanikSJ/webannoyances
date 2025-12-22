@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
-! Checksum: IbQNJ9swILr3wYgor5zlvA
-! Last Modified: 2025-10-20 08:30 UTC
+! Checksum: aHnWEhRRS7xo1fy5IvXBqw
+! Last Modified: 2025-12-22 08:34 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -498,7 +498,6 @@ tinybeans.com##.elementor-popup-modal
 tripplite.com###cookieMsg
 trumpf.com##.is-open.cookieMsg.notification-small.notification
 trunews.com###ifrmCookieBanner, #main-cookie-banner, .sp-overlay, .toTopButton
-tvdateswatch.com##.cp-popup-container
 ubackup.com##.ensureCookie
 uber.com##[data-baseweb="toaster"]:has-text(/third party cookies/)
 umaidry.com###cookies-wrapper, .springmail-modal, .springmail-overlay
