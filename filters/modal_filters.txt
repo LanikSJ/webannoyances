@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: wWmFoOn/r8vTNOqloEaNpw
-! Last Modified: 2025-12-15 08:35 UTC
+! Checksum: YDP7hK255yyFtYikA34esw
+! Last Modified: 2025-12-26 05:26 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -824,7 +824,6 @@ redalertpolitics.com##.dy-modal-container, .signup-trigger
 reddit.com##.DualPartInterstitialFooter, .DualPartInterstitial__common, .DualPartInterstitial__content, .TransparentOverlay, .TransparentOverlay__overlay, .XPromoListingClickModal, .XPromoPill, .XPromoPopup, .dSHRel.s8g432y-0, .esxAEQ.pqvesn-2, .mobile-web-redirect-bar, .seo-comments, .seo-comments-recommendations, .splash-design.splash_wrapper, .welcome
 reddit.com##body.scroll-disabled:style(position: static !important; overflow: visible !important;)
 redfin.com###RegistrationLightbox, #RegistrationLightbox_underlay
-redsoccer.info###__vliadb83, #__vliadb83-bg
 regroove.ca###callToAction
 religionnews.com###pop-up-embed-form:upward(1)
 religionnews.com##div[style="width: 100%; height: 100%; overflow-y: hidden; position: fixed; left: 0px; top: 0px; z-index: 10000; background: rgba(0, 0, 0, 0.5) none repeat scroll 0% 0%;"]
