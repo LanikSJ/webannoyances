@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
 ! Checksum: aHnWEhRRS7xo1fy5IvXBqw
-! Last Modified: 2025-12-22 08:34 UTC
+! Last Modified: 2026-01-07 21:42 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -417,6 +417,7 @@ nascar.com##.preloaded_lightbox
 nationalreview.com##.bcpNotificationBar
 nature.com##.c-site-messages, .container-type-cookies-
 netflix.com###cookie-disclosure
+new-fmovies.my##.bottom-4.fixed
 newyorkfed.org###myCookieConsent
 nhsinform.scot,theiet.org###ccc
 nokia.com##.nokia_cookie-wrapper
