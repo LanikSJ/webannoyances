@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: qGUbY6mlyU35fJ6Q19ueSg
-! Last Modified: 2026-01-12 07:54 UTC
+! Checksum: hePiHvNwHLuIFUrdL3ru4w
+! Last Modified: 2026-01-12 08:56 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -648,7 +648,6 @@ mdjonline.com##.emphasis-h4.block
 mdjonline.com##.paging-link
 meatpoultry.com##.headroom--pinned.headroom--not-bottom.headroom--not-top.headroom.main-header--quick-return.main-header
 mediapost.com##.widget
-mediatrackers.org##.state-navigation.sticky
 medicalnewstoday.com###mnt_dlb_head_container
 medicalnewstoday.com###navigation_scroll
 medicalnewstoday.com##.header_hr
