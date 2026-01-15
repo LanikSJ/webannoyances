@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Generic Filters
-! Checksum: UOgWSiDOQxw9/SdcLv6ahw
-! Last Modified: 2024-11-15 11:10 UTC
+! Checksum: v6qfl0E4mdigZi68LzKwCA
+! Last Modified: 2026-01-15 05:46 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for generic cosmetic filters - Cosmetically remove common annoyances found on multiple domains typically provided in the social, modal and newsletter Web Annoyances Ultralist sublists. Also includes cookie & gdpr warning elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -9,7 +9,6 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 ! Copyright: © 2016-2024 by yourduskquibbles and LanikSJ
 ! Works Best With: uBlock Origin or AdGuard
-
 ! Start Web Annoyances Ultralist - Generic Filters
 ###___ratingbadge_0
 ###__tealiumImplicitmodal
@@ -1864,9 +1863,9 @@
 ##div [class*="pin-it-button"]
 ##nav-share-buttons
 ##ss-scroll-to-top:not(html):not(body)
-4029tv.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,wpbf.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com#@#.js-share-container
+4029tv.com,derstandard.at,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,wpbf.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com#@#.js-share-container
+9to5google.com,9to5mac.com,9to5toys.com,deadline.com,dronedj.com,electrek.co,spaceexplored.com#@#.social-share
 9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,electrek.co,spaceexplored.com#@#.post-social-mobile
-9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,electrek.co,spaceexplored.com#@#.social-share
 @@||100percentfedup.com^$generichide
 @@||animezone.pl^$generichide
 @@||bigleaguepolitics.com^$generichide
@@ -1893,14 +1892,13 @@ apnews.com#@#.SocialShare
 arstechnica.com#@##social-footer
 atavist.com#@#.nav-subscribe
 baidu.com,meduza.io,postimg.cc,vidlox.me#@##share
+birminghammail.co.uk,bristolpost.co.uk,business-live.co.uk,cbsnews.com,chroniclelive.co.uk,coventrytelegraph.net,dailypost.co.uk,dailyrecord.co.uk,dailystar.co.uk,derbytelegraph.co.uk,devonlive.com,examinerlive.co.uk,gazettelive.co.uk,glasgowlive.co.uk,hulldailymail.co.uk,lancs.live,leicestermercury.co.uk,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,mylondon.news,nottinghampost.com,plymouthherald.co.uk,walesonline.co.uk#@#.sharebar
 birminghammail.co.uk,bristolpost.co.uk,business-live.co.uk,chroniclelive.co.uk,coventrytelegraph.net,dailypost.co.uk,dailyrecord.co.uk,dailystar.co.uk,derbytelegraph.co.uk,devonlive.com,examinerlive.co.uk,gazettelive.co.uk,glasgowlive.co.uk,hulldailymail.co.uk,lancs.live,leicestermercury.co.uk,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,mylondon.news,nottinghampost.com,plymouthherald.co.uk,walesonline.co.uk#@##share-top
-birminghammail.co.uk,bristolpost.co.uk,business-live.co.uk,chroniclelive.co.uk,coventrytelegraph.net,dailypost.co.uk,dailyrecord.co.uk,dailystar.co.uk,derbytelegraph.co.uk,devonlive.com,examinerlive.co.uk,gazettelive.co.uk,glasgowlive.co.uk,hulldailymail.co.uk,lancs.live,leicestermercury.co.uk,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,mylondon.news,nottinghampost.com,plymouthherald.co.uk,walesonline.co.uk#@#.sharebar
 brockhaus.de#@#.scrollup:not(html):not(body)
 businessinsider.com,ruqqus.com,williamhill.com#@#.arrow-up:not(html):not(body)
 californiasunday.com#@#.share-bar
-cbsnews.com#@#.sharebar
 cch.org.tw#@##sb-container
-cfx.re,discourse.pi-hole.net,flatlooker.com,onehack.us,pgportal.gov.in#@#.btn-social
+cfx.re,discourse.pi-hole.net,flatlooker.com,pgportal.gov.in#@#.btn-social
 closermag.fr,mbank.cz,obi.ru#@#.smartbanner:not(html):not(body)
 cnet.com#@#.share-button
 codelearn.io#@#.sharing
@@ -1908,9 +1906,7 @@ congee.pl,domenasportowa.pl#@#.scrollTop:not(html):not(body)
 dailyprogress.com,dothaneagle.com,fredericksburg.com,godanriver.com,greensboro.com,heraldcourier.com,hickoryrecord.com,journalnow.com,kearneyhub.com,martinsvillebulletin.com,mcdowellnews.com,morganton.com,newsadvance.com,nonpareilonline.com,nptelegraph.com,oanow.com,omaha.com,pressofatlanticcity.com,richmond.com,roanoke.com,scnow.com,starexponent.com,starherald.com,statesville.com,theeagle.com,theindependent.com,tulsaworld.com,unionleader.com,wacotrib.com,yorknewstimes.com#@#.social-share-link
 dailyprogress.com,dothaneagle.com,fredericksburg.com,godanriver.com,greensboro.com,heraldcourier.com,hickoryrecord.com,journalnow.com,kearneyhub.com,martinsvillebulletin.com,mcdowellnews.com,morganton.com,newsadvance.com,nonpareilonline.com,nptelegraph.com,oanow.com,omaha.com,pressofatlanticcity.com,richmond.com,roanoke.com,scnow.com,starexponent.com,starherald.com,statesville.com,theeagle.com,theindependent.com,tulsaworld.com,unionleader.com,wacotrib.com,yorknewstimes.com#@#.social-share-links
 dcinside.com#@##privacy_policy
-deadline.com#@#.social-share
 derstandard.at#@#.js-share
-derstandard.at#@#.js-share-container
 disconnect.me#@#.go-top:not(html):not(body)
 ebay.*#@##actionbar
 elmir.ua#@#.to-top:not(html):not(body)

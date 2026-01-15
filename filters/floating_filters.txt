@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: inmpYTLRZUCuNT4H3plmQQ
-! Last Modified: 2026-01-12 08:56 UTC
+! Checksum: 5r7yEdujg+PsxSON53T3vQ
+! Last Modified: 2026-01-15 05:46 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -2876,8 +2876,6 @@ dxomark.com,royaleyyc.ca##.header-wrapper:style(position: relative !important; b
 dyn.com###blog-top-nav, #top-navbar:style(position: absolute !important;)
 dzone.com##.sidebarTapBar
 earlywarning.com###snav:style(position: absolute !important;)
-earnestcapital.com###masthead:style(position: absolute !important; transform: none !important; box-shadow: none !important;)
-earnestcapital.com##.drop-in--not-top .container, .drop-in--pinned:not(.drop-in--top) .container:style(padding-top: 25px !important; padding-bottom: 25px !important;)
 earthgarage.com###logo:style(max-height: 100px !important;)
 earthgarage.com###main-header:style(position: absolute !important; height: 80px !important; box-shadow: 0 1px 0 rgba(0,0,0,.1) !important;)
 earthgarage.com##.et_header_style_left #et-top-navigation nav > ul > li > a, .et_header_style_split #et-top-navigation nav > ul > li > a:style(padding-bottom: 33px !important;)
@@ -6189,8 +6187,6 @@ onceuponachef.com##.jw-header.fixedready.topbar:style(position: relative !import
 one.google.com##.E6SZkc.DjbnYe:style(position: absolute !important;)
 one.google.com##.gGZI7b, .WOPFkb.E6SZkc.DjbnYe:style(position: absolute !important; top: 0 !important; box-shadow: none !important;)
 one.google.com##.QGH6Nd:style(margin-top: 0 !important;)
-onehack.us##.ember-view.d-header-wrap:style(position: relative !important;)
-onehack.us##.sidenav:style(display: block !important; position: absolute !important; width: 150px !important; height: auto !important; padding: 5px 0 !important; margin: 0 !important; opacity: 1 !important;)
 onemileatatime.com###wrapper-header:style(position: relative !important;)
 online.jimmyjohns.com##header#top:style(position: relative !important;)
 online.suny.edu##.gt_switcher_wrapper:style(position: absolute !important;)
