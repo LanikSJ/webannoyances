@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: kZbVnEDkTpKpkgxAEkf/eg
-! Last Modified: 2026-01-12 08:56 UTC
+! Checksum: zMGJqRBe6ix8sO86zBqGzQ
+! Last Modified: 2026-01-15 05:46 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -324,7 +324,6 @@ drudgereport.com###pds-sharing
 drugs.com###share-block
 dw.com###mobileSharingGroup, #sharing-bar
 dw.com##div a[href^="https://twitter.com/"], div a[href^="https://www.facebook.com/"]:upward(2)
-earnestcapital.com###engagement-bar
 earnthenecklace.com##.etn-social-share, .sticky-top.from-the-web.shareworthy-section
 eastbourneherald.co.uk,inews.co.uk,portsmouth.co.uk,wakefieldexpress.co.uk##.amp-social-share-facebook, .amp-social-share-twitter, .amp-social-share-whatsapp
 eatthis.com##.above-content-sharebar, .below-content-sharebar, .pin-it-button, .sticky > .social
