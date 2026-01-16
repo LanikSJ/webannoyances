@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: 5r7yEdujg+PsxSON53T3vQ
-! Last Modified: 2026-01-15 05:46 UTC
+! Last Modified: 2026-01-16 04:46 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -82,7 +82,7 @@
 3dprint.com##.et-fixed-header:style(position: relative !important; top: 0 !important;)
 3rbcafee.com##.backk:style(position: relative !important;)
 3rbcafee.com##.head-poz, .par-bottom:style(position: absolute !important;)
-4029tv.com,6abc.com,8newsnow.com,abc11.com,abc13.com,abc27.com,abc30.com,abc4.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com,abovethelaw.com,accenture.com,adexchanger.com,adweek.com,afr.com,aol.co.uk,aol.com,architectural-review.com,arkema-americas.com,arklatexhomepage.com,artplusgallerypa.com,artstation.com,bathandbodyworks.com,bgov.com,bigcountryhomepage.com,binghamtonhomepage.com,bitport.io,blog.thoughtlabs.com,boston.com,brproud.com,burpee.com,businessinsider.com.au,businessinsider.de,capbluecross.com,carfax.com,carolinascw.com,cbs17.com,cbs42.com,cbs4indy.com,cebglobal.com,cenlanow.com,centexproud.com,centralillinoisproud.com,channelnewsasia.com,cheatsheet.com,chipotle.com,ciproud.com,city-data.com,click2houston.com,clickondetroit.com,clickorlando.com,cnn.com,cnyhomepage.com,collectorsweekly.com,conchovalleyhomepage.com,corporationwiki.com,counton2.com,couponchief.com,cpbj.com,cryptoslate.com,css-tricks.com,cw23.com,cw33.com,cw39.com,cwarkansas.com,dailycaller.com,daytonscw.com,deltadentalins.com,dezeen.com,dmnews.com,dothanfirst.com,dreamstime.com,dribbble.com,duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion,easttexasmatters.com,emsisoft.com,everythinglubbock.com,excellusbcbs.com,expressvpn.com,fair.org,fastcompany.com,filehippo.com,firstwefeast.com,flirc.tv,fourstateshomepage.com,fox13now.com,fox16.com,fox21news.com,fox23albany.com,fox2now.com,fox40.com,fox43.com,fox44news.com,fox46.com,fox4kc.com,fox59.com,fox5sandiego.com,fox61.com,fox6now.com,fox8.com,foxbusiness.com,foxnews.com,foxprovidence.com,geek.com,ggwash.org,glassesdirect.co.uk,gmfinancial.com,golfadvisor.com,gulfcoastcw.com,hannaandersson.com,huffpost.com,ifre.com,independentpersian.com,indyturk.com,informnny.com,itnews.com.au,kark.com,kaspersky.com,kbvotv.com,kcci.com,kcra.com,kdvr.com,keloland.com,ketv.com,kfor.com,kget.com,khon2.com,klfy.com,kmbc.com,koat.com,koco.com,koin.com,krdb.com,kron4.com,krqe.com,ksat.com,ksbw.com,ksn.com,ksnt.com,ktla.com,ktsm.com,kveo.com,kwbq.com,kxan.com,kxnet.com,lairdtech.com,lawnewz.com,livelingua.com,local10.com,localdvm.com,localmemphis.com,localsyr.com,logolounge.com,macobserver.com,marketwatch.com,mckinsey.com,mediaite.com,military.com,mtb-news.de,myarklamiss.com,mychamplainvalley.com,myfox8.com,myhighplains.com,mymodernmet.com,mynbc5.com,mypanhandle.com,mystateline.com,mytwintiers.com,mywabashvalley.com,nationalreview.com,nature.com,nbc4i.com,neteller.com,news10.com,news4jax.com,newsbreakinglive.com,nowthatspeachy.com,nwahomepage.com,ourquadcities.com,ozarksfirst.com,pahomepage.com,petco.com,phl17.com,potterybarn.com,pprune.org,protechtraining.com,q13fox.com,rare.us,reviewed.com,robbreport.com,robertedwardauctions.com,rochesterfirst.com,rocketcitynow.com,runningshoesguru.com,seattletimes.com,siouxlandproud.com,skinsnipe.com,spectrum.com,splcenter.org,spoonuniversity.com,standard.co.uk,tampabay.com,techopedia.com,texasmonthly.com,texomashomepage.com,theblaze.com,thecipherbrief.com,thecounter.org,thelines.com,thenationalpulse.com,therealnews.com,thestar.com.my,timesofisrael.com,trendingpolitics.com,tristatehomepage.com,undark.org,upmatters.com,uproxx.com,usenix.org,usmagazine.com,variety.com,vinepair.com,virginia.gov,virginiafirst.com,wane.com,wapt.com,washingtoncitypaper.com,washingtontimes.com,wate.com,wavy.com,wbaltv.com,wboy.com,wbtw.com,wcia.com,wcvb.com,wdsu.com,wdtn.com,wearecentralpa.com,wearegreenbay.com,weareiowa.com,weismarkets.com,wesh.com,westernslopenow.com,wfla.com,wfxrtv.com,wgal.com,wgno.com,wgntv.com,whlt.com,whyy.org,wiproud.com,wishtv.com,wisn.com,wivb.com,wjbf.com,wjcl.com,wjhl.com,wjtv.com,wkbn.com,wkrg.com,wkrn.com,wktv.com,wlaj.com,wlfi.com,wlky.com,wlns.com,wlwt.com,wmtw.com,wmur.com,wnct.com,wndytv.com,woodtv.com,wordpress.com,wordpress.org,wowktv.com,wpbf.com,wpri.com,wrbl.com,wric.com,wsav.com,wsavcw.com,wsfltv.com,wsls.com,wspa.com,wtae.com,wthitv.com,wtnh.com,wtrf.com,wvnstv.com,wvtm13.com,wwe.com,wwlp.com,wxii12.com,wyff4.com,wytv.com,yourbasin.com,yourbigsky.com,yourcentralvalley.com,yourerie.com,yourphx.com##body:style(padding-top: 0 !important;)
+4029tv.com,6abc.com,8newsnow.com,abc11.com,abc13.com,abc27.com,abc30.com,abc4.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com,abovethelaw.com,accenture.com,adexchanger.com,adweek.com,afr.com,aol.co.uk,aol.com,architectural-review.com,arkema-americas.com,arklatexhomepage.com,artplusgallerypa.com,artstation.com,bathandbodyworks.com,bgov.com,bigcountryhomepage.com,binghamtonhomepage.com,bitport.io,blog.thoughtlabs.com,boston.com,brproud.com,burpee.com,businessinsider.com.au,businessinsider.de,capbluecross.com,carfax.com,carolinascw.com,cbs17.com,cbs42.com,cbs4indy.com,cebglobal.com,cenlanow.com,centexproud.com,centralillinoisproud.com,channelnewsasia.com,cheatsheet.com,chipotle.com,ciproud.com,city-data.com,click2houston.com,clickondetroit.com,clickorlando.com,cnn.com,cnyhomepage.com,collectorsweekly.com,community.arm.com,conchovalleyhomepage.com,corporationwiki.com,counton2.com,couponchief.com,cpbj.com,cryptoslate.com,css-tricks.com,cw23.com,cw33.com,cw39.com,cwarkansas.com,dailycaller.com,daytonscw.com,deltadentalins.com,dezeen.com,dmnews.com,dothanfirst.com,dreamstime.com,dribbble.com,duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion,easttexasmatters.com,emsisoft.com,everythinglubbock.com,excellusbcbs.com,expressvpn.com,fair.org,fastcompany.com,filehippo.com,firstwefeast.com,flirc.tv,fourstateshomepage.com,fox13now.com,fox16.com,fox21news.com,fox23albany.com,fox2now.com,fox40.com,fox43.com,fox44news.com,fox46.com,fox4kc.com,fox59.com,fox5sandiego.com,fox61.com,fox6now.com,fox8.com,foxbusiness.com,foxnews.com,foxprovidence.com,geek.com,ggwash.org,glassesdirect.co.uk,gmfinancial.com,golfadvisor.com,gulfcoastcw.com,hannaandersson.com,huffpost.com,ifre.com,independentpersian.com,indyturk.com,informnny.com,itnews.com.au,kark.com,kaspersky.com,kbvotv.com,kcci.com,kcra.com,kdvr.com,keloland.com,ketv.com,kfor.com,kget.com,khon2.com,klfy.com,kmbc.com,koat.com,koco.com,koin.com,krdb.com,kron4.com,krqe.com,ksat.com,ksbw.com,ksn.com,ksnt.com,ktla.com,ktsm.com,kveo.com,kwbq.com,kxan.com,kxnet.com,lairdtech.com,lawnewz.com,livelingua.com,local10.com,localdvm.com,localmemphis.com,localsyr.com,logolounge.com,macobserver.com,marketwatch.com,mckinsey.com,mediaite.com,military.com,mtb-news.de,myarklamiss.com,mychamplainvalley.com,myfox8.com,myhighplains.com,mymodernmet.com,mynbc5.com,mypanhandle.com,mystateline.com,mytwintiers.com,mywabashvalley.com,nationalreview.com,nature.com,nbc4i.com,neteller.com,news10.com,news4jax.com,newsbreakinglive.com,nowthatspeachy.com,nwahomepage.com,ourquadcities.com,ozarksfirst.com,pahomepage.com,petco.com,phl17.com,potterybarn.com,pprune.org,protechtraining.com,q13fox.com,rare.us,reviewed.com,robbreport.com,robertedwardauctions.com,rochesterfirst.com,rocketcitynow.com,runningshoesguru.com,seattletimes.com,siouxlandproud.com,skinsnipe.com,spectrum.com,splcenter.org,spoonuniversity.com,standard.co.uk,tampabay.com,techopedia.com,texasmonthly.com,texomashomepage.com,theblaze.com,thecipherbrief.com,thecounter.org,thelines.com,thenationalpulse.com,therealnews.com,thestar.com.my,timesofisrael.com,trendingpolitics.com,tristatehomepage.com,undark.org,upmatters.com,uproxx.com,usenix.org,usmagazine.com,variety.com,vinepair.com,virginia.gov,virginiafirst.com,wane.com,wapt.com,washingtoncitypaper.com,washingtontimes.com,wate.com,wavy.com,wbaltv.com,wboy.com,wbtw.com,wcia.com,wcvb.com,wdsu.com,wdtn.com,wearecentralpa.com,wearegreenbay.com,weareiowa.com,weismarkets.com,wesh.com,westernslopenow.com,wfla.com,wfxrtv.com,wgal.com,wgno.com,wgntv.com,whlt.com,whyy.org,wiproud.com,wishtv.com,wisn.com,wivb.com,wjbf.com,wjcl.com,wjhl.com,wjtv.com,wkbn.com,wkrg.com,wkrn.com,wktv.com,wlaj.com,wlfi.com,wlky.com,wlns.com,wlwt.com,wmtw.com,wmur.com,wnct.com,wndytv.com,woodtv.com,wordpress.com,wordpress.org,wowktv.com,wpbf.com,wpri.com,wrbl.com,wric.com,wsav.com,wsavcw.com,wsfltv.com,wsls.com,wspa.com,wtae.com,wthitv.com,wtnh.com,wtrf.com,wvnstv.com,wvtm13.com,wwe.com,wwlp.com,wxii12.com,wyff4.com,wytv.com,yourbasin.com,yourbigsky.com,yourcentralvalley.com,yourerie.com,yourphx.com##body:style(padding-top: 0 !important;)
 4029tv.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,wpbf.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.alerts-block:style(display: block !important; height: auto !important; min-height: 43px !important;)
 4029tv.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,wpbf.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.article-sidelist:style(position: static !important;)
 4029tv.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,wpbf.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.header-inner:style(height: 6rem !important;)
@@ -125,7 +125,7 @@
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.weather-text-container:style(display: block !important; line-height: 1 !important; margin: 0 !important; vertical-align: top !important;)
 7-eleven.com##.FeedBackButton_feedback-button-wrapper__6m_eq:style(position: absolute !important;)
 7-eleven.com##.notification-banner
-7-eleven.com,alamy.com,baseballhq.com,bgov.com,blog.zoom.us,bloomberg.com,boston25news.com,bugzilla.mozilla.org,burpee.com,claremont.org,coasterforce.com,crooksandliars.com,cryptoslate.com,dailywire.com,dazeddigital.com,donaldjtrump.com,fidoalliance.org,fox13memphis.com,fox23.com,fox26houston.com,gianlucadimarzio.com,github.io,hrw.org,inews.co.uk,lenny-faces.com,mimecast.com,mobile.wnd.com,nationalreview.com,novel.pixiv.net,nyclu.org,oilandgasinvestor.com,ok.co.uk,pixel.google,reactos.org,ritzpix.com,robertedwardauctions.com,samsung.com,seekingalpha.com,similarsites.com,splcenter.org,tattoodo.com,telesurtv.net,terrawest.com,thebrag.com,theweek.com,traumanurses.org,trustedreviews.com,ubs.com,untangle.com,verily.com,wallpapersafari.com,wallstreetoasis.com,westpoint.edu,woodmagazine.com,wsbtv.com,wsvn.com###header:style(position: relative !important;)
+7-eleven.com,alamy.com,baseballhq.com,bgov.com,blog.zoom.us,bloomberg.com,boston25news.com,bugzilla.mozilla.org,burpee.com,claremont.org,coasterforce.com,crooksandliars.com,cryptoslate.com,dailywire.com,dazeddigital.com,donaldjtrump.com,fidoalliance.org,fox13memphis.com,fox23.com,fox26houston.com,gianlucadimarzio.com,github.io,hrw.org,inews.co.uk,lenny-faces.com,mimecast.com,mobile.wnd.com,msn.com,nationalreview.com,novel.pixiv.net,nyclu.org,oilandgasinvestor.com,ok.co.uk,pixel.google,reactos.org,ritzpix.com,robertedwardauctions.com,samsung.com,seekingalpha.com,similarsites.com,splcenter.org,tattoodo.com,telesurtv.net,terrawest.com,thebrag.com,theweek.com,traumanurses.org,trustedreviews.com,ubs.com,untangle.com,verily.com,wallpapersafari.com,wallstreetoasis.com,westpoint.edu,woodmagazine.com,wsbtv.com,wsvn.com###header:style(position: relative !important;)
 760kfmb.com,kfmbfm.com,thecwsandiego.com###WNMenuCol1:style(position: absolute !important;)
 7digital.com##.header-navigation-items:style(position: relative !important; box-shadow: none !important; animation: none !important;)
 7news.com.au##.css-1r6ovb5:style(position: static !important;)
@@ -171,8 +171,8 @@
 97x.com,arcadesushi.com,comicsalliance.com,diffuser.fm,guyspeed.com,loudwire.com,noisecreep.com,popcrush.com,screencrush.com,tasteofcountry.com,theboombox.com,theboot.com,thefw.com,ultimateclassicrock.com,wbckfm.com,xxlmag.com##.site-menu-drawer:style(margin-top: 0 !important;)
 99bitcoins.com,aiptcomics.com,appuals.com,avsforum.com,blackmainstreet.net,bloody-disgusting.com,bnonews.com,ccn.com,complyadvantage.com,creativedestructionmedia.com,defence-blog.com,digitaltransactions.net,directexpose.com,discoverpods.com,djhjmedia.com,dkn.tv,dnyuz.com,duffelblog.com,escapistmagazine.com,followeran.ir,freedomoutpost.com,gamertweak.com,gematsu.com,gizmochina.com,greenrushdaily.com,groovypost.com,hardwaresfera.com,hedgeaccordingly.com,herosports.com,instabug.com,latinamericareports.com,marriedbiography.com,nationalfile.com,networthpost.org,newslitetoday.com,ostechnix.com,overclock.net,phandroid.com,psypost.org,reneweconomy.com.au,retroarch.net,shanghaiist.com,socialanxietysupport.com,socialcops.com,stackify.com,steelersdepot.com,teslarati.com,thecoderworld.com,thefreethoughtproject.com,thegoldenstar.net,thepostmillennial.com,thewalrus.ca,top10homeremedies.com,tsarizm.com,visualcapitalist.com,washingtonexec.com,whatfinger.com,whatsonweibo.com,wikihow.com.au,wktv.com,wthitv.com##.theiaStickySidebar:style(position: static !important; top: 0 !important; left: 0 !important; transform: none !important;)
 99bitcoins.com,athabascaadvocate.com,barrheadleader.com,bonnyvillenouvelle.ca,hardwaresfera.com,laclabichepost.com,rmoutlook.com,spjournal.com,stalbertgazette.com,washingtonexec.com,westernwheel.com,westlocknews.com##.sticky-nav.cf.navigation-wrap:style(position: absolute !important;)
-9gag.com###container > .drawer:style(position: absolute !important;)
-9gag.com###top-nav:style(position: relative !important;)
+9gag.com###container > .drawer:style(position: absolute !important; max-height: unset !important;)
+9gag.com###top-navb:style(position: relative !important;)
 9gag.com##.bottom-comment-composer:style(position: absolute !important;)
 9gag.com##.post-tab-bar__container:style(padding: 16px 0 !important;)
 9gag.com##.post-tab-bar__wrapper:style(position: relative !important; top: 0 !important; transform: none !important; padding-left: 0 !important; padding-right: 0 !important; width: 100% !important;)
@@ -876,7 +876,7 @@ auburnpub.com###main-body-container:style(padding-top: 0 !important; margin-top:
 auburntigers.com###sport-nav:style(position: relative !important; top: 0 !important;)
 auctiva.com##.navbar-fixed-top.navbar, .site-header:style(position: relative !important; top: 0 !important;)
 auctiva.com##html.csscolumns-span:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
-audacityteam.org,bugatti.store,buymeacoffee.com,castingcall.club,ccp.edu,ctrade.tf,dashlane.com,emojis.wiki,freephotos.cc,freetubeapp.io,getredgifs.com,goodrx.com,ipinfo.io,iq.wiki,new-fmovies.my,nextshark.com,openphone.com,physgun.com,privacysavvy.com,pt.quizur.com,react.dev,seekfans.com,sex.com,smithsfoodanddrug.com,steambot.info,support.kraken.com,thetransmitter.com##.top-0.sticky:style(position: relative !important;)
+audacityteam.org,bugatti.store,buymeacoffee.com,castingcall.club,ccp.edu,ctrade.tf,dashlane.com,emojis.wiki,freephotos.cc,freetubeapp.io,getredgifs.com,goodrx.com,imgupscaler.ai,ipinfo.io,iq.wiki,new-fmovies.my,nextshark.com,openphone.com,physgun.com,privacysavvy.com,pt.quizur.com,react.dev,seekfans.com,sex.com,smithsfoodanddrug.com,steambot.info,support.kraken.com,thetransmitter.com##.top-0.sticky:style(position: relative !important;)
 audacy.com##.css-76iiez:style(position: absolute !important;)
 audible.com###navigation-top-wrapper:style(position: absolute !important;)
 audiocleaner.ai,blog.linkody.com,digitaljournal.com,topclassactions.com##.a2a_kit:style(position: absolute !important;)
@@ -1175,8 +1175,10 @@ berksmontnews.com,bostonherald.com,chicoer.com,dailybreeze.com,dailybulletin.com
 berlingske.dk###siteHeaderSticky, .article-header__progress-bar-wrap
 bestbackups.com##.sticky.header_menu:style(position: absolute !important;)
 bestblades.eu,flirt4free.ca,girlsupnorth.com,talkingdotnet.com,tubepornlist.com##.scroll-to-top
-bestbuy.com##.lv-app-grid-sidebar:style(position: relative !important; top: 0 !important;)
+bestbuy.com##.lv-app-grid-sidebar:style(position: relative !important; top: 0 !important; transform: none !important;)
 bestbuy.com##.sidebar-container:style(height: unset !important;)
+bestbuy.com##.slick-list:style(display: block !important;)
+bestbuy.com##.sticky-wrapper:style(position: relative !important; top: 0 !important; padding: unset !important; transform: none !important; box-shadow: none !important; border-bottom: 1px solid transparent !important;)
 bestbuy.com##.top-fluid-container:style(position: relative !important;)
 bestbuy.com##.top-fluid-container[style="height: 73px;"], div.top-fluid-container[style="height: 73px;"]
 bestbuy.com##.top-fluid-container[style="height: 75px;"]
@@ -1555,6 +1557,7 @@ bugs.chromium.org##.issueheader, .issue-header-container, mr-issue-metadata:styl
 bugs.chromium.org##mr-app:style(padding-top: 0 !important;)
 bugzilla.mozilla.org###bugzilla-body:style(overflow: unset !important;)
 bugzilla.mozilla.org,kromtech.com###wrapper:style(overflow-x: hidden !important; overflow-y: scroll !important;)
+buhitter.com###topNavi:style(position: relative !important;)
 buildzoom.com,sportscollectorsdaily.com,theboatgalley.com,thedisorganizedparent.com##.nav-primary:style(position: absolute !important;)
 builtin.com###bix-share-social:style(position: absolute !important;)
 builtin.com##.menu-desktop:style(top: 100% !important;)
@@ -2145,20 +2148,16 @@ commonwealmagazine.org##.sticky-header #header #main-menu .site-logo
 commonwealmagazine.org##.sticky-header #header #main-menu ul.menu:style(margin: 0 !important;)
 community.anker.com##.docked .d-header:style(position: absolute !important;)
 community.arm.com###_h_header:style(position: relative !important;)
+community.arm.com###_h_layout:style(position: static !important;)
 community.arm.com###_p_left-sidebar > div:first-child:style(position: static !important; top: auto !important;)
-community.arm.com##.banner.context .navigation-list.applications > div:style(height: unset !important;)
-community.arm.com##.banner.context.slim > .avatar img:style(width: 32px !important;)
-community.arm.com##.banner.context.slim > .avatar:style(flex: 0 0 32px !important; top: 0 !important;)
-community.arm.com##.banner.context.slim.inherited .hierarchy .current-hierarchy > .hierarchy-component:style(display: inline !important;)
-community.arm.com##.banner.context.slim:not(.home) > .hierarchy > .current-hierarchy > .applications ul a.more::before:style(font-size: 35px !important;)
-community.arm.com##.banner.context:not(.home) > .hierarchy > .current-hierarchy > .applications ul a.more:style(margin-top: 12px !important; border: none !important;)
+community.arm.com##.applications.navigation-list:style(flex: 0 0 auto !important;)
+community.arm.com##.banner.context:style(height: 80px !important; padding-top: unset !important;)
+community.arm.com##.banner.context > .avatar:style(flex: 0 0 68px !important; top: unset !important;)
+community.arm.com##.banner.context .hierarchy .current-hierarchy > .hierarchy-component:style(font-size: 18.2px !important; margin-left: 0 !important;)
 community.arm.com##.contextual-administration-handle:style(position: absolute !important;)
-community.arm.com##.header-fragments .layout-region.content:style(border: 0 !important;)
-community.arm.com##.header-top-content:style(position: static !important; border-bottom: none !important;)
-community.arm.com##.scrolled .banner.context .avatar img:style(width: 68px !important; height: 68px !important;)
-community.arm.com##.scrolled .banner.context .hierarchy .current-hierarchy > .hierarchy-component:style(margin: 0 !important;)
-community.arm.com##.scrolled .banner.context .hierarchy .current-hierarchy:style(flex-direction: column !important; align-items: flex-start !important; width: 100% !important;)
-community.arm.com##.scrolled .banner.context .hierarchy:style(flex-direction: column !important; align-items: flex-start !important;)
+community.arm.com##.hierarchy-component.content
+community.arm.com##.right-sidebar.layout-region-inner:nth-of-type(1):style(position: static !important;)
+community.arm.com##.scrolled .banner.context > .avatar img:style(height: 68px !important; width: 68px !important;)
 community.arm.com##.scrollWithUserVertical:style(position: relative !important; top: 0 !important; height: 70px !important; flex-direction: row !important;)
 community.brave.com,community.cartalk.com,community.humanetech.com,community.letsencrypt.org,community.signalusers.org,community.spiceworks.com,devcommunity.x.com,discourse.pi-hole.net,discourse.ubuntu.com,discuss.privacyguides.net,discuss.techlore.tech,forum.audacityteam.org,forum.gitlab.com,forum.kee.pm,forum.level1techs.com,forum.openwrt.org,forum.pretendo.network,forum.torproject.org,forums.blizzard.com,forums.distill.io,forums.fatsharkgames.com,forums.plex.tv,forums.sifive.com,fragiledeal.com,ubuntu-mate.community##.d-header-wrap:style(position: relative !important;)
 community.brave.com,community.cartalk.com,community.humanetech.com,community.letsencrypt.org,community.signalusers.org,community.spiceworks.com,devcommunity.x.com,discourse.pi-hole.net,discourse.ubuntu.com,discuss.privacyguides.net,discuss.techlore.tech,forum.audacityteam.org,forum.gitlab.com,forum.kee.pm,forum.level1techs.com,forum.openwrt.org,forum.pretendo.network,forum.torproject.org,forums.blizzard.com,forums.distill.io,forums.fatsharkgames.com,forums.plex.tv,forums.sifive.com,fragiledeal.com,ubuntu-mate.community##.extra-info
@@ -2594,15 +2593,13 @@ developers.facebook.com##._397q:style(position: absolute !important; top: unset 
 developers.google.com##.devsite-book-nav-toggle, devsite-book-nav:style(position: absolute !important;)
 developers.google.com##.devsite-collapsible-section:style(position: absolute !important; transform: none !important;)
 developers.google.com##.devsite-top-logo-row-wrapper-wrapper:style(position: absolute !important;)
-deviantart.com##._1cJpr._1EdvB
-deviantart.com##._1NIV4, ._2KaUM, ._2r2Fg:style(position: absolute !important;)
-deviantart.com##._28RPb:style(position: relative !important; top: 0 !important;)
-deviantart.com##._2cajI, ._2IPqE:style(position: absolute !important; background: none !important;)
-deviantart.com##._3h7d3._1YrNO:style(padding: 0 0 15px 0 !important;)
-deviantart.com##._74MYX._1NY54:style(position: unset !important; top: unset !important; left: unset !important; right: unset !important; margin-top: unset !important; margin-left: unset !important;)
-deviantart.com##.I_eT4:style(position: absolute !important; top: 0 !important;)
-deviantart.com##.simple-header > .root:style(position: absolute !important;)
-deviantart.com##header.ax3OM:style(position: absolute !important;)
+deviantart.com##.ChsS_n, .MIai0a:style(position: relative !important; top: 0 !important;)
+deviantart.com##.Eee5tK
+deviantart.com##.Nvh2Nw:style(position: relative !important; top: 0 !important;)
+deviantart.com##.ReactModal__Content, .ReactModal__Overlay:style(position: absolute !important; background: none !important;)
+deviantart.com##.KeSTQN
+deviantart.com##.zvb4i6:style(position: absolute !important; top: 0 !important;)
+deviantart.com##header[role=banner]:style(position: absolute !important;)
 deviantartads.com###logo-type
 deviantartsupport.com###related-items, .article-header:style(padding-top: 0 !important;)
 deviantartsupport.com##.sitemap:style(position: relative !important; top: 0 !important;)
@@ -2697,7 +2694,7 @@ discord.me##.header-fix
 discordservers.com##.pointer-events-auto
 discordservers.com##.pt-header, .py-header:style(padding-top: 0 !important;)
 discordservers.com##nav:style(position: relative !important; --tw-shadow: 0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rgba(0,0,0,.1) !important;)
-discourse.mozilla.org,forces.net,nba.com,spiked-online.com,truththeory.com###main:style(padding-top: 0 !important;)
+discourse.mozilla.org,forces.net,nba.com,spiked-online.com###main:style(padding-top: 0 !important;)
 discover.com##.main-container:style(padding-top: 0 !important;)
 discover.com##.primary-nav:style(display: flex !important;)
 discover.com##.secondary-nav-bar:style(position: relative !important; top: 0 !important; background: unset !important; border-bottom: none !important;)
@@ -3777,7 +3774,7 @@ giphy.com##.cckvSa, .cIuDZg:style(width: 100% !important; padding-bottom: 0 !imp
 giphy.com##.eqlTRg:style(position: relative !important;)
 giphy.com##.z-aboveHeader:style(position: absolute !important; top: 0 !important; transform: none !important; --tw-translate-y: unset !important;)
 girlsupnorth.com##.fixed-bottom:style(position: relative !important;)
-girlsupnorth.com,masterfap.net,tumblr.com##.sidebar:style(position: absolute !important;)
+girlsupnorth.com,masterfap.net,msn.com,tumblr.com##.sidebar:style(position: absolute !important;)
 git.news##.language-filters__content:style(position: relative !important; top: 0 !important;)
 git.news##.producthunt
 git.synz.io##.super-sidebar, .top-bar-fixed:style(position: absolute !important; top: 0 !important;)
@@ -3824,13 +3821,14 @@ github.com##.react-blob-sticky-header
 github.com##.react-blob-view-header-sticky:style(position: relative !important;)
 github.com##.show-if-stuck
 github.com##.sticky-file-header:style(position: relative !important; top: 0 !important;)
-github.com##.sticky-header-shadow
+github.com##.sticky-header-container, .sticky-header-shadow
 github.com##.sticky-header-wrapper:style(position: relative !important; top: 0 !important;)
 github.com##.user-profile-nav:style(position: relative !important;)
 github.com##.vcard-names-container:style(position: static !important; top: unset !important; left: unset !important; width: auto !important;)
 github.com##.xEgty:style(position: relative !important;)
 github.com##[class*="prc-PageLayout-PaneWrapper-"]:style(position: relative !important; top: 0 !important;)
 github.com##[class^="OverviewRepoFiles-module__Box_3--"]:style(position: relative !important;)
+github.com##[data-testid="issue-metadata-fixed"]:style(margin-bottom: 0 !important;)
 github.com##[data-testid="sticky-sidebar"]:style(position: absolute !important; top: 0 !important;)
 github.io###menu, .fixedHeaderContainer, .menu-btn, .text-white.bg-dark.fixed-top.navbar-dark.navbar-expand-md.navbar:style(position: absolute !important;)
 github.io##.app-header:style(position: relative !important;)
@@ -5636,8 +5634,10 @@ mrexcel.com##.is-sticky.p-navSticky--primary.p-navSticky:style(position: static 
 mrrooter.com###HeaderZone:style(position: relative !important;)
 msdn.microsoft.com###rightNavigationMenu, #tocnav:style(position: absolute !important;)
 msn.com###entry-point-hp-wc-header:style(position: relative !important; box-shadow: none !important;)
+msn.com###vertical-left-nav:style(position: relative !important;)
 msn.com##.consumption-page-action-tray-wrapper:style(position: absolute !important; top: 0 !important;)
 msn.com##.consumptionFeed_commonHeader:style(position: relative !important;)
+msn.com##.header:has(common-header):style(position: absolute !important;)
 msnbc.com###secondary-nav, ._20-Ws2Fn1Y3t_iSqRZ0LON, .container___20-Ws:style(position: absolute !important;)
 msnbc.com###site-header, .feedbackPopup____QQm5.container___kfPO5:style(position: relative !important;)
 msnbc.com##.advert--pencil:style(margin-top: 0 !important;)
@@ -5676,6 +5676,10 @@ music.apple.com##.songs-list__header-col:style(position: relative !important;)
 music.apple.com,store.steampowered.com,studio.youtube.com,tsarvar.com,tv.apple.com##body:style(overflow: auto !important;)
 music.apple.com,tv.apple.com##.app-container:style(height: unset !important;)
 music.apple.com,tv.apple.com##.upsell-banner
+music.youtube.com###nav-bar-background:style(position: absolute !important; opacity: 0 !important;)
+music.youtube.com###nav-bar-divider
+music.youtube.com###primary:style(position: relative !important; top: 0 !important;)
+music.youtube.com##[slot="nav-bar"]:style(position: absolute !important;)
 musixmatch.com###__next > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2)
 musixmatch.com###__next > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2):style(position: relative !important;)
 mvmt.com##.header-menu-wrapper:style(position: relative !important;)
@@ -6457,7 +6461,7 @@ pitmaster.amazingribs.com##.conversation-toolbar-wrapper:style(position: relativ
 pitviper.com##.mouse-navigation.windows-header:style(position: absolute !important;)
 pixieset.com###top-menu:style(position: relative !important;)
 pixiv.net##.eaEKCm:style(position: relative !important;)
-pixiv.net##.fcreHP
+pixiv.net##.bottom-0.fixed
 pixiv.net##.fPeueM:style(position: relative !important;)
 pixiv.net##.iqBFxD:style(transform: none !important;)
 pixivision.net##._floated-bottom-bar
@@ -8611,10 +8615,11 @@ truth-out.org###t3-mainnav:style(position: relative !important; top: 0 !importan
 truthdig.com###header-bottom:style(position: relative !important; top: 0 !important;)
 truthdig.com###sticky-sidebar:style(position: relative !important;)
 truthout.org##.main-menu-container:style(position: static !important;)
-truththeory.com##[role="banner"].fixed [role="navigation"]:style(left: 10px !important; top: 130px !important;)
-truththeory.com##[role="banner"]:style(position: relative !important;)
-truththeory.com##[role="navigation"] ul.menu > li:last-child:style(display: inline-block !important;)
-truththeory.com##header[role="banner"].fixed #menu-main-menu:style(padding-left: 0 !important;)
+truththeory.com###menu-main-menu a:style(font-size: 30px !important;)
+truththeory.com##.site-social-share
+truththeory.com##header.group:style(position: absolute !important; top: 0 !important;)
+truththeory.com##header .logo:style(position: unset !important; height: 105px !important;)
+truththeory.com##[role="banner"] .logo a:style(height: 105px !important; width: 255px !important; margin-top: 40px !important; margin-left: 40px !important; background-size: 100% auto !important;)
 trxtraining.com###main-menu-wrapper:style(position: relative !important; top: 0 !important;)
 trycosmo.com##.sticky_nav--stick.sticky_nav.main_nav_wrapper:style(position: absolute !important;)
 tsarvar.com##.pageHeadWrap:style(position: absolute !important;)
@@ -8643,6 +8648,9 @@ tutanota.com##.navbar-fixed-top.navbar-bottom.navbar:style(position: relative !i
 tutorials.jenkov.com###bottomNavBar2Parent
 tutorialspoint.com##.tutorial-toc:style(position: relative !important; top: 0 !important; height: unset !important;)
 tv.apple.com##.header--color.header:style(position: relative !important;)
+tv.youtube.com###id-header:style(position: relative !important;)
+tv.youtube.com###id-ytu-app:style(overflow: auto !important; height: unset !important;)
+tv.youtube.com##.bottom-container.ytu-app:style(height: unset !important;)
 tv.youtube.com##.lb-header:style(position: absolute !important; transition: none !important; transform: none !important;)
 tv.youtube.com##.tv-offer-ribbon
 tvguide.com###content-wrap:style(margin-top: 0 !important;)
