@@ -58,6 +58,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6.0.0
         with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Setup Restyled
         uses: restyled-io/actions/setup@e90fee4e224c2f8118e07245c5264f916bcc52b6 # v4.4.8
