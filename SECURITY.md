@@ -15,13 +15,13 @@ We take security seriously and appreciate your efforts to responsibly disclose y
 ### How to Report
 
 **Do NOT open a public issue** for security vulnerabilities. Instead, please report security issues through one of these
-    channels:
+channels:
 
 1. **GitHub Security Advisories** (Preferred): [Report via GitHub](https://github.com/LanikSJ/webannoyances/security/advisories/new)
 2. **Email**: Send details to [security@lanik.us](mailto:security@lanik.us)
 3. **Security Discussions**: Open a discussion in our [GitHub Discussions](https://github.com/LanikSJ/webannoyances/discussions/categories/security)
 4. **Security Issues**: Create a [Security Advisory](https://github.com/LanikSJ/webannoyances/security/advisories/new)
-    on GitHub
+   on GitHub
 
 ### What to Include
 
