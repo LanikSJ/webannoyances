@@ -9,7 +9,7 @@ on:
     - cron: "0 8 * * 1"
   push:
     branches:
-      - main
+      - master
     paths:
       - ".github/workflows/dead-domains-check.yml"
   workflow_dispatch:
@@ -31,7 +31,7 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: npm
-      
+
       - name: Setup Perl and Tiny
         uses: shogo82148/actions-setup-perl@fa3bdcb0144a50651e317f30949bb4491e74a6e4 # v1.37.0
         with:
