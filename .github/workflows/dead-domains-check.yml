@@ -1,22 +1,22 @@
 name: Dead Domains Check
 
-permissions:
-  contents: write
-  pull-requests: write
-
 env:
   NODE_VERSION: 20
 
 on:
   schedule:
     # Run the job on every Monday at 8:00 AM UTC
-    - cron: '0 8 * * 1'
+    - cron: "0 8 * * 1"
   push:
     branches:
       - master
     paths:
-      - '.github/workflows/dead-domains-check.yml'
+      - ".github/workflows/dead-domains-check.yml"
   workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   dead-domains-check:
@@ -26,21 +26,16 @@ jobs:
       - name: Check Out Repository
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
-      - name: Install pnpm
-        uses: pnpm/action-setup@41ff72655975bd51cab0327fa583b6e92b6d3061 # v4.2.0
-        with:
-          version: 9
-
       - name: Set up Node.js
         uses: actions/setup-node@6044e13b5dc448c55e2357c09f80417699197238 # v6.2.0
         with:
           node-version: ${{ env.NODE_VERSION }}
-          cache: pnpm
-      
+          cache: npm
+
       - name: Setup Perl and Tiny
         uses: shogo82148/actions-setup-perl@fa3bdcb0144a50651e317f30949bb4491e74a6e4 # v1.37.0
         with:
-          perl-version: '5.38'
+          perl-version: "5.38"
           install-modules: |
             Path::Tiny
 
@@ -48,10 +43,10 @@ jobs:
         run: npm install -g fop-cli
 
       - name: Install Dependencies
-        run: pnpm install
+        run: npm install
 
       - name: Export Dead Domains
-        run: pnpm dead-domains-linter --export dead-domains.txt
+        run: npx dead-domains-linter --export dead-domains.txt
 
       - name: Read Dead Domains
         id: read-dead-domains
@@ -123,7 +118,7 @@ jobs:
       - name: Perform Changes
         if: steps.read-dead-domains.outputs.has_dead_domains == 'true'
         run: |
-          pnpm dead-domains-linter --auto --import dead-domains.txt
+          npx dead-domains-linter --auto --import dead-domains.txt
 
       - name: Update Checksum and Date
         if: steps.read-dead-domains.outputs.has_dead_domains == 'true'
