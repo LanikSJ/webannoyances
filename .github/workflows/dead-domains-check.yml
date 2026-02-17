@@ -32,13 +32,6 @@ jobs:
           node-version: ${{ env.NODE_VERSION }}
           cache: npm
 
-      - name: Setup Perl and Tiny
-        uses: shogo82148/actions-setup-perl@fa3bdcb0144a50651e317f30949bb4491e74a6e4 # v1.37.0
-        with:
-          perl-version: "5.38"
-          install-modules: |
-            Path::Tiny
-
       - name: Install FOP CLI
         run: npm install -g fop-cli
 
