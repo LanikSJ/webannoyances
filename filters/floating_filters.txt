@@ -2,7 +2,6 @@
 ! Checksum: yPyDFX3g4apBgn9JVWX4uw
 ! Last modified: 2026-02-17 05:12 UTC
 ! Version: 202602170512
-! Last Modified: 2026-02-09 08:54 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
