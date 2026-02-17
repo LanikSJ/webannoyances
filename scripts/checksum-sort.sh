@@ -21,7 +21,7 @@ log_warning() {
 validate_input() {
   if [[ $# -eq 0 ]]; then
     log_error "Usage: $0 <filter-file>"
-    log_error "Example: $0 filters/combined-filters.txt"
+    log_error "Example: $0 filters/ultralist.txt"
     exit 1
   fi
 
@@ -222,7 +222,7 @@ main() {
         echo "  --help, -h              Show this help message"
         echo ""
         echo "Examples:"
-        echo "  $0 filters/combined-filters.txt"
+        echo "  $0 filters/ultralist.txt"
         exit 0
         ;;
       -*)
