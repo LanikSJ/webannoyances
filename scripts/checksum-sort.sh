@@ -21,7 +21,7 @@ log_warning() {
 validate_input() {
   if [[ $# -eq 0 ]]; then
     log_error "Usage: $0 <filter-file>"
-    log_error "Example: $0 filters/ultralist.txt"
+    log_error "Example: $0 filters/combined-filters.txt"
     exit 1
   fi
 
@@ -69,7 +69,7 @@ get_timestamp() {
 # Update date and version headers, and add checksum after Title
 update_headers() {
   local file="$1"
-  local temp_file="${file}.tmp.$$"
+  local temp_file="$file.tmp.$$"
   local datetime version checksum
 
   datetime=$(get_timestamp "datetime")
@@ -95,12 +95,12 @@ update_headers() {
     else
       echo "$line"
     fi
-  done < "$file" > "$temp_file"
+  done <"$file" >"$temp_file"
 
   # If Last modified or Version headers weren't found, add them after Title/Checksum
   if [[ "$found_last_modified" == "false" ]] || [[ "$found_version" == "false" ]]; then
-    local temp_file2="${file}.tmp2.$$"
-    
+    local temp_file2="$file.tmp2.$$"
+
     while IFS= read -r line || [[ -n "$line" ]]; do
       echo "$line"
       # After Title line, add Checksum (placeholder), then missing headers
@@ -113,8 +113,8 @@ update_headers() {
           echo "! Version: $version"
         fi
       fi
-    done < "$temp_file" > "$temp_file2"
-    
+    done <"$temp_file" >"$temp_file2"
+
     mv "$temp_file2" "$temp_file"
   fi
 
@@ -128,7 +128,7 @@ add_checksum() {
 
   # Calculate checksum after updating headers
   checksum=$(calculate_checksum "$file")
-  temp_file="${file}.tmp.$$"
+  temp_file="$file.tmp.$$"
 
   # Find Title line and insert Checksum right after it
   local title_found=false
@@ -139,47 +139,52 @@ add_checksum() {
       echo "! Checksum: $checksum"
       title_found=true
     fi
-  done < "$file" > "$temp_file"
+  done <"$file" >"$temp_file"
 
   # If no Title line was found, prepend checksum
   if [[ "$title_found" == "false" ]]; then
-    echo "! Checksum: $checksum" > "$temp_file"
-    cat "$file" >> "$temp_file"
+    echo "! Checksum: $checksum" >"$temp_file"
+    cat "$file" >>"$temp_file"
   fi
 
   mv "$temp_file" "$file"
-  
+
   log_info "📝 Checksum: $checksum"
 }
 
-# Sort the filter file (sort filter rules while preserving header)
+# Sort the filter file using FOP CLI
 sort_filter() {
   local file="$1"
-  local temp_file="${file}.tmp.$$"
-  local header_end=0
-  local line_num=0
 
-  # Find where header ends (first non-comment line)
-  while IFS= read -r line; do
-    line_num=$((line_num + 1))
-    if [[ ! "$line" =~ ^'!' ]] && [[ -n "$line" ]]; then
-      header_end=$line_num
-      break
+  log_info "🔀 Using FOP CLI to sort filter rules..."
+
+  # Use the Rust-based FOP CLI (required)
+  if command -v fop >/dev/null 2>&1; then
+    log_info "🔀 Using Rust-based FOP CLI"
+    if fop "$file" >/dev/null 2>&1; then
+      log_info "✅ FOP CLI sorting completed successfully"
+      return
+    else
+      log_error "❌ FOP CLI encountered errors while processing the file"
+      log_error "❌ Please check the FOP CLI installation and try again"
+      exit 1
     fi
-  done < "$file"
-
-  if [[ $header_end -eq 0 ]]; then
-    # No filter rules, just return
-    return
+  elif command -v fop-cli >/dev/null 2>&1; then
+    log_info "🔀 Using FOP CLI (fop-cli)"
+    if fozp-cli "$file" >/dev/null 2>&1; then
+      log_info "✅ FOP CLI sorting completed successfully"
+      return
+    else
+      log_error "❌ FOP CLI encountered errors while processing the file"
+      log_error "❌ Please check the FOP CLI installation and try again"
+      exit 1
+    fi
+  else
+    log_error "❌ FOP CLI not found"
+    log_error "❌ Please install the Rust-based FOP CLI from https://github.com/ryanbr/fop-rs"
+    log_error "❌ This script requires FOP CLI and will not fall back to other sorting methods"
+    exit 1
   fi
-
-  # Extract header (lines before first filter rule)
-  head -n $((header_end - 1)) "$file" > "$temp_file"
-
-  # Sort and append filter rules (skip empty lines at start of content)
-  tail -n +"$header_end" "$file" | sort -u >> "$temp_file"
-
-  mv "$temp_file" "$file"
 }
 
 # Process the filter file
@@ -217,7 +222,7 @@ main() {
         echo "  --help, -h              Show this help message"
         echo ""
         echo "Examples:"
-        echo "  $0 filters/ultralist.txt"
+        echo "  $0 filters/combined-filters.txt"
         exit 0
         ;;
       -*)
