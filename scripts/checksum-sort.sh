@@ -43,12 +43,143 @@ validate_input() {
   fi
 }
 
-# Validate FOP CLI is installed
-validate_fop() {
-  if ! command -v fop >/dev/null 2>&1; then
-    log_error "FOP CLI not found. Please install fop-cli: npm install -g fop-cli"
-    exit 1
+# Calculate checksum (MD5 base64, excluding checksum line itself)
+calculate_checksum() {
+  local file="$1"
+  # Remove existing checksum line and calculate MD5, then encode as base64
+  grep -v '^! Checksum:' "$file" | md5sum | cut -d' ' -f1 | xxd -r -p | base64 | tr -d '=' | tr '+/' '-_'
+}
+
+# Get current timestamp in various formats
+get_timestamp() {
+  local format="$1"
+  case "$format" in
+    "datetime")
+      date -u +"%Y-%m-%d %H:%M UTC"
+      ;;
+    "version")
+      date -u +"%Y%m%d%H%M"
+      ;;
+    *)
+      date -u +"%Y-%m-%d %H:%M UTC"
+      ;;
+  esac
+}
+
+# Update date and version headers, and add checksum after Title
+update_headers() {
+  local file="$1"
+  local temp_file="${file}.tmp.$$"
+  local datetime version checksum
+
+  datetime=$(get_timestamp "datetime")
+  version=$(get_timestamp "version")
+
+  # Calculate checksum after we process everything
+  local found_last_modified=false
+  local found_version=false
+
+  # First pass: find the title line and update headers
+  while IFS= read -r line || [[ -n "$line" ]]; do
+    if [[ "$line" =~ ^'! Title:' ]]; then
+      echo "$line"
+    elif [[ "$line" =~ ^'! Checksum:' ]]; then
+      # Skip old checksum line - will be recalculated and added after title
+      continue
+    elif [[ "$line" =~ ^'! Last modified:' ]]; then
+      echo "! Last modified: $datetime"
+      found_last_modified=true
+    elif [[ "$line" =~ ^'! Version:' ]]; then
+      echo "! Version: $version"
+      found_version=true
+    else
+      echo "$line"
+    fi
+  done < "$file" > "$temp_file"
+
+  # If Last modified or Version headers weren't found, add them after Title/Checksum
+  if [[ "$found_last_modified" == "false" ]] || [[ "$found_version" == "false" ]]; then
+    local temp_file2="${file}.tmp2.$$"
+    
+    while IFS= read -r line || [[ -n "$line" ]]; do
+      echo "$line"
+      # After Title line, add Checksum (placeholder), then missing headers
+      if [[ "$line" =~ ^'! Title:' ]]; then
+        # Checksum will be added in next pass
+        if [[ "$found_last_modified" == "false" ]]; then
+          echo "! Last modified: $datetime"
+        fi
+        if [[ "$found_version" == "false" ]]; then
+          echo "! Version: $version"
+        fi
+      fi
+    done < "$temp_file" > "$temp_file2"
+    
+    mv "$temp_file2" "$temp_file"
   fi
+
+  mv "$temp_file" "$file"
+}
+
+# Add checksum after the Title line
+add_checksum() {
+  local file="$1"
+  local checksum temp_file
+
+  # Calculate checksum after updating headers
+  checksum=$(calculate_checksum "$file")
+  temp_file="${file}.tmp.$$"
+
+  # Find Title line and insert Checksum right after it
+  local title_found=false
+  while IFS= read -r line || [[ -n "$line" ]]; do
+    echo "$line"
+    if [[ "$line" =~ ^'! Title:' ]]; then
+      # Insert Checksum right after Title
+      echo "! Checksum: $checksum"
+      title_found=true
+    fi
+  done < "$file" > "$temp_file"
+
+  # If no Title line was found, prepend checksum
+  if [[ "$title_found" == "false" ]]; then
+    echo "! Checksum: $checksum" > "$temp_file"
+    cat "$file" >> "$temp_file"
+  fi
+
+  mv "$temp_file" "$file"
+  
+  log_info "📝 Checksum: $checksum"
+}
+
+# Sort the filter file (sort filter rules while preserving header)
+sort_filter() {
+  local file="$1"
+  local temp_file="${file}.tmp.$$"
+  local header_end=0
+  local line_num=0
+
+  # Find where header ends (first non-comment line)
+  while IFS= read -r line; do
+    line_num=$((line_num + 1))
+    if [[ ! "$line" =~ ^'!' ]] && [[ -n "$line" ]]; then
+      header_end=$line_num
+      break
+    fi
+  done < "$file"
+
+  if [[ $header_end -eq 0 ]]; then
+    # No filter rules, just return
+    return
+  fi
+
+  # Extract header (lines before first filter rule)
+  head -n $((header_end - 1)) "$file" > "$temp_file"
+
+  # Sort and append filter rules (skip empty lines at start of content)
+  tail -n +"$header_end" "$file" | sort -u >> "$temp_file"
+
+  mv "$temp_file" "$file"
 }
 
 # Process the filter file
@@ -57,12 +188,17 @@ process_file() {
 
   log_info "🔄 Processing file: $file"
 
-  # Run FOP on the file (FOP handles sorting and checksums)
-  log_info "🔧 Running FOP on the file..."
-  if ! fop --check-file="$file"; then
-    log_error "FOP execution failed on the file"
-    exit 1
-  fi
+  # Step 1: Update date and version headers
+  log_info "📅 Updating date and version headers..."
+  update_headers "$file"
+
+  # Step 2: Sort filter rules
+  log_info "🔀 Sorting filter rules..."
+  sort_filter "$file"
+
+  # Step 3: Add checksum after Title
+  log_info "🔐 Calculating and adding checksum..."
+  add_checksum "$file"
 
   log_info "✅ Successfully processed '$file'"
 }
@@ -112,9 +248,6 @@ main() {
 
   # Validate input
   validate_input "$file"
-
-  # Validate FOP CLI
-  validate_fop
 
   # Process the file
   process_file "$file"
