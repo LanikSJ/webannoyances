@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: yPyDFX3g4apBgn9JVWX4uw
-! Last modified: 2026-02-17 05:12 UTC
-! Version: 202602170512
+! Checksum: Y5xMrHP47rSrAAm-0OK74w
+! Last modified: 2026-02-23 08:52 UTC
+! Version: 202602230852
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -918,13 +918,13 @@ autozone.com###chatFloat:style(position: absolute !important; right: 0 !importan
 avadirect.com##.a-header, .ava-blog-header:style(position: absolute !important;)
 avc.com##.Header:style(padding-top: 0 !important;)
 avc.com##.relative.Header > .Header-wrap:style(position: static !important; transform: translateY(0) !important;)
-avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.global-nav--scrollback, .js_scrollback-nav.show, .cLeTpq.header__GlobalNav-sc-80eizx-7, .jhkYuB.sc-80eizx-7, .cTqRbi.header__GlobalNav-sc-80eizx-7, .gRFTMP.sc-80eizx-7, .cVkxCb.sc-80eizx-7, .hEXoiA.header__GlobalNav-sc-80eizx-7, .cgAddJ.header__GlobalNav-sc-80eizx-7, .dWCMAB.sc-80eizx-7, .dKiHSS.sc-80eizx-7, .gDavHO.header__GlobalNav-sc-80eizx-7, .dPbRcY.header__GlobalNav-sc-80eizx-7, .dyeBYJ.header__GlobalNav-sc-80eizx-7, .kxfoNN.sc-80eizx-7, .eDFfja.sc-80eizx-7, .fddgWk.header__GlobalNav-sc-80eizx-7, .eSDOIL.header__GlobalNav-sc-80eizx-7, .iRdRiC.sc-80eizx-7, .fSIhRp.sc-80eizx-7, .jeICbu.header__GlobalNav-sc-80eizx-7, .fxZQwA.header__GlobalNav-sc-80eizx-7, .iSyYtB.sc-80eizx-7, .gsnEuB.sc-80eizx-7, .iArcuo.header__GlobalNav-sc-80eizx-7
-avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.global-nav:style(height: 110px !important; transform: none !important; box-shadow: none !important;)
-avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_global-nav-wrap:style(position: relative !important; top: 0 !important;)
-avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_page.page:style(padding-top: 52px !important;)
-avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.leftrailmodule, .sidebar-module:style(padding-bottom: 0 !important;)
-avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##div[class^="header__Container-sc-"] >:matches-css(position: fixed)
-avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##div[class^="js_header"] > div[class^="js_header"] > div :matches-css(position: fixed)
+avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.global-nav--scrollback, .js_scrollback-nav.show, .cLeTpq.header__GlobalNav-sc-80eizx-7, .jhkYuB.sc-80eizx-7, .cTqRbi.header__GlobalNav-sc-80eizx-7, .gRFTMP.sc-80eizx-7, .cVkxCb.sc-80eizx-7, .hEXoiA.header__GlobalNav-sc-80eizx-7, .cgAddJ.header__GlobalNav-sc-80eizx-7, .dWCMAB.sc-80eizx-7, .dKiHSS.sc-80eizx-7, .gDavHO.header__GlobalNav-sc-80eizx-7, .dPbRcY.header__GlobalNav-sc-80eizx-7, .dyeBYJ.header__GlobalNav-sc-80eizx-7, .kxfoNN.sc-80eizx-7, .eDFfja.sc-80eizx-7, .fddgWk.header__GlobalNav-sc-80eizx-7, .eSDOIL.header__GlobalNav-sc-80eizx-7, .iRdRiC.sc-80eizx-7, .fSIhRp.sc-80eizx-7, .jeICbu.header__GlobalNav-sc-80eizx-7, .fxZQwA.header__GlobalNav-sc-80eizx-7, .iSyYtB.sc-80eizx-7, .gsnEuB.sc-80eizx-7, .iArcuo.header__GlobalNav-sc-80eizx-7
+avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.global-nav:style(height: 110px !important; transform: none !important; box-shadow: none !important;)
+avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_global-nav-wrap:style(position: relative !important; top: 0 !important;)
+avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_page.page:style(padding-top: 52px !important;)
+avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.leftrailmodule, .sidebar-module:style(padding-bottom: 0 !important;)
+avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##div[class^="header__Container-sc-"] > :matches-css(position: fixed)
+avclub.com,clickhole.com,deadspin.com,earther.com,jalopnik.com,jezebel.com,kotaku.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##div[class^="js_header"] > div[class^="js_header"] > div :matches-css(position: fixed)
 aviation.endeavorb2b.com,marketingsolutions.endeavorb2b.com##.et_pb_sticky_placeholder
 aviation.endeavorb2b.com##div.et_pb_section_0_tb_header:nth-child(1):style(position: unset !important; top: unset !important; left: unset !important; bottom: unset !important; margin-top: unset !important; padding: unset !important; z-index: unset !important; width: unset !important;)
 aviationpros.com,electronicdesign.com,lightwaveonline.com,machinedesign.com##.ebm-sidebar--open:style(overflow: unset !important;)
@@ -1961,8 +1961,8 @@ cigarcountry.com###content .filter.fixed:style(position: static !important;)
 cigardojo.com,educateinspirechange.org##.cb-sidebar:style(position: static !important; top: 0 !important;)
 cigardojo.com,educateinspirechange.org###cb-main-menu:style(position: relative !important;)
 cigardojo.com##.clearfix.cb-top-menu-wrap.wrap:style(position: relative !important;)
-cineb-official.best,cineb-stream.best##.Header::after:style(height: 160px !important; background: linear-gradient(to bottom, #141a32 1%, rgba(20, 26, 50, 0) 100%) !important; opacity: 1 !important;)
-cineb-official.best,cineb-stream.best##.Header:style(position: relative !important;)
+cineb-stream.best##.Header::after:style(height: 160px !important; background: linear-gradient(to bottom,#141a32 1%,rgba(20,26,50,0) 100%) !important; opacity: 1 !important;)
+cineb-stream.best##.Header:style(position: relative !important;)
 cinemablend.com,oneplus.com###section-header:style(position: absolute !important;)
 cinemablend.com##.content_story_pages_imagegallery:style(margin: 0 !important;)
 cint.com,complyadvantage.com,in30minutes.com,js.foundation,linuxfoundation.org,personalfinanceforbeginners.com,polaritytherapy.org,sharethis.com###header-outer:style(position: absolute !important;)

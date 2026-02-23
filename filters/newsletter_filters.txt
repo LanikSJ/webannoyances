@@ -1,5 +1,7 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Checksum: FpzVxt7ZuGVZwBYVAjqW5w
+! Checksum: qu_aPig219HJVHfyJkx_tg
+! Last modified: 2026-02-23 08:52 UTC
+! Version: 202602230852
 ! Last Modified: 2026-01-19 08:37 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
@@ -66,8 +68,8 @@ atchisonglobenow.com,auburnpub.com,azdailysun.com,bakercityherald.com,baycitytri
 athletic.net##.sign-up-box
 atlasobscura.com###newsletter-email-ask, .email-ask-full-width, .item-newsletter-form, .item-social-row, .newsletter-signup-container
 autoblog.com###rr-newsletter-signup
-avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###newsletterPromoModule, a[href="/newsletter"]:upward(1)
-avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_newsletter-btn--subscribe, .js_newsletter-form-inline, .js_subscribe
+avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###newsletterPromoModule, a[href="/newsletter"]:upward()
+avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_newsletter-btn--subscribe, .js_newsletter-form-inline, .js_subscribe
 axios.com##.StoryNewsletterPromo__root--34CRf, .sidebar__newsletter, .topic-newsletter, .SubscriptionHeader__newsletter--p8o4P.Header__header--3d1x-, [class*="RightRailCTA_right-rail-cta"], [class*="StoryPageCTA_story-page-cta"], [class^="StreamCap__promoContainer"], [data-testid="form-wrapper--dynamic--desktop"]
 azcentral.com##.site-masthead-subscribe-link
 babycenter.com##.familyNavAndAdContainer
