@@ -1,5 +1,7 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: Y9xXoQ2TPd5Ll4DLaFwesQ
+! Checksum: pg_D2y9mnSLIEKhSNTa1EQ
+! Last modified: 2026-02-23 08:52 UTC
+! Version: 202602230852
 ! Last Modified: 2026-02-09 08:54 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
@@ -115,8 +117,8 @@ att.com##[data-qa="PDP-SocialMedia"]
 attomdata.com##.post_sharing
 auburnpub.com,billingsgazette.com,bismarcktribune.com,chippewa.com,cumberlink.com,dailyjournalonline.com,democratherald.com,elkodaily.com,fremonttribune.com,gazettetimes.com,globegazette.com,hanfordsentinel.com,herald-review.com,journaltimes.com,lacrossetribune.com,lompocrecord.com,missoulian.com,mtstandard.com,muscatinejournal.com,napavalleyregister.com,qconline.com,rapidcityjournal.com,ravallirepublic.com,santamariatimes.com,tdn.com,thesouthern.com,thetandd.com,theworldlink.com,tucson.com,winonadailynews.com,wiscnews.com##.social-share-links
 autoblog.com###global-share-right, .facebook, .right_rail-follow_us.module
-avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###sharingfooter, .footerSocial__FooterSocialWrap-ichFPn, .share-toolbar__container, share-via-facebook, share-via-twitter
-avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##a[data-ga*="Share bar"][href*="facebook.com/sharer.php?"]:upward(2)
+avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###sharingfooter, .footerSocial__FooterSocialWrap-ichFPn, .share-toolbar__container, share-via-facebook, share-via-twitter
+avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##a[data-ga*="Share bar"][href*="facebook.com/sharer.php?"]:upward()
 aviationpros.com##.item > div.element:nth-of-type(4)
 avsforum.com###vbseo-likes, .icon-of-facebook.dispatcher-fbconnect-login.ilink, .item-social.item
 axios.com##.amp-social-share-email, .amp-social-share-facebook, .amp-social-share-linkedin, .amp-social-share-twitter:upward(1)

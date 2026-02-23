@@ -1,5 +1,7 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: hePiHvNwHLuIFUrdL3ru4w
+! Checksum: VeTF1kkiSqzzowMaGD3sUQ
+! Last modified: 2026-02-23 08:52 UTC
+! Version: 202602230852
 ! Last Modified: 2026-01-12 08:56 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
@@ -231,7 +233,7 @@ cntraveler.com##.desktop.cm-placement
 cntraveler.com##.recirc-riser
 cntraveller.com##.js-c-nav__gallery.c-nav__gallery
 cockroachlabs.com##.article-sidebar
-cockroachlabs.com,pparx.org,spectrumnews.org##.sidebar
+cockroachlabs.com,spectrumnews.org##.sidebar
 codementor.io##.bottom-bar
 coinex.com##.take-position
 coinmarketcap.com##section.margin-bottom--lv2:nth-of-type(2) > .row > div.col-xs-6:nth-of-type(2)
@@ -536,7 +538,6 @@ kickstarter.com##.mx-1.relative.z2.shadow-high.py2.bg-navy-200
 kidpower.org###main-header
 kidpower.org###top-header
 kinguin.net##.sticky_header
-kinja.com##.jFENrj.sc-80eizx-7
 kinsta.com###site-menu--hover
 kiplinger.com###smallHead
 knowyourmobile.com###__ic-notice
@@ -809,7 +810,6 @@ politicususa.com###gform_widget-3
 polleverywhere.com##.show-sticky.sticky.site-header
 popsugar.com###banner-placeholder
 popula.com###pico-widget-container
-pparx.org###block-block-41
 pprune.org##.top-nav-left > ul > li:nth-of-type(1)
 pqina.nl##nav > div > ul > li:nth-of-type(1)
 prettydamnedfast.com##.blog-item-pagination-link--next.blog-item-pagination-link
