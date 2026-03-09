@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Checksum: qu_aPig219HJVHfyJkx_tg
-! Last modified: 2026-02-23 08:52 UTC
-! Version: 202602230852
+! Checksum: Vft0oAKMLE7hsWVSsSJDlA
+! Last modified: 2026-03-09 08:48 UTC
+! Version: 202603090848
 ! Last Modified: 2026-01-19 08:37 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
@@ -422,7 +422,7 @@ nationalobserver.com###inline-newsletter-form
 nationalreview.com###newsmax-signup-block, .aside-newsletter, .inline-newsletter-subscribe
 nature.com##.c-site-messages, .nature-briefing
 navytimes.com##.js-pubsub-module, .newsletter
-nbcbayarea.com,nbcchicago.com,nbcconnecticut.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com,necn.com###nbc_newsletter-, .widget_nbc_newsletter
+nbcbayarea.com,nbcchicago.com,nbcconnecticut.com,nbcdfw.com,nbclosangeles.com,nbcmiami.com,nbcnewyork.com,nbcphiladelphia.com,nbcsandiego.com,nbcwashington.com###nbc_newsletter-, .widget_nbc_newsletter
 nbcnews.com##.newsletter-signup__container, .nl-signup-inline
 nbcsports.com###footer-newsletter-link
 nbcwashington.com##.newsletter-signup-module
