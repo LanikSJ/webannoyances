@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
 ! Checksum: Vft0oAKMLE7hsWVSsSJDlA
-! Last modified: 2026-03-09 08:48 UTC
+! Last modified: 2026-03-21 08:49 UTC
 ! Version: 202603090848
 ! Last Modified: 2026-01-19 08:37 UTC
 ! Expires: 2 Days (Update Frequency)
@@ -523,6 +523,7 @@ rollcall.com##.mainbody-subscribe
 rollingstone.com##.c-post-actions__newsletter, .l-blog__item:nth-of-type(5), .module-newsletter, .pmc-image-widget-container
 runnersworld.com###newsletter-block, #rwmain-subscribe
 salon.com##.style__newsLetter___3BGK6
+samsclub.com##.text-signup
 sapling.com,techwalla.com###email-capture
 schaeffersresearch.com###signupSlider
 sciencedaily.com###message_box
