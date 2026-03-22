@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Ad Placeholder Filters
 ! Checksum: ljxlQkIT6TnYL5SIDqxX9w
-! Last modified: 2026-03-04 05:42 UTC
+! Last modified: 2026-03-21 08:49 UTC
 ! Version: 202603040542
 ! Last Modified: 2026-02-09 08:54 UTC
 ! Expires: 2 Days (Update Frequency)
@@ -340,6 +340,7 @@ investmentwatchblog.com###article-bottom-ad
 investopedia.com###AdSlot_AF-Right-Multi, #AdSlot_BF-Right-Multi, .ad-leaderboard
 ipvm.com##.inserted-ad-container
 ir.net##.mh-sidebar, .post-ad
+irishmirror.ie##[data-testid="commercial-above-header-box-1"]
 istheservicedown.com##.section-promoted-head
 itunescharts.net##.ad_responsive
 journals.sagepub.com##.topLeaderboardContainer
