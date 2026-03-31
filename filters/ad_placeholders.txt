@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Ad Placeholder Filters
 ! Checksum: ljxlQkIT6TnYL5SIDqxX9w
-! Last modified: 2026-03-21 08:49 UTC
+! Last modified: 2026-03-31 00:54 UTC
 ! Version: 202603040542
 ! Last Modified: 2026-02-09 08:54 UTC
 ! Expires: 2 Days (Update Frequency)
@@ -84,6 +84,7 @@ autoevolution.com##div[class^="ad"]
 autolist.com##header .ad:upward(1)
 avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.ad-non-sticky, .contained-ad-container, .js_movable_ad_slot, .pe_newlayout .mezzanine
 avgthreatlabs.com###banner
+avid.com##.special_offers_banner
 avsforum.com##.Leaderboard-bottom, .box-ad.ad, .sponsors-footer.wrapper
 awesomeopensource.com##.projects_list_ad_slot_2
 awfulannouncing.com##.top-ad-section
