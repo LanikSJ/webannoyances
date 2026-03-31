@@ -3848,7 +3848,7 @@ github.com##.xEgty:style(position: relative !important;)
 github.com##[class^="Diff-module__diffHeaderWrapper"]:style(position: relative !important; top: 0 !important;)
 github.com##[class*="prc-PageLayout-PaneWrapper-"]:style(position: relative !important; top: 0 !important;)
 github.com##[class^="PullRequestFilesToolbar-module__hide-when-stuck-"]:style(display: block !important;)
-github.com##[class^="PullRequestFilesToolbar-module__show-when-stuck__UjE3N"]
+github.com##[class^="PullRequestFilesToolbar-module__show-when-stuck__"]
 github.com##[class^="OverviewRepoFiles-module__Box_3--"]:style(position: relative !important;)
 github.com##[data-testid="issue-metadata-fixed"]:style(margin-bottom: 0 !important;)
 github.com##[data-testid="sticky-sidebar"]:style(position: absolute !important; top: 0 !important;)
