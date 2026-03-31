@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Cookie Filters
 ! Checksum: aHnWEhRRS7xo1fy5IvXBqw
-! Last Modified: 2026-01-07 21:42 UTC
+! Last Modified: 2026-03-31 00:53 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Cookie Annoyances - Remove Cookie/GDPR Banners, Notices, Overlays & Warnings
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -304,6 +304,7 @@ bloomberglaw.com##[class*="CookieNotice_cookiesBar"]
 bloomberglaw.com,codex.online,evry.com,neweracap.com,threadreaderapp.com##.cookies
 bloombergtax.com##[class*="CookieNotice_cookiesBar"]
 bt.com##.cookie-ui__cookieUI___3fxp1
+bulktik.com##.bottom-0.fixed, .z-50.bg-black.fixed
 business-standard.com###eu_cookie
 calendardate.com##body > div > p:has-text(/cookies/)
 cameo.com###content > div[data-reactroot=""] div:has([id="cookie-policy-banner-close-btn"])
