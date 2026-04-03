@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
 ! Checksum: Vft0oAKMLE7hsWVSsSJDlA
-! Last modified: 2026-03-21 08:49 UTC
+! Last modified: 2026-04-03 17:16 UTC
 ! Version: 202603090848
 ! Last Modified: 2026-01-19 08:37 UTC
 ! Expires: 2 Days (Update Frequency)
@@ -56,7 +56,7 @@ amgreatness.com###newsletter-signup-wrapper
 amusingplanet.com##.btntEmailsub-body
 androidauthority.com###aa-subscribe-widget-wrap, .widget_home_newsletter
 andscape.com,theundefeated.com##.newsletter-article-signup
-aol.co.uk,aol.com###mod-newsletter-toaster-1, .inline-newsletter-module.inline-breaking-news-newsletter, .newsletter-signup-form
+aol.com##.m-newsletter-base-wrapper
 arcamax.com##.channel-subscribe
 archive.vanityfair.com##.shared_footer_cta_basic, .shared_footer_cta_primary, .shared_substory_cta
 arlnow.com,suntimes.com,thebrag.com##.newsletter-box
