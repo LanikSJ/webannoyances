@@ -6601,6 +6601,7 @@ popularwoodworking.com##.header-style-2.menu-hover-1 .main-navigation-ul > li.me
 porkbeinspired.com##.navbar-static-top.navbar-default.yamm.navbar:style(position: absolute !important;)
 porkbeinspired.com###nav-menu:style(position: relative !important;)
 pornhoarder.tv##.aside:style(position: absolute !important;)
+pornhub.com###mobileHeader:style(position: absolute !important;)
 pornhubapparel.com##.m-header__wrapper:style(position: absolute !important; transition: none !important; transform: none !important;)
 pornpics.click,xpics.me##.footer:style(position: relative !important; translate: none !important;)
 pornpics.click,xpics.me##.settings-button:style(position: absolute !important;)
