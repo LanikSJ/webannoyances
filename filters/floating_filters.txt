@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
 ! Checksum: 1pNmhcExo9OCawYsmR1z4A
-! Last modified: 2026-03-31 01:33 UTC
+! Last modified: 2026-04-03 17:13 UTC
 ! Version: 202603230859
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
@@ -82,7 +82,7 @@
 247sports.com##.homepage:style(margin-top: 0 !important; padding-top: 48px !important;)
 247sports.com##.nav-bar:style(position: static !important;)
 247sports.com##.sticky-div-cnt:style(position: absolute !important; top: 0 !important;)
-24vids.com,audacityteam.org,avid.com,bugatti.store,bulktik.com,buymeacoffee.com,castingcall.club,ccp.edu,ctrade.tf,dashlane.com,deepcord.com,discordservers.io,emojis.wiki,fastslang.com,freephotos.cc,freetubeapp.io,getredgifs.com,goodrx.com,hellotalk.com,imgupscaler.ai,ipinfo.io,iq.wiki,musicenhancer.online,new-fmovies.my,nextshark.com,openphone.com,physgun.com,privacysavvy.com,pt.quizur.com,react.dev,rocketlanguages.com,seekfans.com,sex.com,smithsfoodanddrug.com,snapany.com,steambot.info,support.kraken.com,thetransmitter.com,tikviewer.com,tinylaunch.com,tucktools.com,turboscribe.ai,vocalremover.cloud##.top-0.sticky:style(position: relative !important;)
+24vids.com,audacityteam.org,avid.com,bugatti.store,bulktik.com,buymeacoffee.com,castingcall.club,ccp.edu,ctrade.tf,dashlane.com,deepcord.com,discordservers.io,emojis.wiki,fastslang.com,freephotos.cc,freetubeapp.io,getredgifs.com,goodrx.com,hellotalk.com,imgupscaler.ai,ipinfo.io,iq.wiki,linkedin.com,musicenhancer.online,new-fmovies.my,nextshark.com,openphone.com,physgun.com,privacysavvy.com,pt.quizur.com,react.dev,rocketlanguages.com,seekfans.com,sex.com,smithsfoodanddrug.com,snapany.com,steambot.info,support.kraken.com,thetransmitter.com,tikviewer.com,tinylaunch.com,tucktools.com,turboscribe.ai,vocalremover.cloud##.top-0.sticky:style(position: relative !important;)
 24vids.com##aside.fixed:style(position: absolute !important; height: unset !important;)
 2bigfeet.com,poweruptoys.com##.sticky_nav
 2daygeek.com##.hm-nav-container:style(position: relative !important;)
@@ -284,7 +284,7 @@ absolutetoner.com##.\#product-media:style(position: relative !important; top: 0 
 absolutetoner.com##.rawa-container
 academia.edu##.js-landing-floater
 academy.allaboutbirds.org##.navbar:style(position: relative !important; transform: none !important;)
-academy.moz.com,blockchain.info,data.swiftkey.com,deviantartads.com,grow.com,hims.com,html-tidy.org,impossiblefoods.com,nitter.42l.fr,nitter.net,nitter.space,rgagnon.com,starttls-everywhere.org,teamtreehouse.com,tools.keycdn.com,urbanairship.com,userchrome.org,victoriassecret.com,watch.cookingchanneltv.com##nav:style(position: absolute !important;)
+academy.moz.com,blockchain.info,data.swiftkey.com,deviantartads.com,grow.com,hims.com,html-tidy.org,impossiblefoods.com,nitter.42l.fr,nitter.net,nitter.space,nitter.tiekoetter.com,rgagnon.com,starttls-everywhere.org,teamtreehouse.com,tools.keycdn.com,urbanairship.com,userchrome.org,victoriassecret.com,watch.cookingchanneltv.com##nav:style(position: absolute !important;)
 accenture.com##.rad-global-nav__wrapper:style(position: absolute !important; top: 0 !important; animation: none !important;)
 access.redhat.com###action-nav:style(position: absolute !important;)
 accmag.com###head-main-wrap, #sticky-header:style(position: relative !important; top: 0 !important;)
@@ -647,16 +647,19 @@ anysoftwaretools.com,techcenturion.com###sticky-navigation:style(position: absol
 aol.co.uk##.LnavTwoColumnLayout_aside__AQFJ6:style(position: relative !important;)
 aol.com,aol.co.uk##.m-AolHeader--innerWrapper:style(position: relative !important;)
 aol.com,aol.co.uk##.TwoColumnLayout_aside__LXaFg:style(position: relative !important; align-self: unset !important;)
+aol.com##.evp-docked-bg, .evp-docked-close-button
+aol.com##.evp-main:style(position: relative !important; height: 100% !important; width: 100% !important; bottom: 0 !important; animation: none !important;)
+aol.com##.m-dispatcher--sticky-footer
 ap.org,detox.net,grittv.com,laff.com,npgco.com,oscars.org,reference.com##.l-header:style(position: absolute !important;)
 ap.org##.ndn_floatContainer_enabled:style(position: relative !important;)
-aparat.com##.is-open-sidebar .tablist-container.main-container:style(position: absolute !important;)
-aparat.com##.playlist-sidebar:style(position: absolute !important; top: 32px !important; right: 20px !important;)
-aparat.com##.promote-puls
-aparat.com##.sidebar-wrapper:style(position: absolute !important;)
 aparat.com###app-header:style(position: absolute !important;)
 aparat.com###homeTabs > .tablist-container:style(position: absolute !important;)
 aparat.com###product-promoter-wrapper:style(position: absolute !important;)
 aparat.com###sidbar:style(position: absolute !important;)
+aparat.com##.is-open-sidebar .tablist-container.main-container:style(position: absolute !important;)
+aparat.com##.playlist-sidebar:style(position: absolute !important; top: 32px !important; right: 20px !important;)
+aparat.com##.promote-puls
+aparat.com##.sidebar-wrapper:style(position: absolute !important;)
 apartments.com,gamereactor.eu###mainHeader:style(position: relative !important;)
 apartments.com###contactLead:style(position: absolute !important; top: unset !important;)
 apartments.com###profileStickyHeaderWrapper
@@ -6071,7 +6074,7 @@ nintendowire.com###featured-top:style(background-attachment: unset !important;)
 nintendowire.com###header-scroll
 nites.tv##.hd:style(position: absolute !important; top: 0 !important;)
 nites.tv##.home .hd:style(background: linear-gradient(to bottom, var(--body) 0%, rgba(0,0,0,0) 100%) !important;)
-nitter.42l.fr,nitter.net,nitter.space##.profile-tab:style(position: static !important;)
+nitter.42l.fr,nitter.net,nitter.space,nitter.tiekoetter.com##.profile-tab:style(position: static !important;)
 nknews.org##.scroll-fix.header.header-main:style(position: relative !important; top: 0 !important;)
 nme.com##.td-is-sticky .wpb_wrapper:style(position: static !important; top: auto !important;)
 nobelprize.org##.sticky.sub-navigation:style(position: relative !important;)
