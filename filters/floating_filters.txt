@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: 1pNmhcExo9OCawYsmR1z4A
-! Last modified: 2026-04-03 20:19 UTC
-! Version: 202603230859
+! Checksum: VQHcJ85BFqvp4MP6FhceSQ
+! Last modified: 2026-04-06 09:14 UTC
+! Version: 202604060914
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -5007,7 +5007,6 @@ kyivpost.com###Layer_1:style(position: static !important;)
 kyleschaeffer.com,nationalgeographiclodges.com,news.com.au,newsplex.com,pixieset.com,qz.com,rollcall.com,sltrib.com,streetinsider.com,technochops.com,technologynetworks.com,uppermichiganssource.com###nav:style(position: relative !important; top: 0 !important;)
 l.opnxng.com,libreddit.app.runonflux.io,libreddit.kavin.rocks,libreddit.privacydev.net,red.artemislena.eu,red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion,redlib.aosus.link,redlib.catsarch.com,redlib.cow.rip,redlib.freedit.eu,redlib.kylrth.com,redlib.orangenet.cc,redlib.perennialte.ch,redlib.privacyredirect.com,redlib.privadency.com,redlib.pussthecat.org,redlib.r4fo.com,redlib.reallyaweso.me,safereddit.com,snoo.habedieeh.re###banner
 l.opnxng.com,libreddit.app.runonflux.io,libreddit.kavin.rocks,libreddit.privacydev.net,red.artemislena.eu,red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion,redlib.aosus.link,redlib.catsarch.com,redlib.cow.rip,redlib.freedit.eu,redlib.kylrth.com,redlib.orangenet.cc,redlib.perennialte.ch,redlib.privacyredirect.com,redlib.privadency.com,redlib.pussthecat.org,redlib.r4fo.com,redlib.reallyaweso.me,safereddit.com,snoo.habedieeh.re##nav.fixed_navbar:style(position: absolute !important;)
-l2inc.com##.desktop-nav.js-sticky-nav:style(position: relative !important;)
 laboratoryequipment.com###footer-expand:style(position: relative !important;)
 lacrosseunlimited.com##.megamenu:style(position: relative !important;)
 ladbible.com,unilad.com##.progress-bar_progressContainer__cQqfX
