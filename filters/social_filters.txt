@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: 0VsDL1_LO3eyENBBLn1mOg
-! Last modified: 2026-04-10 05:38 UTC
-! Version: 202604100538
+! Checksum: E5ydd0QvJAg1ijeOAMQVGg
+! Last modified: 2026-04-13 10:00 UTC
+! Version: 202604131000
 ! Last Modified: 2026-02-09 08:54 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
@@ -861,7 +861,6 @@ scribd.com###social_proof_root, .auto__doc_page_shared_flash_container, .share_d
 searchenginejournal.com##.sharebtn.sh-vert
 searchengineland.com###bylineShare
 seattletimes.com##.facebook-modal
-secondnexus.com###sb_super_bar
 securelist.com##.widget-pusher-wrap
 securitiesanalytics.com##.show.tc-btt-wrapper
 securityintelligence.com##.single__social-vertical
