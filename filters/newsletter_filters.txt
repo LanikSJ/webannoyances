@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Checksum: 1zm8XvVGcjVrDPRCVHI6vw
-! Last modified: 2026-04-10 05:38 UTC
-! Version: 202604100538
+! Checksum: -pXFEH6aHKlnMS8GsvYRGw
+! Last modified: 2026-05-25 12:00 UTC
+! Version: 202605251200
 ! Last Modified: 2026-01-19 08:37 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
@@ -95,7 +95,6 @@ bhg.com,coastalliving.com,cookinglight.com,ew.com,foodandwine.com,fortune.com,he
 bigbear.com###signup-msg
 bigthink.com##.nl_container
 birminghammail.co.uk,bristolpost.co.uk,business-live.co.uk,chroniclelive.co.uk,coventrytelegraph.net,dailypost.co.uk,dailyrecord.co.uk,dailystar.co.uk,derbytelegraph.co.uk,devonlive.com,examinerlive.co.uk,gazettelive.co.uk,glasgowlive.co.uk,hulldailymail.co.uk,lancs.live,leicestermercury.co.uk,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,mylondon.news,nottinghampost.com,plymouthherald.co.uk,walesonline.co.uk###takeover, .email__toaster-component, .skinny-signup, .tmg-particle-embed
-bizarrepedia.com###bb_newsletter, .mailinglistb.heap
 bizjournals.com##.email__module
 bleepingcomputer.com##.bc_news_letter_sidebar
 blog.feedspot.com###custom_html-3, #custom_html-3_clone, #text-836, #text-836_clone, [id*="newsletterform"]
