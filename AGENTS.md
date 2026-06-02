@@ -1,4 +1,4 @@
-# AI Rules & Project Standards for webannoyances
+# Agent Rules & Project Standards for webannoyances
 
 ## Repository Overview
 
