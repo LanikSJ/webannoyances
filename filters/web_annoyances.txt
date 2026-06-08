@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: dicU93RNhiVuj7B_6CIkaw
-! Last modified: 2026-05-25 12:00 UTC
-! Version: 202605251200
+! Checksum: vfW4VtMoaDopA7_oL058vA
+! Last modified: 2026-06-08 12:34 UTC
+! Version: 202606081234
 ! Last Modified: 2026-01-12 08:56 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
@@ -772,7 +772,6 @@ openstreetmap.org,snapzu.com##.welcome
 oracle.com##.cw51v0.cw51
 origins.com##.sticky-chat
 orlandoweekly.com###FooterboardMobile
-otakustream.tv##div.widget-home-block:nth-of-type(1)
 outsideonline.com##.nudger__inner
 owlcation.com###stickyfooterad
 oxforddictionaries.com##.active.transition.shortHeader
