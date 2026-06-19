@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
 ! Checksum: UYrcmFnE7MZu0VkRgtueEw
-! Last modified: 2026-06-08 12:34 UTC
+! Last modified: 2026-06-19 04:17 UTC
 ! Version: 202606081234
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
@@ -873,6 +873,7 @@ surlatable.com##.welcome-popup
 symantec.com###myBtn
 tabletmag.com##.DonationPopup, .animated-email-box
 taskandpurpose.com##.charlotte-background, .tp-oim-inline-background
+taylorswift.com##body:style(overflow: auto !important;)
 teamblind.com##.app_down_bar, .pop_toast_noti
 teamtreehouse.com###banner, #tarp
 techcommunity.microsoft.com##.lia-panel-dialog-modal-valuesurvey.ui-dialog, .scroll-to-top, .scroll-top-link, .ui-widget-overlay
@@ -1064,3 +1065,4 @@ zmescience.com##.jeg_container > .jeg_read_progress_wrapper
 ||lightboxcdn.com/vendor/$domain=cnet.com
 ||picreel.com^$subdocument
 ||stacklist.com/*/subscribe-modal
+||taylorswift.com/wp-content/plugins/umg-grand-royal-theme-plugin/$script,1p
