@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Social Filters
-! Checksum: lv8r86Q-NRVFvvVqP9aSYg
-! Last modified: 2026-06-08 12:34 UTC
-! Version: 202606081234
+! Checksum: yCUe3CpU8hvcSTA4v_vRsg
+! Last modified: 2026-06-22 13:40 UTC
+! Version: 202606221340
 ! Last Modified: 2026-02-09 08:54 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for social networking & sharing - Remove third party social media share sections, icons & other cosmetic elements.
@@ -929,7 +929,6 @@ sueddeutsche.de##.szig-sharing
 suntimes.com##.post-meta-social
 supercars.net##.vw-post-share, .vw-site-social-links
 superpages.com##.top-actions
-swatchseries.to##.facebook_shows_ad
 swissinfo.ch##.sticky.show-for-medium-up.clear.spotlightbar
 syfy.com###blog-post__share-facebook-twitter_gig_containerParent
 tabletmag.com##.ArticleNav__share-button-container, .ShareButton
