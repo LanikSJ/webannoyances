@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: vfW4VtMoaDopA7_oL058vA
-! Last modified: 2026-06-08 12:34 UTC
-! Version: 202606081234
+! Checksum: tEdboB-SBrFy9EnDLeLucw
+! Last modified: 2026-07-06 12:08 UTC
+! Version: 202607061208
 ! Last Modified: 2026-01-12 08:56 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
@@ -760,7 +760,6 @@ oddshot.tv##.Notification
 offcloud.com##.persistant-menu
 office.com###epb
 office.com##.c-uhfh-alert
-ohow.co###trigger
 oilandgasinvestor.com###header-wrapper > div:nth-of-type(2)
 ok.co.uk###cmp-container-id
 okayplayer.com##.page-meta-links-container
@@ -816,9 +815,6 @@ priceonomics.com###sidebar-scrollfix
 princetonreview.com###homepage-aboutus-lg
 princetonreview.com###homepageTopBanner
 princetonreview.com##.scroll-spy-container
-productdork.com##.logo-small
-productdork.com##.title-wrapper > .bullet.badge-wrapper
-productdork.com##.topic-link.widget-link
 producthunt.com##.button_a78ba
 producthunt.com##.container_8e0f7
 project-syndicate.org##.commented.inline-comment
@@ -1021,7 +1017,6 @@ thebump.com###main-container > div:nth-of-type(8)
 thechronicleherald.ca###shopSlider
 thechronicleherald.ca##.block-adtech
 thecipherbrief.com##.header_baner
-thecompost.io##.fixed.components-global-menus-article-menu-component
 thecouponproject.com##.nav-secondary
 theculturetrip.com##.download-banner\.styled__DownloadBanner-s1nx233m-0
 theculturetrip.com##.hWAzTI
