@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
 ! Checksum: UYrcmFnE7MZu0VkRgtueEw
-! Last modified: 2026-06-19 04:17 UTC
+! Last modified: 2026-07-17 17:55 UTC
 ! Version: 202606081234
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
@@ -134,7 +134,7 @@ batcmd.com###cmsg
 bathandbodyworks.com,bt.com,canadagoose.com,crucial.com,greencarreports.com,mattressfirm.com,motorauthority.com,paypal-community.com,rag-bone.com##.ui-dialog, .ui-widget-overlay
 beautifulpixels.com###ml-webforms-popup-536841
 becauseofthemwecan.com##.top-banner.grid--full
-becauseofthemwecan.com,islandrecordsaustralia.com,smarteranalyst.com##.jquery-modal
+becauseofthemwecan.com,islandrecordsaustralia.com,smarteranalyst.com,taylorswift.com##.jquery-modal
 bedbathandbeyond.com###box, .ad-block-msg-wrapper
 bedbathandbeyond.com,pictoa.com,realcleardefense.com,realclearpolitics.com,thehindubusinessline.com,vice.com##.overlay
 believermag.com##.carry-on, .tucson-background
@@ -167,7 +167,7 @@ blog.feedspot.com###exitpopup, #instantpopup, #wp_subscribe_popup_clone
 blog.petrockblock.com###wpca-bar
 bloomberg.com###graphics-paywall-overlay, #paywall-banner, .navi-push-notification-prompt
 bloomberg.com##body[data-paywall-overlay-status="show"]:style(overflow-x: hidden !important; overflow-y: scroll !important;)
-bloomberg.com,camzter.tv,euronews.com,feetfinder.com,govtrack.us,islandrecordsaustralia.com,livecamclips.com,newstatesman.com,pictoa.com,revolver.news##body:style(overflow: auto !important;)
+bloomberg.com,camzter.tv,euronews.com,feetfinder.com,govtrack.us,islandrecordsaustralia.com,livecamclips.com,newstatesman.com,pictoa.com,pornhub.com,revolver.news##body:style(overflow: auto !important;)
 boardingarea.com###ba-flybox
 boingboing.net###modalOverlay
 bookforum.com###EmailRegistrationPopup, #OverlayRegistration
@@ -219,7 +219,7 @@ chowhound.com##.fr_rr_sticky, .freyja_overlay, .keep_scrolling, .side.to_topmobi
 chowhound.com,rawstory.com,rollingstone.com,scotts.com,variety.com,washingtontimes.com##.fb_lightbox-overlay, .preloaded_lightbox
 chromeunboxed.com##.hustle-modal
 cigarandpipes.com##.popup-backdrop, .popup-modal
-cigarandpipes.com,disneynow.com,filmora.wondershare.com,graduationmall.com,pornhub.com,sports.williamhill.com##html,body:style(overflow: auto !important;)
+cigarandpipes.com,disneynow.com,filmora.wondershare.com,graduationmall.com,sports.williamhill.com##html,body:style(overflow: auto !important;)
 cigarbid.com###sweepstakes-popup
 cigarchief.com,juanitajean.com,kyivpost.com,mcafee.com###heateor_ss_browser_popup_bg, #the_champ_sharing_more_providers
 cigarking.com##.pushassist_notification8
@@ -742,6 +742,7 @@ popularmechanics.com##journey-modal-newsletter[data-template-id="pop-modal-newsl
 popularwoodworking.com##.pagnav-wrapper
 pornhub.com###ageDisclaimerMainBG, #ageDisclaimerOverlay, .fadeInMTubes
 pornhub.com###mobileContainer img, #mobileContainer video:style(filter: none !important;)
+pornhub.com##html:style(overflow: auto !important; position: unset !important;)
 post-gazette.com##.pgevoke-backtotop
 potbelly.com##.general-alert-modal, .global-modal, .global-modal-background
 power-technology.com##.gd-report-modal
