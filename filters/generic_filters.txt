@@ -1,6 +1,6 @@
 ! Title: Web Annoyances Ultralist - Generic Filters
 ! Checksum: v6qfl0E4mdigZi68LzKwCA
-! Last Modified: 2026-01-15 05:46 UTC
+! Last Modified: 2026-07-17 17:46 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for generic cosmetic filters - Cosmetically remove common annoyances found on multiple domains typically provided in the social, modal and newsletter Web Annoyances Ultralist sublists. Also includes cookie & gdpr warning elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -1929,6 +1929,7 @@ gcnlive.com,guildwars2.com#@##backtotop:not(html):not(body)
 gdeposylka.ru#@#.fa-facebook-f
 gdeposylka.ru#@#.fa-google
 github.com#@#.social-count
+gsmarena.com#@##social-connect
 hotdeals.com#@##go_top:not(html):not(body)
 howstuffworks.com#@##share-bar-bottom
 howstuffworks.com#@#.share-wrap
