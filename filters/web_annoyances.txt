@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist Main
-! Checksum: tEdboB-SBrFy9EnDLeLucw
-! Last modified: 2026-07-06 12:08 UTC
-! Version: 202607061208
+! Checksum: wQH8CASh6JpmMUFE6l04hA
+! Last modified: 2026-07-20 10:56 UTC
+! Version: 202607201056
 ! Last Modified: 2026-01-12 08:56 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Block annoying web elements and reclaim lost screen real estate.
@@ -505,8 +505,6 @@ inforcecomputing.com##.contactscroll
 ingwb.com##.glass
 inhabitat.com##.ibinject-container
 instantcheckmate.com##.ugc-alert
-internet-bikes.com###robin_tab_container
-internet-bikes.com##.abs_bottom.footer_wrapper
 interpretermag.com##.clearfix.container
 interviewcake.com##.ic-alerts
 interviewmagazine.com###Action_bar
