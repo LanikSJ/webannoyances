@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: dJAl2FsXtSj_G2wvOn7UxQ
-! Last modified: 2026-07-27 11:24 UTC
-! Version: 202607271124
+! Checksum: Os3qaPBYNxJOqDDEJDt6zg
+! Last modified: 2026-08-03 11:27 UTC
+! Version: 202608031127
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -2104,7 +2104,6 @@ codewars.com###main_header:style(position: absolute !important;)
 codewars.com###popup-notification-container
 codex.online##.topmenu.pure-g:style(position: absolute !important;)
 codexcoder.com##.fixed-top-menu.fadeInDown.animated.codexcoder-navbar.navbar:style(position: absolute !important;)
-codisec.com##.navbar-fixed-top.navbar-default.navbar:style(position: absolute !important; top: 0 !important;)
 coinbase.com##.bOlOSu:style(display: flex !important;)
 coinbase.com##.fqnVnO.Tracker__Container-fyurzH, .ada-chat-button:style(position: absolute !important;)
 coinbase.com##.gnBnMe:style(overflow: unset !important;)
@@ -5773,7 +5772,7 @@ mywishlist.online###sidebar-main:style(position: absolute !important;)
 mywishlist.online###sidebar-top:style(position: absolute !important;)
 mywordsnthoughts.com,webtrickz.com###nav-topbar:style(position: absolute !important; transform: translate(0px, 0px) !important;)
 mywordsnthoughts.com##.sidebar-content:style(transform: translate(0px) !important;)
-mywot.com,putlocker.to##header:style(position: absolute !important; top: 0 !important;)
+mywot.com##header:style(position: absolute !important; top: 0 !important;)
 nadaguides.com##.js-main-navdesk.nav-desktop:style(height: 110px !important;)
 nadaguides.com##.nav-desktop-wrap:style(position: absolute !important;)
 nameberry.com##.Header, .MenuHeader, .Top-bar:style(position: absolute !important;)
@@ -6746,7 +6745,6 @@ purch.com###nav
 puretalkusa.com##.pt-nh-header:style(position: absolute !important; top: 0 !important; transform: none !important;)
 purewow.com##.header-scrolling
 puritan-magazine.com##.article-sidebar.sticky-sidebar:style(position: absolute !important; top: 10% !important; opacity: 1 !important;)
-putlocker.to###main:style(padding-top: 70px !important;)
 putorius.net##.sh-header:style(position: relative !important;)
 pvplive.net##.nav-stuck:style(position: relative !important; top: 0 !important;)
 pwc.com###menuBarWrapper:style(position: absolute !important; top: 0 !important;)
