@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: UYrcmFnE7MZu0VkRgtueEw
-! Last modified: 2026-07-17 17:55 UTC
-! Version: 202606081234
+! Checksum: 8hE-5FxWcUVSY_DBV4MayQ
+! Last modified: 2026-08-17 08:47 UTC
+! Version: 202608170847
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -196,7 +196,6 @@ camelcamelcamel.com###cmp-ui-iframe, .qc-cmp-ui-container
 campbells.com###_ghostery-message-row
 campusreform.org##.side_modal
 canadiancattlemen.ca,country-guide.ca,manitobacooperator.ca,producer.com##.gfm_background
-canvasstorm.com###satcb_bar, .wheelio_holder
 cardboardconnection.com##.fancybox-overlay, .fancybox-wrap
 careerkarma.com,kerbalspaceprogram.com###wmpci-popup-wrp
 careerkarma.com,kerbalspaceprogram.com##html.wmpci-popup-open:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
