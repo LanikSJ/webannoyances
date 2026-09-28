@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Floating Annoyances (CSS Style Modifications & Companion Filters)
-! Checksum: JUPqKKPA9QQI62jDZN5MKw
-! Last modified: 2026-09-21 14:56 UTC
-! Version: 202609211456
+! Checksum: 96baazACpRee-2bEbZm35Q
+! Last modified: 2026-09-28 16:32 UTC
+! Version: 202609281632
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Floating Annoyances -  Modify site elements using CSS modifications to fix floating items that block screen real estate - Primarily used to "pin-in-place" sticky headers, dickbars, floating headers, floating videos, scrolling headers, scrolling videos, stickynavs and other distracting page elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -748,7 +748,6 @@ archive.vanityfair.com##.fixed.bnd_artpg_fixedhead.menu.main.borderless.ui, .sha
 archive.vanityfair.com##.user_menu_wrapper:style(position: static !important;)
 archpaper.com##.article-sidebar-wrap, .nav:style(position: relative !important;)
 archpaper.com##.header:style(padding-top: 0 !important;)
-ardorplatform.org##.menu-wrap:style(position: absolute !important;)
 ardrossanherald.com,bucksfreepress.co.uk,burytimes.co.uk,countypress.co.uk,dunfermlinepress.com,eastlothiancourier.com,herefordtimes.com,stroudnewsandjournal.co.uk###article-sticky-desktop-nav
 argentinareports.com,latinamericareports.com##.p-menu .navbar.affix .main_menu ul > li > a:style(color: #000 !important;)
 argentinareports.com,latinamericareports.com###fixed-navbar:style(position: relative !important; top: 0 !important; background: transparent !important;)
