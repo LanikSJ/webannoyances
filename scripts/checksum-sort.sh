@@ -17,30 +17,80 @@ log_warning() {
   echo "⚠️ $*" >&2
 }
 
-# Validate input arguments
+# Validate input arguments (enhanced)
 validate_input() {
-  if [[ $# -eq 0 ]]; then
-    log_error "Usage: $0 <filter-file>"
-    log_error "Example: $0 filters/ultralist.txt"
+  # Resolve the provided argument to an absolute path.
+  local arg="$1"
+  local script_dir
+  script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+  local candidate=""
+
+  # If the argument is an absolute path and points to a regular file, use it.
+  if [[ "$arg" = /* && -f "$arg" ]]; then
+    candidate="$arg"
+  else
+    # Try relative to current working directory.
+    if [[ -f "$arg" ]]; then
+      candidate="$arg"
+    else
+      # Try relative to the script's sibling "../filters" directory.
+      local sibling="$script_dir/../filters/$arg"
+      if [[ -f "$sibling" ]]; then
+        candidate="$sibling"
+      fi
+    fi
+  fi
+
+  if [[ -z "$candidate" ]]; then
+    log_error "File '$arg' does not exist or is not a regular file."
+    log_error "Attempted paths:"
+    log_error "  - Current directory: \$(pwd)/$arg"
+    log_error "  - Relative sibling: $script_dir/../filters/$arg"
     exit 1
   fi
 
+  if [[ ! -r "$candidate" ]]; then
+    log_error "File '$candidate' is not readable"
+    exit 1
+  fi
+
+  if [[ ! -w "$candidate" ]]; then
+    log_error "File '$candidate' is not writable"
+    exit 1
+  fi
+
+  # Ensure the file is not empty (prevent accidental removal)
+  if [[ ! -s "$candidate" ]]; then
+    log_error "File '$candidate' is empty; nothing to process"
+    exit 1
+  fi
+
+  # Export the resolved absolute path for later use.
+  export RESOLVED_FILE="$candidate"
+}
+
+# Sort filter rules without creating stray temp files (uses mktemp then moves)
+sort_filter() {
   local file="$1"
-
-  if [[ ! -f "$file" ]]; then
-    log_error "File '$file' does not exist or is not a regular file"
+  # Create a temporary file safely; abort if creation fails
+  local tmp
+  tmp=$(mktemp "$file.tmp.XXXX") || {
+    log_error "Failed to create temporary file"
     exit 1
-  fi
+  }
 
-  if [[ ! -r "$file" ]]; then
-    log_error "File '$file' is not readable"
-    exit 1
-  fi
+  {
+    # Preserve comment lines starting with '!'
+    grep '^!' "$file" || true
+    # Sort rule lines by hostname (field before first '#')
+    if grep -q -v '^!' "$file"; then
+      grep -v '^!' "$file" | sort -t'#' -k1,1
+    fi
+  } >"$tmp"
 
-  if [[ ! -w "$file" ]]; then
-    log_error "File '$file' is not writable"
-    exit 1
-  fi
+  # Atomically replace the original file
+  mv "$tmp" "$file"
+  log_info "✅ Custom sorting completed successfully"
 }
 
 # Calculate checksum (MD5 base64, excluding checksum line itself)
@@ -124,67 +174,64 @@ update_headers() {
 # Add checksum after the Title line
 add_checksum() {
   local file="$1"
-  local checksum temp_file
+  local checksum
 
   # Calculate checksum after updating headers
   checksum=$(calculate_checksum "$file")
-  temp_file="$file.tmp.$$"
 
-  # Find Title line and insert Checksum right after it
-  local title_found=false
+  local tmp
+  tmp=$(mktemp "$file.tmp.XXXX") || {
+    log_error "Failed to create temporary file for checksum"
+    exit 1
+  }
+
+  local inserted=false
   while IFS= read -r line || [[ -n "$line" ]]; do
     echo "$line"
     if [[ "$line" =~ ^'! Title:' ]]; then
-      # Insert Checksum right after Title
       echo "! Checksum: $checksum"
-      title_found=true
+      inserted=true
     fi
-  done <"$file" >"$temp_file"
+  done <"$file" >"$tmp"
 
-  # If no Title line was found, prepend checksum
-  if [[ "$title_found" == "false" ]]; then
-    echo "! Checksum: $checksum" >"$temp_file"
-    cat "$file" >>"$temp_file"
+  if [[ "$inserted" == "false" ]]; then
+    # No Title line; prepend checksum at the beginning of the file
+    {
+      echo "! Checksum: $checksum"
+      cat "$file"
+    } >"$tmp"
   fi
 
-  mv "$temp_file" "$file"
-
+  mv "$tmp" "$file"
   log_info "📝 Checksum: $checksum"
 }
 
-# Sort the filter file using FOP CLI
-sort_filter() {
+# Run fop-rs after custom sort
+run_fop() {
   local file="$1"
+  local file_name
+  file_name=$(basename "$file")
+  local file_dir
+  file_dir=$(dirname "$file")
 
-  log_info "🔀 Using FOP CLI to sort filter rules..."
+  (
+    # Change directory to the file's location so fop can locate the file correctly
+    cd "$file_dir" || {
+      log_error "Failed to change directory to $file_dir"
+      exit 1
+    }
 
-  # Use the Rust-based FOP CLI (required)
-  if command -v fop >/dev/null 2>&1; then
-    log_info "🔀 Using Rust-based FOP CLI"
-    if fop "$file" >/dev/null 2>&1; then
-      log_info "✅ FOP CLI sorting completed successfully"
-      return
+    if command -v fop >/dev/null 2>&1; then
+      fop --check-file="$file_name" --no-commit --no-sort
     else
-      log_error "❌ FOP CLI encountered errors while processing the file"
-      log_error "❌ Please check the FOP CLI installation and try again"
+      log_error "fop not found. Please install it first."
+      log_error "You can install it via Homebrew:"
+      log_error "  brew install laniksj/tap/fop-rs"
+      log_error "Or using Cargo: cargo install fop-rs"
       exit 1
     fi
-  elif command -v fop-cli >/dev/null 2>&1; then
-    log_info "🔀 Using FOP CLI (fop-cli)"
-    if fop-cli "$file" >/dev/null 2>&1; then
-      log_info "✅ FOP CLI sorting completed successfully"
-      return
-    else
-      log_error "❌ FOP CLI encountered errors while processing the file"
-      log_error "❌ Please check the FOP CLI installation and try again"
-      exit 1
-    fi
-  else
-    log_error "❌ FOP CLI not found"
-    log_error "❌ Please install the Rust-based FOP CLI from https://github.com/ryanbr/fop-rs"
-    log_error "❌ This script requires FOP CLI and will not fall back to other sorting methods"
-    exit 1
-  fi
+  )
+  log_info "✅ fop-rs validation completed"
 }
 
 # Process the filter file
@@ -193,13 +240,16 @@ process_file() {
 
   log_info "🔄 Processing file: $file"
 
-  # Step 1: Update date and version headers
-  log_info "📅 Updating date and version headers..."
-  update_headers "$file"
-
-  # Step 2: Sort filter rules
+  # Step 1: Sort filter rules (before header updates)
   log_info "🔀 Sorting filter rules..."
   sort_filter "$file"
+  # Run fop-rs validation after sorting
+  log_info "🔀 Running fop-rs validation..."
+  run_fop "$file"
+
+  # Step 2: Update date and version headers
+  log_info "📅 Updating date and version headers..."
+  update_headers "$file"
 
   # Step 3: Add checksum after Title
   log_info "🔐 Calculating and adding checksum..."
@@ -222,7 +272,7 @@ main() {
         echo "  --help, -h              Show this help message"
         echo ""
         echo "Examples:"
-        echo "  $0 filters/ultralist.txt"
+        echo "  $0 filters/combined-filters.txt"
         exit 0
         ;;
       -*)
@@ -251,8 +301,9 @@ main() {
 
   log_info "🚀 Starting checksum-sort process for: $file"
 
-  # Validate input
+  # Validate input and resolve absolute path
   validate_input "$file"
+  file="$RESOLVED_FILE"
 
   # Process the file
   process_file "$file"
