@@ -1,6 +1,7 @@
 ! Title: Web Annoyances Ultralist - AdGuard iOS App Exclusion Filters
 ! Checksum: iMKwFth/NBzoshieRu/YNA
 ! Last Modified: 2024-08-29 07:34 UTC
+! Version: 202610060018
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for AdGuard iOS App Exclusion Filters. This list is used to fix page display issues caused by CSS Style & Companion filters not working properly with Safari using AdGuard iOS App.
 ! Homepage: https://github.com/LanikSJ/webannoyances

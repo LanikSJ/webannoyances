@@ -1,6 +1,7 @@
 ! Title: Web Annoyances Ultralist - Generic Filters
 ! Checksum: v6qfl0E4mdigZi68LzKwCA
 ! Last Modified: 2026-07-17 17:46 UTC
+! Version: 202610060018
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for generic cosmetic filters - Cosmetically remove common annoyances found on multiple domains typically provided in the social, modal and newsletter Web Annoyances Ultralist sublists. Also includes cookie & gdpr warning elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
