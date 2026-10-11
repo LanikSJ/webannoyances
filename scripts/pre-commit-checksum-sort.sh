@@ -35,7 +35,7 @@ log_error() {
 
 collect_staged_filters() {
   # shellcheck disable=SC2086
-  git -C "$REPO_ROOT" diff --cached --name-only --diff-filter=ACM -- $FILTER_PATHSPECS
+  git -C "$REPO_ROOT" diff --cached --name-only --diff-filter=ACM -- "$FILTER_PATHSPECS"
 }
 
 process_one() {
