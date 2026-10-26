@@ -20,9 +20,8 @@ const zodEntries = Object.entries(lockfile.packages).filter(
  * entry point and a require function scoped to its installed dependencies.
  */
 function resolveZodConsumer() {
-  const linterRequire = createRequire(require.resolve('@adguard/dead-domains-linter/package.json'));
-  const agtreeRequire = createRequire(linterRequire.resolve('@adguard/agtree'));
-  const filename = linterRequire.resolve('@adguard/agtree');
+  const scriptletsRequire = createRequire(require.resolve('@adguard/scriptlets/package.json'));
+  const filename = scriptletsRequire.resolve('@adguard/agtree');
   return { filename, consumerRequire: createRequire(filename) };
 }
 
