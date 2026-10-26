@@ -12,8 +12,13 @@ const zodEntries = Object.entries(lockfile.packages).filter(
   ([location]) => location.endsWith('/node_modules/zod') || location === 'node_modules/zod',
 );
 
-// Follow the installed dependency chain to the AGTree version that uses Zod.
-// Resolving from each parent works with both hoisted and nested npm packages.
+/**
+ * Follow the installed dependency chain to the AGTree version that uses Zod.
+ * Resolving from each parent works with both hoisted and nested npm packages.
+ *
+ * @returns {{ filename: string, consumerRequire: NodeRequire }} The consumer's
+ * entry point and a require function scoped to its installed dependencies.
+ */
 function resolveZodConsumer() {
   const linterRequire = createRequire(require.resolve('@adguard/dead-domains-linter/package.json'));
   const agtreeRequire = createRequire(linterRequire.resolve('@adguard/agtree'));
@@ -22,6 +27,12 @@ function resolveZodConsumer() {
   return { filename, consumerRequire: createRequire(filename) };
 }
 
+/**
+ * Load the AGTree consumer after checking that it resolves the PR's Zod version.
+ *
+ * @returns {typeof import('@adguard/agtree')} The consumer's exported API.
+ * @throws {assert.AssertionError} If the installed Zod version differs from the override.
+ */
 function loadZodConsumer() {
   const { filename, consumerRequire } = resolveZodConsumer();
   // Do not accidentally validate the upgrade against a stale Zod 3 install.
