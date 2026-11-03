@@ -28,6 +28,10 @@ on:
       - 'package.json'
       - 'package-lock.json'
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   lint:
     name: Run AGLint
