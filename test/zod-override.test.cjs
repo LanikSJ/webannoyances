@@ -12,6 +12,23 @@ const zodEntries = Object.entries(lockfile.packages).filter(
   ([location]) => location.endsWith('/node_modules/zod') || location === 'node_modules/zod',
 );
 
+// Find glob entries in the lockfile
+const globEntries = Object.entries(lockfile.packages).filter(
+  ([location]) => location.endsWith('/node_modules/glob') || location === 'node_modules/glob',
+);
+
+/**
+ * Find js-yaml entries in the lockfile
+ */
+const jsYamlEntries = Object.entries(lockfile.packages).filter(
+  ([location]) => location.endsWith('/node_modules/js-yaml') || location === 'node_modules/js-yaml',
+);
+
+// Find minimatch entries in the lockfile
+const minimatchEntries = Object.entries(lockfile.packages).filter(
+  ([location]) => location.endsWith('/node_modules/minimatch') || location === 'node_modules/minimatch',
+);
+
 /**
  * Follow the installed dependency chain to the AGTree version that uses Zod.
  * Resolving from each parent works with both hoisted and nested npm packages.
@@ -20,6 +37,15 @@ const zodEntries = Object.entries(lockfile.packages).filter(
  * entry point and a require function scoped to its installed dependencies.
  */
 function resolveZodConsumer() {
+  const scriptletsRequire = createRequire(require.resolve('@adguard/scriptlets/package.json'));
+  const filename = scriptletsRequire.resolve('@adguard/agtree');
+  return { filename, consumerRequire: createRequire(filename) };
+}
+
+/**
+ * Resolve the AGTree consumer for override checks.
+ */
+function resolveOverrideConsumer() {
   const scriptletsRequire = createRequire(require.resolve('@adguard/scriptlets/package.json'));
   const filename = scriptletsRequire.resolve('@adguard/agtree');
   return { filename, consumerRequire: createRequire(filename) };
@@ -41,6 +67,8 @@ function loadZodConsumer() {
   );
   return consumerRequire(filename);
 }
+
+// ========== ZOD OVERRIDE TESTS (4.6.6) ==========
 
 test('Zod is pinned to the PR version instead of a range or the previous major', () => {
   assert.equal(packageJson.overrides.zod, '4.6.6');
@@ -106,4 +134,101 @@ test('tolerant parsing preserves an invalid scriptlet and reports its error', ()
   assert.equal(parsed.error.name, 'AdblockSyntaxError');
   assert.ok(parsed.error.message.length > 0);
   assert.equal(RuleParser.generate(parsed), rule);
+});
+
+// ========== GLOB AND JS-YAML OVERRIDE TESTS ==========
+
+test('glob is pinned to the override version', () => {
+  assert.equal(packageJson.overrides.glob, '14.0.2');
+});
+
+test('the root lockfile entry matches the glob override and tarball version', () => {
+  const lockedGlob = lockfile.packages['node_modules/glob'];
+  assert.ok(lockedGlob, 'The lockfile must include glob');
+  assert.equal(lockedGlob.version, packageJson.overrides.glob);
+  assert.equal(
+    lockedGlob.resolved,
+    `https://registry.npmjs.org/glob/-/glob-${packageJson.overrides.glob}.tgz`,
+  );
+});
+
+test('no nested glob lockfile entry retains an older version or tarball', () => {
+  assert.ok(globEntries.length > 0, 'At least one glob package must be locked');
+  for (const [location, entry] of globEntries) {
+    assert.equal(entry.version, packageJson.overrides.glob, `${location} must honor the override`);
+    assert.equal(
+      entry.resolved,
+      `https://registry.npmjs.org/glob/-/glob-${entry.version}.tgz`,
+      `${location} must resolve the overridden tarball`,
+    );
+  }
+});
+
+test('the actual AGTree consumer resolves the overridden glob installation', () => {
+  const { consumerRequire } = resolveOverrideConsumer();
+  assert.equal(consumerRequire('glob/package.json').version, packageJson.overrides.glob);
+});
+
+test('js-yaml is pinned to the override version', () => {
+  assert.equal(packageJson.overrides['js-yaml'], '4.3.2');
+});
+
+test('the root lockfile entry matches the js-yaml override and tarball version', () => {
+  const lockedJsYaml = lockfile.packages['node_modules/js-yaml'];
+  assert.ok(lockedJsYaml, 'The lockfile must include js-yaml');
+  assert.equal(lockedJsYaml.version, packageJson.overrides['js-yaml']);
+  assert.equal(
+    lockedJsYaml.resolved,
+    `https://registry.npmjs.org/js-yaml/-/js-yaml-${packageJson.overrides['js-yaml']}.tgz`,
+  );
+});
+
+test('no nested js-yaml lockfile entry retains an older version or tarball', () => {
+  assert.ok(jsYamlEntries.length > 0, 'At least one js-yaml package must be locked');
+  for (const [location, entry] of jsYamlEntries) {
+    assert.equal(entry.version, packageJson.overrides['js-yaml'], `${location} must honor the override`);
+    assert.equal(
+      entry.resolved,
+      `https://registry.npmjs.org/js-yaml/-/js-yaml-${entry.version}.tgz`,
+      `${location} must resolve the overridden tarball`,
+    );
+  }
+});
+
+test('the actual AGTree consumer resolves the overridden js-yaml installation', () => {
+  const { consumerRequire } = resolveOverrideConsumer();
+  assert.equal(consumerRequire('js-yaml/package.json').version, packageJson.overrides['js-yaml']);
+});
+
+// ========== MINIMATCH OVERRIDE TESTS ==========
+
+test('minimatch is pinned to the override version', () => {
+  assert.equal(packageJson.overrides['minimatch'], '11.0.1');
+});
+
+test('the root lockfile entry matches the minimatch override and tarball version', () => {
+  const lockedMinimatch = lockfile.packages['node_modules/minimatch'];
+  assert.ok(lockedMinimatch, 'The lockfile must include minimatch');
+  assert.equal(lockedMinimatch.version, packageJson.overrides['minimatch']);
+  assert.equal(
+    lockedMinimatch.resolved,
+    `https://registry.npmjs.org/minimatch/-/minimatch-${packageJson.overrides['minimatch']}.tgz`,
+  );
+});
+
+test('no nested minimatch lockfile entry retains an older version or tarball', () => {
+  assert.ok(minimatchEntries.length > 0, 'At least one minimatch package must be locked');
+  for (const [location, entry] of minimatchEntries) {
+    assert.equal(entry.version, packageJson.overrides['minimatch'], `${location} must honor the override`);
+    assert.equal(
+      entry.resolved,
+      `https://registry.npmjs.org/minimatch/-/minimatch-${entry.version}.tgz`,
+      `${location} must resolve the overridden tarball`,
+    );
+  }
+});
+
+test('the actual AGTree consumer resolves the overridden minimatch installation', () => {
+  const { consumerRequire } = resolveOverrideConsumer();
+  assert.equal(consumerRequire('minimatch/package.json').version, packageJson.overrides['minimatch']);
 });
