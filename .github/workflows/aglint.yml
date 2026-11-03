@@ -9,16 +9,20 @@ env:
 on:
   push:
     branches:
-      - main
+      - master
     paths:
+      - '.github/workflows/aglint.yml'
+      - '.aglintignore'
       - '**/*.txt'
       - '.aglintrc.*'
       - 'package.json'
       - 'package-lock.json'
   pull_request:
     branches:
-      - main
+      - master
     paths:
+      - '.github/workflows/aglint.yml'
+      - '.aglintignore'
       - '**/*.txt'
       - '.aglintrc.*'
       - 'package.json'
