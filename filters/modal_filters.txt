@@ -1,7 +1,7 @@
 ! Title: Web Annoyances Ultralist - Modal Overlay Filters
-! Checksum: t1Eq8fxKhhLjnof8RiyLxA
-! Last modified: 2026-08-24 08:51 UTC
-! Version: 202608240851
+! Checksum: xCM3jzNZbeNcvGLusZpdqQ
+! Last modified: 2026-11-03 08:46 UTC
+! Version: 202611030846
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for Modal Overlay's - Remove interstitial modal overlay elements - also includes removal of other page covering elements. Cookie/GDPR notices will be removed in Cookie Filters sublist
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -11,6 +11,12 @@
 ! Copyright: © 2016-2024 by yourduskquibbles & LanikSJ
 ! Works Best With: uBlock Origin or AdGuard
 ! Start Web Annoyances Ultralist - Modal Overlay Filters
+||getsitecontrol.com^$script,domain=hyperallergic.com|religionnews.com|strongtowns.org|thelocal.fr|theparisreview.org
+||izooto.com^$script,domain=dnaindia.com
+||lightboxcdn.com/vendor/$domain=cnet.com
+||picreel.com^$subdocument
+||stacklist.com/*/subscribe-modal
+||taylorswift.com/wp-content/plugins/umg-grand-royal-theme-plugin/$script,~third-party
 100percentfedup.com##.modaal-overlay
 100percentfedup.com,500px.com,allergicliving.com,howtolucid.com,mucbook.de,netwatch.me,newfoodeconomy.*,nintendosoup.com,theartblog.org,theblacksphere.net,upenn.edu##.spu-bg, .spu-box
 11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,760kfmb.com,9news.com,abc10.com,cbs19.tv,cbs8.com,firstcoastnews.com,fox15abilene.com,kagstv.com,kare11.com,kcentv.com,kens5.com,kfmbfm.com,kgw.com,khou.com,kiiitv.com,king5.com,krem.com,ksdk.com,ktvb.com,kvue.com,myatltv.com,myfoxzone.com,newscentermaine.com,thecwsandiego.com,thv11.com,tucsonnewsnow.com,wbir.com,wcnc.com,wfaa.com,wfmynews2.com,wgrz.com,whas11.com,wkyc.com,wltx.com,wnep.com,wtsp.com,wusa9.com,wwltv.com,wzzm13.com##.desktop-header__progress, .page__dock, .progress
@@ -22,9 +28,9 @@
 4029tv.com,kcci.com,kcra.com,ketv.com,kmbc.com,koat.com,koco.com,ksbw.com,mynbc5.com,wapt.com,wbaltv.com,wcvb.com,wdsu.com,wesh.com,wgal.com,wisn.com,wjcl.com,wlky.com,wlwt.com,wmtw.com,wmur.com,wpbf.com,wtae.com,wvtm13.com,wxii12.com,wyff4.com##.ab-pause-scrolling, body.ab-pause-scrolling, html.ab-pause-scrolling:style(overflow: auto !important;)
 404ink.com##.sqs-popup-overlay-content
 4sysops.com##.kleo-go-top, .pagination-sticky
-500ish.com,artplusmarketing.com,atrium.co,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.angularindepth.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,blog.waffle.io,bluerockpublicradio.com,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,unpatent.co,usejournal.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##body > #root > div:nth-of-type(1) #lo-desktop-small-meter-1-header:upward()
-500ish.com,artplusmarketing.com,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,prototypr.io,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company###root > div > div:has-text(/Get one more story in your member/)
+500ish.com,artplusmarketing.com,atrium.co,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.angularindepth.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,blog.waffle.io,bluerockpublicradio.com,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,injusticetoday.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,postlight.com,prototypr.io,rainway.io,sagefy.org,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,startupsventurecapital.com,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,unpatent.co,usejournal.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##body > #root > div:nth-of-type(1) #lo-desktop-small-meter-1-header
 500ish.com,artplusmarketing.com,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,prototypr.io,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##.overlay:not(:has-text(/Welcome back/)):not(:has-text(/write a response/))
+500ish.com,artplusmarketing.com,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,prototypr.io,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company###root > div > div:has-text(/Get one more story in your member/)
 500ish.com,artplusmarketing.com,backchannel.com,backstage.1blocker.com,badootech.badoo.com,bitcointechtalk.com,blazingdb.com,blog.bitwarden.com,blog.coinbase.com,blog.confiant.com,blog.devcolor.org,blog.discordapp.com,blog.growthhackers.com,blog.hiri.com,blog.ltse.com,blog.statebox.org,blog.twitch.tv,bolt.io,boomsupersonic.com,bradfieldcs.com,brightthemag.com,broadcast.listennotes.com,checkio.org,citizen428.net,coach.me,codeburst.io,dave-bailey.com,doist.com,doit-intl.com,dotandline.net,doublepulsar.com,electricliterature.com,elidourado.com,esciencecenter.nl,fossa.io,freecodecamp.org,fritz.ai,getadblock.com,greylock.com,helium.com,howwegettonext.com,iheart.com,insightdatascience.com,iota.org,itnext.io,itsyourturnblog.com,jupyter.org,keepingstock.net,kiwi.com,learngoprogramming.com,learningbyshipping.com,ledwards.com,legalist.com,logrocket.com,mapbox.com,medium.com,melmagazine.com,mondaynote.com,newco.co,news.smugmug.com,nyulocal.com,ofdollarsanddata.com,okmeter.io,prototypr.io,signalvnoise.com,slack.engineering,slackhq.com,springboard.com,standardnotes.org,stoplight.io,tech.buzzfeed.com,theabacus.io,theawl.com,thebigroundtable.com,thebillfold.com,thebolditalic.com,thecontrol.co,theringer.com,thinkprogress.org,thriveglobal.com,timeline.com,towardsdatascience.com,udacity.com,uxdesign.cc,uxplanet.org,warisboring.com,wearemel.com,whatahowler.com,x.company##html.u-overflowHidden:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
 6stream.xyz##body > div[style*="position: fixed;"]:has-text(/Thank you for visiting/)
 80stees.com###pwheel-wrap
@@ -74,8 +80,8 @@ alifeofproductivity.com###snppopup-welcome
 all-that-is-interesting.com,allthatsinteresting.com##.b-modal, .popup
 allmodern.com,birchlane.com,jossandmain.com,wayfair.com##.popup-block
 alternet.org###bpcontainer
-amazingribs.com###wp-counter
 amazingribs.com##.wpsta-join-the-club
+amazingribs.com###wp-counter
 amazon.*###a-popover-lgtbox
 americanheritage.com###popup-dialog-background, #popup-dialog-window
 americanmattress.com###cmApp_modalBackground, #cmApp_signupContainer
@@ -228,8 +234,8 @@ citusdata.com###consentBox
 cityam.com##.tpd-popup-modal.wp-block-tpd-tpd-popup-form
 citylab.com###blocker-msg-start
 cjr.org###interContainer, #interVeil
-cnbc.com##+js(aopr, googletag)
 cnbc.com##.ProgressBar-container, .bx-align, .pico-content, .pico-overlay, [style*="z-index: 100000000;"]
+cnbc.com##+js(aopr, googletag)
 cnn.com###cnn_hdr-prompt, #js-TosPrivacy, #message, #notice_banner, #onetrust-consent-sdk, .cnn-toast--tos.cnn-toast, .s-post-footer, .sibling
 cnn.com,msn.com,the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.optanon-alert-box-wrapper
 co-opfs.org##.my-modal-target.customer-service-btn
@@ -297,14 +303,14 @@ defenseone.com,govexec.com,nextgov.com,route-fifty.com,routefifty.com##html.conv
 delanceyplace.com###nekoToTop
 dell.com##.ask-question-banner-wrapper
 dell.com,patreon.com,theepochtimes.com##body[style="overflow: hidden;"]:style(overflow: auto !important;)
-democracynow.org###campaign_modal, #overlay
 democracynow.org##.not_scroll.body_wrapper:style(overflow-x: hidden !important; overflow-y: scroll !important;)
+democracynow.org###campaign_modal, #overlay
 denverpost.com,eastbaytimes.com,mercurynews.com,myajc.com,mystatesman.com,reviewjournal.com,statesman.com##.Mg2-connext, .connext-modal-backdrop, .modal-scrollable
 dewalt.com###SFMC-modalPopUp__overlay
 dictionary.com,thesaurus.com###fly-out
 diffchecker.com,kiwico.com,prospectmagazine.co.uk##.ReactModalPortal
-digg.com###email-capture-modal, #js--editions-promo, #subscribeBar, .banner-dailydigg-sub, .email-subscribe-modal, .parallax.hp-interstitial, .promo-bottom--editions
 digg.com##.overflow-wrap:style(overflow-x: auto !important;)
+digg.com###email-capture-modal, #js--editions-promo, #subscribeBar, .banner-dailydigg-sub, .email-subscribe-modal, .parallax.hp-interstitial, .promo-bottom--editions
 digitalocean.com###DO_CC_PANEL, ._panel_1nv7e_1
 digitalspy.com,elle.com,esquire.*,harpersbazaar.com,investors.com,marieclaire.com,popularmechanics.com,reuters.com,roadandtrack.com,runnersworld.com,shondaland.com,si.com,townandcountrymag.com###_evidon-barrier-wrapper
 discovermagazine.com##html:style(margin-top: 0 !important;)
@@ -509,15 +515,15 @@ indiatimes.com###backgroundPopup, #scrollTop, .ntfc_overlay, .ntfc_popup
 indiegogo.com##.i-info-message
 infantino.com,popculture.com,ripple.com###newsletterModal
 infomine.com###fade, #popupBlock
-information.dk,kristeligt-dagblad.dk###cookie-information-template-wrapper
 information.dk,kristeligt-dagblad.dk##.noScroll, .noScroll body:style(overflow: auto !important;)
+information.dk,kristeligt-dagblad.dk###cookie-information-template-wrapper
 informer.com,wireshark.org##.notify
 ingwb.com##.dialog
 inman.com##.bx-shroud
 insideevs.com,motor1.com,rideapart.com##.m1-footer-messages
 insidernj.com##.footer-bar--active.footer-bar
-instagram.com###react-root ~ div[class*=" "][class$=" "][role="presentation"]:has(a[href^="/accounts/"][href*="signup/"]):not(:has(button[type="button"] > div > svg[aria-label][width="18"][height="18"][viewBox*="48"]))
 instagram.com##.lOPC8, .tHaIX
+instagram.com###react-root ~ div[class*=" "][class$=" "][role="presentation"]:has(a[href^="/accounts/"][href*="signup/"]):not(:has(button[type="button"] > div > svg[aria-label][width="18"][height="18"][viewBox*="48"]))
 instagram.com##body[style*="overflow: hidden;"] .XQXOT:style(width: calc(100% - 12px) !important; padding-right: 0 !important;)
 instagram.com,protocol.com##body[style*="overflow: hidden;"]:style(overflow-y: scroll !important;)
 intelius.com###billy-mays
@@ -678,9 +684,9 @@ ny.gov##.nygov-back-to-top
 nydailynews.com###rh-left, #rh-right, .met-flyout
 nypost.com###nyp-newsletter-modal, #nyp-piano-flyout, #web-alerts-modal, .nyp-sitewide-notice, .nyp-zephr-flyout
 nypost.com,pagesix.com###background-wrapper:style(overflow-x: hidden !important; overflow-y: hidden !important;)
-nytimes.com###gateway-content
 nytimes.com##.css-gx5sib
 nytimes.com##.vi-gateway-container:style(position: unset !important;)
+nytimes.com###gateway-content
 nzherald.co.nz###wpnPop
 objective-see.com##.mc-modal-bg
 offers.com##html.no-scroll:style(overflow: auto !important;)
@@ -730,8 +736,8 @@ pjmedia.com###desktop-notification-ask-dialog, #policy-warning-container, .marke
 playboy.com###paywall
 pogo.org###global-banner
 pokerlistings.com##.header-cta
-pokernews.com###bnChildContainer, #bsContainer
 pokernews.com##.subscribe.usamapSubscribePopup
+pokernews.com###bnChildContainer, #bsContainer
 polaritytherapy.org##.pum-overlay
 politicalstorm.com##.link-overlay
 popsugar.com###policy-modal-banner, .modal-email-widget
@@ -809,8 +815,8 @@ scribd.com###seo_roadblock_lb_new_basic, .modal_wrapper
 scribd.com##body.modal_open:style(overflow-x: hidden !important; overflow-y: scroll !important; padding-right: 0 !important;)
 searchenginejournal.com###cooknote-div, #sej-hello-bar
 seatgeek.com##.seatgeek-lightbox-background
-seattletimes.com###container:style(filter: none !important;)
 seattletimes.com##.NewsletterSignupSplash
+seattletimes.com###container:style(filter: none !important;)
 sec.gov##.acsModalBackdrop
 seekingalpha.com##.modal:not(.sa-auth), .modal-backdrop
 sephora.com##div[data-comp^="GlobalModalsWrapper"]
@@ -913,8 +919,8 @@ thehill.com###lightboxjs-lightboxlib, #signup-modal-overlay, #thehill-signup-mod
 thehindu.com###moe-push-div, #storyNextPopUp, .entrySubs, .pushpopup
 thehomesecuritysuperstore.com###popupmsg
 theinformation.com##.container.ti-modal
-theintercept.com###third-party--viewport-takeover, [id*="offer-"]
 theintercept.com##.Post-body--truncated:style(max-height: unset !important;)
+theintercept.com###third-party--viewport-takeover, [id*="offer-"]
 thelibertydigest.com###arevicofancy-overlay
 themarshallproject.org##.toast-notifications-container
 themarysue.com###post-nav, .c-article-nav-arrows
@@ -1034,14 +1040,14 @@ wykop.pl##.big.button, .rodo-alert
 yahoo.com###community-bar, #yucs-top-bar, .canvas-community-bar, .cover-community-bar, .cta-overlay, .hpsetbannerpromotdv2wafer, .yui3-overlay-mask
 yelp.com###fullscreen-pitch, #privacy-policy-notice, .js-open-in-app, .photo-box_overlay
 yesmovies.*##iframe[src="about:blank"]
-yodalearning.com##.tve-leads-shortcode.tve-leads-triggered:style(opacity: 0 !important;)
 yodalearning.com##.tve_content_lock.tve_lead_lock.tve_lock_blur .tve_lead_locked_content:style(z-index: 999999 !important;)
 yodalearning.com##.tve_lead_locked_content:style(filter: none !important; user-select: text !important; -moz-user-select: text !important; -webkit-user-select: text !important;)
 yodalearning.com##.tve_lead_locked_overlay, .tve-leads-screen-filler, .tve-leads-triggered
+yodalearning.com##.tve-leads-shortcode.tve-leads-triggered:style(opacity: 0 !important;)
 yodalearning.com##body:style(margin-top: 0 !important;)
 yodalearning.com##w-div:has([role^="dialog"])
-youtube.com###upsell-dialog-text > a[href*="sign"]:upward(body > * > *)
 youtube.com##.opened:not(.ytcp-bulk-actions):remove()
+youtube.com###upsell-dialog-text > a[href*="sign"]:upward(body > * > *)
 youtube.com##tp-yt-iron-overlay-backdrop
 youtube.com##ytd-offline-promo-renderer
 youtube.com##ytd-popup-container > tp-yt-paper-dialog > ytd-mealbar-promo-renderer, ytd-popup-container > tp-yt-paper-dialog > yt-mealbar-promo-renderer:has-text(/Claim Offer|Join now|Not Now|YouTube TV|live TV|Live TV|movies|sports|Try it free|unlimited DVR|watch NFL/)
@@ -1059,9 +1065,3 @@ zerononcense.com###d-notification-bar
 zippia.com##.page-popup-search-step-slide, div.career-map-overlay
 ziprecruiter.com##.active.email_popover
 zmescience.com##.jeg_container > .jeg_read_progress_wrapper
-||getsitecontrol.com^$script,domain=hyperallergic.com|religionnews.com|strongtowns.org|thelocal.fr|theparisreview.org
-||izooto.com^$script,domain=dnaindia.com
-||lightboxcdn.com/vendor/$domain=cnet.com
-||picreel.com^$subdocument
-||stacklist.com/*/subscribe-modal
-||taylorswift.com/wp-content/plugins/umg-grand-royal-theme-plugin/$script,1p

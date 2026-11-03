@@ -1,8 +1,7 @@
 ! Title: Web Annoyances Ultralist - Newsletter Subscription Filters
-! Checksum: s-NmQJtSnghyeYGHNk_Z1A
-! Last modified: 2026-06-08 12:34 UTC
-! Version: 202606081234
-! Last Modified: 2026-01-19 08:37 UTC
+! Checksum: JuF46_r1YDaegy9W9w-AiQ
+! Version: 202611030859
+! Last modified: 2026-11-03 08:59 UTC
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for newsletter annoyances - Remove newsletter & other subscription cosmetic elements.
 ! Homepage: https://github.com/LanikSJ/webannoyances
@@ -12,6 +11,11 @@
 ! Copyright: © 2016-2024 by yourduskquibbles and LanikSJ
 ! Works Best With: uBlock Origin or AdGuard
 ! Start Web Annoyances Ultralist - Newsletter Subscription Filters
+||*/app/email-signup/inline-article-news.html$subdocument
+||cbsnews.com/newsletters/$subdocument
+||marketingautomation.services$subdocument
+||mercurynews.com/newsletters-signup/$subdocument
+||ocweekly.com/*_Reskin_newsletters$image
 100percentfedup.com###secondary > .enhanced-text-widget.widget_text.widget
 10best.com,mmajunkie.com###newsletter_widget-2
 10tv.com##.uawn-opt-in-prompt
@@ -68,8 +72,8 @@ atchisonglobenow.com,auburnpub.com,azdailysun.com,bakercityherald.com,baycitytri
 athletic.net##.sign-up-box
 atlasobscura.com###newsletter-email-ask, .email-ask-full-width, .item-newsletter-form, .item-social-row, .newsletter-signup-container
 autoblog.com###rr-newsletter-signup
-avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###newsletterPromoModule, a[href="/newsletter"]:upward()
 avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_newsletter-btn--subscribe, .js_newsletter-form-inline, .js_subscribe
+avclub.com,clickhole.com,deadspin.com,earther.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###newsletterPromoModule, a[href="/newsletter"]
 axios.com##.StoryNewsletterPromo__root--34CRf, .sidebar__newsletter, .topic-newsletter, .SubscriptionHeader__newsletter--p8o4P.Header__header--3d1x-, [class*="RightRailCTA_right-rail-cta"], [class*="StoryPageCTA_story-page-cta"], [class^="StreamCap__promoContainer"], [data-testid="form-wrapper--dynamic--desktop"]
 azcentral.com##.site-masthead-subscribe-link
 babycenter.com##.familyNavAndAdContainer
@@ -80,15 +84,15 @@ baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,courant.com
 bankingdive.com,biopharmadive.com,cfodive.com,ciodive.com,constructiondive.com,educationdive.com,fooddive.com,ggwash.org,grocerydive.com,healthcaredive.com,hrdive.com,marketingdive.com,medtechdive.com,mobilemarketer.com,restaurantdive.com,retaildive.com,smartcitiesdive.com,socialmediatoday.com,supplychaindive.com,utilitydive.com,wastedive.com##.signup
 bankrate.com##.cxp-email-capture-banners
 barstoolsports.com,newsday.com##.newsletterSignup
-baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,mitchellmessenger.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com###BelowPostRegistrationEmail, [href^="/daily-email-updates-basic/"]:upward()
+baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,mitchellmessenger.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com,trentdailytimes.com###BelowPostRegistrationEmail, [href^="/daily-email-updates-basic/"]
 baseballdailydigest.com,dispatchtribunal.com,fairfieldcurrent.com,financerecorder.com,marketbeat.com,mayfieldrecorder.com,rivertonroll.com,slatersentinel.com,sundanceherald.com,techknowbits.com,thecerbatgem.com##.entry > div[style^="float:left;"], .sidebar-email, form[action*="marketbeat.com/newsletter"]
 bb4sp.com###mailchimpsf_widget-2
 bbc.co.uk,bbc.com##.news-app-promo, .ws-c-news-daily
 bearingarms.com,consumerreports.org,redstate.com,twitchy.com##.newsletter-sign-up
 beautifulpixels.com##.widget_optin_form
 bellingcat.com##.footer__mailing, .mailingList
-bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com###newsletter-signUpWidget, .signup-widget
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.zone.grid.combo #newsletter-signUpWidget:upward(2)
+bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com###newsletter-signUpWidget, .signup-widget
 benzinga.com###benzinga-newsletter-signup
 berksmontnews.com,bostonherald.com,chicoer.com,dailybreeze.com,dailybulletin.com,dailydemocrat.com,dailyfreeman.com,dailylocal.com,dailynews.com,dailytribune.com,delcotimes.com,denverpost.com,eastbaytimes.com,excelsiorcalifornia.com,macombdaily.com,marinij.com,mercurynews.com,montereyherald.com,morningjournal.com,news-herald.com,ocregister.com,oneidadispatch.com,orovillemr.com,paradisepost.com,pasadenastarnews.com,pe.com,phoenixvillenews.com,pottsmerc.com,presstelegram.com,record-bee.com,redbluffdailynews.com,redlandsdailyfacts.com,santacruzsentinel.com,saratogian.com,sbsun.com,sgvtribune.com,siliconvalley.com,themorningsun.com,theoaklandpress.com,thereporter.com,thereporteronline.com,times-standard.com,timesherald.com,timesheraldonline.com,trentonian.com,troyrecord.com,twincities.com,ukiahdailyjournal.com,whittierdailynews.com##.button-center-wrapper, aside.swappable.article-sidebar, div.newsletter-item:nth-of-type(1)
 bhg.com,coastalliving.com,cookinglight.com,ew.com,foodandwine.com,fortune.com,health.com,hellogiggles.com,instyle.com,myrecipes.com,people.com,peopleenespanol.com,realsimple.com,southernliving.com,time.com,travelandleisure.com##.menu-subscribe
@@ -138,8 +142,8 @@ circleci.com##.bg-gray-light
 cityam.com###footer-newsletter, #footer-newsletter-mobile, .signup-bar_wrapper.gform_wrapper, .subscription
 citylab.com##.c-newsletter
 click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,local10.com,news4jax.com,wsls.com##.chainGroup > h5, .chainGroup > form, .chainGroup > hr
-cnbc.com###optIn-embedded, #optIn-right-rail, .WildcardEmbed-wrapper
 cnbc.com##.Footer-newsletter:upward(1)
+cnbc.com###optIn-embedded, #optIn-right-rail, .WildcardEmbed-wrapper
 cnet.com##.holidayPromo, .newsletter-subscribe-form
 cnn.com###rs-newletter-mod, .cd--tool__mailchimp-subscribe, .cnn-politics-app-promo-card, .rs-newsletter-body
 cntraveler.com,cntraveller.com##.global-subscription-footer, .js-c-infobar-lazy-load
@@ -449,12 +453,12 @@ nplusonemag.com##.module-newsletter
 npr.org##.newsletter-stickybar
 nybooks.com##.newsletter_signup
 nypost.com###commerce-disclosure, .inline-module--newsletter
-nytimes.com###Newsletter-embed-NYT-Now, #Science-Newsletter-promo, #THEurope-newsletter-module, #THasia-newsletter-module, #australia-today-email-signup, #breaking-news-email-promo, #cooking-email-signup, #d-promo-realestate, #evening-briefing-email-promo, #inline-recipe-newsletter-signup, #living-newsletter-promo, #new-york-today-email-promo, #news-tips-article-promo, #newsletter-module, #newsletter-promo, #opinion-newsletter-promo, #push-signup, #signup-favor, #sports-email-promo, #styln-signup, #subscriptionCTA, .eln-email-signup, .email-signup, .nytc---footernewsletterform---newsletterContainer, .recipe-newsletter-signup, .css-17dprlf.medium, [aria-labelledby="newsletter-section-header"], [data-test-id="RecommendedNewsletter"]
 nytimes.com##.css-tegfbt:has-text(/Get it sent to your inbox/)
 nytimes.com##.s-cvb-subscribe:upward(1)
 nytimes.com##[data-testid="interest-action-button"][name="Subscribe to newsletter"][aria-label="Subscribe to newsletter"]:upward(6)
-nytimes.com##aside:has([id^="newsletter-iframe-container"])
+nytimes.com###Newsletter-embed-NYT-Now, #Science-Newsletter-promo, #THEurope-newsletter-module, #THasia-newsletter-module, #australia-today-email-signup, #breaking-news-email-promo, #cooking-email-signup, #d-promo-realestate, #evening-briefing-email-promo, #inline-recipe-newsletter-signup, #living-newsletter-promo, #new-york-today-email-promo, #news-tips-article-promo, #newsletter-module, #newsletter-promo, #opinion-newsletter-promo, #push-signup, #signup-favor, #sports-email-promo, #styln-signup, #subscriptionCTA, .eln-email-signup, .email-signup, .nytc---footernewsletterform---newsletterContainer, .recipe-newsletter-signup, .css-17dprlf.medium, [aria-labelledby="newsletter-section-header"], [data-test-id="RecommendedNewsletter"]
 nytimes.com##aside:has-text(/Sign Up/)
+nytimes.com##aside:has([id^="newsletter-iframe-container"])
 nytimes.com##button[name="select interest"]:upward(3)
 nytimes.com##div > p:has([href^="https://www.nytimes.com/newsletters/"])
 observer.com##.entry-content > p :has-text(/Subscribe to/)
@@ -695,10 +699,10 @@ wallethacks.com###text-32
 wamu.org##.newsletter-module
 washingtonexaminer.com###home-newsletter-signup, #newsletter-signup-policy, #newsLetter-signup-box, #newsletter_sign_up_form, .newsletter, .subscribe-promo, [data-dy-embedded-object="true"] .wex-spon-con
 washingtonian.com##.wash-newsletter, .wash-newsletter__form
-washingtonpost.com###interactive-newsletter-embed, #nav-subscribe, #signup-banner, #signup-box-instream, #signup-box-rr, .daily202-newsletter, .newsletter, .newsletter-inline-unit, .newsletter-unit.signup-box-rr, .pb-f-page-subscription-promo, .pb-subscribe, .pb-subscribe-promo, .right-rail-subscription, .signup-module, .subscribe, .subscribe-links, [data-qa="newsletter"]
 washingtonpost.com##.hide-for-print:has([alt*="Newsletter"])
 washingtonpost.com##.hide-for-print:has([name="signup-email"])
 washingtonpost.com##.include-dividers-tables.line-bottom.small-bottom-separator.mx-dsktp-order.ma-auto.hpgrid-max-width.hpgrid.chain:has([id="interactive-newsletter-embed"])
+washingtonpost.com###interactive-newsletter-embed, #nav-subscribe, #signup-banner, #signup-box-instream, #signup-box-rr, .daily202-newsletter, .newsletter, .newsletter-inline-unit, .newsletter-unit.signup-box-rr, .pb-f-page-subscription-promo, .pb-subscribe, .pb-subscribe-promo, .right-rail-subscription, .signup-module, .subscribe, .subscribe-links, [data-qa="newsletter"]
 washingtonpost.com##article > div[class^="hide-for-print"]:has-text(/Subscribe/)
 washingtonpost.com##button:has-text(/Subscribe/)
 washingtontechnology.com##.WASHINGTON-TECHNOLOGY
@@ -709,8 +713,8 @@ wideopencountry.com,wideopeneats.com,wideopenpets.com,wideopenspaces.com##.execp
 windowscentral.com##.block-newsletter.block
 wired.com##.cm-subscribe-link-wrapper, .subscribe, .subscribe-panel-component
 wmagazine.com##.component-newsletter-subscribe-wrapper
-wsj.com###cx-article-newsletter-tile, #subscribeNowMediumBar, .WSJTheme__signup_2Ht8gW1wgqoJwLXY6GkF72, .newsletter-inset, .temp-subscribe[href="https://subscribe.wsj.com/hpheaderlink"], .type-InsetNewsletterSignup, [class*="-NewsletterContainer"], [data-inset_type="newsletterinset"]
 wsj.com##[class*="media-layout"] > [class*="NewsletterSignup__NewsletterContainer"]:upward(1)
+wsj.com###cx-article-newsletter-tile, #subscribeNowMediumBar, .WSJTheme__signup_2Ht8gW1wgqoJwLXY6GkF72, .newsletter-inset, .temp-subscribe[href="https://subscribe.wsj.com/hpheaderlink"], .type-InsetNewsletterSignup, [class*="-NewsletterContainer"], [data-inset_type="newsletterinset"]
 wsws.org##aside
 wtop.com##hr
 wtop.com##p:has-text(/SIGN UP TODAY/)
@@ -722,8 +726,3 @@ yogonet.com###suscripcion_newsletter
 zdnet.com##.newsletterWidgetForm, div[id^="newsletter-widget"]
 zerohedge.com###block-zh_glue-newsletter, #newsletter, #sidebar-form, .newsletter-insert, [class*="MidArticleNewsletter_midArticle"], [class*="SidebarNewsletter_sidebarForm"]
 zmescience.com##.ps-container.cp-slidein-content
-||*/app/email-signup/inline-article-news.html$subdocument
-||cbsnews.com/newsletters/$subdocument
-||marketingautomation.services$subdocument
-||mercurynews.com/newsletters-signup/$subdocument
-||ocweekly.com/*_Reskin_newsletters$image
