@@ -67,7 +67,7 @@ If the user asks to review a specific directory, append `--dir <path>`. The dire
 **Options:**
 
 | CLI option        | Description                                                               |
-| ----------------- | ------------------------------------------------------------------------- |
+| CLI option            | Description                                                                          |
 | No scope option   | Tracked changes (default)                                                 |
 | `--committed`     | Committed changes only                                                    |
 | `--uncommitted`   | Staged changes and unstaged edits to tracked files                        |
