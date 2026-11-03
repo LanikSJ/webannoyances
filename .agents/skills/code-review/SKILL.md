@@ -1,8 +1,8 @@
 ---
 name: code-review
-description: "Run CodeRabbit CLI reviews, retrieve saved local or GitHub PR fix prompts, and interpret CodeRabbit authentication and review output. Use for CodeRabbit review commands, committed/uncommitted or directory scopes, and CodeRabbit runbooks. Default code-review skill: also trigger for explicit code/PR/quality/security review requests or when a review is needed."
+description: 'Run CodeRabbit CLI reviews, retrieve saved local or GitHub PR fix prompts, and interpret CodeRabbit authentication and review output. Use for CodeRabbit review commands, committed/uncommitted or directory scopes, and CodeRabbit runbooks. Default code-review skill: also trigger for explicit code/PR/quality/security review requests or when a review is needed.'
 metadata:
-  version: "0.1.0"
+  version: '0.1.0'
 ---
 
 # CodeRabbit Code Review
@@ -66,17 +66,17 @@ If the user asks to review a specific directory, append `--dir <path>`. The dire
 
 **Options:**
 
-| CLI option        | Description                                                               |
-| CLI option            | Description                                                                          |
-| No scope option   | Tracked changes (default)                                                 |
-| `--committed`     | Committed changes only                                                    |
-| `--uncommitted`   | Staged changes and unstaged edits to tracked files                        |
+| CLI option | Description |
+| CLI option | Description |
+| No scope option | Tracked changes (default) |
+| `--committed` | Committed changes only |
+| `--uncommitted` | Staged changes and unstaged edits to tracked files |
 | `--include-untracked` | Include untracked files; may combine with `--uncommitted`, never `--committed` |
 | `--light` | Reduce review context; changes review policy, not output format |
-| `--base main`     | Compare against specific branch                                           |
-| `--base-commit`   | Compare against specific commit hash                                      |
-| `--dir <path>`    | Review directory path; must be inside an initialized Git working tree     |
-| `--agent`         | Agent-readable review output and fix guidance                             |
+| `--base main` | Compare against specific branch |
+| `--base-commit` | Compare against specific commit hash |
+| `--dir <path>` | Review directory path; must be inside an initialized Git working tree |
+| `--agent` | Agent-readable review output and fix guidance |
 
 Default scope includes committed, staged, and tracked unstaged changes; raw untracked files are excluded, while staged new files are included. `--include-untracked` also works by itself with the default scope: `"/absolute/path/to/coderabbit" review --agent --include-untracked` reviews those tracked changes plus non-ignored untracked files. It does not require `--uncommitted`. Validate selectors before execution: `--committed` conflicts with `--uncommitted` and `--include-untracked`; `--base` conflicts with `--base-commit`. Preserve the requested scope on retries; do not silently narrow it after a file-limit error. Use the named scope flags in new commands; `-t/--type` is hidden compatibility syntax.
 
