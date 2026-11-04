@@ -54,6 +54,11 @@ gh pr create --title "$title" --body "${body:-Auto-created by CodeRabbit autofix
 pr_number=$(gh pr view --json number --jq '.[0].number')
 ```
 
+**If no PR exists and the user declines creation, stop the workflow.**
+Do not run Sections 2 or 3 with an empty `pr_number`.
+
+If a PR exists (was found or created), continue to Section 2.
+
 ## 2. Resolve Repository Coordinates
 
 ```bash

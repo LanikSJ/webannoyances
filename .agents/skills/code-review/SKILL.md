@@ -52,7 +52,7 @@ Use `--agent` for output optimized for AI agents:
 
 ```bash
 "/absolute/path/to/coderabbit" review --agent
-```
+```bash
 
 Use the same approved context as the auth check. On a pre-review authentication
 failure, follow the linked recovery procedure before asking for login. Only a
@@ -61,11 +61,13 @@ retry; preserve its directory and all arguments. Never retry after review work s
 
 If the user asks to review a specific directory, append `--dir <path>`. The directory must be inside an initialized Git working tree.
 
-**Important**: `--dir` reviews only Git changes (committed, staged, or unstaged) within the specified directory. It does not review every file in the directory—unchanged files are omitted. If a user requests a full directory review (reviewing all files regardless of Git change status), clarify the scope and review the remaining unchanged files separately rather than treating `--dir` as sufficient.
+**Important**: `--dir` reviews only Git changes within the specified directory.
+It does not review every file in the directory—unchanged files are omitted.
+If a user requests a full directory review (reviewing all files regardless of Git change status), clarify the scope and review the remaining unchanged files separately rather than treating `--dir` as sufficient.
 
 ```bash
 "/absolute/path/to/coderabbit" review --agent --dir path/to/directory
-```
+```bash
 
 **Options:**
 
@@ -112,6 +114,8 @@ When user requests implementation + review:
 
 - If fixes were made in the working tree and authorized: Commit them first, then re-run with `--committed` to verify.
 - If fixes were made in the working tree but not authorized: Review the uncommitted fixes separately by re-running with `--uncommitted` and report the scope change.
+
+  **If untracked files were created as part of the fixes:** Use `--uncommitted --include-untracked` to review them, or stage the files before verification.
 - If the original review used `--uncommitted` or no scope: Re-running with the same scope is appropriate.
 
 Preserve the requested scope on retries; do not silently narrow it after a file-limit error.
@@ -123,34 +127,34 @@ Preserve the requested scope on retries; do not silently narrow it after a file-
 
 ```bash
 "/absolute/path/to/coderabbit" review --agent --uncommitted
-```
+```bash
 
 **Review against a branch:**
 
 ```bash
 "/absolute/path/to/coderabbit" review --agent --base main
-```
+```bash
 
 **Review a specific commit range:**
 
 ```bash
 "/absolute/path/to/coderabbit" review --agent --base-commit abc123
-```
+```bash
 
 **Review a specific directory:**
 
 ```bash
 "/absolute/path/to/coderabbit" review --agent --dir path/to/directory
-```
+```bash
 
 Before using `--dir`, confirm the directory exists inside an initialized Git working tree:
 
 ```bash
 git -C path/to/directory rev-parse --is-inside-work-tree
-```
+```bash
 
 **Important**: `--dir` reviews only Git changes within the specified directory. It does not review every file in the directory—unchanged files are omitted. If a user requests a full directory review (reviewing all files regardless of Git change status), clarify the scope and review the remaining unchanged files separately rather than treating `--dir` as sufficient.
-```
+```bash
 
 ## Other CLI workflows
 

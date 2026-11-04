@@ -36,7 +36,8 @@ Check the installed command's `--help` before using newer features. Public refer
 `--profile chill|quiet|assertive|default` implies agent generation; `quiet`, `chill`, and `assertive` are review profiles; `default` is a CLI reset selector, not a YAML profile. Validate against the current fetched schema. `--detailed` is a human wizard option and conflicts with `--agent`.
 
 For a file change, inspect `protocolVersion`, `writable`, `writeReason`, and `baseHash`; retain the exact returned hash (`none` for a new file). The generation response has `applied: false`; save only its `after` YAML string to a separate proposal file, not the JSON envelope.
-Then use `config validate <proposal.yaml>` and `config apply <proposal.yaml> --base <baseHash> --dry-run`. **Note**: The public CLI reference (CLI 0.9.2) does not list `config validate`, `config apply`, `--base`, or `--dry-run`; confirm the minimum CLI version that supports these commands before relying on this workflow.
+Then use `config validate <proposal.yaml>` and `config apply <proposal.yaml> --base <baseHash> --dry-run`.
+**Note**: The public CLI reference (CLI 0.9.2) does not list `config validate`, `config apply`, `--base`, or `--dry-run`. Confirm the minimum CLI version that supports these commands before relying on this workflow.
 Apply an authorized proposal with the same command and `--yes` instead of `--dry-run`. Each copyable apply command must contain exactly one of `--dry-run` or `--yes`; omit invalid combined examples entirely.
 A stale base, failed schema fetch, non-writable authority, TypeScript configuration, symlink, or ambiguous YAML files requires resolution; do not bypass the guard with a direct overwrite. If the installed binary lacks this protocol, report the version gap before using a different editing workflow.
 
