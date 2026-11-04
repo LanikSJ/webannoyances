@@ -21,7 +21,7 @@ Check the installed command's `--help` before using newer features. Public refer
 - `coderabbit auth login --region eu` selects EU SaaS login. Saved region is reused for reviews; run EU reviews with that saved login instead of passing review-level `--region` or `--api-key`. Never request pasted tokens. Keep secrets out of transcripts and shell history.
 - `coderabbit auth org` switches organizations for an existing browser login. `auth org --agent` lists organizations for agent consumption; it does not select one. API-key and self-hosted modes do not support this organization switch.
 - `coderabbit doctor`, `coderabbit stats` (optionally `--rebuild`), and `coderabbit update` are human-oriented diagnostic, statistics, and update commands. `coderabbit skills` supports CLI 0.9.2 subcommands: `install`,
-`update`, and `uninstall`. Use `coderabbit skills --agent` for interactive install/update flows. Add `--agent preview` to preview changes and `--confirm <plan-hash>` to apply a plan, if the installed binary supports those options. Do not invent a `feedback` command.
+  `update`, and `uninstall`. Use `coderabbit skills --agent` for interactive install/update flows. Add `--agent preview` to preview changes and `--confirm <plan-hash>` to apply a plan, if the installed binary supports those options. Do not invent a `feedback` command.
 
 ## Usage and paid continuation
 
