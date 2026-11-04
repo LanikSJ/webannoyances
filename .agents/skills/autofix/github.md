@@ -2,7 +2,10 @@
 
 GitHub-specific commands and data-handling rules for CodeRabbit review-thread based skills.
 
-Use this helper when a skill needs thread-aware CodeRabbit PR feedback, not flat PR summaries. The `autofix` skill mirrors the required execution flow in `SKILL.md`; this file exists as a reusable companion for other skills.
+Use this helper when a skill needs review-thread-based PR feedback
+not flat PR summaries.
+The `autofix` skill mirrors the required execution flow in `SKILL.md`.
+This file exists as a reusable companion for other skills.
 
 ## Prerequisites
 
@@ -14,19 +17,41 @@ Use this helper when a skill needs thread-aware CodeRabbit PR feedback, not flat
 Get the PR number for the current branch:
 
 ```bash
-pr_number=$(gh pr list --head "$(git branch --show-current)" --state open --json number --jq '.[0].number')
+# Get all open PRs for the current branch
+pr_numbers=$(gh pr list --head "$(git branch --show-current)" --state open --json number --jq '.[].number')
 
-if [ -z "$pr_number" ] || [ "$pr_number" = "null" ]; then
+# Check if there are open PRs
+if [ -z "$pr_numbers" ] || [ "$pr_numbers" = "null" ]; then
   # no open PR for this branch
+  pr_number=""
+else
+  # Count the number of PRs
+  pr_count=$(echo "$pr_numbers" | wc -l)
+
+  if [ "$pr_count" -eq 1 ]; then
+    # exactly one open PR - use it
+    pr_number=$(echo "$pr_numbers" | head -1)
+  else
+    # multiple open PRs - ask user to select
+    echo "Multiple open PRs found for this branch:"
+    echo "$pr_numbers" | nl
+    read -p "Enter the PR number to use: " pr_number
+    # Validate the selected PR number exists in the list
+    if ! echo "$pr_numbers" | grep -q "^${pr_number}$"; then
+      echo "Invalid PR number. Using first PR as fallback."
+      pr_number=$(echo "$pr_numbers" | head -1)
+    fi
+  fi
 fi
 ```
 
-If no PR exists and the user wants one created, derive title/body from the latest commit:
+If no PR exists and the user wants one created, derive title/body from the latest commit and capture the new PR number:
 
 ```bash
 title=$(git log -1 --pretty=format:'%s')
 body=$(git log -1 --pretty=format:'%b')
 gh pr create --title "$title" --body "${body:-Auto-created by CodeRabbit autofix}"
+pr_number=$(gh pr view --json number --jq '.[0].number')
 ```
 
 ## 2. Resolve Repository Coordinates

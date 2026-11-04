@@ -61,6 +61,8 @@ retry; preserve its directory and all arguments. Never retry after review work s
 
 If the user asks to review a specific directory, append `--dir <path>`. The directory must be inside an initialized Git working tree.
 
+**Important**: `--dir` reviews only Git changes (committed, staged, or unstaged) within the specified directory. It does not review every file in the directory—unchanged files are omitted. If a user requests a full directory review (reviewing all files regardless of Git change status), clarify the scope and review the remaining unchanged files separately rather than treating `--dir` as sufficient.
+
 ```bash
 "/absolute/path/to/coderabbit" review --agent --dir path/to/directory
 ```
@@ -105,6 +107,14 @@ When user requests implementation + review:
 3. Create task list from findings
 4. Fix actionable issues within the authorized scope, prioritizing critical and major findings
 5. Re-run review to verify fixes
+
+**Important scope consideration**: If the original review used `--committed`, rerunning with `--committed` will not include working-tree fixes—those are part of a different snapshot. 
+
+- If fixes were made in the working tree and authorized: Commit them first, then re-run with `--committed` to verify.
+- If fixes were made in the working tree but not authorized: Review the uncommitted fixes separately by re-running with `--uncommitted` and report the scope change.
+- If the original review used `--uncommitted` or no scope: Re-running with the same scope is appropriate.
+
+Preserve the requested scope on retries; do not silently narrow it after a file-limit error.
 6. Report remaining findings and stop when the requested fixes are verified; avoid unbounded review loops
 
 ### 5. Review Specific Changes
@@ -137,6 +147,9 @@ Before using `--dir`, confirm the directory exists inside an initialized Git wor
 
 ```bash
 git -C path/to/directory rev-parse --is-inside-work-tree
+```
+
+**Important**: `--dir` reviews only Git changes within the specified directory. It does not review every file in the directory—unchanged files are omitted. If a user requests a full directory review (reviewing all files regardless of Git change status), clarify the scope and review the remaining unchanged files separately rather than treating `--dir` as sufficient.
 ```
 
 ## Other CLI workflows
