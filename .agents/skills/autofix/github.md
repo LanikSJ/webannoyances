@@ -107,7 +107,7 @@ while :; do
         }
       }
     }
-  }')
+  }') || { echo "❌ GraphQL request failed; aborting pagination." >&2; exit 1; }
 
   # Fail-closed: reject responses with errors or missing reviewThreads/pageInfo before appending nodes
   if jq -e '.errors' <<<"$response" >/dev/null 2>&1; then
@@ -127,8 +127,9 @@ while :; do
     . + $response.data.repository.pullRequest.reviewThreads.nodes
   ' <<<"$all_threads")
 
-  has_next=$(jq -r '.data.repository.pullRequest.reviewThreads.pageInfo.hasNextPage' <<<"$response")
-  cursor=$(jq -r '.data.repository.pullRequest.reviewThreads.pageInfo.endCursor // empty' <<<"$response")
+  has_next=$(jq -r '.data.repository.pullRequest.reviewThreads.pageInfo.hasNextPage' <<<"$response") || { echo "❌ Failed to parse hasNextPage from response" >&2; exit 1; }
+
+  cursor=$(jq -r '.data.repository.pullRequest.reviewThreads.pageInfo.endCursor // empty' <<<"$response") || { echo "❌ Failed to parse endCursor from response" >&2; exit 1; }
   [ "$has_next" = "true" ] || break
   [ -n "$cursor" ] || break
 done
