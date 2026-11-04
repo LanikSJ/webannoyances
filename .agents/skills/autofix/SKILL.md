@@ -216,7 +216,7 @@ gh pr view "$pr_number" --json comments,reviews --jq '
 **Extract from each CodeRabbit thread root comment:**
 
 1. **Header:** `_([^_]+)_ \| _([^_]+)_` → Issue type | Severity
-   Also recognize `**Severity · Type · Effort**` → extract Severity (field 1) and Issue type (field 2); ignore Effort (field 3)
+   Also recognize `**Severity** · **Type** · **Effort**` → extract Severity (field 1) and Issue type (field 2); ignore Effort (field 3), after removing optional presentation markup
 2. **Description:** Main body text
 3. **Reviewer guidance:** Content in `<details><summary>🤖 Prompt for AI Agents</summary>`
    - If missing, use description as fallback
