@@ -27,7 +27,7 @@ webannoyances contains filter lists for blocking annoying website elements beyon
 - Follow the project's `.markdownlint.json` configuration strictly
 - Address ALL markdownlint issues immediately - no exceptions or workarounds
 - Common requirements include:
-  - Maximum line length of 80 characters (MD013)
+  - Maximum line length of 300 characters (MD013)
   - Consistent heading styles and hierarchy
   - Proper list formatting and indentation
   - Blank lines around headings and code blocks
