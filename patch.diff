@@ -1,0 +1,19 @@
+diff --git a/.agents/skills/code-review/SKILL.md b/.agents/skills/code-review/SKILL.md
+index 813937b..0e2356f 100644
+--- a/.agents/skills/code-review/SKILL.md
++++ b/.agents/skills/code-review/SKILL.md
+@@ -110,7 +110,7 @@ When user requests implementation + review:
+ 4. Fix actionable issues within the authorized scope, prioritizing critical and major findings
+ 5. Re-run review to verify fixes
+
+-**Important scope consideration**: If the original review used `--committed`, rerunning with `--committed` will not include working-tree fixes—those are part of a different snapshot.
++**Important scope consideration**: If the original review used `--committed`, rerunning with `--committed` will not include working-tree fixes—those are part of a different snapshot.
+
+ - If fixes were made in the working tree and authorized: Commit them first, then re-run with `--committed` to verify.
+ - If fixes were made in the working tree but not authorized: Review the uncommitted fixes separately by re-running with `--uncommitted` and report the scope change.
+@@ -172,3 +172,4 @@ These operations have different authentication and output contracts from startin
+ ## Documentation
+
+ For more details: <https://docs.coderabbit.ai/cli>
++````
+--
