@@ -55,6 +55,7 @@ Reusable GitHub command primitives are also mirrored in [github.md](./github.md)
 ### Step 1: Check Code Push Status
 
 Check: `git status` + check for unpushed commits
+
 - Warn: "⚠️ Uncommitted changes won't be in CodeRabbit review"
 
 **If uncommitted changes:**
@@ -73,7 +74,7 @@ Check: `git status` + check for unpushed commits
 
 Resolve `pr_number`:
 
-```bash
+````bash
 # Get all open PRs for the current branch
 pr_numbers=$(gh pr list --head "$(git branch --show-current)" --state open --json number --jq '.[].number')
 
@@ -420,3 +421,4 @@ Optionally react to CodeRabbit's main comment with 👍.
 - **Preserve thread state** - Ignore resolved and outdated CodeRabbit threads
 - **Preserve ordering** - Keep display order aligned with unresolved current threads; process fixes by severity only after display
 - **Do not post per-issue replies** - Keep the workflow summary-comment only
+````
