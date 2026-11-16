@@ -6153,8 +6153,6 @@ oath.com###bottom-bar:style(position: relative !important;)
 oath.com##.nav-shadow
 oath.com##.sticky-content:style(position: absolute !important;)
 oatpp.io##.navbar, .sidebar:style(position: absolute !important;)
-obdev.at##.pageContent:style(padding-top: 0 !important;)
-obdev.at##body > nav:style(position: relative !important;)
 obi.de##.disc-anchor-navigation:style(position: relative !important; top: 0 !important;)
 observer.com##.banner-and-nav-wrapper:style(margin-top: 0 !important;)
 observer.com##.fw-site-header:style(position: relative !important; top: 0 !important; transform: none !important; margin-top: 0 !important;)
