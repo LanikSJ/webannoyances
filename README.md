@@ -211,7 +211,6 @@ TBD
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-
 ## ⚙️ Skills Automation
 
 This repository maintains agent skills via `skills-lock.json`. The GitHub Actions
